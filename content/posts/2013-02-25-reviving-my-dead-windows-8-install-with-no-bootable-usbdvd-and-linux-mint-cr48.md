@@ -1,0 +1,129 @@
+---
+title: 'Reviving my dead Windows 8 install with no bootable USB/DVD and Linux Mint & Cr48'
+author: Sathya
+type: post
+date: 2013-02-25T16:52:13+00:00
+url: /2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/
+categories:
+  - News
+  - "Tips &amp; How-To's"
+tags:
+  - cr48
+  - linux
+  - mint
+  - windows
+
+---
+Couple of months ago, just about a month before <a href="http://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that&#8217;s really unusual because the Envy&#8217;s cooling system is probably one of the best that I&#8217;ve seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
+
+And soon enough, HP&#8217;s diagnostics started informing me that my system fan&#8217;s dead during bootup. To figure out which one&#8217;s the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop &#8211; and was kinda surprised that the laptop was still able to run at all.
+
+<blockquote class="twitter-tweet" data-width="550">
+  <p lang="en" dir="ltr">
+    Opened my Envy again to see which fan has failed. The top left doesn't rotate. Cc <a href="https://twitter.com/jayesh">@Jayesh</a> <a href="https://twitter.com/rushvora">@rushvora</a> <a href="https://twitter.com/ambar_hitman">@ambar_hitman</a> <a href="http://t.co/58989xFt">pic.twitter.com/58989xFt</a>
+  </p>
+  
+  <p>
+    &mdash; Sathya (@SathyaBhat) <a href="https://twitter.com/SathyaBhat/status/274018876067573760">November 29, 2012</a>
+  </p>
+</blockquote>
+
+
+
+And this was really torturing my system
+
+<blockquote class="twitter-tweet" data-width="550">
+  <p lang="en" dir="ltr">
+    I'm really, really torturing my Envy with the broken main system fan. Temps while playing Torchlight 2 <a href="http://t.co/QVTqE8hc">http://t.co/QVTqE8hc</a>
+  </p>
+  
+  <p>
+    &mdash; Sathya (@SathyaBhat) <a href="https://twitter.com/SathyaBhat/status/297698100464734209">February 2, 2013</a>
+  </p>
+</blockquote>
+
+
+
+<blockquote class="twitter-tweet" data-width="550">
+  <p lang="en" dir="ltr">
+    <a href="https://twitter.com/SathyaBhat">@SathyaBhat</a> I'm surprised the temps didn't cross 100C with a broken fan. :O
+  </p>
+  
+  <p>
+    &mdash; Rushabh Vora (@rushvora) <a href="https://twitter.com/rushvora/status/297698686841024512">February 2, 2013</a>
+  </p>
+</blockquote>
+
+
+
+<blockquote class="twitter-tweet" data-width="550">
+  <p lang="en" dir="ltr">
+    <a href="https://twitter.com/rushvora">@rushvora</a> they did. When that happens, system shuts down :P
+  </p>
+  
+  <p>
+    &mdash; Sathya (@SathyaBhat) <a href="https://twitter.com/SathyaBhat/status/297698747264139264">February 2, 2013</a>
+  </p>
+</blockquote>
+
+
+
+[<img class="alignnone" title="temperatures" src="https://i2.wp.com/i.imgur.com/NguB4AP.png?resize=558%2C490" alt="temperatures" width="558" height="490" data-recalc-dims="1" />][1]
+
+So now, while I experimenting with switching off/on to see if I can &#8220;jump&#8221; start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new &#8220;enhancements&#8221; F8-mashing would not result in the start up menu being shown up.
+
+I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8&#8217;s Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo &#8211; BSOD Boot Loop.
+
+Generally I keep a bootable Live USB with me, but this time I didn&#8217;t have that either, neither did I have any bootable DVDs. So my situation now:
+
+  * Windows is stuck on a BSOD boot loop
+  * No bootable USB or DVDs present
+  * No other laptops/desktops available except&#8230;&#8230;
+  * &#8230;. Except for the Cr48.
+
+Yep, the Cr48 turned to be my savior. So, the Cr48 comes with ChromeOS. With the developer switch turned on, however, you get to do things. Like get access to a real shell. or install a distro like Ubuntu. I didn&#8217;t want to install Ubuntu on it, so I tried to gain access shell.
+
+Booting into Cr48 after enabling the developer mode, I found that hitting Ctrl+Alt+T brought up a shell. Within Chrome, as a tab(!). However, this was the crosh shell,which is limited. I found out that typing in &#8220;shell&#8221; gives you access to bash & full range of *nix utilities. So with that, I first grabbed Linux Mint iso using wget. With the ISO downloaded, I made the USB bootable using dd.
+
+dd if=/path/to/mint.iso of=/dev/sdb
+
+Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux Mint on my Envy. So now, my Envy is alive. So how do I get this to boot/reinstall Windows? I had Windows 7 ISO, I have Linux Mint & can install VirtualBox. So yup &#8211; that&#8217;s what I did.
+
+  * Installed VirtualBox
+  * Created a new VM, installed Windows 7 to the VM
+  * Booted in to the Windows 7 VM.
+  * Now in the Windows 7 VM, I used the Windows 8 upgrade tool to download Windows 8 setup & made a bootable USB(I had another USB key, thankfully!)
+
+With a Windows 8 live USB finally available, I managed to do a clean install and finally revive the Envy.
+
+<div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+      Share this:
+    </h3>
+    
+    <div class="sd-content">
+      <ul>
+        <li class="share-pocket">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
+        </li>
+        <li class="share-twitter">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1181" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
+        </li>
+        <li class="share-facebook">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1181" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
+        </li>
+        <li class="share-linkedin">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1181" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
+        </li>
+        <li class="share-email">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
+        </li>
+        <li class="share-end">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+ [1]: https://i2.wp.com/i.imgur.com/NguB4AP.png

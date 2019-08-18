@@ -1,0 +1,190 @@
+---
+title: '[How To]Setup a BSNL DataOne BroadBand connection or a DSL Connection in Linux'
+author: Sathya
+type: post
+date: 2008-10-09T18:47:19+00:00
+url: /2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/
+categories:
+  - "Tips &amp; How-To's"
+tags:
+  - /dev
+  - ADSL
+  - Airtel
+  - boot
+  - Broadband
+  - BSNL
+  - BSNL broadband
+  - BSNL dataone
+  - cat
+  - commands
+  - Dataone
+  - DE
+  - Desktop
+  - dsl
+  - Fedora
+  - free
+  - IM
+  - indicom
+  - internet
+  - linux
+  - login
+  - net
+  - os
+  - rm
+  - sudo
+  - switch
+  - tar
+  - tata
+  - terminal
+  - "tips-and-howto's"
+  - tutorials
+  - usb
+  - user
+  - ux
+  - windows
+  - X
+
+---
+This is yet another of the posts was lying in my drafts, decided to dust it off and publish it!
+
+Remember that all these assumes that your router is connected to the LAN port, if it&#8217;s connected to the USB port, then disconnect it and connect to the LAN port. If you dont have a LAN card, then consider getting one. It&#8217;s cheap, costs around Rs. 200. 
+
+Next, it&#8217;s best to have the router configured in pppoe mode. In this case you just have to switch on the router, the router and DHCP will take care of the rest. 
+
+If you&#8217;re unsure whether your router is in PPPoE more or bridge mode, If you have used a dialer in Windows, then your router is in bridge mode. In this case, open the terminal and type 
+
+> `sudo pppoeconf`
+
+Next, answer yes to all questions and enter the username and password when prompted. 
+  
+Please note that this is a one type setup. 
+
+To connect, open the terminal and type 
+
+> `pon dsl-provider`
+
+To terminate the connection type 
+
+> `poff`
+
+Please note that I still recommend configuring your router to PPPoE mode for hassle-free net connection under Linux. if anyone else has or uses a different method, then do please mention them in the comments.
+
+If you don&#8217;t want to use the terminal for connecting/disconnecting then, follow the below steps:.
+  
+Note that the one-time setup has to be done as mentioned above. Once this is done, to create an icon for launching the connection, 
+  
+Right click on the desktop and Click on Create Launcher. In the Type dropdown list, choose Application in Terminal. Give a name like, Connect to DataOne. In the command type 
+
+> `pon dsl-provider`
+
+`Click OK. That's it! Double click on the icon to Connect!`
+
+**For Fedora, follow the below mentioned steps**
+
+Launch the terminal. Type 
+
+> `adsl-setup`
+
+It will ask for
+
+> Enter your Login Name
+
+Type
+
+> `<username>@dataone`
+
+for eg: if username is SathyaSays then enter 
+  
+SathyaSays@dataone for username 
+  
+Next it will ask for
+
+> Interface
+
+Type
+
+> `/dev/eth0`
+
+<&#8211; note it is eth0(ie, the number 0, not the letter o) 
+
+Next when prompted for 
+
+> Enter the demand value
+
+just press enter 
+
+Next it will ask 
+
+> Please enter the IP address of your ISP&#8217;s primary DNS server
+
+Just type `server`
+  
+Next it will ask for
+
+> PASSWORD
+
+Enter the password of your Dataone/DSL account
+
+Next, it will ask for
+
+> USERCTRL
+
+type yes or just press enter 
+  
+Next it will ask for
+
+> FIREWALLING
+
+type `1`
+  
+Finally it will ask for 
+
+> Do you want to start this connection at boot time?
+
+Type
+
+> `no`
+
+This is the one type setup. 
+  
+To start the connection type 
+  
+`adsl-start`
+
+To terminate the connection type 
+  
+`adsl-stop`
+  
+To know the status of the connection type 
+  
+`adsl-status`
+
+<div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+      Share this:
+    </h3>
+    
+    <div class="sd-content">
+      <ul>
+        <li class="share-pocket">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
+        </li>
+        <li class="share-twitter">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-446" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
+        </li>
+        <li class="share-facebook">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-446" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
+        </li>
+        <li class="share-linkedin">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-446" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
+        </li>
+        <li class="share-email">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
+        </li>
+        <li class="share-end">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,104 @@
+---
+title: Getting php mail() function running on Windows 8.1 with WAMP Server and configuring it to use Gmail’s SMTP servers
+author: Sathya
+type: post
+date: 2014-02-23T14:52:29+00:00
+url: /2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/
+evolve_slider_type:
+  - no
+categories:
+  - "Tips &amp; How-To's"
+tags:
+  - PHP
+  - sendmail
+
+---
+With the next <a href="http://barcampbangalore.org/" target="_blank">Barcamp Bangalore</a> looming round the corner, I&#8217;d pitched in to help with some of the website tasks. I installed the traditional WAMP stack with <a href="http://www.wampserver.com/en/" target="_blank">WAMP Server for Windows</a> and started working with WordPress. Needed to get the email notifications working, saw that it wasn&#8217;t. Bit of research & found that I&#8217;d need a SMTP server or an equivalent of sendmail.
+
+All the cool kids seem to be using <a href="http://glob.com.au/sendmail/" target="_blank">Fake sendmail</a> &#8211; I tried it to use with Gmail&#8217;s SMTP servers which uses authentication & TLS. Fake sendmail either would crash repeatedly or give a Socket Error # 10060 Connection timed out error.
+
+Finally, after much trawling the Intarwebz, going through many forums & Stack Overflow posts, finally found <a href="http://yogeshchaugule.com/blog/2013/configure-sendmail-wamp" target="_blank">this blog post</a> which recommends using stunnel.
+
+So this is what my php.ini settings look like:
+
+<pre>[mail function]
+; For Win32 only.
+; http://php.net/smtp
+;SMTP = localhost
+; http://php.net/smtp-port
+;smtp_port = 25
+
+; For Win32 only.
+; http://php.net/sendmail-from
+
+sendmail_from = &lt;the gmail id&gt;
+
+;C:\wamp\bin\sendmail
+; For Unix only. You may supply arguments as well (default: "sendmail -t -i").
+; http://php.net/sendmail-path
+
+sendmail_path = "C:\wamp\bin\sendmail\sendmail.exe -t"</pre>
+
+Yes, all parameters, except for sendmail\_form & sendmail\_path are commented. They are set in sendmail.ini & stunnel.
+
+sendmail.ini:
+
+<pre>smtp_server=localhost
+smtp_port=25
+
+; SMTPS (SSL) support
+; auto = use SSL for port 465, otherwise try to use TLS
+; ssl = alway use SSL
+; tls = always use TLS
+; none = never try to use SSL
+smtp_ssl=none
+
+auth_username=gmail username
+auth_password=gmail password</pre>
+
+stunnel.conf
+
+<pre>; Certificate/key is needed in server mode and optional in client mode
+cert = stunnel.pem
+socket = l:TCP_NODELAY=1
+socket = r:TCP_NODELAY=1
+key = stunnel.pem
+
+[ssmtp]
+accept  = 465
+connect = 25
+
+[gmail-smtp]
+client = yes
+accept = 127.0.0.1:25
+connect = smtp.gmail.com:465</pre>
+
+<div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+      Share this:
+    </h3>
+    
+    <div class="sd-content">
+      <ul>
+        <li class="share-pocket">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
+        </li>
+        <li class="share-twitter">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1241" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
+        </li>
+        <li class="share-facebook">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1241" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
+        </li>
+        <li class="share-linkedin">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1241" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
+        </li>
+        <li class="share-email">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
+        </li>
+        <li class="share-end">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

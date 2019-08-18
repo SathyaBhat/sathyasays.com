@@ -1,0 +1,85 @@
+---
+title: 'Is Oracle trying to kill VirtualBox? >>> No.'
+author: Sathya
+type: post
+date: 2010-07-29T01:53:08+00:00
+url: /2010/07/29/is-oracle-trying-to-kill-virtualbox-no/
+topsy_short_url:
+  - http://bit.ly/chbUbO
+categories:
+  - General
+tags:
+  - bin
+  - blog
+  - boot
+  - DE
+  - IM
+  - install
+  - linux
+  - net
+  - open source
+  - Opera
+  - Operating System
+  - oracle
+  - os
+  - pen drive
+  - rm
+  - show
+  - software
+  - subs
+  - Sun
+  - usb
+  - USB pen drive
+  - ux
+  - VirtualBox
+  - virtualization
+  - vm
+  - windows
+  - X
+
+---
+> It seems Oracle is hellbent on destroying whatever good Sun had done to the Open Source Ecosystem. The latest product to get the axe seems to be none other than the Flagship Virtualization program xVM VirtualBox.
+> 
+> [&#8230;.]
+> 
+> All tests show that VirtualBox 3.2 lacks any semblance of stability, crashing any operating system running on it randomly. VirtualBox 3.1.8, using the binary-only release for Linux, works like a charm. It is also apparent that VirtualBox 3.2.6 is a lot slower and sometimes unresponsive, as compared to version 3.1.8.
+> 
+> A fresh install of VirtualBox 3.2.0 on Windows 7 Ultimate x64 Edition even managed to completely crash the Windows Networking Subsystem, necessitating the uninstallation of VirtualBox
+
+via [Is Oracle trying to kill VirtualBox? | Muktware][1].
+
+The article is either a bunch of baloney or the test system as got some serious hardware/software compatibility problems. Oracle VirtualBox 3.2 has been absolutely rock solid, smoother than ever before. Seamless mode is awesome, and I managed to resurrect my dead Windows installation by installing a Windows 7 VM using Oracle VirtualBox and then making a bootable Windows 7 USB pen drive (long story worth a blog post, will do soon!). The article doesn&#8217;t mention how many test systems were used to test the software &#8211; if its a single box then drawing a conclusion that Oracle is killing VirtualBox based in just one system is pretty stupid.
+
+And heh, the author calls himself &#8220;_BaloneyGeek_&#8220;. Go figure.
+
+<div class="sharedaddy sd-sharing-enabled">
+  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+      Share this:
+    </h3>
+    
+    <div class="sd-content">
+      <ul>
+        <li class="share-pocket">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/07/29/is-oracle-trying-to-kill-virtualbox-no/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
+        </li>
+        <li class="share-twitter">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-896" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/07/29/is-oracle-trying-to-kill-virtualbox-no/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
+        </li>
+        <li class="share-facebook">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-896" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/07/29/is-oracle-trying-to-kill-virtualbox-no/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
+        </li>
+        <li class="share-linkedin">
+          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-896" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/07/29/is-oracle-trying-to-kill-virtualbox-no/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
+        </li>
+        <li class="share-email">
+          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/07/29/is-oracle-trying-to-kill-virtualbox-no/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
+        </li>
+        <li class="share-end">
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+ [1]: http://www.muktware.com/news/26/2010/249

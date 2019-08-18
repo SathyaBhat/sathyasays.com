@@ -1,0 +1,4 @@
+baseURL = "https://sathyasays.com"
+languageCode = "en-us"
+title = "My thoughts on Tech"
+theme = "ananke"
