@@ -38,7 +38,7 @@ tags:
 They say a picture is worth a thousand words. [This picture][1]{#aptureLink_ZLuYVKGOuU} speaks for itself. Yes, its fugly. What the heck are those 3 bloody orbs ?
 
 <p style="text-align: center;">
-  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="https://i1.wp.com/i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="https://i1.wp.com/i.imgur.com/YCn7C.jpg?resize=492%2C307" alt="" width="492" height="307" data-recalc-dims="1" /></a>
+  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="http://i.imgur.com/YCn7C.jpg" alt="" width="492" height="307" /></a>
 </p>
 
 <!--more-->
@@ -86,36 +86,6 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > &#8211; Was listening to &#8220;Metallica &#8211; The thing that should not be&#8221; while writing this comment
 
 via [Bug #625193 is not in Ubuntu: “Official 10.10 wallpaper is unappealing”][5].
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-913" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-913" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-913" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://i.imgur.com/YCn7C.jpg
  [2]: https://bugs.launchpad.net/ubuntu/+bug/625193/comments/17

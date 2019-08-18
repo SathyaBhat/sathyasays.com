@@ -42,33 +42,3 @@ The game soundtrack is available as a free download &#8211; and you can download
 The game, while is not free &#8211; you can purchase it for $20, you can download the free demo version and evaluate it and see how it is &#8211; the demo version offers you only the First chapter of the of the total Five chapters available. I do  urge you to try the demo version &#8211; you just might be surprised how addictive the game can be.
 
 Download the <a href="http://worldofgoo.com/dl2.php?lk=demo" target="_blank">free demo version</a> | Visit <a href="http://2dboy.com/games.php" target="_blank">World of Goo website</a>.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/02/16/linux-version-of-world-of-goo-is-out-download-the-free-demo/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-702" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/02/16/linux-version-of-world-of-goo-is-out-download-the-free-demo/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-702" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/02/16/linux-version-of-world-of-goo-is-out-download-the-free-demo/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-702" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/02/16/linux-version-of-world-of-goo-is-out-download-the-free-demo/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/02/16/linux-version-of-world-of-goo-is-out-download-the-free-demo/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

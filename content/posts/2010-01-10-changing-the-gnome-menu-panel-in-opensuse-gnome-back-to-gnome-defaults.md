@@ -35,7 +35,7 @@ Seems like lot of openSUSE Gnome users don&#8217;t like the new Gnome panel, whi
 
 <!--more-->
 
-<a id="aptureLink_yMh1BnWwbY" style="margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="https://i0.wp.com/img245.imageshack.us/img245/694/uploadc.jpg"><img style="border: 0px none currentColor;" src="https://i0.wp.com/img245.imageshack.us/img245/694/uploadc.jpg?resize=509%2C327" alt="" width="509 px" height="327 px" data-recalc-dims="1" /></a>
+<a id="aptureLink_yMh1BnWwbY" style="margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://img245.imageshack.us/img245/694/uploadc.jpg"><img style="border: 0px none currentColor;" src="http://img245.imageshack.us/img245/694/uploadc.jpg" alt="" width="509px" height="327px" /></a>
 
 You can go back to the default Applications / Places / System panel pretty easily. To do this:
 
@@ -45,33 +45,3 @@ You can go back to the default Applications / Places / System panel pretty easil
   * Add the menu to the panel, move it to where you like, and delete the &#8220;original&#8221; menu.
 
 And, you&#8217;re done!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-824" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-824" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-824" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

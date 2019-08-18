@@ -42,34 +42,4 @@ Pretty sure that&#8217;s never going to happen. More Q&A:
 
 Read more on [IamA &#8211; We are the Ubuntu Unity Development Team.][1]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1052" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1052" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1052" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.reddit.com/r/IAmA/comments/k2nvl/we_are_the_ubuntu_unity_development_team_we_3/

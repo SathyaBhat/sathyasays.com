@@ -50,33 +50,3 @@ I mean really, really? Hell I&#8217;m bloody sure even the NextBox/PS4 will have
 I don&#8217;t see any such thing happening on the Linux desktop gaming side. By now, I&#8217;m pretty sure whoever&#8217;s reading this, are yelling SteamBox, SteamBox. Considering that it still officially doesn&#8217;t exist, and a prototype that was shown at CES was announced as <a href="http://www.eurogamer.net/articles/2013-03-11-valve-backed-xi3-piston-console-starts-at-USD1000" target="_blank">lolucrazy-that-aint-steambox</a> by Valve, that pretty much tosses that out of the factor. Even if introduced, I won&#8217;t be surprised if it&#8217;s a custom-closed-system, much like today&#8217;s console.
 
 &nbsp;
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1189" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1189" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1189" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

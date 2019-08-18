@@ -56,7 +56,7 @@ Developer Dennis Kasprzyk has finally [finished his idea][1] to implement a cyli
 
 <!--more-->
 
-[<img src="https://i1.wp.com/dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg?resize=150%2C60" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder" height="60" width="150" data-recalc-dims="1" />][2]
+[<img src="http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder" height="60" width="150" />][2]
 
 For those who wish to see it in action, [here][3] is a YouTube video of it.
 
@@ -75,37 +75,7 @@ git clone git://anongit.compiz-fusion.org/fusion/misc/yags`
 
 For Ubuntu users, Ubuntu Forums has a dedicated thread to installing Compiz Fusion from git, have a look at it over [here][4].
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/04/13/compiz-fusion-gets-new-effect-presenting-the-cylinder/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-287" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/04/13/compiz-fusion-gets-new-effect-presenting-the-cylinder/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-287" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/04/13/compiz-fusion-gets-new-effect-presenting-the-cylinder/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-287" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/04/13/compiz-fusion-gets-new-effect-presenting-the-cylinder/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/04/13/compiz-fusion-gets-new-effect-presenting-the-cylinder/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://dev.compiz-fusion.org/~onestone/blog/?p=6
- [2]: https://i0.wp.com/dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder.jpg
+ [2]: http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder.jpg
  [3]: http://youtube.com/watch?v=o5ycjsMQ0Q4
  [4]: http://ubuntuforums.org/showthread.php?t=643485

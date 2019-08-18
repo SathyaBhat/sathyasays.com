@@ -63,7 +63,7 @@ tags:
 
 ---
 <p align="center">
-  <img src="https://i2.wp.com/www.andlinux.org/img/logo_header.png?w=740" data-recalc-dims="1" />
+  <img src="http://www.andlinux.org/img/logo_header.png" />
 </p>
 
 andLinux is a complete <a href="http://www.ubuntu.com/" target="_blank">Ubuntu</a> Linux system running seamlessly in Windows 2000 based systems (2000, XP, 2003, Vista [32-bit only])
@@ -79,13 +79,13 @@ andLinux is a complete <a href="http://www.ubuntu.com/" target="_blank">Ubuntu</
 andLinux is not just for development and runs almost all Linux applications without modification.
 
 <p class="label">
-  <a href="https://i1.wp.com/www.andlinux.org/img/screenshot.png" title="click to get a full size version of the image"><img src="https://i1.wp.com/www.andlinux.org/img/screenshot_small.png?w=740" border="0" data-recalc-dims="1" /></a><br /> Screenshot (click to enlarge)
+  <a href="http://www.andlinux.org/img/screenshot.png" title="click to get a full size version of the image"><img src="http://www.andlinux.org/img/screenshot_small.png" border="0" /></a><br /> Screenshot (click to enlarge)
 </p>
 
 To start Linux applications, you may either use the XFCE Panel:
 
 <p class="label">
-  <img src="https://i1.wp.com/www.andlinux.org/img/xfce_panel.png?w=740" border="0" data-recalc-dims="1" /><br /> The XFCE Panel
+  <img src="http://www.andlinux.org/img/xfce_panel.png" border="0" /><br /> The XFCE Panel
 </p>
 
 <p class="noskip">
@@ -112,21 +112,21 @@ To start Linux applications, you may either use the XFCE Panel:
   <tr>
     <td>
       <p class="label">
-        <img src="https://i0.wp.com/www.andlinux.org/img/quicklaunch_xfce.png?w=740" align="middle" border="0" data-recalc-dims="1" /><br /> Quicklaunch icons (XFCE version)
+        <img src="http://www.andlinux.org/img/quicklaunch_xfce.png" align="middle" border="0" /><br /> Quicklaunch icons (XFCE version)
       </p>
       
       <p class="label">
-        <img src="https://i2.wp.com/www.andlinux.org/img/quicklaunch_kde.png?w=740" align="middle" border="0" data-recalc-dims="1" /><br /> Quicklaunch icons (KDE version)
+        <img src="http://www.andlinux.org/img/quicklaunch_kde.png" align="middle" border="0" /><br /> Quicklaunch icons (KDE version)
       </p>
       
       <p class="label">
-        <img src="https://i1.wp.com/www.andlinux.org/img/xfce_menu.png?w=740" align="middle" border="0" data-recalc-dims="1" /><br /> Start menu (XFCE version)
+        <img src="http://www.andlinux.org/img/xfce_menu.png" align="middle" border="0" /><br /> Start menu (XFCE version)
       </p>
     </td>
     
     <td>
       <p class="label">
-        <img src="https://i1.wp.com/www.andlinux.org/img/kmenu.png?w=740" align="middle" border="0" data-recalc-dims="1" /><br /> Start menu (KDE version)
+        <img src="http://www.andlinux.org/img/kmenu.png" align="middle" border="0" /><br /> Start menu (KDE version)
       </p>
     </td>
   </tr>
@@ -134,7 +134,7 @@ To start Linux applications, you may either use the XFCE Panel:
   <tr>
     <td colspan="2">
       <p class="label">
-        <img src="https://i1.wp.com/www.andlinux.org/img/explorer1.png?w=740" border="0" data-recalc-dims="1" /><br /> Open a folder with Konqueror or Konsole
+        <img src="http://www.andlinux.org/img/explorer1.png" border="0" /><br /> Open a folder with Konqueror or Konsole
       </p>
     </td>
   </tr>
@@ -201,36 +201,6 @@ This looks really interesting and promising! Am definitely going to try this out
 Thanks to @[chetanthaker][1] who [twittered][2] about this
 
 Technorati Tags: <a href="http://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="http://technorati.com/tag/andlinux" class="performancingtags" rel="tag">andlinux</a>, <a href="http://technorati.com/tag/sathyasays" class="performancingtags" rel="tag">sathyasays</a>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/02/19/andlinux-run-linux-on-windows-seamlessly-without-virtualizers/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-266" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/02/19/andlinux-run-linux-on-windows-seamlessly-without-virtualizers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-266" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/02/19/andlinux-run-linux-on-windows-seamlessly-without-virtualizers/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-266" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/02/19/andlinux-run-linux-on-windows-seamlessly-without-virtualizers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/02/19/andlinux-run-linux-on-windows-seamlessly-without-virtualizers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://twitter.com/chetanthaker
  [2]: http://twitter.com/chetanthaker/statuses/726461112

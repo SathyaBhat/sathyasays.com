@@ -112,36 +112,6 @@ Some other resources: Reviews, Features, Forums and Other Articles:
   Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="http://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="http://technorati.com/tags/novell">novell</a>,<a rel="tag" href="http://technorati.com/tags/opensuse">opensuse</a>,<a rel="tag" href="http://technorati.com/tags/suse">suse</a>,<a rel="tag" href="http://technorati.com/tags/openSUSE+11.0">openSUSE 11.0</a>,<a rel="tag" href="http://technorati.com/tags/download">download</a>,<a rel="tag" href="http://technorati.com/tags/distros">distros</a>,<a rel="tag" href="http://technorati.com/tags/linux">linux</a>,<a rel="tag" href="http://technorati.com/tags/opensource">opensource</a>,<a rel="tag" href="http://technorati.com/tags/reviews">reviews</a>,<a rel="tag" href="http://technorati.com/tags/tips+and+how-to's">tips and how-to&#8217;s</a>,<a rel="tag" href="http://technorati.com/tags/tutorials">tutorials</a>
 </div>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/06/20/presenting-open-suse-11-0-some-why-upgrade-to-opensuse11-whats-new-in-opensuse11/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-318" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/06/20/presenting-open-suse-11-0-some-why-upgrade-to-opensuse11-whats-new-in-opensuse11/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-318" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/06/20/presenting-open-suse-11-0-some-why-upgrade-to-opensuse11-whats-new-in-opensuse11/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-318" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/06/20/presenting-open-suse-11-0-some-why-upgrade-to-opensuse11-whats-new-in-opensuse11/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/06/20/presenting-open-suse-11-0-some-why-upgrade-to-opensuse11-whats-new-in-opensuse11/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/
  [2]: http://software.opensuse.org/ "http://software.opensuse.org/"
  [3]: http://en.opensuse.org/Screenshots/openSUSE_11.0

@@ -84,36 +84,6 @@ PolishLinux guys were not the only ones doing a preview of KDE4.1, ArsTechnica a
 
 For an indepth look at what KDE4.1 offers do read the articles at [polishlinux][1] and [ArsTechnica][2]. For a full overview of new features planned for the 4.1 release, check out the [specification][3]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/05/04/kde-41-alpha-1-preview/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-294" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/05/04/kde-41-alpha-1-preview/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-294" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/05/04/kde-41-alpha-1-preview/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-294" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/05/04/kde-41-alpha-1-preview/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/05/04/kde-41-alpha-1-preview/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://polishlinux.org/kde/kde-4-rev-802150-work-in-progress/
  [2]: http://arstechnica.com/news.ars/post/20080430-first-look-kde-4-1-alpha-1-very-promising.html
  [3]: http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan

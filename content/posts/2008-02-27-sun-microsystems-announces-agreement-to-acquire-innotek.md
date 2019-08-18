@@ -50,36 +50,6 @@ According to Sun&#8217;s [Press Release][1]
 
 So what will be the future of VirtualBox? Can we see some innovations in VirtualBox? Let&#8217;s hope so.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/02/27/sun-microsystems-announces-agreement-to-acquire-innotek/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-270" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/02/27/sun-microsystems-announces-agreement-to-acquire-innotek/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-270" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/02/27/sun-microsystems-announces-agreement-to-acquire-innotek/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-270" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/02/27/sun-microsystems-announces-agreement-to-acquire-innotek/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/02/27/sun-microsystems-announces-agreement-to-acquire-innotek/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.sun.com/aboutsun/pr/2008-02/sunflash.20080212.1.xml
  [2]: http://www.virtualbox.org/
  [3]: http://www.openxvm.org/

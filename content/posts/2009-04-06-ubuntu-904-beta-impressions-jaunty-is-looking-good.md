@@ -101,38 +101,8 @@ In conclusion &#8211; I&#8217;m very impressed by Jaunty &#8211; I think Jaunty 
 Here&#8217;s my Jaunty desktop right now:
 
 <p style="text-align: center;">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png"><img data-attachment-id="728" data-permalink="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/jaunty/" data-orig-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?fit=1280%2C800&ssl=1" data-orig-size="1280,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Jaunty " data-image-description="" data-medium-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?fit=300%2C187&ssl=1" data-large-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?fit=740%2C463&ssl=1" class="aligncenter size-medium wp-image-728" title="Jaunty " src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png?resize=300%2C187" alt="Jaunty " width="300" height="187" srcset="https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?resize=300%2C187&ssl=1 300w, https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?resize=1024%2C640&ssl=1 1024w, https://i2.wp.com/sathyasays.com/wp-content/uploads/2009/04/jaunty.png?w=1280&ssl=1 1280w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2009/04/jaunty.png"><img class="aligncenter size-medium wp-image-728" title="Jaunty " src="http://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png" alt="Jaunty " width="300" height="187" srcset="https://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-724" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-724" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-724" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/04/06/ubuntu-904-beta-impressions-jaunty-is-looking-good/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://www.manishsinha.net/
  [2]: http://search.twitter.com/search?q=Jaunty%20%20manishsinha

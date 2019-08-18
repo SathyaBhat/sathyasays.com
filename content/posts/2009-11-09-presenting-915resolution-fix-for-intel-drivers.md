@@ -51,36 +51,6 @@ Thanks to these articles and in case of problems please follow the links:
 
 [Finally got desktop effects working (915resolution + xorg.conf)][5]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/11/09/presenting-915resolution-fix-for-intel-drivers/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-772" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/11/09/presenting-915resolution-fix-for-intel-drivers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-772" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/11/09/presenting-915resolution-fix-for-intel-drivers/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-772" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/11/09/presenting-915resolution-fix-for-intel-drivers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/11/09/presenting-915resolution-fix-for-intel-drivers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.freshnet.org/debian/hoary/915resolution_0.5-2_i386.deb
  [2]: http://sathyasays.com/2009/11/08/enable-xserver-shortcut-ctrlaltbackspace-in-ubuntu-9-10-karmic-koala
  [3]: http://ubuntuforums.org/showthread.php?p=2113867

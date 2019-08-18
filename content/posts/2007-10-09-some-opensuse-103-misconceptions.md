@@ -51,7 +51,7 @@ tags:
 </p>
 
 <p>
-  There are some misconceptions floating around about openSUSE 10.3. Unfortunately uninformed people are still allowed to blog <img src="https://i1.wp.com/www.kdedevelopers.org/misc/smileys/wink.png?w=740" title="Eye-wink" alt="Eye-wink" data-recalc-dims="1" /> so let me pick up some I read:
+  There are some misconceptions floating around about openSUSE 10.3. Unfortunately uninformed people are still allowed to blog <img src="http://www.kdedevelopers.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" /> so let me pick up some I read:
 </p>
 
 <p>
@@ -75,7 +75,7 @@ tags:
 </p>
 
 <p>
-  The one CD install media contain a complete functional desktop, either KDE or GNOME, which can be installed offline. If you compare you will actually notice that we managed to fit more applications on it than most other CD distros which often miss bigger stuff like OpenOffice.org, Firefox, Gimp or games. openSUSE 10.3 introduces the new concept of registering online repositories before the installation starts. On the screen where you choose whether to install or upgrade, there is <a href="http://news.opensuse.org/wp-content/uploads/2007/09/more-repos1.png">a checkbox &#8220;Add online repositories before installation&#8221;</a> which is enabled by default. If you want a quick offline installation, or an &#8216;unbloated&#8217; installation, disable this option. Keeping it enabled will give you the default installation like you would get from the release DVD for one desktop, including eg translations and more games. And yes, we didn&#8217;t manage to fit the DVD content on a single CD. <img src="https://i0.wp.com/www.kdedevelopers.org/misc/smileys/smile.png?w=740" title="Smiling" alt="Smiling" data-recalc-dims="1" />
+  The one CD install media contain a complete functional desktop, either KDE or GNOME, which can be installed offline. If you compare you will actually notice that we managed to fit more applications on it than most other CD distros which often miss bigger stuff like OpenOffice.org, Firefox, Gimp or games. openSUSE 10.3 introduces the new concept of registering online repositories before the installation starts. On the screen where you choose whether to install or upgrade, there is <a href="http://news.opensuse.org/wp-content/uploads/2007/09/more-repos1.png">a checkbox &#8220;Add online repositories before installation&#8221;</a> which is enabled by default. If you want a quick offline installation, or an &#8216;unbloated&#8217; installation, disable this option. Keeping it enabled will give you the default installation like you would get from the release DVD for one desktop, including eg translations and more games. And yes, we didn&#8217;t manage to fit the DVD content on a single CD. <img src="http://www.kdedevelopers.org/misc/smileys/smile.png" title="Smiling" alt="Smiling" />
 </p>
 
 <p>
@@ -89,33 +89,3 @@ tags:
 <p>
   Source: <a href="http://www.kdedevelopers.org/blog/457">beineri&#8217;s blog</a></font>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/09/some-opensuse-103-misconceptions/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-83" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/09/some-opensuse-103-misconceptions/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-83" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/09/some-opensuse-103-misconceptions/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-83" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/09/some-opensuse-103-misconceptions/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/09/some-opensuse-103-misconceptions/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

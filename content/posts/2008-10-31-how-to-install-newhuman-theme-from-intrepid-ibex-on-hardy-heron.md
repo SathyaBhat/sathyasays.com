@@ -75,36 +75,6 @@ and go to Theme tab.
 
 Thanks to TheIndexer for [this post][5].
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/10/31/how-to-install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-533" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/10/31/how-to-install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-533" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/10/31/how-to-install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-533" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/10/31/how-to-install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/10/31/how-to-install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://gnome-look.org/
  [2]: http://fc01.deviantart.com/fs23/f/2007/346/5/1/Vista_Ultimate_Wood_No_Glass_by_Mosqu1t0.jpg
  [3]: http://gnome-look.org/content/download.php?content=91018&id=1&tan=54025604

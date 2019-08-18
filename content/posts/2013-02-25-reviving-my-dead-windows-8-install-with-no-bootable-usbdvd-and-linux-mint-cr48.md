@@ -68,7 +68,7 @@ And this was really torturing my system
 
 
 
-[<img class="alignnone" title="temperatures" src="https://i2.wp.com/i.imgur.com/NguB4AP.png?resize=558%2C490" alt="temperatures" width="558" height="490" data-recalc-dims="1" />][1]
+[<img class="alignnone" title="temperatures" src="http://i.imgur.com/NguB4AP.png" alt="temperatures" width="558" height="490" />][1]
 
 So now, while I experimenting with switching off/on to see if I can &#8220;jump&#8221; start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new &#8220;enhancements&#8221; F8-mashing would not result in the start up menu being shown up.
 
@@ -96,34 +96,4 @@ Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux
 
 With a Windows 8 live USB finally available, I managed to do a clean install and finally revive the Envy.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1181" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1181" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1181" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
- [1]: https://i2.wp.com/i.imgur.com/NguB4AP.png
+ [1]: http://i.imgur.com/NguB4AP.png

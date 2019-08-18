@@ -58,7 +58,7 @@ But this isn&#8217;t sufficient, and neither is it very elegant. You want to kno
 Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which allows you to do just that. And the neat thing is that this works for all mounted partitons. To open this view, open Konqueror. Right click, choose Preview in and select &#8220;File Size View&#8221;
 
 <p align="center">
-  <a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/03/filesizwview.jpg" title="File Size View"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/03/filesizwview.thumbnail.jpg?w=740" alt="File Size View" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview.jpg" title="File Size View"><img src="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview.thumbnail.jpg" alt="File Size View" /></a>
 </p>
 
 <p align="left">
@@ -66,7 +66,7 @@ Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which a
 </p>
 
 <p align="center">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/03/filesizwview1.jpg" title="File Size View, After Scanning is Complete"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/03/filesizwview1.thumbnail.jpg?w=740" alt="File Size View, After Scanning is Complete" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.jpg" title="File Size View, After Scanning is Complete"><img src="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.thumbnail.jpg" alt="File Size View, After Scanning is Complete" /></a>
 </p>
 
 <p align="left">
@@ -78,35 +78,5 @@ Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which a
 </p>
 
 PPS: If you&#8217;re using KDE 4.x , then as of now, Dolphin doesn&#8217;t have the File Size view, so you can&#8217;t check this. There&#8217;s another program, [KDirStat][1], which can perform the same utility, but I haven&#8217;t tested this. Any comment on this would be much appreciated as well!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/03/19/find-out-how-much-space-each-file-is-occupying/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-278" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/03/19/find-out-how-much-space-each-file-is-occupying/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-278" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/03/19/find-out-how-much-space-each-file-is-occupying/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-278" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/03/19/find-out-how-much-space-each-file-is-occupying/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/03/19/find-out-how-much-space-each-file-is-occupying/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://kdirstat.sourceforge.net/ "KDirStat"

@@ -105,36 +105,6 @@ Thanks to elgilicious and ubuntu forums for [this][3]
 
 _Ed&#8217;s note: Do we really need all of this ?  openSUSE, Fedora, Sabayon &#8211; all had Snow plugin without having to do any of this_
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/02/01/how-to-snow-plugin-in-compiz-fusion/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-677" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/02/01/how-to-snow-plugin-in-compiz-fusion/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-677" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/02/01/how-to-snow-plugin-in-compiz-fusion/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-677" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/02/01/how-to-snow-plugin-in-compiz-fusion/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/02/01/how-to-snow-plugin-in-compiz-fusion/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://oreaus.googlepages.com/snow.tar
  [2]: http://ubuntuforums.org/showthread.php?p=3792520
  [3]: http://ubuntuforums.org/showthread.php?t=768804

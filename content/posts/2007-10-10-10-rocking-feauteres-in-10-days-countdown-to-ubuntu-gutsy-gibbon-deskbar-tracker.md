@@ -105,7 +105,7 @@ tags:
   </p>
   
   <p>
-    <img src="https://i1.wp.com/raphael.slinckx.net/deskbar/images/deskbar-applet.png?w=740" alt="Deskbar Logo" data-recalc-dims="1" /><img src="https://i2.wp.com/www.gnome.org/projects/tracker/images/meta_tracker_logo.png?w=740" alt="Tracker Logo" data-recalc-dims="1" />
+    <img src="http://raphael.slinckx.net/deskbar/images/deskbar-applet.png" alt="Deskbar Logo" /><img src="http://www.gnome.org/projects/tracker/images/meta_tracker_logo.png" alt="Tracker Logo" />
   </p>
   
   <p>
@@ -142,33 +142,3 @@ tags:
     <p>
       </font>
     </p>
-    
-    <div class="sharedaddy sd-sharing-enabled">
-      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-        <h3 class="sd-title">
-          Share this:
-        </h3>
-        
-        <div class="sd-content">
-          <ul>
-            <li class="share-pocket">
-              <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/10/10-rocking-feauteres-in-10-days-countdown-to-ubuntu-gutsy-gibbon-deskbar-tracker/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-            </li>
-            <li class="share-twitter">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-86" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/10/10-rocking-feauteres-in-10-days-countdown-to-ubuntu-gutsy-gibbon-deskbar-tracker/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-            </li>
-            <li class="share-facebook">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-86" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/10/10-rocking-feauteres-in-10-days-countdown-to-ubuntu-gutsy-gibbon-deskbar-tracker/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-86" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/10/10-rocking-feauteres-in-10-days-countdown-to-ubuntu-gutsy-gibbon-deskbar-tracker/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/10/10-rocking-feauteres-in-10-days-countdown-to-ubuntu-gutsy-gibbon-deskbar-tracker/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>

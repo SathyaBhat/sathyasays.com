@@ -29,36 +29,6 @@ I probably top the ranks of lazy arses who procrastinate like there&#8217;s no t
 
 Mind Boggling. Read the <a href="http://news.ycombinator.com/item?id=5187585" target="_blank">HN comments for more</a>.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/02/08/salute-to-fabrice-bellard/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1176" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/02/08/salute-to-fabrice-bellard/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1176" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/02/08/salute-to-fabrice-bellard/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1176" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/02/08/salute-to-fabrice-bellard/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/02/08/salute-to-fabrice-bellard/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://bellard.org/lte/
  [2]: http://bellard.org/ffasn1/
  [3]: http://bellard.org/jslinux/

@@ -52,34 +52,4 @@ If you&#8217;re going to grab some new hard drives, the above article is worth r
 
 > These drives are on the market **now**. We&#8217;ve known about this issue for a LONG time, and now it&#8217;s here, and we haven&#8217;t fully prepared. Some distros, like Ubuntu, use &#8220;parted&#8221;, which has a very nice &#8220;&#8211;align optimal&#8221; option that will do the right thing. But parted is incomplete, and we must rely on tools like fdisk for everything else. **But anyone manually formatting drives based on popular how-tos that pop up at the top of Google searches is going to cause themselves a major performance hit, because mention of this alignment issue and how to fix it is conspicuously absent**.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/07/14/4096-byte-sector-hard-drives-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-884" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/07/14/4096-byte-sector-hard-drives-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-884" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/07/14/4096-byte-sector-hard-drives-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-884" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/07/14/4096-byte-sector-hard-drives-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/07/14/4096-byte-sector-hard-drives-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.osnews.com/story/22872/Linux_Not_Fully_Prepared_for_4096-Byte_Sector_Hard_Drives

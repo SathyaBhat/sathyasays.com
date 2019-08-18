@@ -28,33 +28,3 @@ E3 has come and gone by and  most of the year&#8217;s press conferences were bo
   * <a href="https://www.youtube.com/watch?v=kSAvzeopPC8" target="_blank" rel="noopener">Ghost of Tsushima</a> &#8211; Saving the best for last &#8211; looks really good, sounds fantastic and the gameplay looks like a mix of Witcher 3 and Metal Gear Rising.
 
 Anything you feel I missed or you prefer? Drop a comment below
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1610" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1610" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1610" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

@@ -71,7 +71,7 @@ One of the most common complaints about Linux is that users are unable to play c
 Well it pretty simple, All you&#8217;ve to do it click on Add/Remove Programs and choose &#8220;Ubuntu Restricted Extras&#8221;. The snapshot below indicates the package under Kubuntu Feisty Fawn.
 
 <p align="center">
-  <a title="Adept" href="https://i1.wp.com/sathyasays.wordpress.com/files/2007/06/adept.png"><img src="https://i1.wp.com/sathyasays.wordpress.com/files/2007/06/adept.thumbnail.png?w=740" alt="Adept" data-recalc-dims="1" /></a>
+  <a title="Adept" href="http://sathyasays.wordpress.com/files/2007/06/adept.png"><img src="http://sathyasays.wordpress.com/files/2007/06/adept.thumbnail.png" alt="Adept" /></a>
 </p>
 
 ### For Debian users:
@@ -145,36 +145,6 @@ rpm -ivh mplayer-codecs-extra-20061022-1.i386.rpm`
 
 > `yum install vlc<br />
 yum install python-vlc mozilla-vlc`
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/06/10/multimedia-support-in-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-13" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/06/10/multimedia-support-in-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-13" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/06/10/multimedia-support-in-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-13" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/06/10/multimedia-support-in-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/06/10/multimedia-support-in-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://www.ehomeupgrade.com/2006/07/17/how-to-setup-debian-linux-desktop-with-full-multimedia-support-and-faster-processing/
  [2]: http://opensuse-community.org/codecs-kde.ymp

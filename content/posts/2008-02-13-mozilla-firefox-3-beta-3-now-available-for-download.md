@@ -61,34 +61,4 @@ New features and changes in this milestone include:
 
 I will have a review of the Beta 3 soon.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/02/13/mozilla-firefox-3-beta-3-now-available-for-download/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-256" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/02/13/mozilla-firefox-3-beta-3-now-available-for-download/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-256" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/02/13/mozilla-firefox-3-beta-3-now-available-for-download/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-256" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/02/13/mozilla-firefox-3-beta-3-now-available-for-download/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/02/13/mozilla-firefox-3-beta-3-now-available-for-download/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://developer.mozilla.org/devnews/index.php/2008/02/12/firefox-3-beta-3-now-available-for-download/

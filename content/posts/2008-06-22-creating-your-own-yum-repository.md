@@ -169,33 +169,3 @@ _Note2 :- I have used RHEL server 5 edition . This process is same for RHEL 4, 5
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4a3b7185-3a41-47d3-901e-b711508c4443" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
   Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="http://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="http://technorati.com/tags/linux">linux</a>,<a rel="tag" href="http://technorati.com/tags/opensource">opensource</a>,<a rel="tag" href="http://technorati.com/tags/RedHat">RedHat</a>,<a rel="tag" href="http://technorati.com/tags/RHEL">RHEL</a>,<a rel="tag" href="http://technorati.com/tags/yum">yum</a>,<a rel="tag" href="http://technorati.com/tags/repo">repo</a>,<a rel="tag" href="http://technorati.com/tags/repository">repository</a>,<a rel="tag" href="http://technorati.com/tags/commands">commands</a>,<a rel="tag" href="http://technorati.com/tags/tips+and+how-tos">tips and how-tos</a>,<a rel="tag" href="http://technorati.com/tags/tutorials">tutorials</a>
 </div>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/06/22/creating-your-own-yum-repository/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-319" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/06/22/creating-your-own-yum-repository/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-319" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/06/22/creating-your-own-yum-repository/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-319" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/06/22/creating-your-own-yum-repository/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/06/22/creating-your-own-yum-repository/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

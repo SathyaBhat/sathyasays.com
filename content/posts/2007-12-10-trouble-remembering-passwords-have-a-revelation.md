@@ -87,33 +87,3 @@ After that, start creating the entries or import the data file if you have been 
 > When Revelation is running and has opened a data file, both the file contents and the file password are stored in memory as plaintext. The root user or other programs on your computer may be able to access this data. This is unfortunate, but it is hard to avoid, and a problem Revelation shares with most other applications of this type.
 > 
 > Please only use Revelation on your own computers, and take normal security precautions such as keeping your software updated and using a firewall.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/10/trouble-remembering-passwords-have-a-revelation/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-192" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/10/trouble-remembering-passwords-have-a-revelation/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-192" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/10/trouble-remembering-passwords-have-a-revelation/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-192" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/10/trouble-remembering-passwords-have-a-revelation/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/10/trouble-remembering-passwords-have-a-revelation/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

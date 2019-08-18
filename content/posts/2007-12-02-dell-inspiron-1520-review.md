@@ -202,35 +202,5 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  Some screenshots(please pardon the poor quality of images, VGA Cam :| )<a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00093.JPG" title="dsc00093.JPG"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00093.thumbnail.JPG?w=740" alt="dsc00093.JPG" data-recalc-dims="1" /></a> <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00094.JPG" title="dsc00094.JPG"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00094.thumbnail.JPG?w=740" alt="dsc00094.JPG" data-recalc-dims="1" /> </a><a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00095.JPG" title="dsc00095.JPG"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00095.thumbnail.JPG?w=740" alt="dsc00095.JPG" data-recalc-dims="1" /> </a><a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00096.JPG" title="dsc00096.JPG"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/dsc00096.thumbnail.JPG?w=740" alt="dsc00096.JPG" data-recalc-dims="1" /></a>
+  Some screenshots(please pardon the poor quality of images, VGA Cam :| )<a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00093.JPG" title="dsc00093.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00093.thumbnail.JPG" alt="dsc00093.JPG" /></a> <a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00094.JPG" title="dsc00094.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00094.thumbnail.JPG" alt="dsc00094.JPG" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00095.JPG" title="dsc00095.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00095.thumbnail.JPG" alt="dsc00095.JPG" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00096.JPG" title="dsc00096.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00096.thumbnail.JPG" alt="dsc00096.JPG" /></a>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-171" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-171" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-171" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

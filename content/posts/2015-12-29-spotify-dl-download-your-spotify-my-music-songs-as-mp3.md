@@ -28,33 +28,3 @@ With this as the motivation, I built <a href="https://github.com/SathyaBhat/spot
 It didn&#8217;t take me long to build the glue script & python made it that much easier. The script is available on <a href="https://github.com/SathyaBhat/spotify-dl" target="_blank">my github</a>. Huge thanks to <a href="https://github.com/rhnvrm" target="_blank">Rohan</a> to contributing the youtube-dl integration part.
 
 The <a href="https://github.com/SathyaBhat/spotify-dl#spotify-dl" target="_blank">readme has</a> the required documentation on how to get it up and running. Any feedback is welcome
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1308" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1308" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1308" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

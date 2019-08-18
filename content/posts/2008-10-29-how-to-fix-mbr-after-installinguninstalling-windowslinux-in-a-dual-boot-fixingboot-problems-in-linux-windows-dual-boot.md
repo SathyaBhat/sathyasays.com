@@ -91,34 +91,4 @@ chainloader+1`
 
 After installing Windows XP after Windows Vista and after restoring Vista&#8217;s bootloader one may find that xp or older windows&#8217; options will not be there. For this please make use of a software called [EasyBCD.][1] The installation and operation are self-explainatory. Just click on Add/Remove Entries and add your OS entry. You may also add your linux and mac entries to it. Also there is an option for having a common bootloader using NeoGrub.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-520" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-520" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-520" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://neosmart.net/dl.php?id=1

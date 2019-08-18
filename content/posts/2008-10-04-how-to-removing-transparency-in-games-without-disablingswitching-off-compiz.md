@@ -66,14 +66,14 @@ tags:
       Enter General Options
     </li>
     <p style="text-align: center;">
-      <a href="http://img215.imageshack.us/my.php?image=generaloptionsmu5.png" target="_blank"><img class="aligncenter" src="https://i1.wp.com/img215.imageshack.us/img215/8900/generaloptionsmu5.th.png?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+      <a href="http://img215.imageshack.us/my.php?image=generaloptionsmu5.png" target="_blank"><img class="aligncenter" src="http://img215.imageshack.us/img215/8900/generaloptionsmu5.th.png" border="0" alt="" /></a>
     </p>
     
     <li>
       Go the tab named &#8220;Opacity Settings&#8221; and expand a tree named &#8220;Window opacities&#8221;.
     </li>
     <p style="text-align: center;">
-      <a href="http://img113.imageshack.us/my.php?image=opacitysettingsgc1.png" target="_blank"><img src="https://i2.wp.com/img113.imageshack.us/img113/3672/opacitysettingsgc1.th.png?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+      <a href="http://img113.imageshack.us/my.php?image=opacitysettingsgc1.png" target="_blank"><img src="http://img113.imageshack.us/img113/3672/opacitysettingsgc1.th.png" border="0" alt="" /></a>
     </p>
     
     <li>
@@ -82,7 +82,7 @@ tags:
       </div>
       
       <p style="text-align: center;">
-        <a href="http://img521.imageshack.us/my.php?image=dropdownmenubk9.png" target="_blank"><img src="https://i0.wp.com/img521.imageshack.us/img521/9227/dropdownmenubk9.th.png?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+        <a href="http://img521.imageshack.us/my.php?image=dropdownmenubk9.png" target="_blank"><img src="http://img521.imageshack.us/img521/9227/dropdownmenubk9.th.png" border="0" alt="" /></a>
       </p>
       
       <div>
@@ -90,34 +90,4 @@ tags:
       </div>
     </li>
   </ol>
-</div>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-429" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-429" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-429" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
 </div>

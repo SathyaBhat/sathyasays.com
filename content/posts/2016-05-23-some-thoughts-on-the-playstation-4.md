@@ -30,19 +30,19 @@ With our Anniversary in sight and us liking the Vita so much, I thought we shou
 
 &nbsp;
 
-<a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg?ssl=1" rel="attachment wp-att-1389"><img data-attachment-id="1389" data-permalink="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/attachment/14481207648473/" data-orig-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg?fit=1038%2C1400&ssl=1" data-orig-size="1038,1400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;MI3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.51&quot;,&quot;iso&quot;:&quot;317&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="14481207648473" data-image-description="" data-medium-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg?fit=608%2C820&ssl=1" data-large-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg?fit=740%2C998&ssl=1" class="aligncenter size-full wp-image-1389" src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg?resize=740%2C998&#038;ssl=1" alt="14481207648473" width="740" height="998" data-recalc-dims="1" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg" rel="attachment wp-att-1389"><img class="aligncenter size-full wp-image-1389" src="https://sathyasays.com/wp-content/uploads/2016/04/14481207648473.jpg" alt="14481207648473" width="1038" height="1400" /></a>
 
 &nbsp;
 
-<a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg?ssl=1" rel="attachment wp-att-1390"><img data-attachment-id="1390" data-permalink="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/attachment/14481207644800/" data-orig-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg?fit=1038%2C1400&ssl=1" data-orig-size="1038,1400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;MI3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.51&quot;,&quot;iso&quot;:&quot;309&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="14481207644800" data-image-description="" data-medium-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg?fit=608%2C820&ssl=1" data-large-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg?fit=740%2C998&ssl=1" class="aligncenter size-medium wp-image-1390" src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg?resize=608%2C820&#038;ssl=1" alt="14481207644800" width="608" height="820" data-recalc-dims="1" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg" rel="attachment wp-att-1390"><img class="aligncenter size-medium wp-image-1390" src="https://sathyasays.com/wp-content/uploads/2016/04/14481207644800.jpg" alt="14481207644800" width="608" height="820" /></a>
 
 &nbsp;
 
-<a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg?ssl=1" rel="attachment wp-att-1391"><img data-attachment-id="1391" data-permalink="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/attachment/14481207654565/" data-orig-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg?fit=1400%2C1038&ssl=1" data-orig-size="1400,1038" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;MI3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.51&quot;,&quot;iso&quot;:&quot;433&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="14481207654565" data-image-description="" data-medium-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg?fit=608%2C451&ssl=1" data-large-file="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg?fit=740%2C549&ssl=1" class="aligncenter size-medium wp-image-1391" src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg?resize=608%2C451&#038;ssl=1" alt="14481207654565" width="608" height="451" data-recalc-dims="1" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg" rel="attachment wp-att-1391"><img class="aligncenter size-medium wp-image-1391" src="https://sathyasays.com/wp-content/uploads/2016/04/14481207654565.jpg" alt="14481207654565" width="608" height="451" /></a>
 
 &nbsp;
 
-<a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg?ssl=1" rel="attachment wp-att-1392"><img data-attachment-id="1392" data-permalink="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/attachment/14481207646932/" data-orig-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg?fit=1400%2C1038&ssl=1" data-orig-size="1400,1038" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;MI3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1039348800&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.51&quot;,&quot;iso&quot;:&quot;485&quot;,&quot;shutter_speed&quot;:&quot;0.058823529411765&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="14481207646932" data-image-description="" data-medium-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg?fit=608%2C451&ssl=1" data-large-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg?fit=740%2C549&ssl=1" class="aligncenter size-medium wp-image-1392" src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg?resize=608%2C451&#038;ssl=1" alt="14481207646932" width="608" height="451" data-recalc-dims="1" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg" rel="attachment wp-att-1392"><img class="aligncenter size-medium wp-image-1392" src="https://sathyasays.com/wp-content/uploads/2016/04/14481207646932.jpg" alt="14481207646932" width="608" height="451" /></a>
 
 &nbsp;
 
@@ -112,37 +112,7 @@ Some other games that I&#8217;m looking forward to include:
 
 And with E3 2016 right around the corner &#8211; who knows what&#8217;s in store! Here&#8217;s to more gaming.
 
-### 
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1383" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1383" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1383" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2016/05/23/some-thoughts-on-the-playstation-4/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+###
 
  [1]: http://www.indianvideogamer.com/forums/index.php?app=core&module=search&do=search&fromMainBar=1
  [2]: https://twitter.com/reetesh

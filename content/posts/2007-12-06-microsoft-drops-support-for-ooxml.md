@@ -45,36 +45,6 @@ _Got it Microsoft? Got it Jasow Matusow? Any misread acronym can make sensationa
 
 For those not into the subject, I’m refering to the often quoted and “reprinted” article [ODF backer abandons file format in favor of W3C alternative][5]{.extlink}.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/06/microsoft-drops-support-for-ooxml/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-187" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/06/microsoft-drops-support-for-ooxml/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-187" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/06/microsoft-drops-support-for-ooxml/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-187" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/06/microsoft-drops-support-for-ooxml/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/06/microsoft-drops-support-for-ooxml/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://polishlinux.org/apps/openofficeorg/microsoft-drops-support-for-ooxml/
  [2]: http://polishlinux.org/en.wikipedia.org/wiki/ANSI
  [3]: http://en.wikipedia.org/wiki/TXT

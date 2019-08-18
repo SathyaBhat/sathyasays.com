@@ -36,33 +36,3 @@ I&#8217;ve been trying out Sabayon 4 since the past weeks, and its been really g
 Anyways to remove this binding, open the Terminal, switch to root by typing `su root`
 
 Now, type `rc-update del keymaps default; rc-update add keymaps boot` hit Enter, and reboot.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/01/16/fixing-sabayon-4-dropping-to-consoleterminal-when-pressing-the-windows-key/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-657" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/01/16/fixing-sabayon-4-dropping-to-consoleterminal-when-pressing-the-windows-key/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-657" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/01/16/fixing-sabayon-4-dropping-to-consoleterminal-when-pressing-the-windows-key/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-657" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/01/16/fixing-sabayon-4-dropping-to-consoleterminal-when-pressing-the-windows-key/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/01/16/fixing-sabayon-4-dropping-to-consoleterminal-when-pressing-the-windows-key/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

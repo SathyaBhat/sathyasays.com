@@ -31,35 +31,5 @@ STOP. FUCKING. DOING THIS. Argh. I&#8217;ve lost count the number of times and t
 
 Don&#8217;t have a business model? Don&#8217;t launch. Don&#8217;t assume giving things for free will work out. It fucking won&#8217;t. Unless you&#8217;ve bazillions in reserve.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1200" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1200" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1200" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://link.backupify.com/trk?t=2&mid=NTcyLVpSRy0wMDE6NDMzODoxODI1Ojc5NTk6MDoyMTY0Ojc6MzE0MDg0OnNhdGh5YUBzYXRoeWFzYXlzLmNvbQ%3D%3D&&&https://backupify.zendesk.com/forums/22087133-Tweetbackup-EOL?mkt_tok=3RkMMJWWfF9wsRons67MZKXonjHpfsX76ugtUaOg38431UFwdcjKPmjr1YEASsZ0aPyQAgobGp5I5FENTbLYRrJnt6UNWg%3D%3D
  [2]: http://link.backupify.com/trk?t=2&mid=NTcyLVpSRy0wMDE6NDMzODoxODI1Ojc5NTk6MDoyMTY0Ojc6MzE0MDg0OnNhdGh5YUBzYXRoeWFzYXlzLmNvbQ%3D%3D&&&https://backupify.zendesk.com/home?mkt_tok=3RkMMJWWfF9wsRons67MZKXonjHpfsX76ugtUaOg38431UFwdcjKPmjr1YEASsZ0aPyQAgobGp5I5FENTbLYRrJnt6UNWg%3D%3D

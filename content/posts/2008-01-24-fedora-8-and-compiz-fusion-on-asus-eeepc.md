@@ -122,35 +122,5 @@ Here are some excerpts from his [Blog:][2]
 
 For those interested, do read his [blog][2], he&#8217;s kept it updated
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/24/fedora-8-and-compiz-fusion-on-asus-eeepc/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-246" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/24/fedora-8-and-compiz-fusion-on-asus-eeepc/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-246" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/24/fedora-8-and-compiz-fusion-on-asus-eeepc/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-246" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/24/fedora-8-and-compiz-fusion-on-asus-eeepc/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/24/fedora-8-and-compiz-fusion-on-asus-eeepc/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://eeepc.asus.com/
  [2]: http://mysite.verizon.net/vze2j8bn/eeePC-F8.html

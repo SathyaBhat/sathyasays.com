@@ -110,45 +110,15 @@ Google took about 7 days to respond to my application, and I had given up hope t
 
 This is how it ended up looking like across devices:<figure id="attachment_1401" aria-describedby="caption-attachment-1401" style="width: 720px" class="wp-caption aligncenter">
 
-[<img data-attachment-id="1401" data-permalink="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/pasted-image-at-2016_04_29-03_26-pm/" data-orig-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png?fit=1021%2C363&ssl=1" data-orig-size="1021,363" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Inbox Web app" data-image-description="" data-medium-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png?fit=608%2C216&ssl=1" data-large-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png?fit=740%2C263&ssl=1" class=" wp-image-1401" src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png?resize=720%2C256&#038;ssl=1" alt="Inbox Web app" width="720" height="256" data-recalc-dims="1" />][2]<figcaption id="caption-attachment-1401" class="wp-caption-text">**Inbox Web app**</figcaption></figure> <figure id="attachment_1402" aria-describedby="caption-attachment-1402" style="width: 720px" class="wp-caption aligncenter">[<img data-attachment-id="1402" data-permalink="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/screenshot_20160429-165708/" data-orig-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png?fit=1080%2C1920&ssl=1" data-orig-size="1080,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Inbox Android App" data-image-description="" data-medium-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png?fit=608%2C1081&ssl=1" data-large-file="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png?fit=740%2C1316&ssl=1" class=" wp-image-1402" src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png?resize=720%2C1280&#038;ssl=1" alt="Inbox Android App" width="720" height="1280" data-recalc-dims="1" />][3]<figcaption id="caption-attachment-1402" class="wp-caption-text">**Inbox Android App**</figcaption></figure> 
+[<img class=" wp-image-1401" src="https://sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png" alt="Inbox Web app" width="720" height="256" />][2]<figcaption id="caption-attachment-1401" class="wp-caption-text">**Inbox Web app**</figcaption></figure> <figure id="attachment_1402" aria-describedby="caption-attachment-1402" style="width: 720px" class="wp-caption aligncenter">[<img class=" wp-image-1402" src="https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png" alt="Inbox Android App" width="720" height="1280" />][3]<figcaption id="caption-attachment-1402" class="wp-caption-text">**Inbox Android App**</figcaption></figure> 
 
 &nbsp;<figure id="attachment_1403" aria-describedby="caption-attachment-1403" style="width: 720px" class="wp-caption aligncenter">
 
-[<img data-attachment-id="1403" data-permalink="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/screenshot_20160430-060054/" data-orig-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png?fit=1080%2C1920&ssl=1" data-orig-size="1080,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Google Now Card" data-image-description="" data-medium-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png?fit=608%2C1081&ssl=1" data-large-file="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png?fit=740%2C1316&ssl=1" class=" wp-image-1403" src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png?resize=720%2C1280&#038;ssl=1" alt="Google Now Card" width="720" height="1280" data-recalc-dims="1" />][4]<figcaption id="caption-attachment-1403" class="wp-caption-text">**Google Now Card**</figcaption></figure> 
+[<img class=" wp-image-1403" src="https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png" alt="Google Now Card" width="720" height="1280" />][4]<figcaption id="caption-attachment-1403" class="wp-caption-text">**Google Now Card**</figcaption></figure> 
 
 Overall, I was pretty happy with this. I know there aren&#8217;t too many Inbox by Gmail users, but for the few folks that do use, this looks pretty good and is quite handy
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1397" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1397" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1397" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: https://developers.google.com/gmail/markup/actions/actions-overview
- [2]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png?ssl=1
- [3]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png?ssl=1
- [4]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png?ssl=1
+ [2]: https://sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png
+ [3]: https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png
+ [4]: https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png

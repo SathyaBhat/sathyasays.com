@@ -63,33 +63,3 @@ Evince, the GNOME document viewer, received several performance improvements and
 The GNOME developers have started the process of streamlining the GNOME configuration utilities. In this release, various configuration applets that are used to adjust the fonts and visual appearance of the GNOME environment have been merged into a single utility. Additional configuration utility streamlining will occur in future versions of GNOME.
 
 This release coincides with the tenth anniversary of GNOME&#8217;s existence. The project has evolved considerably since its earliest incarnation and has become a global phenomenon. Used as the default environment in popular Linux distributions like Ubuntu and Fedora, GNOME is widely used by Linux desktop users and is supported by a growing community of companies and independent developers. GNOME 2.20 will be included in the next major releases of many mainstream Linux distributions, including Ubuntu 7.10, which is scheduled for release next month. Users who wish to try it now can use the latest Ubuntu 7.10 live CD images.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/09/20/gnome-220-released/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-48" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/09/20/gnome-220-released/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-48" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/09/20/gnome-220-released/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-48" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/09/20/gnome-220-released/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/09/20/gnome-220-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

@@ -79,7 +79,7 @@ One of [CHIP-India&#8217;s][1] [forum][2] members, Sujith Poojari had posted a l
   <a href="http://www.armagetronad.net/"><span style="font-weight: bold">Armagetron Advanced</span></a>
 </p>
 
-<a href="http://www.armagetronad.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3144/2813626685_8ea7f90868_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.armagetronad.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3144/2813626685_8ea7f90868_m.jpg" border="0" alt="" /></a>
 
 Armagetron is a <span style="font-style: italic">multiplayer game</span> in 3d that attempts to emulate and expand on the lightcycle sequence from the movie Tron. It&#8217;s an old school arcade game slung into the 21st century. Highlights include a customizable playing arena, HUD, unique graphics, and AI bots. For the more advanced player there are <span style="font-style: italic">new game modes</span> and a wide variety of physics settings to tweak as well.
 
@@ -89,7 +89,7 @@ Armagetron is a <span style="font-style: italic">multiplayer game</span> in 3d t
   <a href="http://www.game-warden.com/forum/showthread.php?t=3502"><span style="font-weight: bold">Battlestar Galactica: Beyond the Red Line</span></a>
 </p>
 
-<a href="http://www.game-warden.com/forum/showthread.php?t=3502" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3146/2813623761_9c4c7b3a3e_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.game-warden.com/forum/showthread.php?t=3502" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3146/2813623761_9c4c7b3a3e_m.jpg" border="0" alt="" /></a>
 
   * Powered by the revamped Freespace 2 engine
   * Entirely stand-alone, Freespace 2 not required
@@ -119,7 +119,7 @@ Installation: 750 MB free HD space
   <a href="http://bzflag.org/"><span style="font-weight: bold">BZFlag</span></a>
 </p>
 
-<a href="http://bzflag.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3290/2814471948_6468c0bb91_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://bzflag.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3290/2814471948_6468c0bb91_m.jpg" border="0" alt="" /></a>
 
 BZFlag is a <span style="font-style: italic">free online multiplayer</span> cross-platform open source 3D tank battle game. The name originates from &#8220;Battle Zone capture the Flag&#8221;. It runs on Irix, Linux, BSD, Windows, Mac OS X, and many other platforms. It&#8217;s one of the most popular <span style="font-style: italic">open source games</span> ever on Silicon Graphics machines and continues to be developed and improved to this day.
 
@@ -127,7 +127,7 @@ BZFlag is a <span style="font-style: italic">free online multiplayer</span> cros
   <a href="http://sauerbraten.org/"><span style="font-weight: bold">Cube 2 &#8220;Sauerbraten&#8221;</span></a>
 </p>
 
-<a href="http://sauerbraten.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm4.static.flickr.com/3012/2814501744_987e1b38aa_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://sauerbraten.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3012/2814501744_987e1b38aa_m.jpg" border="0" alt="" /></a>
 
 Free single and <span style="font-style: italic">multiplayer first person shooter game</span> with some satisfying fast oldskool gameplay. A large variety of gameplay modes from classic SP to fast 1 on 1 MP and objective based teamplay, with a great variety of original maps to play on.
 
@@ -137,7 +137,7 @@ Level editing has never been so much fun: a press of a key allows you to modify 
   <a href="http://cubeengine.com/"><span style="font-weight: bold">Cube</span></a>
 </p>
 
-<a href="http://cubeengine.com/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm4.static.flickr.com/3272/2813828887_9afb151405_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://cubeengine.com/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3272/2813828887_9afb151405_m.jpg" border="0" alt="" /></a>
 
 Cube is the original game that started it all. Though it has been surpassed in almost every way by Cube 2, it is a game in its own right. Most importantly, it comes with over 100 maps, most of which are not available in Cube 2, with extensive single and multiplayer content.
 
@@ -149,7 +149,7 @@ It also has some unique engine features such as the high precision dynamic occlu
   <a href="http://digitalpaint.planetquake.gamespy.com/files/"><span style="font-weight: bold">Digital Paint&#8217;s Paintball 2.0</span></a>
 </p>
 
-<a href="http://digitalpaint.planetquake.gamespy.com/files/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3158/2813619307_2cf21ef14b_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://digitalpaint.planetquake.gamespy.com/files/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3158/2813619307_2cf21ef14b_m.jpg" border="0" alt="" /></a>
 
 Paintball 2.0 is a fast-paced first person game with capture the flag, elimination, siege, and deathmatch (free-for-all) styles of gameplay.
 
@@ -157,7 +157,7 @@ Paintball 2.0 is a fast-paced first person game with capture the flag, eliminati
   <a href="http://flightgear.org/"><span style="font-weight: bold">Flightgear</span></a>
 </p>
 
-<a href="http://flightgear.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3132/2814494100_1961383724_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://flightgear.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3132/2814494100_1961383724_m.jpg" border="0" alt="" /></a>
 
 FlightGear Flight Simulator project is an open-source, multi-platform, cooperative flight simulator development project. Source code for the entire project is available and licensed under the GNU General Public License.
 
@@ -167,7 +167,7 @@ The goal of the FlightGear project is to create a <span style="font-style: itali
   <a href="http://fretsonfire.sourceforge.net/"><span style="font-weight: bold">Frets On Fire</span></a>
 </p>
 
-<a href="http://fretsonfire.sourceforge.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3133/2813634833_1b18124430_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://fretsonfire.sourceforge.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3133/2813634833_1b18124430_m.jpg" border="0" alt="" /></a>
 
 Winner of the Assembly Demo Party 2006, Frets on Fire is a music video game that uses the keyboard to play along with scrolling on-screen musical notes to complete a song. The player has to imagine the keyboard as a guitar and pick it up to play. One hand will be used to press the ‘frets’ (F1 to F5) and another will be used to press the ‘picks’ (Shift or Enter). Colored markers that appears are to be played by pressing ‘frets’ of the correct color and ‘picks’ at the correct moment. There are also song editors and tutorials featured in the game. This game is really addictive.
 
@@ -181,7 +181,7 @@ Two player game in a 3D ellipsoid playground. Players are cars with a magnetic d
   <a href="http://www.glest.org/en/index.html"><span style="font-weight: bold">Glest</span></a>
 </p>
 
-<a href="http://www.glest.org/en/index.html" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3085/2814671090_62cf1d32ff_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.glest.org/en/index.html" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3085/2814671090_62cf1d32ff_m.jpg" border="0" alt="" /></a>
 
 Glest is a free 3D <span style="font-style: italic">real time strategy game</span>, available for several operating systems.
 
@@ -193,7 +193,7 @@ Very cool and complete warcraft-like strategy game, pity there&#8217;s no multip
   <a href="http://maniadrive.raydium.org/"><span style="font-weight: bold">ManiaDrive</span></a>
 </p>
 
-<a href="http://maniadrive.raydium.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3048/2814664252_1240452295_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://maniadrive.raydium.org/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3048/2814664252_1240452295_m.jpg" border="0" alt="" /></a>
 
 ManiaDrive is a free clone of Trackmania, the great game from Nadéo studio, and is an arcade car game on acrobatic tracks, with a quick and nervous gameplay (tracks almost never exceed one minute), and features a network mode, as the original. Lots of crazy driving involved.
 
@@ -201,7 +201,7 @@ ManiaDrive is a free clone of Trackmania, the great game from Nadéo studio, and
   <a href="http://icculus.org/neverball/"><span style="font-weight: bold">Neverball / Neverputt</span></a>
 </p>
 
-<a href="http://icculus.org/neverball/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3153/2814751526_1b12ac195f_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://icculus.org/neverball/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3153/2814751526_1b12ac195f_m.jpg" border="0" alt="" /></a>
 
 Tilt the floor to roll a ball through an obstacle course before time runs out. Neverball is part puzzle game, part action game, and entirely a <span style="font-style: italic">test of skill</span>.
 
@@ -213,7 +213,7 @@ Neverball and Neverputt are known to run under Linux, Win2K/XP, FreeBSD, and OSX
   <a href="http://www.planeshift.it/"><span style="font-weight: bold">Planeshift</span></a>
 </p>
 
-<a href="http://www.planeshift.it/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3181/2814645408_d1a1349e09_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.planeshift.it/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3181/2814645408_d1a1349e09_m.jpg" border="0" alt="" /></a>
 
 PlaneShift is a <span style="font-style: italic">Role Playing Game</span> immersed into a 3D virtual fantasy world which is fully free to play. Fully free means you will have no surprises of premium content which will limit your gameplay or unbalance the game. There are no limitations in skills, ranks, abilities, items you can gain with your free account. There are no time limits or additional constraints.
 
@@ -225,7 +225,7 @@ beginnings and advance to greatness in whatever path they may choose.
   <a href="http://www.racer.nl/"><span style="font-weight: bold">Racer</span></a>
 </p>
 
-<a href="http://www.racer.nl/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm3.static.flickr.com/2277/2814628996_ab3eca91b2_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.racer.nl/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm3.static.flickr.com/2277/2814628996_ab3eca91b2_m.jpg" border="0" alt="" /></a>
 
 Racer is a free cross-platform car simulation project (for non-commercial use), using professional car physics to achieve a realistic feeling and an excellent render engine for graphical realism. Cars, tracks and such can be created relatively easy (compared to other, more closed, driving simulations). The 3D, physics and other file formats are documented. Editors and support programs are also available to get a very customizable and expandable simulator. OpenGL is used for rendering.
 
@@ -233,7 +233,7 @@ Racer is a free cross-platform car simulation project (for non-commercial use), 
   <a href="http://savage2.s2games.com/"><span style="font-weight: bold">Savage 2: A Tortured Soul</span></a>
 </p>
 
-<a href="http://savage2.s2games.com/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3283/2813808075_4f000b9ce2_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://savage2.s2games.com/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3283/2813808075_4f000b9ce2_m.jpg" border="0" alt="" /></a>
 
 Savage 2: A Tortured Soul is a fast paced strategy shooter that takes team based game play to another level. Each match is a war for dominance where two teams of 5 to 32 players attempt to destroy each other. It will take more than guns to finish the job. Assume your position as a fighter, armed with swords, guns, and magic; or take the field as a support character that
 
@@ -247,7 +247,7 @@ commander, who builds, researches, expands, and tactically strategizes your team
   <a href="http://www.scorched3d.co.uk/"><span style="font-weight: bold">Scorched 3D</span></a>
 </p>
 
-<a href="http://www.scorched3d.co.uk/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3070/2813810999_6bb63a3af3_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.scorched3d.co.uk/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3070/2813810999_6bb63a3af3_m.jpg" border="0" alt="" /></a>
 
 Scorched 3D is a 100% free turn-based artillery game modeled after the classic DOS game Scorched Earth ‘The Mother Of All Games’. Operatable across all operating systems. What started as a 3D landscape generator has now become a cool 3D game that requires skills to master. Players are supposed to take turns homing in to hit the target by adjusting the angle, rotation, power and a weapon of choice every other turn. Hits and kills will generate income for you to buy better weapons and items. Note that items are as important as weapons.
 
@@ -255,7 +255,7 @@ Scorched 3D is a 100% free turn-based artillery game modeled after the classic D
   <a href="http://spring.clan-sy.com/wiki/SetupGuide"><span style="font-weight: bold">SpringRTS</span></a>
 </p>
 
-[<img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3003/2813857489_3eb94fd64b_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" />][3]
+[<img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3003/2813857489_3eb94fd64b_m.jpg" border="0" alt="" />][3]
 
   * Large battles limited only by the power of your computer; support for up to 5000 units.
   * Large, highly detailed maps in which to wage those battles, fully 3D with deformable terrain, forest fires, dynamic and reflective water, and custom skyboxes.
@@ -277,7 +277,7 @@ TORCS is an open source 3D racing simulator using OpenGL technologies. It is run
   <a href="http://tremulous.net/"><span style="font-weight: bold">Tremulous</span></a>
 </p>
 
-<a href="http://tremulous.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm4.static.flickr.com/3162/2813793535_35eb166304_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://tremulous.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3162/2813793535_35eb166304_m.jpg" border="0" alt="" /></a>
 
 Tremulous is an open source team-based FPS (first person shooter) with a game play that is similar to Gloom (a Quake 2 mod) and Natural Selection (a Half-Life mod). The game features two teams, humans and aliens, each with their own strengths and weaknesses. The game has been downloaded over 200,000 times and was voted “Player’s Choice Standalone Game of the Year” in Mod Database’s “Mod of the Year” 2006 competition.
 
@@ -285,7 +285,7 @@ Tremulous is an open source team-based FPS (first person shooter) with a game pl
   <a href="http://www.truecombatelite.net/"><span style="font-weight: bold">TrueCombat: Elite</span></a>
 </p>
 
-<a href="http://www.truecombatelite.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i2.wp.com/farm4.static.flickr.com/3146/2813783407_02139fef7c_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.truecombatelite.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3146/2813783407_02139fef7c_m.jpg" border="0" alt="" /></a>
 
 TC:Elite happens to be a total-conversion modification of Wolfenstein: Enemy Territory by Team Terminator and Groove Six Studios. The game is free and playable across all platforms. Notable features include iron sights aiming (no crosshair), multi layer object penetration, letterbox / wide screen view modes, lag compensation, client side bullet prediction and support for PunkBuster, the anti cheat software.
 
@@ -301,7 +301,7 @@ Urban Terror is available for Windows, Linux and Macintosh. The current version 
   <a href="http://vdrift.net/"><span style="font-weight: bold">VDrift</span></a>
 </p>
 
-<a href="http://vdrift.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3119/2814600466_0aa69e339b_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://vdrift.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3119/2814600466_0aa69e339b_m.jpg" border="0" alt="" /></a>
 
 VDrift is a cross-platform, <span style="font-style: italic">open source driving simulation</span> made with drift racing in mind. It&#8217;s powered by the excellent Vamos physics engine. It is released under the GNU General Public License (GPL) v2. It is currently available for Linux, FreeBSD, Mac OS X and Windows.
 
@@ -309,7 +309,7 @@ VDrift is a cross-platform, <span style="font-style: italic">open source driving
   <a href="http://www.warsow.net/"><span style="font-weight: bold">Warsow</span></a>
 </p>
 
-<a href="http://www.warsow.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i1.wp.com/farm4.static.flickr.com/3194/2814624802_09d3b17661_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.warsow.net/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3194/2814624802_09d3b17661_m.jpg" border="0" alt="" /></a>
 
 Warsow is a free standalone first person shooter game for Windows and Linux.
 
@@ -335,7 +335,7 @@ The base gameplay is focussed around the art of movement, meaning moving, speed 
   <a href="http://wz2100.net/home"><span style="font-weight: bold">Warzone 2100</span></a>
 </p>
 
-<a href="http://wz2100.net/home" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm4.static.flickr.com/3029/2814715626_be92155392_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://wz2100.net/home" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3029/2814715626_be92155392_m.jpg" border="0" alt="" /></a>
 
 Warzone 2100 is a real-time strategy game, developed by Pumpkin Studios and published by Eidos-Interactive. Although comparable to other 3D RTS games, it does contain some features that are unique. These include various radar technologies, a greater focus on artillery and counter-battery technologies, as well as a different vehicle design method.
 
@@ -343,7 +343,7 @@ Warzone 2100 is a real-time strategy game, developed by Pumpkin Studios and publ
   <a href="http://www.planetwolfenstein.com/enemyterritory/"><span style="font-weight: bold">Wolfenstein: Enemy-Territory</span></a>
 </p>
 
-<a href="http://www.planetwolfenstein.com/enemyterritory/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="https://i0.wp.com/farm4.static.flickr.com/3036/2814694798_e1a085051d_m.jpg?w=740" border="0" alt="" data-recalc-dims="1" /></a>
+<a href="http://www.planetwolfenstein.com/enemyterritory/" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 450px;" src="http://farm4.static.flickr.com/3036/2814694798_e1a085051d_m.jpg" border="0" alt="" /></a>
 
 Wolfenstein: Enemy Territory was originally planned as an add-on for Return to Castle Wolfenstein, but soon became it&#8217;s own game, a separate entity with full single player, multiplayer, AI opponents and teammates! Well that didn&#8217;t happen and what we got, while less than planned, is amazing&#8230;and free!
 
@@ -352,36 +352,6 @@ Wolfenstein: Enemy Territory is a free, stand-alone multiplayer only product, wh
 Source: [Entretenimento Online][4]
 
 Technorati Tags: <a class="performancingtags" rel="tag" href="http://technorati.com/tag/games">games</a>, <a class="performancingtags" rel="tag" href="http://technorati.com/tag/linux">linux</a>, <a class="performancingtags" rel="tag" href="http://technorati.com/tag/opensource">opensource</a>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/12/25-top-3d-linux-games/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-235" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/12/25-top-3d-linux-games/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-235" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/12/25-top-3d-linux-games/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-235" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/12/25-top-3d-linux-games/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/12/25-top-3d-linux-games/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://www.chip-india.com
  [2]: http://www.chip-india.com/forums

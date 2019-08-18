@@ -44,11 +44,11 @@ One of the most powerful features of Firefox is all the amazing plugins availabl
 
 To get access to those plugins, go to Tools > Add-ons and then click on the “Get Ubuntu Addons” in the lower right:
 
-<img src="https://i1.wp.com/fridge.ubuntu.com/files/images/Screenshot-Add-ons.png?w=740" alt="Firefox add-ons dialogue" data-recalc-dims="1" />
+![Firefox add-ons dialogue][2]
 
 Click on that and then you will see a screen like below:
 
-<img src="https://i1.wp.com/fridge.ubuntu.com/files/images/Screenshot-Install-Remove%20Extensions.preview.png?w=740" alt="Firefox add/remove extensions dialogue" data-recalc-dims="1" />
+![Firefox add/remove extensions dialogue][3]
 
 Search for your plugin and click to install. The best part about all of this? All of these plugins are installed via the same way as all the other software on your system, meaning all the usual tools such as Add/Remove, Synaptic and plain old apt-get will work as well.
 
@@ -60,38 +60,11 @@ That has all changed with the arrival of Gnash (and also Swfdec, another project
 
 So if you want to try out Gnash, just select when you click to install the Flash plugin and choose it from the screen that pops up:
 
-<img src="https://i2.wp.com/fridge.ubuntu.com/files/images/Screenshot-Plugin%20Finder%20Service.preview.png?w=740" alt="Firefox plugin install" data-recalc-dims="1" />
+![Firefox plugin install][4]
 
 Anyway, that is all for today. Come back tomorrow when we cram two sessions into one and talk about better drivers, including restricted drivers and printers. Until then!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/14/10-rocking-features-in-10-days-better-firefox-plugins-and-gnash/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-97" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/14/10-rocking-features-in-10-days-better-firefox-plugins-and-gnash/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-97" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/14/10-rocking-features-in-10-days-better-firefox-plugins-and-gnash/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-97" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/14/10-rocking-features-in-10-days-better-firefox-plugins-and-gnash/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/14/10-rocking-features-in-10-days-better-firefox-plugins-and-gnash/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://fridge.ubuntu.com/node/1169
+ [2]: http://fridge.ubuntu.com/files/images/Screenshot-Add-ons.png
+ [3]: http://fridge.ubuntu.com/files/images/Screenshot-Install-Remove%20Extensions.preview.png
+ [4]: http://fridge.ubuntu.com/files/images/Screenshot-Plugin%20Finder%20Service.preview.png

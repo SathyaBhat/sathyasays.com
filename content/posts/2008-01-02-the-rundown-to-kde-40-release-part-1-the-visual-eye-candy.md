@@ -87,7 +87,7 @@ Plasma is a rewrite of several core KDE applications, like the desktop drawing a
 
 KWin, the KDE Window Manager, will provide its own compositing effects, similar to Compiz.
 
-[<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde-desktop.thumbnail.jpg?w=740" alt="kde-desktop.jpg" data-recalc-dims="1" />][1] [ <img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/add_widgets.thumbnail.jpg?w=740" alt="add_widgets.jpg" data-recalc-dims="1" />][2][ <img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/add_widgets.thumbnail.jpg?w=740" alt="add_widgets.jpg" data-recalc-dims="1" />][2][<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/add_widgets1.thumbnail.jpg?w=740" alt="add_widgets1.jpg" data-recalc-dims="1" />][3]
+[![kde-desktop.jpg][1]][2] [ ![add_widgets.jpg][3]][4][ ![add_widgets.jpg][3]][4][![add_widgets1.jpg][5]][6]
 
 There are some really useful Plasma available already, like the Hard Disk Monitor, KGet(download manager drop box),Hardware info, Temperature Monitor. We can expect some really innovative Plasmas in the days ahead.
 
@@ -97,67 +97,47 @@ There are some really useful Plasma available already, like the Hard Disk Monito
 
 As mentioned above, KDE4.0 and successive releases will use the Oxygen Project for all the themes, icons and sounds too!
 
-[ <img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde_4.thumbnail.jpg?w=740" alt="kde_4.jpg" data-recalc-dims="1" />][4][<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.thumbnail.jpg?w=740" alt="kde_4-rc2.jpg" data-recalc-dims="1" />][5]
+[ ![kde_4.jpg][7]][8][![kde_4-rc2.jpg][9]][10]
 
 A look at some Oxygen Icons:
 
 Actions:
 
-[<img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/01/actions.thumbnail.png?w=740" alt="actions.png" data-recalc-dims="1" />][6]
+[![actions.png][11]][12]
 
 Applications:
 
-[<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/applications.thumbnail.png?w=740" alt="applications.png" data-recalc-dims="1" />][7]
+[![applications.png][13]][14]
 
 Devices:
 
-[<img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/01/devices.thumbnail.png?w=740" alt="devices.png" data-recalc-dims="1" />][8]
+[![devices.png][15]][16]
 
 Filesystems:
 
-[<img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/filesystems.thumbnail.png?w=740" alt="filesystems.png" data-recalc-dims="1" />][9]
+[![filesystems.png][17]][18]
 
 Mimetypes:
 
-[<img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/01/mimetypes.thumbnail.png?w=740" alt="mimetypes.png" data-recalc-dims="1" />][10]
+[![mimetypes.png][19]][20]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/02/the-rundown-to-kde-40-release-part-1-the-visual-eye-candy/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-226" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/02/the-rundown-to-kde-40-release-part-1-the-visual-eye-candy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-226" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/02/the-rundown-to-kde-40-release-part-1-the-visual-eye-candy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-226" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/02/the-rundown-to-kde-40-release-part-1-the-visual-eye-candy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/02/the-rundown-to-kde-40-release-part-1-the-visual-eye-candy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
- [1]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde-desktop.jpg "kde-desktop.jpg"
- [2]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/add_widgets.jpg "add_widgets.jpg"
- [3]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/add_widgets1.jpg "add_widgets1.jpg"
- [4]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde_4.jpg "kde_4.jpg"
- [5]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.jpg "kde_4-rc2.jpg"
- [6]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/actions.png "actions.png"
- [7]: https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/01/applications.png "applications.png"
- [8]: https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/01/devices.png "devices.png"
- [9]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/01/filesystems.png "filesystems.png"
- [10]: https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/01/mimetypes.png "mimetypes.png"
+ [1]: http://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.thumbnail.jpg
+ [2]: http://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.jpg "kde-desktop.jpg"
+ [3]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets.thumbnail.jpg
+ [4]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets.jpg "add_widgets.jpg"
+ [5]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.thumbnail.jpg
+ [6]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.jpg "add_widgets1.jpg"
+ [7]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4.thumbnail.jpg
+ [8]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4.jpg "kde_4.jpg"
+ [9]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.thumbnail.jpg
+ [10]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.jpg "kde_4-rc2.jpg"
+ [11]: http://sathyasays.com/wp-content/uploads/2008/01/actions.thumbnail.png
+ [12]: http://sathyasays.com/wp-content/uploads/2008/01/actions.png "actions.png"
+ [13]: http://sathyasays.com/wp-content/uploads/2008/01/applications.thumbnail.png
+ [14]: http://sathyasays.com/wp-content/uploads/2008/01/applications.png "applications.png"
+ [15]: http://sathyasays.com/wp-content/uploads/2008/01/devices.thumbnail.png
+ [16]: http://sathyasays.com/wp-content/uploads/2008/01/devices.png "devices.png"
+ [17]: http://sathyasays.com/wp-content/uploads/2008/01/filesystems.thumbnail.png
+ [18]: http://sathyasays.com/wp-content/uploads/2008/01/filesystems.png "filesystems.png"
+ [19]: http://sathyasays.com/wp-content/uploads/2008/01/mimetypes.thumbnail.png
+ [20]: http://sathyasays.com/wp-content/uploads/2008/01/mimetypes.png "mimetypes.png"

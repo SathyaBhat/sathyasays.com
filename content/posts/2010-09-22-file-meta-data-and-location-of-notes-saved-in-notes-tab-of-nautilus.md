@@ -63,41 +63,11 @@ That didn&#8217;t return anything, so I went back to the big G and searched deep
 
 And indeed, it was
 
-<img class="aligncenter" title="Notes" src="https://i2.wp.com/i.imgur.com/CWYMH.png?resize=666%2C505" alt="" width="666" height="505" data-recalc-dims="1" />
+<img class="aligncenter" title="Notes" src="http://i.imgur.com/CWYMH.png" alt="" width="666" height="505" />
 
 Unfortunately, given the data stored against it, I don&#8217;t think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
 
 Just another thing you learn every day :)
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-931" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-931" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-931" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://superuser.com/users/4377/sathya
  [2]: http://superuser.com/users/flair/4377.png

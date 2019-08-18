@@ -54,33 +54,3 @@ The installer has been updated to use and support the updated kernels included i
 Other changes include stability improvements in specific situations, improved serial console support when configuring grub, and added support for SGI O2 machines with 300MHz RM5200SC (Nevada) CPUs (mips).
 
 Technorati Tags: <a href="http://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="http://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="http://technorati.com/tag/debian" class="performancingtags" rel="tag">debian</a>, <a href="http://technorati.com/tag/etch" class="performancingtags" rel="tag">etch</a>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/30/second-update-to-debian-gnulinux-40-available/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-220" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/30/second-update-to-debian-gnulinux-40-available/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-220" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/30/second-update-to-debian-gnulinux-40-available/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-220" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/30/second-update-to-debian-gnulinux-40-available/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/30/second-update-to-debian-gnulinux-40-available/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

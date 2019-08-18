@@ -94,7 +94,7 @@ Install Compiz Manager to autostart compiz: [1-click installer][8]
 Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 
 <p align="center">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.jpg" title="compiz-fusion-icon.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.thumbnail.jpg?w=740" alt="compiz-fusion-icon.jpg" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.jpg" title="compiz-fusion-icon.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.thumbnail.jpg" alt="compiz-fusion-icon.jpg" /></a>
 </p>
 
 <p align="left">
@@ -116,15 +116,15 @@ Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 </p>
 
 <p align="left">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/my-desktop.jpg" title="my-desktop.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/my-desktop.thumbnail.jpg?w=740" alt="my-desktop.jpg" data-recalc-dims="1" /> </a><a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/my-desktop2.jpg" title="my-desktop2.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/my-desktop2.thumbnail.jpg?w=740" alt="my-desktop2.jpg" data-recalc-dims="1" /> </a><a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/desktop3.jpg" title="desktop3.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/desktop3.thumbnail.jpg?w=740" alt="desktop3.jpg" data-recalc-dims="1" /> </a><a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/motionblur.jpg" title="motionblur.jpg"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/motionblur.thumbnail.jpg?w=740" alt="motionblur.jpg" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop.jpg" title="my-desktop.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop.thumbnail.jpg" alt="my-desktop.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.jpg" title="my-desktop2.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.thumbnail.jpg" alt="my-desktop2.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/desktop3.jpg" title="desktop3.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/desktop3.thumbnail.jpg" alt="desktop3.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/motionblur.jpg" title="motionblur.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/motionblur.thumbnail.jpg" alt="motionblur.jpg" /></a>
 </p>
 
 <p align="left">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/cf.jpg" title="cf.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/cf.thumbnail.jpg?w=740" alt="cf.jpg" data-recalc-dims="1" /></a> <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/cf-water.jpg" title="cf-water.jpg"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/cf-water.thumbnail.jpg?w=740" alt="cf-water.jpg" data-recalc-dims="1" /> </a><a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.jpg" title="fusionfireminimize.jpg"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.thumbnail.jpg?w=740" alt="fusionfireminimize.jpg" data-recalc-dims="1" /> </a><a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.jpg" title="fusioneffect1.jpg"><img src="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.thumbnail.jpg?w=740" alt="fusioneffect1.jpg" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/cf.jpg" title="cf.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/cf.thumbnail.jpg" alt="cf.jpg" /></a> <a href="http://sathyasays.com/wp-content/uploads/2007/12/cf-water.jpg" title="cf-water.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/cf-water.thumbnail.jpg" alt="cf-water.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.jpg" title="fusionfireminimize.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.thumbnail.jpg" alt="fusionfireminimize.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.jpg" title="fusioneffect1.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.thumbnail.jpg" alt="fusioneffect1.jpg" /></a>
 </p>
 
 <p align="left">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/transparent-cube.jpg" title="transparent-cube.jpg"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/12/transparent-cube.thumbnail.jpg?w=740" alt="transparent-cube.jpg" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.jpg" title="transparent-cube.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.thumbnail.jpg" alt="transparent-cube.jpg" /></a>
 </p>
 
 <p align="left">
@@ -132,36 +132,6 @@ Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 </p>
 
 [][7]
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-198" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-198" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-198" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://sathyasays.com/2007/07/01/go-crazy-on-eye-candy-with-compiz-fusion/
  [2]: http://opensuse-community.org/nvidia.ymp

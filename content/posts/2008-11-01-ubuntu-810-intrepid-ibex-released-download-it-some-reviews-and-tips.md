@@ -59,7 +59,7 @@ tags:
 Bang of the release schedule, the next version of Ubuntu, Ubuntu 8.10 dubbed the Intrepid Ibex was released on October 30th.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://i2.wp.com/1.bp.blogspot.com/_hoL9qH83NDM/SO-REbqeEsI/AAAAAAAAAHc/IUixQk8c6LA/s320/warty-final-ubuntu.png?w=740" alt="" data-recalc-dims="1" />
+  <img class="aligncenter" src="http://1.bp.blogspot.com/_hoL9qH83NDM/SO-REbqeEsI/AAAAAAAAAHc/IUixQk8c6LA/s320/warty-final-ubuntu.png" alt="" />
 </p>
 
 Ubuntu Intrepix Ibex brings in some new features like
@@ -106,36 +106,6 @@ Some Tips:
   * <a href="http://davestechsupport.com/blog/2008/10/31/10-things-to-do-after-you-install-ubuntu-linux/" target="_blank">10 Things to Do After you Install Ubuntu</a>
 
 Have you upgraded to Intrepid Ibex? What&#8217;re your thoughts? How do you like it? Do drop a comment!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/11/01/ubuntu-810-intrepid-ibex-released-download-it-some-reviews-and-tips/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-545" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/11/01/ubuntu-810-intrepid-ibex-released-download-it-some-reviews-and-tips/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-545" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/11/01/ubuntu-810-intrepid-ibex-released-download-it-some-reviews-and-tips/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-545" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/11/01/ubuntu-810-intrepid-ibex-released-download-it-some-reviews-and-tips/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/11/01/ubuntu-810-intrepid-ibex-released-download-it-some-reviews-and-tips/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-i386.iso
  [2]: http://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-amd64.iso

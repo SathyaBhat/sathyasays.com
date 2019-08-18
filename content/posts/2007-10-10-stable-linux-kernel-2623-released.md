@@ -55,7 +55,7 @@ tags:
   </p>
   
   <p>
-    I want this to be what people look at for a few days, but expect the x86<br /> merge to go ahead after that. So far, all indications are still that it&#8217;s<br /> going to be all smooth sailing, but hey, those indicators seem to always<br /> say that, and only after the fact do people notice any problems <img src="https://i0.wp.com/www.tuxmachines.org/misc/smileys/wink.png?w=740" title="Eye-wink" alt="Eye-wink" data-recalc-dims="1" />
+    I want this to be what people look at for a few days, but expect the x86<br /> merge to go ahead after that. So far, all indications are still that it&#8217;s<br /> going to be all smooth sailing, but hey, those indicators seem to always<br /> say that, and only after the fact do people notice any problems <img src="http://www.tuxmachines.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" />
   </p>
   
   <p>
@@ -70,33 +70,3 @@ tags:
 <p>
   <a href="http://pcburn.com/article.php?sid=2426" target="_blank">More </a><a href="http://kernelnewbies.org/Linux_2_6_23" target="_blank">here</a></font>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/10/stable-linux-kernel-2623-released/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-84" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/10/stable-linux-kernel-2623-released/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-84" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/10/stable-linux-kernel-2623-released/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-84" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/10/stable-linux-kernel-2623-released/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/10/stable-linux-kernel-2623-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

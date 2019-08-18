@@ -87,7 +87,7 @@ tags:
 This is the first BETA release of Linux Mint 4.0, codename Daryna, based on Celena and compatible with Ubuntu Gutsy and its repositories.
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/daryna.png" rel="lightbox"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/daryna.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/daryna.png" rel="lightbox"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/daryna.png" /></a>
 </p>
 
 Daryna is using Gutsy&#8217;s package base (kernel 2.6.22, Gnome 2.20, OpenOffice 2.3, Thunderbird 2.0&#8230;etc).
@@ -101,13 +101,13 @@ Daryna is using Gutsy&#8217;s package base (kernel 2.6.22, Gnome 2.20, OpenOffic
 <span style="font-weight: bold">With mintUpdate you can now get automatic updates without compromising the stability of your system. Updates are assigned a security level which indicates how safe they are for you to apply. MintUpdate also brings you more information about the updates and the risks involved in applying them.</span>
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/mintupdate.png"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/mintupdate.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/mintupdate.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/mintupdate.png" /></a>
 </p>
 
 MintUpdate is also highly configurable and you decide which levels you want to see and which you want selected by default.
 
 <p style="text-align: center">
-  <a href="https://i0.wp.com/linuxmint.com/pictures/screenshots/daryna/mintupdate2.png"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/mintupdate2.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/mintupdate2.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/mintupdate2.png" /></a>
 </p>
 
 The implementation of mintUpdate in Daryna follows the decision to remove the Ubuntu Update Manager in Celena because it didn&#8217;t give enough information about updates and assumed all updates were without risk for the user&#8217;s system.
@@ -117,19 +117,19 @@ The implementation of mintUpdate in Daryna follows the decision to remove the Ub
 MintInstall and the Software Portal were already available in Cassandra and Celena. Even though they were better alternatives than Click&#8217;n&#8217;Run, APTURL, PBIDir or the new SUSE initiative they failed to be noticed both by the press and by our own community. We asked ourselves why and came to the conclusion that there presence had not been made obvious enough. In Daryna, you can now interact with mintInstall without starting from the Portal. A link was added directly in the menu:
 
 <p style="text-align: center">
-  <a href="https://i1.wp.com/linuxmint.com/pictures/screenshots/daryna/portal.png"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/portal.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/portal.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/portal.png" /></a>
 </p>
 
 And a new frontend to mintInstall now allows you to search the portal directly from your desktop:
 
 <p style="text-align: center">
-  <a href="https://i0.wp.com/linuxmint.com/pictures/screenshots/daryna/portal2.png"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/portal2.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/portal2.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/portal2.png" /></a>
 </p>
 
 mintInstall itself was also made more intuitive and improvements were made to its interface.
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/portal3.png"><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/portal3.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/portal3.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/portal3.png" /></a>
 </p>
 
 In the backend, mintInstall now also relies on Synaptic and brings improvements on how it handles downloads/installations of packages and hotplugging of repositories.
@@ -139,7 +139,7 @@ In the backend, mintInstall now also relies on Synaptic and brings improvements 
 mintDesktop got major improvements in terms of usability and now has an extra-feature which lets you restore the default splash-screens coming with Linux Mint for OpenOffice, Gimp and Amarok:
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/mintdesktop.png"><img src="https://i1.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/mintdesktop.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/mintdesktop.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/mintdesktop.png" /></a>
 </p>
 
 <span style="font-weight: bold">4. Compiz Fusion</span>
@@ -147,11 +147,11 @@ mintDesktop got major improvements in terms of usability and now has an extra-fe
 Credits go to Xorg, Compiz Fusion and Ubuntu here for bringing us the best 3D effects available and activated out of the box in Daryna. We know how much you like these technologies so we also included the Compiz Fusion Setting Manager:
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/linuxmint.com/pictures/screenshots/daryna/compiz.png"><img src="https://i1.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/compiz.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/compiz.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/compiz.png" /></a>
 </p>
 
 <p style="text-align: center">
-  <a href="https://i1.wp.com/linuxmint.com/pictures/screenshots/daryna/compiz2.png"><img src="https://i1.wp.com/linuxmint.com/pictures/screenshots/daryna/thumbnails/compiz2.png?w=740" data-recalc-dims="1" /></a>
+  <a href="http://linuxmint.com/pictures/screenshots/daryna/compiz2.png"><img src="http://linuxmint.com/pictures/screenshots/daryna/thumbnails/compiz2.png" /></a>
 </p>
 
 **Note: The Restricted Manager was improved and should be able to bring 3D support to all nVidia cards. Envy is being developed at the moment to include the new ATI drivers released by AMD and will be included in the next BETA or in the stable release of Daryna.**
@@ -185,36 +185,6 @@ Credits go to Xorg, Compiz Fusion and Ubuntu here for bringing us the best 3D ef
 &#8211; On computers with Dell Recovery Partitions: Manual Install might not work in the liveCD installer. To fix this issue: &#8220;apt purge ubiquity; apt clean; apt install ubiquity&#8221; then perform the installation and restore the sources.list from the liveCD to the installed system.
 
 &#8211; On some hardware with ATI/nVidia cards: If the liveCD boots all the way to Gnome but hangs and just shows the mouse pointer and eventually the wallpaper, restart the liveCD, press F6 and change the options &#8220;quiet splash &#8211;&#8221; with &#8220;nosplash noapic noacpi &#8211;&#8220;.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/28/linux-mint-40-daryna-beta-021-released/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-138" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/28/linux-mint-40-daryna-beta-021-released/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-138" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/28/linux-mint-40-daryna-beta-021-released/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-138" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/28/linux-mint-40-daryna-beta-021-released/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/28/linux-mint-40-daryna-beta-021-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://linuxmint.com/rel_celena.php
  [2]: http://kernelnewbies.org/Linux_2_6_22

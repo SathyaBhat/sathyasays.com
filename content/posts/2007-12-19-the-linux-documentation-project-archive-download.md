@@ -39,36 +39,6 @@ A member of Mangalore LUG, [Dr. Neville][1] has uploaded this and was kind enoug
 
 Archive type: 7z, spanned, using [Peazip][6]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/19/the-linux-documentation-project-archive-download/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-212" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/19/the-linux-documentation-project-archive-download/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-212" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/19/the-linux-documentation-project-archive-download/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-212" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/19/the-linux-documentation-project-archive-download/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/19/the-linux-documentation-project-archive-download/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.neville.in
  [2]: http://massmirror.com/6ca088866dbde318492c663f5ec2d5ff.html
  [3]: http://massmirror.com/ee1d724b95e04ee279d71e77acba4bcd.html

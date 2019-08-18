@@ -18,7 +18,7 @@ tags:
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/open-world-need-for-/42e1aa">shared this story</a><br /> from <img src="https://i0.wp.com/icons.newsblur.com/3906447.png?w=740" style="vertical-align: middle;width:16px;height:16px;" data-recalc-dims="1" /> MCV: Home Stream:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/open-world-need-for-/42e1aa">shared this story</a><br /> from <img src="http://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
     </td>
   </tr>
   
@@ -32,7 +32,7 @@ tags:
         <hr style="clear: both; margin: 0 0 24px;" />
         
         <p>
-          <img alt="Open-world Need for Speed: Rivals announced by new studio Ghost Games" src="https://i2.wp.com/www.mcvindia.com/cimages/e1029cfc89d071ce9a2ba852a05cb93a.jpg?w=740" data-recalc-dims="1" />
+          <img alt="Open-world Need for Speed: Rivals announced by new studio Ghost Games" src="http://www.mcvindia.com/cimages/e1029cfc89d071ce9a2ba852a05cb93a.jpg" />
         </p>
         
         <p>
@@ -82,33 +82,3 @@ tags:
         <p>
           via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/mcvindia/stream/~3/8vrI-4aYg3w/0116061
         </p>
-        
-        <div class="sharedaddy sd-sharing-enabled">
-          <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-            <h3 class="sd-title">
-              Share this:
-            </h3>
-            
-            <div class="sd-content">
-              <ul>
-                <li class="share-pocket">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/05/24/open-world-need-for-speed-rivals-announced-by-new-studio-ghost-games/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-                </li>
-                <li class="share-twitter">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1209" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/05/24/open-world-need-for-speed-rivals-announced-by-new-studio-ghost-games/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-                </li>
-                <li class="share-facebook">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1209" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/05/24/open-world-need-for-speed-rivals-announced-by-new-studio-ghost-games/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-                </li>
-                <li class="share-linkedin">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1209" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/05/24/open-world-need-for-speed-rivals-announced-by-new-studio-ghost-games/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-                </li>
-                <li class="share-email">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/05/24/open-world-need-for-speed-rivals-announced-by-new-studio-ghost-games/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-                </li>
-                <li class="share-end">
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>

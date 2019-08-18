@@ -40,36 +40,6 @@ His way
  10. Pastes the line in Notepad.
  11. Saves.<figure style="width: 372px" class="wp-caption aligncenter">
 
-[<img src="https://i1.wp.com/i.stack.imgur.com/fTewC.jpg?resize=372%2C479" alt="What is this I don't even.." width="372" height="479" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">What is this I don&#8217;t even&#8230;.</figcaption></figure> 
+[<img src="http://i.stack.imgur.com/fTewC.jpg" alt="What is this I don't even.." width="372" height="479" />][1]<figcaption class="wp-caption-text">What is this I don&#8217;t even&#8230;.</figcaption></figure>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2014/08/12/an-indian-developers-way-of-handling-merge-conflict/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1264" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2014/08/12/an-indian-developers-way-of-handling-merge-conflict/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1264" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2014/08/12/an-indian-developers-way-of-handling-merge-conflict/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1264" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2014/08/12/an-indian-developers-way-of-handling-merge-conflict/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2014/08/12/an-indian-developers-way-of-handling-merge-conflict/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
- [1]: https://i1.wp.com/i.stack.imgur.com/fTewC.jpg
+ [1]: http://i.stack.imgur.com/fTewC.jpg

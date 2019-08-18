@@ -20,33 +20,3 @@ Off late, they have evolved into digital distribution &#8211; and they&#8217;re 
 GOG.com&#8217;s attempt to gain more people use their digital distribution platform is novel &#8211; something they call <a href="https://www.gog.com/connect" target="_blank">GOG Connect</a>. Basically, you link your Steam account to GOG.com and GOG.com will transfer games to your GOG library, to be available permanently. Obviously not all games are available &#8211; the games that can be transferred are subject to publishers/developers&#8217; participation and even with that, you can transfer them only for a short period of time.
 
 This is an interesting approach &#8211; GOG knows that a consumer won&#8217;t buy a game again(unless you&#8217;re feeling overly generous) &#8211; so they take swallow a bit of loss with the assumption that these consumers will buy from GOG&#8217;s storefront in the future. Will this work out for them? I really doubt so. But hey, at least I know that bunch of my purchased games are available to be played from elsewhere, without having to repurchase or pirate them.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1430" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1430" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1430" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

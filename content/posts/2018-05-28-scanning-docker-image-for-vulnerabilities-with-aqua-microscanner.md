@@ -84,33 +84,3 @@ I think this tool is really good, especially for small developers &#8211; with j
 &nbsp;
 
 PS: I will be speaking about Container Security at <a href="http://konfhub.com/cloudnativemeetup.html" target="_blank" rel="noopener">Cloud Native Meetup: Containers & Serverless Deepdive</a>. Do join if interested!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1600" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1600" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1600" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

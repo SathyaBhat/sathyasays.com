@@ -85,36 +85,6 @@ Software wise, there&#8217;s no difference between the DVD and CD edition, atlea
 
 Overall Gusty is a nice release. The new features(Deskbar, Trakker, BulletProof X for failsafe X onfiguration, AppArmour profiles) are worth the upgrade from Feisty to Gutsy. Me however will be sticking to the green Lizard, openSUSE 10.3, as Gusty offers nothing much to me compared to what openSUSE is offering, and working in any OS other than openSUSE 10.3 makes me realize how vital and useful the SLAB menu and integrated search feature is!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/10/a-look-at-ubuntu-gutsy-gibbon/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-191" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/10/a-look-at-ubuntu-gutsy-gibbon/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-191" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/10/a-look-at-ubuntu-gutsy-gibbon/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-191" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/10/a-look-at-ubuntu-gutsy-gibbon/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/10/a-look-at-ubuntu-gutsy-gibbon/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.chip-india.com
  [2]: http://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
  [3]: http://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/

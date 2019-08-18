@@ -43,35 +43,5 @@ Wish there would be something similar here. It&#8217;s be great the Linux moveme
 
 For those planning to go for the Convention, [here][2]&#8216;s more details
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/30/ubuntu-live-2008-take-ubuntu-further/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-250" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/30/ubuntu-live-2008-take-ubuntu-further/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-250" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/30/ubuntu-live-2008-take-ubuntu-further/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-250" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/30/ubuntu-live-2008-take-ubuntu-further/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/30/ubuntu-live-2008-take-ubuntu-further/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://en.oreilly.com/ubuntu2008/public/cfp/12
  [2]: http://en.oreilly.com/ubuntu2008/public/content/home

@@ -25,34 +25,4 @@ via [An AppleCare support rep talks: Mac malware is &#8220;getting worse&#8221; 
 
 (If you&#8217;re wondering what Mac Defender is &#8211;> <a title="no, MacDefender is not the best AntiVirus" href="http://arstechnica.com/apple/news/2011/05/fake-mac-defender-antivirus-app-scams-users-for-money-cc-numbers.ars" target="_blank">take a look</a>.)
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2011/05/19/mac-needs-no-antivirus/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1048" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2011/05/19/mac-needs-no-antivirus/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1048" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2011/05/19/mac-needs-no-antivirus/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1048" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2011/05/19/mac-needs-no-antivirus/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2011/05/19/mac-needs-no-antivirus/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.zdnet.com/blog/bott/an-applecare-support-rep-talks-mac-malware-is-getting-worse/3342?pg=1

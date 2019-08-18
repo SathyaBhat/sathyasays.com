@@ -683,35 +683,5 @@ irrecord fails on lirc 0.8.2, with kernel 2.6.22.1. It when a button is pressed,
   
 lirc 0.8.2 doesn&#8217;t support this kernel (it&#8217;s probably fixed in the latest version by the time you read this). Downgrade to 2.6.20 and it works like a charm.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/14/linux-problems-with-solutions/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-100" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/14/linux-problems-with-solutions/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-100" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/14/linux-problems-with-solutions/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-100" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/14/linux-problems-with-solutions/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/14/linux-problems-with-solutions/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.vidarholen.net/
  [2]: http://www.vidarholen.net/contents/linuxtips/xorg.conf

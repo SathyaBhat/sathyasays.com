@@ -85,19 +85,19 @@ For Windows, you have
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VMWare Workstation(commercial, with 30 day trial)
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Workstation(commercial, with 30 day trial)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VMWare Server(free, but no sound/USB support)
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server(free, but no sound/USB support)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VirtualBox (free, openSource, very light on system)
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox (free, openSource, very light on system)
 
 
   
@@ -107,53 +107,53 @@ Other Virtualization software include
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VMWare Server & Workstation
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server & Workstation
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VirtualBox
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> KEMU
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> KEMU
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> QEMU
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> QEMU
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> Bochs
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Bochs
 
 Mac users also have virtualization options, in form of
 
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> Apple&#8217;s BootCamp(now built into Leopard)
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Apple&#8217;s BootCamp(now built into Leopard)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> Parallels Desktop
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Parallels Desktop
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="https://i0.wp.com/www.tech2.com/forums/images/smilies/icon_arrow.gif?w=740" border="0" alt="Arrow" data-recalc-dims="1" /><!-- s:arrow: --> VMWare Fusion
+<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Fusion
 
 Here are couple of screentshots showing what a good system is capable of. I prefer Linux for Virtualization, because of it&#8217;s superior memory management.
   
-<a class="postlink" href="http://img221.imageshack.us/my.php?image=virtualization1ye2.jpg" target="_blank"><img src="https://i2.wp.com/img221.imageshack.us/img221/2751/virtualization1ye2.th.jpg?w=740" alt="Image" data-recalc-dims="1" /></a>
+<a class="postlink" href="http://img221.imageshack.us/my.php?image=virtualization1ye2.jpg" target="_blank"><img src="http://img221.imageshack.us/img221/2751/virtualization1ye2.th.jpg" alt="Image" /></a>
   
 The above picture shows my Linux desktop on a 3d Cube(Compiz Fusion ROCKS!! FTW!)
   
@@ -161,38 +161,8 @@ On the left side of the cube you can see openSUSE booting, while on the right si
 
 The next screenshot will make it even clearer.
   
-<a class="postlink" href="http://img218.imageshack.us/my.php?image=virtualization2bo3.jpg" target="_blank"><img src="https://i2.wp.com/img218.imageshack.us/img218/9574/virtualization2bo3.th.jpg?w=740" alt="Image" data-recalc-dims="1" /></a>
+<a class="postlink" href="http://img218.imageshack.us/my.php?image=virtualization2bo3.jpg" target="_blank"><img src="http://img218.imageshack.us/img218/9574/virtualization2bo3.th.jpg" alt="Image" /></a>
 
 As seen from the screen, my 3d Desktop is folded out and on my single system, I&#8217;m running total of 4 OS&#8217;s simultaneously &#8211; (from left to right), PC BSD, KDE Four Live(on openSUSE), Windows XP and of course, openSUSE my host system.
   
 Linux&#8217;s memory management is pretty obvious from this example, despite all these OS&#8217;s running(512MB for PC BSD, 512MB for KDE Four, 512 MB for XP) and despite Compiz Fusion running, I have over 250 MB free for my host machine and I can do all things &#8211; surf, listen to music, play with the desktop effects et all.
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-244" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-244" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-244" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

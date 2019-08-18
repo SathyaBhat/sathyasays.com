@@ -18,7 +18,7 @@ tags:
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/errord-where-i-come-/91001f">shared this story</a><br /> from <img src="https://i1.wp.com/icons.newsblur.com/941.png?w=740" style="vertical-align: middle;width:16px;height:16px;" data-recalc-dims="1" /> The Daily WTF:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/errord-where-i-come-/91001f">shared this story</a><br /> from <img src="http://icons.newsblur.com/941.png" style="vertical-align: middle;width:16px;height:16px;" /> The Daily WTF:</b>
     </td>
   </tr>
   
@@ -37,7 +37,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-1"><img alt="" border="0" src="https://i0.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-1.png?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-1"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-1.png" /></a>
           </p>
           
           <p>
@@ -51,7 +51,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-2"><img alt="" border="0" src="https://i2.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-2.jpg?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-2"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-2.jpg" /></a>
           </p>
           
           <p>
@@ -65,7 +65,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-3"><img alt="" border="0" src="https://i2.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-3.png?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-3"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-3.png" /></a>
           </p>
           
           <p>
@@ -79,7 +79,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-4"><img alt="" border="0" src="https://i0.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-4.png?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-4"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-4.png" /></a>
           </p>
           
           <p>
@@ -93,7 +93,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-5"><img alt="" border="0" src="https://i0.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-5.png?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-5"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-5.png" /></a>
           </p>
           
           <p>
@@ -107,7 +107,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="https://i0.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-6.png?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-6.png" /></a>
           </p>
           
           <p>
@@ -121,7 +121,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="https://i1.wp.com/img.thedailywtf.com/images/13/q2/e64/Pic-7.jpg?w=740" data-recalc-dims="1" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-7.jpg" /></a>
           </p>
           
           <p>
@@ -131,7 +131,7 @@ tags:
         
         <div style="margin: 10px; padding: 5px; background-color: #eee;">
           <div>
-            <img src="https://i1.wp.com/thedailywtf.com/tizes/ads/inedo40x40.png?w=740" style="display: block; float: left; margin-right: 4px;" data-recalc-dims="1" /> [Advertisement] <b>Make your team a DevOps team with <a href="http://inedo.com/?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">BuildMaster</a></b>. Pairing an easy-to-use web UI with a free base platform, BuildMaster gets you started in minutes. See how <a href="http://inedo.com/buildmaster/case-studies?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">Allrecipes.com and others</a> use BuildMaster to automate their software delivery.
+            <img src="http://thedailywtf.com/tizes/ads/inedo40x40.png" style="display: block; float: left; margin-right: 4px;" /> [Advertisement] <b>Make your team a DevOps team with <a href="http://inedo.com/?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">BuildMaster</a></b>. Pairing an easy-to-use web UI with a free base platform, BuildMaster gets you started in minutes. See how <a href="http://inedo.com/buildmaster/case-studies?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">Allrecipes.com and others</a> use BuildMaster to automate their software delivery.
           </div>
         </div>
         
@@ -149,33 +149,3 @@ tags:
         <p>
           via sathyabhat&#8217;s blurblog http://thedailywtf.com/Articles/Where-I-Come-From,-We-Dont-Need-July.aspx
         </p>
-        
-        <div class="sharedaddy sd-sharing-enabled">
-          <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-            <h3 class="sd-title">
-              Share this:
-            </h3>
-            
-            <div class="sd-content">
-              <ul>
-                <li class="share-pocket">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/05/15/errord-where-i-come-from-we-dont-need-july/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-                </li>
-                <li class="share-twitter">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1197" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/05/15/errord-where-i-come-from-we-dont-need-july/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-                </li>
-                <li class="share-facebook">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1197" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/05/15/errord-where-i-come-from-we-dont-need-july/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-                </li>
-                <li class="share-linkedin">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1197" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/05/15/errord-where-i-come-from-we-dont-need-july/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-                </li>
-                <li class="share-email">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/05/15/errord-where-i-come-from-we-dont-need-july/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-                </li>
-                <li class="share-end">
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>

@@ -40,7 +40,7 @@ Of course, there exceptions here and there but majority are tagged. So I was rat
 <!--more-->
 
 <p style="text-align: center;">
-  <figure style="width: 622px" class="wp-caption aligncenter"><a href="https://i0.wp.com/imagebin.ca/img/Vd4Ku-B.jpg"><img class=" " title="ID3 tag - gone!" src="https://i0.wp.com/imagebin.ca/img/Vd4Ku-B.jpg?resize=622%2C389" alt="ID3 tag - gone!" width="622" height="389" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">ID3 tag - gone!</figcaption></figure> 
+  <figure style="width: 622px" class="wp-caption aligncenter"><a href="http://imagebin.ca/img/Vd4Ku-B.jpg"><img class=" " title="ID3 tag - gone!" src="http://imagebin.ca/img/Vd4Ku-B.jpg" alt="ID3 tag - gone!" width="622" height="389" /></a><figcaption class="wp-caption-text">ID3 tag - gone!</figcaption></figure> 
   
   <p>
     I tried this for few more songs so that I can reproduce this, and confident of that, fired up the bug report tool and filed in a <a id="aptureLink_AJTpe7PkTC" href="https://bugs.kde.org/show_bug.cgi?id=228014">bug for the same</a>. In few hours, I got an email notification about change in status of the bug. Here&#8217;s what Myriam asked me:
@@ -77,35 +77,5 @@ Of course, there exceptions here and there but majority are tagged. So I was rat
   <p>
     (PS: If you&#8217;re wondering why its irritating, well, without the metadata the last.fm scrobbler won&#8217;t pick up the song and scrobble the play. Maybe you think its stupid, but *meh*).
   </p>
-  
-  <div class="sharedaddy sd-sharing-enabled">
-    <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-      <h3 class="sd-title">
-        Share this:
-      </h3>
-      
-      <div class="sd-content">
-        <ul>
-          <li class="share-pocket">
-            <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-          </li>
-          <li class="share-twitter">
-            <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-835" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-          </li>
-          <li class="share-facebook">
-            <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-835" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-          </li>
-          <li class="share-linkedin">
-            <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-835" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-          </li>
-          <li class="share-email">
-            <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-          </li>
-          <li class="share-end">
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
 
  [1]: http://sathyabh.at/2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/

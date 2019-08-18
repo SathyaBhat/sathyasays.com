@@ -137,33 +137,3 @@ Some notes:
 <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:cc24eaf5-ca0d-436d-95b2-25b799855bcb" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
   Technorati Tags: <a href="http://technorati.com/tags/linux" rel="tag">linux</a>,<a href="http://technorati.com/tags/opensource" rel="tag">opensource</a>,<a href="http://technorati.com/tags/commands" rel="tag">commands</a>,<a href="http://technorati.com/tags/tutorials" rel="tag">tutorials</a>,<a href="http://technorati.com/tags/tips+and+how-to's" rel="tag">tips and how-to&#8217;s</a>,<a href="http://technorati.com/tags/compiling" rel="tag">compiling</a>,<a href="http://technorati.com/tags/source" rel="tag">source</a>,<a href="http://technorati.com/tags/sathya" rel="tag">sathya</a>,<a href="http://technorati.com/tags/sathyasays.com" rel="tag">sathyasays.com</a>,<a href="http://technorati.com/tags/sathyasays" rel="tag">sathyasays</a>
 </div>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-331" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-331" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-331" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

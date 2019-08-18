@@ -97,34 +97,4 @@ As expected during early development snapshots, there are several known bugs tha
 
 Technorati Tags: <a href="http://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="http://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="http://technorati.com/tag/Ubuntu" class="performancingtags" rel="tag">Ubuntu</a>, <a href="http://technorati.com/tag/Hardy%20Heron" class="performancingtags" rel="tag">Hardy Heron</a>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/24/ubuntu-804-hardy-heron-alpha-2-released/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-215" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/24/ubuntu-804-hardy-heron-alpha-2-released/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-215" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/24/ubuntu-804-hardy-heron-alpha-2-released/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-215" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/24/ubuntu-804-hardy-heron-alpha-2-released/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/24/ubuntu-804-hardy-heron-alpha-2-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://pulseaudio.org/

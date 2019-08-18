@@ -68,35 +68,5 @@ And, that&#8217;s about it. Reboot, using the USB flash disk as boot device & vo
 
 Note: I&#8217;ve tried this with the KDE4 LiveCD version, if anyone else has tried the DVD version please drop a comment!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-758" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-758" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-758" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://sathyabh.at/
  [2]: http://en.opensuse.org/

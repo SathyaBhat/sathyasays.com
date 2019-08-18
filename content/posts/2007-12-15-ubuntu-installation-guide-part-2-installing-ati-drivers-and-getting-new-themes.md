@@ -78,35 +78,5 @@ Go to synaptic and search for gcursor. Install it. Restart X. Go to gnome-look.o
   
 That&#8217;s about it for now. More tutorials soon!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/15/ubuntu-installation-guide-part-2-installing-ati-drivers-and-getting-new-themes/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-188" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/15/ubuntu-installation-guide-part-2-installing-ati-drivers-and-getting-new-themes/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-188" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/15/ubuntu-installation-guide-part-2-installing-ati-drivers-and-getting-new-themes/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-188" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/15/ubuntu-installation-guide-part-2-installing-ati-drivers-and-getting-new-themes/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/15/ubuntu-installation-guide-part-2-installing-ati-drivers-and-getting-new-themes/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://ati.amd.com/support/drivers/linux/linux-radeon.html
  [2]: http://kde-look.org

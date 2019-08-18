@@ -36,35 +36,5 @@ In this interview Todd mentions that a Linux version of id Tech 5 is not planned
 
 The Golem.de reporters were able to [see][2] the game running on all four platforms the game will ship in (from the left: Mac, PC, PS3 and XBOX 360) and they were all purportedly running at 60 frames per second at 720p resolution. In that photograph it&#8217;s visible that the PC also has a XBOX 360 controller plugged-in.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/09/20/john-carmack-not-as-interested-in-linux-and-opengl/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-49" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/09/20/john-carmack-not-as-interested-in-linux-and-opengl/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-49" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/09/20/john-carmack-not-as-interested-in-linux-and-opengl/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-49" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/09/20/john-carmack-not-as-interested-in-linux-and-opengl/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/09/20/john-carmack-not-as-interested-in-linux-and-opengl/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.golem.de/0708/54357.html
  [2]: http://scr3.golem.de/?d=0708/idtech5&a=54357&s=4

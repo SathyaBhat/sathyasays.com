@@ -47,36 +47,6 @@ tags:
   5. [Experiencing Sabayon 5][6]{#aptureLink_9hqyejQU50} //personal note: must try it soon.
   6. First GNOME 3.0 development release [available][7]{#aptureLink_Dr8Kjty26c}.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/11/08/links-for-the-week/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-765" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/11/08/links-for-the-week/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-765" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/11/08/links-for-the-week/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-765" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/11/08/links-for-the-week/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/11/08/links-for-the-week/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://ubuntuforums.org/showthread.php?t=1305924
  [2]: http://linuxpoison.blogspot.com/2009/11/how-to-upgrade-from-ubuntu-904-jaunty.html
  [3]: http://www.ubuntugeek.com/install-nvidia-graphics-drivers-190-42-in-ubuntu-karmicjauntyintrepidhardy.html

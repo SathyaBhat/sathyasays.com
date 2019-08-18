@@ -66,36 +66,6 @@ For those who want to try KDE4.1, openSUSE KDE4.1 Live CD is available, download
   
 If you&#8217;re already using openSUSE 11, upgrade to KDE4.1 using the [1-click installer][4].
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/07/30/kde-41-released-gets-rave-reviews/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-332" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/07/30/kde-41-released-gets-rave-reviews/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-332" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/07/30/kde-41-released-gets-rave-reviews/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-332" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/07/30/kde-41-released-gets-rave-reviews/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/07/30/kde-41-released-gets-rave-reviews/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.linux.com/feature/142661
  [2]: http://www.tuxmachines.org/taxonomy/term/108
  [3]: http://home.kde.org/~binner/kde-four-live

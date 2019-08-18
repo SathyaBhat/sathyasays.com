@@ -18,7 +18,7 @@ tags:
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/column-the-sweet-sme/de8809">shared this story</a><br /> from <img src="https://i2.wp.com/icons.newsblur.com/655832.png?w=740" style="vertical-align: middle;width:16px;height:16px;" data-recalc-dims="1" /> IndianVideoGamer:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/column-the-sweet-sme/de8809">shared this story</a><br /> from <img src="http://icons.newsblur.com/655832.png" style="vertical-align: middle;width:16px;height:16px;" /> IndianVideoGamer:</b>
     </td>
   </tr>
   
@@ -38,33 +38,3 @@ tags:
         <p>
           via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/IVG/~3/PIHdT83vVi4/20086
         </p>
-        
-        <div class="sharedaddy sd-sharing-enabled">
-          <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-            <h3 class="sd-title">
-              Share this:
-            </h3>
-            
-            <div class="sd-content">
-              <ul>
-                <li class="share-pocket">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/05/19/column-the-sweet-smell-of-new-hardware/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-                </li>
-                <li class="share-twitter">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1205" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/05/19/column-the-sweet-smell-of-new-hardware/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-                </li>
-                <li class="share-facebook">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1205" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/05/19/column-the-sweet-smell-of-new-hardware/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-                </li>
-                <li class="share-linkedin">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1205" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/05/19/column-the-sweet-smell-of-new-hardware/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-                </li>
-                <li class="share-email">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/05/19/column-the-sweet-smell-of-new-hardware/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-                </li>
-                <li class="share-end">
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>

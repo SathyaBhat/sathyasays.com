@@ -79,7 +79,7 @@ tags:
 ---
 This is Linux Mint 3.1, codename Celena, based on Cassandra and compatible with Ubuntu Feisty and its repositories.
 
-<img src="https://i0.wp.com/linuxmint.com/pictures/screenshots/celena/012.png?w=740" style="width: 200px; height: 150px" data-recalc-dims="1" />
+<img src="http://linuxmint.com/pictures/screenshots/celena/012.png" style="width: 200px; height: 150px" />
 
 Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
   
@@ -94,7 +94,7 @@ Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
 </p>
 
 <p style="text-align: left">
-  <img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/celena/004.png?w=740" style="width: 501px; height: 260px" data-recalc-dims="1" />
+  <img src="http://linuxmint.com/pictures/screenshots/celena/004.png" style="width: 501px; height: 260px" />
 </p>
 
 <p style="text-align: left">
@@ -103,15 +103,15 @@ Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
 
 <span style="font-weight: bold">2. mintUpload</span>
 
-<img src="https://i1.wp.com/linuxmint.com/pictures/screenshots/celena/013.png?w=740" style="width: 265px; height: 375px" data-recalc-dims="1" /><img src="https://i2.wp.com/linuxmint.com/pictures/screenshots/celena/014.png?w=740" style="width: 423px; height: 274px" data-recalc-dims="1" />
+<img src="http://linuxmint.com/pictures/screenshots/celena/013.png" style="width: 265px; height: 375px" /><img src="http://linuxmint.com/pictures/screenshots/celena/014.png" style="width: 423px; height: 274px" />
 
 MintUpload allows the user to upload any file smaller than 10MB on the Internet. The user doesn&#8217;t have to worry about getting an FTP client or finding Web-space to store his files. It&#8217;s never been easier to share files with friends. MintUpload is also compatible with the mint-space service which allows files to be as big as 1GB. <span style="font-weight: bold"></span>
 
 <span style="font-weight: bold">3. New Artwork</span>
 
-[<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/artwork1.png?w=740" alt="artwork1.png" data-recalc-dims="1" />][1]
+[![artwork1.png][1]][2]
 
-[<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/artwork2.png?w=740" alt="artwork2.png" data-recalc-dims="1" />][2]
+[![artwork2.png][3]][4]
 
 If you&#8217;ve spent a bit of time on the Linux Mint&#8217;s forum you probably recognized Agust&#8217;s style in the new Celena. We&#8217;ve got a new artist, Agustin J. Verdegal T. and as you can see we&#8217;re very proud of him. In Celena, not only did we build the whole theme around his work but we also introduced a new graphical Grub menu using Gfxboot.
 
@@ -119,7 +119,7 @@ Notifications and power-management icons were also tweaked to integrate better w
 
 <span style="font-weight: bold">4. Print to PDF</span>
 
-[<img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png?w=740" alt="print-to-pdf.png" data-recalc-dims="1" />][3]
+[![print-to-pdf.png][5]][6]
 
 Whether it&#8217;s an email in Thunderbird, a Web page in Firefox or even a text-file in Gedit, no matter what it is or which application you view it from, Celena will let you print it as a PDF document. The resulting PDF file will automatically be saved within your Home/Documents folder.
 
@@ -156,39 +156,12 @@ Beagle is gone. A recent survey showed that a vast majority of Linux Mint users 
   * Solid package base (Google Earth, Picasa, Skype.. a lot of important software present in the repositories or in the Linux Mint Software Portal, compatibility with all Ubuntu Feisty repositories and most Debian packages)
   * Solid code base (Debian distribution built on top of Ubuntu Edgy. Inherits all innovations put into Cassandra and Bianca and default configurations from Bea)
 
-Source: [LinuxMint Website][4]
+Source: [LinuxMint Website][7]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/21/linux-mint-31-celena/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-120" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/21/linux-mint-31-celena/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-120" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/21/linux-mint-31-celena/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-120" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/21/linux-mint-31-celena/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/21/linux-mint-31-celena/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
- [1]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/artwork1.png "artwork1.png"
- [2]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/artwork2.png "artwork2.png"
- [3]: https://i0.wp.com/sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png "print-to-pdf.png"
- [4]: http://linuxmint.com/celena.html
+ [1]: http://sathyasays.com/wp-content/uploads/2007/10/artwork1.png
+ [2]: http://sathyasays.com/wp-content/uploads/2007/10/artwork1.png "artwork1.png"
+ [3]: http://sathyasays.com/wp-content/uploads/2007/10/artwork2.png
+ [4]: http://sathyasays.com/wp-content/uploads/2007/10/artwork2.png "artwork2.png"
+ [5]: http://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png
+ [6]: http://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png "print-to-pdf.png"
+ [7]: http://linuxmint.com/celena.html

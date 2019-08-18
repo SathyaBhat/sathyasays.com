@@ -43,33 +43,3 @@ State Sen. Stan Bingham, R-Denton, is known around Raleigh for his diesel Volksw
 The state Department of Revenue, which fined Teixeira, has asked legislators to waive the $2,500 bond for small fuel users. The department also told Teixeira, after the Observer asked about his case this week, that it will compromise on his fine.&#8221;
 
 Hmm, poor fella, does his bit to reduce oil consumption(albeit, for his own reasons, but nonetheless he \*does\* make an effort, doesn&#8217;t he?) and he gets fined!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/06/13/north-carolina-man-fined-for-using-vegetable-oil-as-fuel/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-17" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/06/13/north-carolina-man-fined-for-using-vegetable-oil-as-fuel/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-17" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/06/13/north-carolina-man-fined-for-using-vegetable-oil-as-fuel/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-17" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/06/13/north-carolina-man-fined-for-using-vegetable-oil-as-fuel/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/06/13/north-carolina-man-fined-for-using-vegetable-oil-as-fuel/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

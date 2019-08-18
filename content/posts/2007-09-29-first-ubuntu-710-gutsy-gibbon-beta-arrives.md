@@ -77,7 +77,7 @@ tags:
   - Xubuntu
 
 ---
-<font size="2"><img src="https://i1.wp.com/desktoplinux.com/files/misc/ubuntu-thm.jpg?w=740" align="left" hspace="10" vspace="5" data-recalc-dims="1" /><font face="Arial">Ubuntu fans rejoice! The first beta of the next Ubuntu 7.10, aka &#8220;Gutsy Gibbon,&#8221; arrived on Sept. 27, complete with corresponding releases of its variants: Kubuntu, Edubuntu, and Xubuntu desktop editions, as well as a server edition.</font></font>
+<font size="2"><img src="http://desktoplinux.com/files/misc/ubuntu-thm.jpg" align="left" hspace="10" vspace="5" /><font face="Arial">Ubuntu fans rejoice! The first beta of the next Ubuntu 7.10, aka &#8220;Gutsy Gibbon,&#8221; arrived on Sept. 27, complete with corresponding releases of its variants: Kubuntu, Edubuntu, and Xubuntu desktop editions, as well as a server edition.</font></font>
 
 <font size="2"><font face="Arial">Gutsy Gibbon continues </font><a href="http://www.ubuntu.org/" target="new"><font face="Arial">Ubuntu</font></a><font face="Arial">&#8216;s tradition of combining its own code with Debian, by integrating the latest and greatest open source technologies into a cutting-edge user-friendly Linux distribution. While best known as a desktop distribution, Ubuntu 7.10 also includes significant improvements to its server side.</font></font>
 
@@ -108,33 +108,3 @@ tags:
 <font size="2"><font face="Arial">For those who want a little adventure in their Linux lives, the Ubuntu 7.10 betas can be downloaded as ISOs and via BitTorrent from the following sites, depending on the desired desktop configuration: </font><a href="http://releases.ubuntu.com/releases/7.10" target="new"><font face="Arial">Ubuntu</font></a><font face="Arial">; </font><a href="http://releases.ubuntu.com/releases/kubuntu/7.10" target="new"><font face="Arial">Kubuntu</font></a><font face="Arial">; </font><a href="http://releases.ubuntu.com/releases/edubuntu/7.10" target="new"><font face="Arial">Edubuntu</font></a><font face="Arial">; </font><a href="http://cdimage.ubuntu.com/xubuntu/releases/7.10/beta" target="new"><font face="Arial">Xubuntu</font></a><font face="Arial">. There are also numerous mirror sites available.</font></font>
 
 <font size="2"><font face="Arial">Source: <a href="http://desktoplinux.com/news/NS4543424246.html">Desktop Linux</a></font></font>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/09/29/first-ubuntu-710-gutsy-gibbon-beta-arrives/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-65" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/09/29/first-ubuntu-710-gutsy-gibbon-beta-arrives/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-65" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/09/29/first-ubuntu-710-gutsy-gibbon-beta-arrives/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-65" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/09/29/first-ubuntu-710-gutsy-gibbon-beta-arrives/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/09/29/first-ubuntu-710-gutsy-gibbon-beta-arrives/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

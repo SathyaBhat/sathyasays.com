@@ -103,7 +103,7 @@ Since I&#8217;m pretty confident with the traditional installer, I thought I&#82
 The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; Demo and Full Installation(ie, boot into the LiveCD), Install within Windows(i.e., using Wubi) and Learn more.
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2456149305/"><img src="https://i2.wp.com/farm3.static.flickr.com/2260/2456149305_4a85167043_m.jpg?w=740" alt="" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2456149305/"><img src="http://farm3.static.flickr.com/2260/2456149305_4a85167043_m.jpg" alt="" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -111,7 +111,7 @@ The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2457062430/"><img src="https://i1.wp.com/farm4.static.flickr.com/3024/2457062430_bc55b333d0_m.jpg?w=740" alt="" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2457062430/"><img src="http://farm4.static.flickr.com/3024/2457062430_bc55b333d0_m.jpg" alt="" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -131,7 +131,7 @@ The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; 
 One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow, Feisty was ok, but Hardy IS very fast. In fact, it makes Windows XP&#8217;s Bootup after fresh install(which is the fastest) seem slow! Hardy was due to get a theme overall, but it was omitted out, so you&#8217;re stuck with the same dull Human/brown theme with a striking new wallpaper
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="https://i0.wp.com/farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg?resize=240%2C150" alt="" width="240" height="150" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg" alt="" width="240" height="150" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -143,7 +143,7 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455945925/"><img src="https://i2.wp.com/farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg?resize=240%2C195" alt="" width="240" height="195" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455945925/"><img src="http://farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg" alt="" width="240" height="195" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -155,11 +155,11 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: left;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2456888870/"><img src="https://i2.wp.com/farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg?w=740" alt="" data-recalc-dims="1" /></a> <a href="http://www.flickr.com/photos/sathyabhat/2455950591/"><img src="https://i0.wp.com/farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg?resize=240%2C150" alt="" width="240" height="150" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2456888870/"><img src="http://farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg" alt="" /></a> <a href="http://www.flickr.com/photos/sathyabhat/2455950591/"><img src="http://farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg" alt="" width="240" height="150" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="https://i1.wp.com/farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg?resize=240%2C150" alt="" width="240" height="150" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg" alt="" width="240" height="150" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -172,32 +172,3 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    <div class="sharedaddy sd-sharing-enabled">
-      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-        <h3 class="sd-title">
-          Share this:
-        </h3>
-        
-        <div class="sd-content">
-          <ul>
-            <li class="share-pocket">
-              <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/05/01/ubuntu-804-hardy-heron-chronicles-a-look-at-installation-and-first-glance/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-            </li>
-            <li class="share-twitter">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-292" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/05/01/ubuntu-804-hardy-heron-chronicles-a-look-at-installation-and-first-glance/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-            </li>
-            <li class="share-facebook">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-292" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/05/01/ubuntu-804-hardy-heron-chronicles-a-look-at-installation-and-first-glance/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-292" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/05/01/ubuntu-804-hardy-heron-chronicles-a-look-at-installation-and-first-glance/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/05/01/ubuntu-804-hardy-heron-chronicles-a-look-at-installation-and-first-glance/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>

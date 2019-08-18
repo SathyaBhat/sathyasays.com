@@ -54,7 +54,7 @@ What was broken, however, was my multi-monitor setup. My HP envy has a hybrid IG
 
 Post Windows 8 upgrade, I noticed that both the IGP as well as the GPU had been using Microsoft&#8217;s built-in drivers. While IGP drivers were working fine, the GPU drivers were borked and it was not being detected.
 
-[<img class="aligncenter" src="https://i1.wp.com/i.stack.imgur.com/jiQdJ.png?resize=518%2C74" alt="" width="518" height="74" data-recalc-dims="1" />][2]
+[<img class="aligncenter" src="http://i.stack.imgur.com/jiQdJ.png" alt="" width="518" height="74" />][2]
 
 I tried to use the previous Windows 7 drivers, running them under Windows 7 compatibility mode, but the install would silently fail. Taking a look at the logs, I see that the install failed because the installer kept throwing <a href="http://chat.stackexchange.com/transcript/118?m=6771791#6771791" target="_blank">ACCESS_VIOLATION errors in the MFC dlls</a>. With a little rubber-duck debugging help from Root Access, some VS 2005 runtime uninstalls, and a <a href="http://archive.msdn.microsoft.com/KB961894/Release/ProjectReleases.aspx?ReleaseId=2067" target="_blank">hotfix install</a> I managed to get the install running. The drivers still managed to fail installation &#8211; the drivers were dated back to 2010 and Windows refused to install the older drivers.
 
@@ -62,7 +62,7 @@ Finally after a lot of wrangling around, I downloaded AMD&#8217;s beta drivers(w
 
 Now I do have my extended desktop running, but being the beta drivers that they are, I&#8217;ve run into several driver crashes(thankfully since Vista or so, GPU driver crash no longer brings about a BSOD). And worst of all, my system believes there are 3 monitors
 
-[<img class="alignnone" src="https://i2.wp.com/i.stack.imgur.com/OVi9F.png?resize=668%2C366" alt="" width="668" height="366" data-recalc-dims="1" />][3]
+[<img class="alignnone" src="http://i.stack.imgur.com/OVi9F.png" alt="" width="668" height="366" />][3]
 
 This is a pain because I use Actual Multiple Monitors which adds 1-click move to next monitor and with the third &#8220;phantom&#8221; monitor, the move to next monitor workflow goes for a toss.
 
@@ -102,38 +102,6 @@ For powerusers, Win+C & Win+X and the desktop mode should keep you entertained.
   </p>
 </blockquote>
 
-
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1165" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1165" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1165" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://win8challenge.com/
- [2]: https://i1.wp.com/i.stack.imgur.com/jiQdJ.png
- [3]: https://i2.wp.com/i.stack.imgur.com/OVi9F.png
+ [2]: http://i.stack.imgur.com/jiQdJ.png
+ [3]: http://i.stack.imgur.com/OVi9F.png

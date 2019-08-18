@@ -51,34 +51,4 @@ Source: [DesktopLinux][1]
 
 Technorati Tags: <a href="http://technorati.com/tag/Lenovo" class="performancingtags" rel="tag">Lenovo</a>, <a href="http://technorati.com/tag/laptop" class="performancingtags" rel="tag">laptop</a>, <a href="http://technorati.com/tag/SUSE" class="performancingtags" rel="tag">SUSE</a>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/01/15/lenovo-delivers-suse-linux-based-laptops/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-238" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/01/15/lenovo-delivers-suse-linux-based-laptops/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-238" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/01/15/lenovo-delivers-suse-linux-based-laptops/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-238" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/01/15/lenovo-delivers-suse-linux-based-laptops/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/01/15/lenovo-delivers-suse-linux-based-laptops/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://desktoplinux.com/news/NS3449833487.html

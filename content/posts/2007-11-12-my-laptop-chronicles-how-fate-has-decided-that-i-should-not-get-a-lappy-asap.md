@@ -68,33 +68,3 @@ All this was on Saturday.
 Then today, I decided to ask my Project Manager to leave me a bit early so that I can take care of these Bank Hassles. Being a bit stern that he is, he enquired why(I asked for permission to leave at 4.45pm, my office is on the outskirts) but he let me go. I was happy. 4.45 I left, lucky to get share autos from Thoraipakkam to Adyar and from Adyar to Mylapore(both Rs 10 each) and I went walking from where I got down(Railway station) to the Branch, a good 30 minute walk. I reached there, grabbed the forms wrote 2 separate DD applications and gave it to the Bank Official. is reply just left me flabbergasted. &#8220;Sir, for DD more than Rs. 25, 000, you need to issue a Cheque&#8221; :| :| And guess what? My cheque book is in my office, safely locked away. Grrrr. What&#8217;s worse?? I had contemplated carrying it, but decided not to. Geeez what a dumbo I am. Really, what a dumbo I am.
 
 What will happen tomorrow? Hope fate will finally decide that I can make the payment and get the damn laptop!
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-155" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-155" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-155" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

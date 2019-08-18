@@ -39,36 +39,6 @@ Here&#8217;s my [how-to on installing the drivers][3].
 
 Do note that the drivers are still BETA.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-564" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-564" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-564" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.nvidia.com/object/linux_display_ia32_180.06.html
  [2]: http://www.nvidia.com/object/linux_display_amd64_180.06.html
  [3]: http://sathyasays.com/2007/12/15/compiz-fusion-on-opensuse-103-and-nvidia-cards/

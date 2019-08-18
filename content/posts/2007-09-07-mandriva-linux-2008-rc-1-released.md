@@ -188,36 +188,6 @@ This release candidate is available as a Free edition for the x86-32 and x86-64 
 
 The images are available from any official Mandriva mirror site in the /devel/iso/2008.0 subdirectory. For the list of Mandriva mirrors see [CookerMirrors][6].
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/09/07/mandriva-linux-2008-rc-1-released/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-41" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/09/07/mandriva-linux-2008-rc-1-released/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-41" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/09/07/mandriva-linux-2008-rc-1-released/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-41" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/09/07/mandriva-linux-2008-rc-1-released/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/09/07/mandriva-linux-2008-rc-1-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Development/RC1
  [2]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes
  [3]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/What%27s_New

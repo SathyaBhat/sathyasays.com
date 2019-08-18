@@ -69,34 +69,4 @@ As a result, nvidia-settings is not able to save the settings and every time I l
 
 8. You&#8217;re Done. Try logging off and back in.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-799" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-799" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-799" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://ubuntuforums.org/showthread.php?t=1260518

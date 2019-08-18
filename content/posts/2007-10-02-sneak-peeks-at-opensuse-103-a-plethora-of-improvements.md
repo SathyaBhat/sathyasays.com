@@ -106,36 +106,6 @@ openSUSE 10.3 will be released this Thursday, the 4th of October, so stay tuned 
 
 Source & More Details on [openSUSE.org][15]
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-71" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-71" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-71" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://en.opensuse.org/User:A_jaeger
  [2]: http://download.opensuse.org/update/10.3/
  [3]: http://packman.links2linux.org/

@@ -67,41 +67,11 @@ The last argument is the path to which directory the media must be mounted.
 The image below shows an example.
 
 <p align="center">
-  <a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2007/12/mount.jpg" title="mount.jpg"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2007/12/mount.thumbnail.jpg?w=740" alt="mount.jpg" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/mount.jpg" title="mount.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/mount.thumbnail.jpg" alt="mount.jpg" /></a>
 </p>
 
 <p align="left">
   If all goes well, you shouldn&#8217;t be getting any messages, as in the image. For .iso files, the steps are the same, just replace the .mdf file by the .iso file. The above method should work for CloneCD&#8217;s .ccd and Nero&#8217;s .nrg files(I remember it worked long time ago, not so sure though, if anyone can confirm this it&#8217;d be great!)
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-193" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-193" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-193" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://en.wikipedia.org/wiki/Loop_device

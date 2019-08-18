@@ -132,7 +132,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png" title="103_cdboot.png"><img src="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png?w=740" alt="103_cdboot.png" data-recalc-dims="1" /></a> <a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png" title="103bootsplash.png"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png?w=740" alt="103bootsplash_thumb.png" data-recalc-dims="1" /></a> <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg" title="suse103-1600×1200.jpg"><img src="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg?w=740" alt="suse103-1600×1200.jpg" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png" title="103_cdboot.png"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png" alt="103_cdboot.png" /></a> <a href="http://news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png" title="103bootsplash.png"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png" alt="103bootsplash_thumb.png" /></a> <a href="http://news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg" title="suse103-1600×1200.jpg"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg" alt="suse103-1600×1200.jpg" /></a>
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kde-desktop.png" title="openSUSE 10.3 KDE Desktop"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kde-desktop_thumb.png?w=740" alt="openSUSE 10.3 KDE Desktop" data-recalc-dims="1" /></a> <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kontact1.png" title="Kontact - Personal Information Manager"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kontact1_thumb.png?w=740" alt="Kontact Enterprise Version - Personal Information Manager" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/kde-desktop.png" title="openSUSE 10.3 KDE Desktop"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/kde-desktop_thumb.png" alt="openSUSE 10.3 KDE Desktop" /></a> <a href="http://news.opensuse.org/wp-content/uploads/2007/09/kontact1.png" title="Kontact - Personal Information Manager"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/kontact1_thumb.png" alt="Kontact Enterprise Version - Personal Information Manager" /></a>
 </p>
 
 <h2>
@@ -160,7 +160,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat.png" title="KPat - In the Game"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/kde4-kpat_thumb.png?w=740" alt="KPat - In the Game" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kmahjongg.png" title="KMahjongg in KDE4"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/kmahjongg_thumb.png?w=740" alt="KMahjongg in KDE4" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat.png" title="KPat - In the Game"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/kde4-kpat_thumb.png" alt="KPat - In the Game" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/09/kmahjongg.png" title="KMahjongg in KDE4"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/kmahjongg_thumb.png" alt="KMahjongg in KDE4" /></a>
 </p>
 
 <p>
@@ -168,7 +168,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kde4.png" title="kde4.png"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/kde4_thumb.png?w=740" data-recalc-dims="1" /></a><a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok.jpg" title="Amarok in KDE4"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok_thumb.jpg?w=740" alt="Amarok in KDE4" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/kde4.png" title="kde4.png"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/kde4_thumb.png" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok.jpg" title="Amarok in KDE4"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok_thumb.jpg" alt="Amarok in KDE4" /></a>
 </p>
 
 <h2>
@@ -180,7 +180,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop.png" title="10.3 GNOME Desktop"><img src="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop_thumb.png?w=740" alt="10.3 GNOME Desktop" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop.png" title="10.3 GNOME Desktop"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop_thumb.png" alt="10.3 GNOME Desktop" /></a>
 </p>
 
 <h2>
@@ -192,7 +192,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast.jpg" title="GTK YaST"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast_thumb.jpg?w=740" alt="GTK YaST" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth.jpg" title="Bluetooth Module"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth_thumb.jpg?w=740" alt="Bluetooth Module" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast.jpg" title="GTK YaST"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast_thumb.jpg" alt="GTK YaST" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth.jpg" title="Bluetooth Module"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth_thumb.jpg" alt="Bluetooth Module" /></a>
 </p>
 
 <p>
@@ -208,7 +208,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/1-click-install.png" title="1-Click Install"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/1-click-install_thumb.png?w=740" alt="1-Click Install" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/10/1-click-install.png" title="1-Click Install"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/1-click-install_thumb.png" alt="1-Click Install" /></a>
 </p>
 
 <p>
@@ -224,7 +224,7 @@ tags:
 </p>
 
 <p align="center">
-  <img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/amarok-mp31_thumb.png?w=740" alt="Install Fluendo GStreamer Codec" data-recalc-dims="1" />
+  <img src="http://news.opensuse.org/wp-content/uploads/2007/10/amarok-mp31_thumb.png" alt="Install Fluendo GStreamer Codec" />
 </p>
 
 <p>
@@ -248,7 +248,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/network-card.png" title="network-card.png"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/network-card_thumb1.png?w=740" alt="network-card.png" data-recalc-dims="1" /></a><a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/community-repos2.png" title="community-repos2.png"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/community-repos2_thumb.png?w=740" alt="Community Repositories" data-recalc-dims="1" /></a><a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi.png" title="YaST2 KIWI"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/yast2-kiwi_thumb.png?w=740" alt="YaST2 KIWI" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/network-card.png" title="network-card.png"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/network-card_thumb1.png" alt="network-card.png" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/09/community-repos2.png" title="community-repos2.png"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/community-repos2_thumb.png" alt="Community Repositories" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi.png" title="YaST2 KIWI"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/yast2-kiwi_thumb.png" alt="YaST2 KIWI" /></a>
 </p>
 
 <h2>
@@ -260,7 +260,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/08/expo.png" title="Expo Plugin"><img src="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/10/expo_thumb.png?w=740" alt="Expo Plugin" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/08/animation-explode.png" title="Explode Animation"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/animation-explode_thumb.png?w=740" alt="Explode Animation" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/08/shift-switcher.png" title="Shift Switcher"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/shift-switcher_thumb.png?w=740" alt="Shift Switcher" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/08/expo.png" title="Expo Plugin"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/expo_thumb.png" alt="Expo Plugin" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/08/animation-explode.png" title="Explode Animation"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/animation-explode_thumb.png" alt="Explode Animation" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/08/shift-switcher.png" title="Shift Switcher"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/shift-switcher_thumb.png" alt="Shift Switcher" /></a>
 </p>
 
 <p>
@@ -276,7 +276,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/virtualbox.png" title="VirtualBox running openSUSE 10.3 KDE"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/virtualbox_thumb.png?w=740" alt="VirtualBox running openSUSE 10.3 KDE" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/09/xen-103.png" title="openSUSE 10.3 in Xen"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/xen-103_thumb.png?w=740" alt="openSUSE 10.3 in Xen" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/virtualbox.png" title="VirtualBox running openSUSE 10.3 KDE"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/virtualbox_thumb.png" alt="VirtualBox running openSUSE 10.3 KDE" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/09/xen-103.png" title="openSUSE 10.3 in Xen"><img src="http://news.opensuse.org/wp-content/uploads/2007/09/xen-103_thumb.png" alt="openSUSE 10.3 in Xen" /></a>
 </p>
 
 <h2>
@@ -288,7 +288,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i1.wp.com/news.opensuse.org/wp-content/uploads/2007/09/ooo.png" title="OpenOffice.org Writer"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/ooo_thumb.png?w=740" data-recalc-dims="1" /></a><a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/oo-presenter.png" title="OpenOffice.org Presentation"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/oo-presenter_thumb.png?w=740" alt="OpenOffice.org Presentation" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/ooo.png" title="OpenOffice.org Writer"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/ooo_thumb.png" /></a><a href="http://news.opensuse.org/wp-content/uploads/2007/10/oo-presenter.png" title="OpenOffice.org Presentation"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/oo-presenter_thumb.png" alt="OpenOffice.org Presentation" /></a>
 </p>
 
 <h2>
@@ -300,7 +300,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/09/xfce.png" title="Xfce in openSUSE 10.3"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/xfce_thumb.png?w=740" alt="Xfce in openSUSE 10.3" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/09/xfce.png" title="Xfce in openSUSE 10.3"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/xfce_thumb.png" alt="Xfce in openSUSE 10.3" /></a>
 </p>
 
 <h1>
@@ -324,7 +324,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater.png" title="openSUSE Updater in KDE"><img src="https://i2.wp.com/news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater_thumb.png?w=740" alt="openSUSE Updater in KDE" data-recalc-dims="1" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater.png" title="openSUSE Updater in KDE"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater_thumb.png" alt="openSUSE Updater in KDE" /></a>
 </p>
 
 <h2>
@@ -356,7 +356,7 @@ tags:
 </h1>
 
 <p>
-  <a href="http://download.opensuse.org/" title="CDs and DVDs"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/cd.png?w=740" alt="CDs and DVDs" style="float: left; margin-right: 10px" data-recalc-dims="1" /></a><br /> All of the installation media can be downloaded from <a href="http://software.opensuse.org/"><strong>software.openSUSE.org</strong></a> via torrents or HTTP/FTP. Here’s a few quick links:
+  <a href="http://download.opensuse.org/" title="CDs and DVDs"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/cd.png" alt="CDs and DVDs" style="float: left; margin-right: 10px" /></a><br /> All of the installation media can be downloaded from <a href="http://software.opensuse.org/"><strong>software.openSUSE.org</strong></a> via torrents or HTTP/FTP. Here’s a few quick links:
 </p>
 
 <ul>
@@ -386,7 +386,7 @@ tags:
 </h2>
 
 <p>
-  <img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/upgrade.png?w=740" alt="Upgrade" style="padding-right: 10px; float: left" data-recalc-dims="1" /><br /> As always, you can fully upgrade your previous openSUSE 10.2 to the final version of openSUSE 10.3 by simply downloading one of the media options and burning it to disk, boot to it, and then select the <em>Upgrade</em> option in the installer. For the smoothest possible upgrade, leave the <em>“Add Online Repositories Before Installation”</em> option checked.
+  <img src="http://news.opensuse.org/wp-content/uploads/2007/10/upgrade.png" alt="Upgrade" style="padding-right: 10px; float: left" /><br /> As always, you can fully upgrade your previous openSUSE 10.2 to the final version of openSUSE 10.3 by simply downloading one of the media options and burning it to disk, boot to it, and then select the <em>Upgrade</em> option in the installer. For the smoothest possible upgrade, leave the <em>“Add Online Repositories Before Installation”</em> option checked.
 </p>
 
 <p>
@@ -406,7 +406,7 @@ tags:
 </h1>
 
 <p>
-  <a href="http://opensuse.org/Communicate" title="Communicate"><img src="https://i0.wp.com/news.opensuse.org/wp-content/uploads/2007/10/communicate.png?w=740" alt="Communicate" style="padding-right: 10px; float: left" data-recalc-dims="1" /></a><br /> We want to hear from you! To get help, provide any feedback, ask questions, or get involved and help contribute to the openSUSE distribution, please <a href="http://opensuse.org/Communicate">communicate</a>. There are several ways to get in touch with the openSUSE community, including:
+  <a href="http://opensuse.org/Communicate" title="Communicate"><img src="http://news.opensuse.org/wp-content/uploads/2007/10/communicate.png" alt="Communicate" style="padding-right: 10px; float: left" /></a><br /> We want to hear from you! To get help, provide any feedback, ask questions, or get involved and help contribute to the openSUSE distribution, please <a href="http://opensuse.org/Communicate">communicate</a>. There are several ways to get in touch with the openSUSE community, including:
 </p>
 
 <ul>
@@ -435,33 +435,3 @@ tags:
 <p>
   Have to say openSUSE 10.3 looks just brilliant! No reviews are out yet(had read one, but the review was more like look-at-me-I&#8217;m-the-first-to-review-open-SUSE10.3-kinda stuff. Really would love to test out openSUSE 10.3, when I get my PC!</font>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/05/announcing-opensuse-103/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-75" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/05/announcing-opensuse-103/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-75" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/05/announcing-opensuse-103/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-75" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/05/announcing-opensuse-103/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/05/announcing-opensuse-103/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

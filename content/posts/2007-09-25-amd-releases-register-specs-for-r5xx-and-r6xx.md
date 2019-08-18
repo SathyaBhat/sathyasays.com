@@ -36,37 +36,7 @@ Now, eight days later, Novell has [released][2] an alpha-quality driver for the 
 
 Given that ATi users generally have had problems under Linux due to ATi&#8217;s non disclosure of hardware details, and volunteers having to reverse engineer to get ussable drivers, this should hopefully reduce ATi users&#8217; frustrations.
 
-Source: [Joel Hruska][3] from [Ars Technica][4] 
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/09/25/amd-releases-register-specs-for-r5xx-and-r6xx/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-57" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/09/25/amd-releases-register-specs-for-r5xx-and-r6xx/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-57" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/09/25/amd-releases-register-specs-for-r5xx-and-r6xx/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-57" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/09/25/amd-releases-register-specs-for-r5xx-and-r6xx/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/09/25/amd-releases-register-specs-for-r5xx-and-r6xx/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+Source: [Joel Hruska][3] from [Ars Technica][4]
 
  [1]: http://www.x.org/docs/AMD
  [2]: http://news.opensuse.org/?p=265

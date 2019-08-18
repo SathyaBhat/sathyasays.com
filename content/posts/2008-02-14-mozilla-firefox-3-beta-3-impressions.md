@@ -54,7 +54,7 @@ Yesterday, Mozilla announced that the 3rd beta of the next version of their imme
 As seen from the picture, Beta 3 looks lot different from Beta 2(which more or less looked like Firefox 2).
 
 <p align="center">
-  <a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.thumbnail.PNG?w=740" alt="Firefox3 Beta 3" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><img src="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.thumbnail.PNG" alt="Firefox3 Beta 3" /></a>
 </p>
 
 <p align="left">
@@ -74,7 +74,7 @@ As seen from the picture, Beta 3 looks lot different from Beta 2(which more or l
 </p>
 
 <p style="text-align: center">
-  <a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.thumbnail.PNG?w=740" alt="Download Manager" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"><img src="http://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.thumbnail.PNG" alt="Download Manager" /></a>
 </p>
 
 The error messages for timeouts have also been tweaked slightly, making it more friendly for newbies.
@@ -84,7 +84,7 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p style="text-align: center">
-  <a href="https://i1.wp.com/sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"><img src="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/02/errmsg.thumbnail.png?w=740" alt="errmsg.png" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"><img src="http://sathyasays.com/wp-content/uploads/2008/02/errmsg.thumbnail.png" alt="errmsg.png" /></a>
 </p>
 
 <p align="left">
@@ -96,7 +96,7 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p align="center">
-  <a href="https://i0.wp.com/sathyasays.com/wp-content/uploads/2008/02/bookmark.PNG" title="bookmark.PNG"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/02/bookmark.thumbnail.PNG?w=740" alt="bookmark.PNG" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/02/bookmark.PNG" title="bookmark.PNG"><img src="http://sathyasays.com/wp-content/uploads/2008/02/bookmark.thumbnail.PNG" alt="bookmark.PNG" /></a>
 </p>
 
 <p align="left">
@@ -112,7 +112,7 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p style="text-align: center">
-  <a href="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"><img src="https://i2.wp.com/sathyasays.com/wp-content/uploads/2008/02/addons.thumbnail.PNG?w=740" alt="addons.PNG" data-recalc-dims="1" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"><img src="http://sathyasays.com/wp-content/uploads/2008/02/addons.thumbnail.PNG" alt="addons.PNG" /></a>
 </p>
 
 <p align="left">
@@ -126,35 +126,5 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 <p align="left">
   <a href="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><br /> </a>
 </p>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-257" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-257" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-257" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://sathyasays.com/2007/12/23/mozilla-firefox-3-beta-2-impressions/

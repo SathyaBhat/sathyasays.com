@@ -87,7 +87,7 @@ tags:
 </div>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2828772328/" target="_blank"><img class="aligncenter" src="https://i1.wp.com/farm4.static.flickr.com/3280/2828700202_4c92bc752a_m.jpg?w=740" alt="Homepage" data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2828772328/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3280/2828700202_4c92bc752a_m.jpg" alt="Homepage" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -99,7 +99,7 @@ tags:
 </div>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2828697754/" target="_blank"><img class="aligncenter" src="https://i2.wp.com/farm4.static.flickr.com/3090/2828697754_7dc3705799_m.jpg?w=740" alt="Chrome - Full " data-recalc-dims="1" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2828697754/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3090/2828697754_7dc3705799_m.jpg" alt="Chrome - Full " /></a>
 </p>
 
 <p style="text-align: left;">
@@ -131,7 +131,7 @@ tags:
   </ul>
   
   <p style="text-align: center;">
-    <a href="http://www.flickr.com/photos/sathyabhat/2828816522/" target="_blank"><img class="aligncenter" src="https://i1.wp.com/farm4.static.flickr.com/3123/2828816522_362b7f1222_m.jpg?w=740" alt="Search Engines" data-recalc-dims="1" /></a>
+    <a href="http://www.flickr.com/photos/sathyabhat/2828816522/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3123/2828816522_362b7f1222_m.jpg" alt="Search Engines" /></a>
   </p>
   
   <ul>
@@ -141,7 +141,7 @@ tags:
   </ul>
   
   <p style="text-align: center;">
-    <a style="text-decoration: none;" href="http://www.flickr.com/photos/sathyabhat/2828695746/" target="_blank"> <img style="text-decoration: underline;" src="https://i0.wp.com/farm4.static.flickr.com/3239/2828695746_634554ce1f_m.jpg?w=740" alt="Tabs" data-recalc-dims="1" /> <span style="color: #000000;"> </span></a><a href="http://www.flickr.com/photos/sathyabhat/2827800741/" target="_blank"><img src="https://i0.wp.com/farm4.static.flickr.com/3150/2827800741_90d9a97c14_m.jpg?w=740" alt="Tabs detached" data-recalc-dims="1" /></a>
+    <a style="text-decoration: none;" href="http://www.flickr.com/photos/sathyabhat/2828695746/" target="_blank"> <img style="text-decoration: underline;" src="http://farm4.static.flickr.com/3239/2828695746_634554ce1f_m.jpg" alt="Tabs" /> <span style="color: #000000;"> </span></a><a href="http://www.flickr.com/photos/sathyabhat/2827800741/" target="_blank"><img src="http://farm4.static.flickr.com/3150/2827800741_90d9a97c14_m.jpg" alt="Tabs detached" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -178,7 +178,7 @@ tags:
     </ul>
     
     <p style="text-align: center;">
-      <a href="http://www.flickr.com/photos/sathyabhat/2827861905/" target="_blank"><img class="aligncenter" src="https://i0.wp.com/farm4.static.flickr.com/3211/2827861905_a98af7a6d3_m.jpg?w=740" alt="Task Manager" data-recalc-dims="1" /></a>
+      <a href="http://www.flickr.com/photos/sathyabhat/2827861905/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3211/2827861905_a98af7a6d3_m.jpg" alt="Task Manager" /></a>
     </p>
     
     <p style="text-align: left; ">
@@ -219,35 +219,5 @@ tags:
     <p>
        
     </p>
-  </div>
-</div>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/09/05/google-chrome-impressions-links-and-running-it-in-linux-using-wine/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-357" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/09/05/google-chrome-impressions-links-and-running-it-in-linux-using-wine/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-357" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/09/05/google-chrome-impressions-links-and-running-it-in-linux-using-wine/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-357" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/09/05/google-chrome-impressions-links-and-running-it-in-linux-using-wine/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/09/05/google-chrome-impressions-links-and-running-it-in-linux-using-wine/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
   </div>
 </div>

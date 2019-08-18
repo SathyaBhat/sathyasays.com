@@ -61,33 +61,3 @@ tags:
 <font size="2">Sometimes there are upgrades that you can ignore. The improvements aren&#8217;t big enough or upgrading the program is too much trouble. But, then there are updates that are so important or add so much to a program, you must make the upgrade. SystemRescueCD is a must-upgrade for anyone who does computer repair work.</font>
 
 <font size="2">Source & Author: Steven J. Vaughan Nichols, <a href="http://desktoplinux.com/news/NS4076782266.html">DesktopLinux</a></font>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/07/the-best-linux-system-repair-distribution-gets-better/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-77" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/07/the-best-linux-system-repair-distribution-gets-better/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-77" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/07/the-best-linux-system-repair-distribution-gets-better/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-77" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/07/the-best-linux-system-repair-distribution-gets-better/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/07/the-best-linux-system-repair-distribution-gets-better/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

@@ -64,7 +64,7 @@ To use the GLMatrix screensaver use:
 
 > `xwinwrap -ov -fs -- /usr/lib/xscreensaver/glmatrix -root -window-id WID`
 
-<img class="alignnone" src="https://i2.wp.com/tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg?resize=500%2C313" alt="" width="500" height="313" data-recalc-dims="1" />
+<img class="alignnone" src="http://tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg" alt="" width="500" height="313" />
 
 To use a video as wallpaper using MPlayer:
 
@@ -78,43 +78,13 @@ The animated wallpaper appears at the top of the desktop though. So the desktop 
 
 And here&#8217;s my own Desktop :P
 
-[<img class="alignnone" src="https://i0.wp.com/img300.imageshack.us/img300/5684/screenshotrz2.png?resize=400%2C300" alt="" width="400" height="300" data-recalc-dims="1" />][10]
+[<img class="alignnone" src="http://img300.imageshack.us/img300/5684/screenshotrz2.png" alt="" width="400" height="300" />][10]
 
 I like this idea and I hope you will too. ENJOY!!!!
 
 * * *Thanks to Tom for 
 
-[this post][11] and pic.</p> 
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2009/01/31/animated-desktop-wallpapers-in-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-666" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2009/01/31/animated-desktop-wallpapers-in-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-666" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2009/01/31/animated-desktop-wallpapers-in-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-666" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2009/01/31/animated-desktop-wallpapers-in-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2009/01/31/animated-desktop-wallpapers-in-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+[this post][11] and pic.</p>
 
  [1]: http://stardock.com/
  [2]: http://wincustomize.com
@@ -125,5 +95,5 @@ I like this idea and I hope you will too. ENJOY!!!!
  [7]: http://tech.shantanugoel.com/resources/downloads/shantz-xwinwrap.zip
  [8]: http://webcvs.freedesktop.org/xapps/xwinwrap/
  [9]: http://en.opensuse.org/Xwinwrap
- [10]: https://i0.wp.com/img300.imageshack.us/img300/5684/screenshotrz2.png
+ [10]: http://img300.imageshack.us/img300/5684/screenshotrz2.png
  [11]: http://tombuntu.com/index.php/2008/12/15/animated-wallpaper-on-your-ubuntu-810-desktop/

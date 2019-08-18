@@ -98,36 +98,6 @@ Complied from <a rel="nofollow" href="http://www.linux.com/feature/133001" targe
   And yes you can <a href="http://www.twitter.com/sathyabhat">follow </a>me on twitter.
 </div>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/05/03/twitter-clients-for-linux/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-293" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/05/03/twitter-clients-for-linux/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-293" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/05/03/twitter-clients-for-linux/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-293" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/05/03/twitter-clients-for-linux/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/05/03/twitter-clients-for-linux/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.kde-apps.org/content/show.php/show.php?content=65012
  [2]: http://www.chimeric.de/projects/zentwitter
  [3]: http://code.google.com/p/gtwitter/

@@ -201,33 +201,3 @@ The one thing that is different from Windows XP here is that Windows installatio
         <p>
           <span style="font-size: 18px; line-height: normal"><span style="color: green"><br /> If you have any queries or are confused, just ask it in the <a href="http://www.sathyasays.com/forums">forums</a></span> </span>
         </p>
-        
-        <div class="sharedaddy sd-sharing-enabled">
-          <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-            <h3 class="sd-title">
-              Share this:
-            </h3>
-            
-            <div class="sd-content">
-              <ul>
-                <li class="share-pocket">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2007/10/31/linux-install-guide-for-newbies/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-                </li>
-                <li class="share-twitter">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-139" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2007/10/31/linux-install-guide-for-newbies/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-                </li>
-                <li class="share-facebook">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-139" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2007/10/31/linux-install-guide-for-newbies/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-                </li>
-                <li class="share-linkedin">
-                  <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-139" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2007/10/31/linux-install-guide-for-newbies/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-                </li>
-                <li class="share-email">
-                  <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2007/10/31/linux-install-guide-for-newbies/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-                </li>
-                <li class="share-end">
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>

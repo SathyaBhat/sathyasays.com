@@ -39,34 +39,4 @@ Source: [Phoronix][1]
 
 Technorati Tags: <a href="http://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="http://technorati.com/tag/NVIDIA" class="performancingtags" rel="tag">NVIDIA</a>, <a href="http://technorati.com/tag/Drivers" class="performancingtags" rel="tag">Drivers</a>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2008/02/02/nvidia-quietly-releases-17105-drivers/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-252" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2008/02/02/nvidia-quietly-releases-17105-drivers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-252" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2008/02/02/nvidia-quietly-releases-17105-drivers/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-252" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2008/02/02/nvidia-quietly-releases-17105-drivers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2008/02/02/nvidia-quietly-releases-17105-drivers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
  [1]: http://www.phoronix.com/scan.php?page=article&item=987&num=1

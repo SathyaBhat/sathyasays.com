@@ -18,7 +18,7 @@ tags:
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/grand-theft-auto-5-c/5a799a">shared this story</a><br /> from <img src="https://i0.wp.com/icons.newsblur.com/3906447.png?w=740" style="vertical-align: middle;width:16px;height:16px;" data-recalc-dims="1" /> MCV: Home Stream:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/grand-theft-auto-5-c/5a799a">shared this story</a><br /> from <img src="http://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
     </td>
   </tr>
   
@@ -31,7 +31,7 @@ tags:
 
 <hr style="clear: both; margin: 0 0 24px;" />
 
-<img alt="Grand Theft Auto 5 collector's editions announced, to release in India" src="https://i1.wp.com/www.mcvindia.com/cimages/fd2b93c2524cb6cd360e185526de1138.jpg?w=740" data-recalc-dims="1" />
+![Grand Theft Auto 5 collector's editions announced, to release in India][1]
 
 Rockstar Games today revealed two special editions for Grand Theft Auto 5, both of which will be available in India.
 
@@ -47,7 +47,7 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Bonus outfits, tattoos and more: Michael, Franklin and Trevor get bonus outfits, character-specific tattoos, and special deals from shopkeepers.
   * Additional weapons: When visiting Ammunation stores in single player, merchants will have special weapons in their inventory available for free: the Pistol .50, Bullpup Shotgun and melee Hammer.
 
-<img alt="" height="372" src="https://i2.wp.com/www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg?resize=620%2C372" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" data-recalc-dims="1" />
+<img alt="" height="372" src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" />
 
 **Collector&#8217;s Edition**
 
@@ -58,7 +58,7 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Unique vehicles and garage property: Instantly receive a garage to store custom vehicles. In single-player, the garage will be stocked with the 1930s style Hotknife hotrod and the CarbonRS sports bike. In Grand Theft Auto Online, players will get the high-end Khamelion electric car.
   * All contents of Special Edition.
 
-<img alt="" height="341" src="https://i0.wp.com/www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg?resize=620%2C341" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" data-recalc-dims="1" />
+<img alt="" height="341" src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" />
 
 Prices for the Special Edition and Collector&rsquo;s Edition haven&rsquo;t yet been announced, but considering the latter&rsquo;s $150 price tag internationally, we&rsquo;d expect something in the Rs 10,000 region.
 
@@ -70,32 +70,4 @@ _Sign up for the free MCV India newsletter&nbsp;<a href="http://mcvindia.com/use
 
 via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/mcvindia/stream/~3/60MEsCYJTeM/0116058
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-pocket">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://sathyasays.com/2013/05/24/grand-theft-auto-5-collectors-editions-announced-to-release-in-india/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a>
-        </li>
-        <li class="share-twitter">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1208" class="share-twitter sd-button share-icon" href="https://sathyasays.com/2013/05/24/grand-theft-auto-5-collectors-editions-announced-to-release-in-india/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1208" class="share-facebook sd-button share-icon" href="https://sathyasays.com/2013/05/24/grand-theft-auto-5-collectors-editions-announced-to-release-in-india/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li class="share-linkedin">
-          <a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1208" class="share-linkedin sd-button share-icon" href="https://sathyasays.com/2013/05/24/grand-theft-auto-5-collectors-editions-announced-to-release-in-india/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-        </li>
-        <li class="share-email">
-          <a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://sathyasays.com/2013/05/24/grand-theft-auto-5-collectors-editions-announced-to-release-in-india/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+ [1]: http://www.mcvindia.com/cimages/fd2b93c2524cb6cd360e185526de1138.jpg
