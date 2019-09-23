@@ -101,7 +101,7 @@ In conclusion &#8211; I&#8217;m very impressed by Jaunty &#8211; I think Jaunty 
 Here&#8217;s my Jaunty desktop right now:
 
 <p style="text-align: center;">
-  <a href="http://sathyasays.com/wp-content/uploads/2009/04/jaunty.png"><img class="aligncenter size-medium wp-image-728" title="Jaunty " src="http://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png" alt="Jaunty " width="300" height="187" srcset="https://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2009/04/jaunty.png"><img class="aligncenter size-medium wp-image-728" title="Jaunty " src="http://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png" alt="Jaunty "   srcset="https://sathyasays.com/wp-content/uploads/2009/04/jaunty-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/04/jaunty.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
  [1]: http://www.manishsinha.net/

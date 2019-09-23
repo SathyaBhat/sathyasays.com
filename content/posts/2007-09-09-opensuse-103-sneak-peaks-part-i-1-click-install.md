@@ -56,7 +56,7 @@ openSUSE contains thousands of packages that are often spread across various rep
 In openSUSE 10.3, if you are looking to install an application from the openSUSE Build Service you can now use the new [web front-end][5] to search, browse and install applications with a single click. An example search for Filelight (an application for visualizing disk usage on your computer) in openSUSE Factory is shown below:
 
 <p align="center">
-  <a href="http://news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png" title="Example Search for Filelight"><img src="http://news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png" alt="Example Search for Filelight" style="border: 1px solid #cccccc; padding: 2px" title="Example Search for Filelight" height="379" width="492" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png" title="Example Search for Filelight"><img src="http://news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png" alt="Example Search for Filelight" style="border: 1px solid #cccccc; padding: 2px" title="Example Search for Filelight"   /></a>
 </p>
 
 Once you click on _1-Click Install_ you are guided through a wizard that guides you through the simple process of installation the application. It will automatically add the repository for you and install the package. This process is demonstrated below:
@@ -70,7 +70,7 @@ This can all be tested right _now_ presuming you are running [openSUSE 10.3 Beta
 This new capability will also be used across [openSUSE-Community.org][9] in the future. The [Software Search][10] there also has an [updated version][11] in the works using the same One-Click Install technology. Below is, once again, an example search for _filelight_:
 
 <p align="center">
-  <a href="http://news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png" title="Software Search"><img src="http://news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png" alt="Software Search" style="border: 1px solid #cccccc; padding: 2px" height="302" width="455" /></a>
+  <a href="http://news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png" title="Software Search"><img src="http://news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png" alt="Software Search" style="border: 1px solid #cccccc; padding: 2px"   /></a>
 </p>
 
 Clicking on one of those links will take you through the same simple wizard as above.

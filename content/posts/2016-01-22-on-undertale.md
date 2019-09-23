@@ -26,7 +26,7 @@ tags:
 
 inspired by this and egged on by Rishi
 
-<blockquote class="twitter-tweet" data-width="550">
+<blockquote class="twitter-tweet" data->
   <p lang="en" dir="ltr">
     <a href="https://twitter.com/SathyaBhat">@SathyaBhat</a> Btw, grab Undertale you heathen.
   </p>

@@ -23,7 +23,7 @@ VR and me go like chalk and cheese &#8211; ever since a kid, I&#8217;ve had moti
 
 With that bit of context, the reactions that flew in when I told the folks that I(well Jo, my wife, to be more precise) bought the Rift was expected.
 
-<img class="aligncenter size-full wp-image-1547" src="https://sathyasays.com/wp-content/uploads/2017/11/rift-reaction.png" alt="" width="397" height="469" />
+<img class="aligncenter size-full wp-image-1547" src="https://sathyasays.com/wp-content/uploads/2017/11/rift-reaction.png" alt=""   />
 
 &nbsp;
 
@@ -35,19 +35,19 @@ I&#8217;ll let the pictures do the talking.
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-1555" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_124914-1.jpeg" alt="" width="1361" height="1021" />
+<img class="aligncenter size-full wp-image-1555" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_124914-1.jpeg" alt=""   />
 
-<img class="aligncenter size-full wp-image-1556" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125000-1.jpeg" alt="" width="1361" height="1021" />
+<img class="aligncenter size-full wp-image-1556" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125000-1.jpeg" alt=""   />
 
-<img class="aligncenter wp-image-1550" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125022.jpeg" alt="" width="1360" height="1021" />
+<img class="aligncenter wp-image-1550" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125022.jpeg" alt=""   />
 
-<img class="aligncenter size-full wp-image-1551" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125159.jpeg" alt="" width="766" height="1021" />
+<img class="aligncenter size-full wp-image-1551" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125159.jpeg" alt=""   />
   
-<img class="aligncenter size-medium wp-image-1552" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125245.jpeg" alt="" width="608" height="810" />
+<img class="aligncenter size-medium wp-image-1552" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125245.jpeg" alt=""   />
   
-<img class="aligncenter size-medium wp-image-1553" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125338.jpeg" alt="" width="608" height="810" />
+<img class="aligncenter size-medium wp-image-1553" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125338.jpeg" alt=""   />
 
-<img class="aligncenter size-medium wp-image-1554" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125509.jpeg" alt="" width="608" height="810" />
+<img class="aligncenter size-medium wp-image-1554" src="https://sathyasays.com/wp-content/uploads/2017/11/IMG_20170917_125509.jpeg" alt=""   />
   
 The Oculus Rift Touch bundle comes with 2 Touch controllers, 2x sensors, couple of AA batteries for the Touch controllers, the headset and a lens-cleaning cloth. There are few things worth mentioning:
 

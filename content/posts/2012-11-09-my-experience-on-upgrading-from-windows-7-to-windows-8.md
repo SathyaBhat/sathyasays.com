@@ -54,7 +54,7 @@ What was broken, however, was my multi-monitor setup. My HP envy has a hybrid IG
 
 Post Windows 8 upgrade, I noticed that both the IGP as well as the GPU had been using Microsoft&#8217;s built-in drivers. While IGP drivers were working fine, the GPU drivers were borked and it was not being detected.
 
-[<img class="aligncenter" src="http://i.stack.imgur.com/jiQdJ.png" alt="" width="518" height="74" />][2]
+[<img class="aligncenter" src="http://i.stack.imgur.com/jiQdJ.png" alt=""   />][2]
 
 I tried to use the previous Windows 7 drivers, running them under Windows 7 compatibility mode, but the install would silently fail. Taking a look at the logs, I see that the install failed because the installer kept throwing <a href="http://chat.stackexchange.com/transcript/118?m=6771791#6771791" target="_blank">ACCESS_VIOLATION errors in the MFC dlls</a>. With a little rubber-duck debugging help from Root Access, some VS 2005 runtime uninstalls, and a <a href="http://archive.msdn.microsoft.com/KB961894/Release/ProjectReleases.aspx?ReleaseId=2067" target="_blank">hotfix install</a> I managed to get the install running. The drivers still managed to fail installation &#8211; the drivers were dated back to 2010 and Windows refused to install the older drivers.
 
@@ -62,7 +62,7 @@ Finally after a lot of wrangling around, I downloaded AMD&#8217;s beta drivers(w
 
 Now I do have my extended desktop running, but being the beta drivers that they are, I&#8217;ve run into several driver crashes(thankfully since Vista or so, GPU driver crash no longer brings about a BSOD). And worst of all, my system believes there are 3 monitors
 
-[<img class="alignnone" src="http://i.stack.imgur.com/OVi9F.png" alt="" width="668" height="366" />][3]
+[<img class="alignnone" src="http://i.stack.imgur.com/OVi9F.png" alt=""   />][3]
 
 This is a pain because I use Actual Multiple Monitors which adds 1-click move to next monitor and with the third &#8220;phantom&#8221; monitor, the move to next monitor workflow goes for a toss.
 

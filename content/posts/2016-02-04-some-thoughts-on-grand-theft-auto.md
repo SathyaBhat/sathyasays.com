@@ -17,7 +17,7 @@ I&#8217;ve always loved the Grand Theft Auto series, but more so as a sandbox/st
 
 Few years on, I got my hands on <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City" target="_blank">Grand Theft Auto: Vice City</a> and that was the GTA game that I liked. Wheeling down the roads of Ocean Beach at night with the neon lights brightening up the roads and listening to &#8220;<a href="http://gta.wikia.com/Oliver_Biscuit" target="_blank">Ladykiller</a>&#8221; on <a href="https://www.youtube.com/watch?v=nJ0zRUbiCtA" target="_blank">Fever 105 FM</a> is a sublime experience that still hasn&#8217;t been matched.
 
-<img class=" aligncenter" src="http://img.gtavicecity.fr/ville/vcville1.jpg" alt="" width="880" height="604" />
+<img class=" aligncenter" src="http://img.gtavicecity.fr/ville/vcville1.jpg" alt=""   />
 
 And then there was the gameplay &#8211; I spent more time doing pizza delivery missions, fighting fires, rushing people to hospitals, trying to not crash that taxi while being under the time limit, trying to find rampages to finish off &#8211; suffice to say there were a **lot** many things to do other than finish the story.
 
@@ -39,15 +39,15 @@ GTA V has been awesome. Love the story, love the pacing. So many things I found 
 
 &nbsp;
 
-<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-29_00010.jpg" rel="attachment wp-att-1361"><img class="aligncenter wp-image-1361" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-29_00010.jpg" alt="2015-05-29_00010" width="640" height="360" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-29_00010.jpg" rel="attachment wp-att-1361"><img class="aligncenter wp-image-1361" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-29_00010.jpg" alt="2015-05-29_00010"   /></a>
 
-<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-31_00005.jpg" rel="attachment wp-att-1362"><img class="aligncenter wp-image-1362" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-31_00005.jpg" alt="2015-05-31_00005" width="640" height="360" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-31_00005.jpg" rel="attachment wp-att-1362"><img class="aligncenter wp-image-1362" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-31_00005.jpg" alt="2015-05-31_00005"   /></a>
 
-<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-22_00010.jpg" rel="attachment wp-att-1363"><img class="aligncenter wp-image-1363" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-22_00010.jpg" alt="2015-05-22_00010" width="640" height="360" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-22_00010.jpg" rel="attachment wp-att-1363"><img class="aligncenter wp-image-1363" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-22_00010.jpg" alt="2015-05-22_00010"   /></a>
 
 &nbsp;
 
-<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-17_00026.jpg" rel="attachment wp-att-1364"><img class="aligncenter wp-image-1364" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-17_00026.jpg" alt="2015-05-17_00026" width="640" height="360" /></a>
+<a href="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-17_00026.jpg" rel="attachment wp-att-1364"><img class="aligncenter wp-image-1364" src="https://sathyasays.com/wp-content/uploads/2016/02/2015-05-17_00026.jpg" alt="2015-05-17_00026"   /></a>
 
 While there&#8217;s no pizza delivery missions or ambulance missions &#8211; there are plenty of other side missions and hobbies that you can pursue &#8211; including Street Races, Golf, Tennis, Bike races, Triathlons among many others to keep you occupied.
 

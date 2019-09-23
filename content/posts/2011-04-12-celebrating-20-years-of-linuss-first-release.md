@@ -37,11 +37,11 @@ LF YouTube video:
 
 Infographic:
 
-[<img class="alignnone" title="20 years of Linux" src="http://i.imgur.com/uQg4b.png" alt="" width="614" height="491" />][1]
+[<img class="alignnone" title="20 years of Linux" src="http://i.imgur.com/uQg4b.png" alt=""   />][1]
 
 Winning T-shirt in <a href="http://www.linux.com/tshirt-design-contest" target="_blank">T-shirt design contest</a>
 
-[<img class="alignnone" title="Winning T-shirt" src="http://i.imgur.com/NYGNj.jpg" alt="" width="350" height="350" />][2]
+[<img class="alignnone" title="Winning T-shirt" src="http://i.imgur.com/NYGNj.jpg" alt=""   />][2]
 
 <a href="http://video.linux.com/categories/video-contests/20th-anniversary-linux-video-contest" target="_blank">Submit your</a> one-minute video about the impact of Linux.
 

@@ -38,7 +38,7 @@ tags:
 They say a picture is worth a thousand words. [This picture][1]{#aptureLink_ZLuYVKGOuU} speaks for itself. Yes, its fugly. What the heck are those 3 bloody orbs ?
 
 <p style="text-align: center;">
-  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="http://i.imgur.com/YCn7C.jpg" alt="" width="492" height="307" /></a>
+  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="http://i.imgur.com/YCn7C.jpg" alt=""   /></a>
 </p>
 
 <!--more-->

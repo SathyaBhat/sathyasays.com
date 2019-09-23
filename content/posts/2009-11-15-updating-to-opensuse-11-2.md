@@ -43,7 +43,7 @@ Just change the repos to mention 11.2 instead of 11.0/11.1, as shown in the pic:
 
 <!--more-->
 
-[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="http://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos" width="300" height="155" srcset="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg 300w, https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="http://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg 300w, https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Once that&#8217;s done, open the terminal, and switch to root
 

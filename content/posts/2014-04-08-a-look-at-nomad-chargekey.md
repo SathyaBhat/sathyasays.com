@@ -19,17 +19,17 @@ I&#8217;ve tried many &#8220;techniques&#8221; to &#8220;improve&#8221; battery 
 
 Few weeks ago, <a href="http://www.hellonomad.com/" target="_blank">NOMAD</a> sent me an interesting little device &#8211; the <a href="http://www.hellonomad.com/products/chargekey-micro-usb" target="_blank">NOMAD ChargeKey</a>. Dubbed as one of the most portable charger, I wasn&#8217;t convinced of it&#8217;s size & portability till I had it on my hands.
 
-[<img alt="NOMAD ChargeKey" src="https://farm4.staticflickr.com/3705/13699509903_a558bba931.jpg" width="500" height="375" />][1]
+[<img alt="NOMAD ChargeKey" src="https://farm4.staticflickr.com/3705/13699509903_a558bba931.jpg"   />][1]
 
 &nbsp;
 
 Incredibly, yes it is the about the size of your keys. That&#8217;s a huge advantage &#8211; and a disadvantage. You&#8217;re likely to have your keys wherever you go, so the convenience of carrying your own USB cable around you is pretty sweet. The ChargeKey is an all-rubber/plastic gadget, and it flexed well and retained it&#8217;s shape after I put it through a barrage of twisted-shape positions.
 
-[<img alt="NOMAD ChargeKey" src="https://farm3.staticflickr.com/2880/13699725214_d64b868194.jpg" width="500" height="375" />][2]
+[<img alt="NOMAD ChargeKey" src="https://farm3.staticflickr.com/2880/13699725214_d64b868194.jpg"   />][2]
 
 With that said, however, it&#8217;s kinda ironic that it&#8217;s most touted and best feature &#8211; portability &#8211; is also it&#8217;s drawback. Yes, it&#8217;s portable, yes, it goes everywhere, however &#8211; the ChargeKey has been designed keeping almost exclusively with a laptop-on-a-desk in mind. So if you&#8217;re someone like me who uses a desktop almost exclusively the ChargeKey becomes nigh impossible. My cabinet does have a USB cable on the tap of the cabinet, unlike most cabinets which have it in front, so the ChargeKey sits there forever, waiting for the phone to be plugged in.
 
-[<img alt="NOMAD ChargeKey" src="https://farm8.staticflickr.com/7072/13699541045_f27a640129.jpg" width="500" height="375" />][3]
+[<img alt="NOMAD ChargeKey" src="https://farm8.staticflickr.com/7072/13699541045_f27a640129.jpg"   />][3]
 
 &nbsp;
 

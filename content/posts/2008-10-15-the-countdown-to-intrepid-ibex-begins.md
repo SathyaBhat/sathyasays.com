@@ -22,7 +22,7 @@ tags:
   - X
 
 ---
-[<img src="http://www.ubuntu-pics.de/counter/" border="0" alt="Countdown von Ubuntu 8.10 (intrepid ibex)" width="154" height="155" />][1][<img src="http://aplg.kollide.net/kubuntu/counter/small.en.png" border="0" alt="" />][2]
+[<img src="http://www.ubuntu-pics.de/counter/" border="0" alt="Countdown von Ubuntu 8.10 (intrepid ibex)"   />][1][<img src="http://aplg.kollide.net/kubuntu/counter/small.en.png" border="0" alt="" />][2]
 
 Ubuntu Counter courtesy [Ubuntu Pics][3]
 

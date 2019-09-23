@@ -64,7 +64,7 @@ To use the GLMatrix screensaver use:
 
 > `xwinwrap -ov -fs -- /usr/lib/xscreensaver/glmatrix -root -window-id WID`
 
-<img class="alignnone" src="http://tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg" alt="" width="500" height="313" />
+<img class="alignnone" src="http://tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg" alt=""   />
 
 To use a video as wallpaper using MPlayer:
 
@@ -78,7 +78,7 @@ The animated wallpaper appears at the top of the desktop though. So the desktop 
 
 And here&#8217;s my own Desktop :P
 
-[<img class="alignnone" src="http://img300.imageshack.us/img300/5684/screenshotrz2.png" alt="" width="400" height="300" />][10]
+[<img class="alignnone" src="http://img300.imageshack.us/img300/5684/screenshotrz2.png" alt=""   />][10]
 
 I like this idea and I hope you will too. ENJOY!!!!
 

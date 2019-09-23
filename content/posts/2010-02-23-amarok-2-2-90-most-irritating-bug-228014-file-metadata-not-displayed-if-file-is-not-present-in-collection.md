@@ -40,7 +40,7 @@ Of course, there exceptions here and there but majority are tagged. So I was rat
 <!--more-->
 
 <p style="text-align: center;">
-  <figure style="width: 622px" class="wp-caption aligncenter"><a href="http://imagebin.ca/img/Vd4Ku-B.jpg"><img class=" " title="ID3 tag - gone!" src="http://imagebin.ca/img/Vd4Ku-B.jpg" alt="ID3 tag - gone!" width="622" height="389" /></a><figcaption class="wp-caption-text">ID3 tag - gone!</figcaption></figure> 
+  <figure style="width: 622px" class="wp-caption aligncenter"><a href="http://imagebin.ca/img/Vd4Ku-B.jpg"><img class=" " title="ID3 tag - gone!" src="http://imagebin.ca/img/Vd4Ku-B.jpg" alt="ID3 tag - gone!"   /></a><figcaption class="wp-caption-text">ID3 tag - gone!</figcaption></figure> 
   
   <p>
     I tried this for few more songs so that I can reproduce this, and confident of that, fired up the bug report tool and filed in a <a id="aptureLink_AJTpe7PkTC" href="https://bugs.kde.org/show_bug.cgi?id=228014">bug for the same</a>. In few hours, I got an email notification about change in status of the bug. Here&#8217;s what Myriam asked me:

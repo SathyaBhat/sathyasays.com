@@ -42,13 +42,13 @@ You can install the RC version from Naendo repo, I recommend that you wait for t
 
 Some screenshots from KDE 4.2 release page:
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png" alt="" width="324" height="194" />][1]
+[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png" alt=""   />][1]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/systray-progress.png" alt="" width="364" height="335" />][2]
+[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/systray-progress.png" alt=""   />][2]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png" alt="" width="324" height="125" />][3]
+[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png" alt=""   />][3]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png" alt="" width="324" height="198" />][4]
+[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png" alt=""   />][4]
 
 Can&#8217;t wait to upgrade to it.
 

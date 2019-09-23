@@ -63,7 +63,7 @@ That didn&#8217;t return anything, so I went back to the big G and searched deep
 
 And indeed, it was
 
-<img class="aligncenter" title="Notes" src="http://i.imgur.com/CWYMH.png" alt="" width="666" height="505" />
+<img class="aligncenter" title="Notes" src="http://i.imgur.com/CWYMH.png" alt=""   />
 
 Unfortunately, given the data stored against it, I don&#8217;t think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
 
