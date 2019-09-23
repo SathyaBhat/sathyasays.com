@@ -39,7 +39,7 @@ In the past I&#8217;ve done [couple][1] of posts explaining few of the common co
 </p>
 
 <p style="text-align: left;">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png"><img class="aligncenter size-medium wp-image-756" title="clicommandsquickreference" src="http://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png" alt="clicommandsquickreference" width="300" height="175" srcset="https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png 300w, https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png"><img class="aligncenter size-medium wp-image-756" title="clicommandsquickreference" src="http://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png" alt="clicommandsquickreference"   srcset="https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png 300w, https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
  [1]: http://sathyasays.com/tag/commands/

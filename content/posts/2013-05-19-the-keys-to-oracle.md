@@ -13,7 +13,7 @@ tags:
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #f0f0f0;" width="100%" cellpadding="0" align="left">
   <tr>
-    <td style="padding: 6px; width: 36px; white-space: nowrap;" rowspan="2" valign="top" width="36">
+    <td style="padding: 6px; width: 36px; white-space: nowrap;" rowspan="2" valign="top" >
       <img style="width: 36px; height: 36px; border-radius: 4px;" src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" alt="" />
     </td>
     
@@ -40,7 +40,7 @@ tags:
 > </div>
 
 <div class="blogger-post-footer">
-  <del><img src="https://blogger.googleusercontent.com/tracker/11839365-8410462515596862592?l=tkyte.blogspot.com" alt="" width="1" height="1" /></del>
+  <del><img src="https://blogger.googleusercontent.com/tracker/11839365-8410462515596862592?l=tkyte.blogspot.com" alt=""   /></del>
 </div>
 
 via sathyabhat&#8217;s blurblog. More at <a href="http://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html" target="_blank">http://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html</a>

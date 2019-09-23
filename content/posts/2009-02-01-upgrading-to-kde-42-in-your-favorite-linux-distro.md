@@ -121,13 +121,13 @@ Thanks to RollMeWay for [the][6] [inputs][7]
 
 Some pics:
 
-[<img src="http://farm4.static.flickr.com/3454/3242040790_e85b436280.jpg" alt="KDE 4.2 show all windows" width="500" height="313" />][8]
+[<img src="http://farm4.static.flickr.com/3454/3242040790_e85b436280.jpg" alt="KDE 4.2 show all windows"   />][8]
 
-[<img src="http://farm4.static.flickr.com/3260/3241207261_7ea9753114.jpg" alt="kde 4.2 cube" width="500" height="313" />][9]
+[<img src="http://farm4.static.flickr.com/3260/3241207261_7ea9753114.jpg" alt="kde 4.2 cube"   />][9]
 
-[<img src="http://farm4.static.flickr.com/3489/3241206137_71e738408f.jpg" alt="KDE 4.2 grouping" width="500" height="313" />][10]
+[<img src="http://farm4.static.flickr.com/3489/3241206137_71e738408f.jpg" alt="KDE 4.2 grouping"   />][10]
 
-[<img src="http://farm4.static.flickr.com/3308/3241205429_fd2b87786b.jpg" alt="KDE 4.2" width="500" height="313" />][11]
+[<img src="http://farm4.static.flickr.com/3308/3241205429_fd2b87786b.jpg" alt="KDE 4.2"   />][11]
 
 **WARNING: While Upgrading to KDE 4.2 on Sabayon, wireless will be broken. This isn&#8217;t KDE 4.2&#8217;s fault, I&#8217;m inclined to say its because of PolicyKit since PolicyKit was installed as I installed KDE4.2 and I know PolicyKit can be a \_real\_ pain.
   

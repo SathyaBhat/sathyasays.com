@@ -77,15 +77,15 @@ Apart from that there was no problem at all.
   
 The splash screen is the ubuntu logo with a rat in the center. The whole distro sports a blue look which makes it look really great. The login window is designed to perfection. Here is a picture of the desktop
   
-<a href="http://adi.pictiger.com/images/13034374/" title="Desktop" rel="lightboxadi"><img src="http://img6.pictiger.com/aa1/13034374_th.png" alt="Xubuntu Desktop" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034374/" title="Desktop" rel="lightboxadi"><img src="http://img6.pictiger.com/aa1/13034374_th.png" alt="Xubuntu Desktop"   /></a>
 
 The file manager is thunar which bears close resemblance with nautililus
   
-<a href="http://adi.pictiger.com/images/13034381/" rel="lightboxadi" title="Thunar"><img src="http://img6.pictiger.com/da0/13034381_th.png" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034381/" rel="lightboxadi" title="Thunar"><img src="http://img6.pictiger.com/da0/13034381_th.png"   /></a>
   
 The default theme is pretty decent but it comes with a large number of themes each one better than the other. Here&#8217;s the theme manager
   
-<a href="http://adi.pictiger.com/images/13034382/" rel="lightboxadi" title="Theme manager"><img src="http://img6.pictiger.com/b53/13041241_th.png" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034382/" rel="lightboxadi" title="Theme manager"><img src="http://img6.pictiger.com/b53/13041241_th.png"   /></a>
   
 One thing I liked about Xubuntu is the right-click(Yeah! That&#8217;s right the right click). While some like the right click menu others donot. So which one does Xubuntu have.
   
@@ -93,17 +93,17 @@ One can actually choose if one want&#8217;s right click menu or not. Pretty good
   
 Xubuntu comes with a terminal.
   
-<a href="http://adi.pictiger.com/images/13034379/" rel="lightboxadi" title="The terminator"><img src="http://img6.pictiger.com/f8f/13034379_th.png" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034379/" rel="lightboxadi" title="The terminator"><img src="http://img6.pictiger.com/f8f/13034379_th.png"   /></a>
   
 Abiword and Gnumeric(spreadsheet) for office
   
-<a href="http://adi.pictiger.com/images/13034372/" rel="lightboxadi" title="Abiword"><img src="http://img6.pictiger.com/88d/13034372_th.png" alt="Abiword" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034372/" rel="lightboxadi" title="Abiword"><img src="http://img6.pictiger.com/88d/13034372_th.png" alt="Abiword"   /></a>
   
-<a href="http://adi.pictiger.com/images/13034378/" rel="lightboxadi" title="Gnumeric"><img src="http://img6.pictiger.com/f3a/13034378_th.png" alt="Gnumeric" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034378/" rel="lightboxadi" title="Gnumeric"><img src="http://img6.pictiger.com/f3a/13034378_th.png" alt="Gnumeric"   /></a>
   
 It comes with Mozilla Firefox for a internet browser
   
-<a href="http://adi.pictiger.com/images/13034376/" rel="lightbox[groupname]" title="Firefox"><img src="http://img6.pictiger.com/e46/13034376_th.png" alt="Firefox" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13034376/" rel="lightbox[groupname]" title="Firefox"><img src="http://img6.pictiger.com/e46/13034376_th.png" alt="Firefox"   /></a>
   
 It comes with gxine for audio/video but cannot play mp3 out of the box.
   
@@ -129,7 +129,7 @@ You can also create a new panel and add your favourite programs to it.
   
 Heres a picture of the final desktop
   
-<a href="http://adi.pictiger.com/images/13041236/" rel="lightbox[groupname]" title="Pimped up"><img src="http://img6.pictiger.com/4b5/13041236_th.png" alt="Pimped Up" height="100" width="100" /></a>
+<a href="http://adi.pictiger.com/images/13041236/" rel="lightbox[groupname]" title="Pimped up"><img src="http://img6.pictiger.com/4b5/13041236_th.png" alt="Pimped Up"   /></a>
   
 **Final Thoughts**
   

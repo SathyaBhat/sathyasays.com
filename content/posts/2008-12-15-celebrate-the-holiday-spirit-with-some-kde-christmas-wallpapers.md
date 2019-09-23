@@ -22,13 +22,13 @@ The holidays are upon us :) &#8216;t is the season to be jolly, and Wade Olson h
 
 <!--more-->
 
- <img class="alignnone" title="KDE Snow" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow1_400.jpg?w=400&h=250" alt="" width="400" height="250" /><img class="alignnone" title="KDE Snow 2" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow2_400.jpg?w=400&h=300" alt="" width="400" height="300" />
+ <img class="alignnone" title="KDE Snow" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow1_400.jpg?w=400&h=250" alt=""   /><img class="alignnone" title="KDE Snow 2" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow2_400.jpg?w=400&h=300" alt=""   />
 
- <img class="alignnone" title="KDE Snow 3" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow3_400.jpg?w=400&h=250" alt="" width="400" height="250" /><img class="alignnone" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow5_400.jpg?w=400&h=250" alt="" width="400" height="250" />
+ <img class="alignnone" title="KDE Snow 3" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow3_400.jpg?w=400&h=250" alt=""   /><img class="alignnone" src="http://wadejolson.files.wordpress.com/2008/12/kde_snow5_400.jpg?w=400&h=250" alt=""   />
 
- <img class="alignnone" title="KDE Tree Glow" src="http://wadejolson.files.wordpress.com/2008/12/kde_treeglow_400.jpg?w=400&h=250" alt="" width="400" height="250" /><img class="alignnone" title="KDE Tree Glow" src="http://wadejolson.files.wordpress.com/2008/12/kde_treeglow2_400.jpg?w=400&h=250" alt="" width="400" height="250" />
+ <img class="alignnone" title="KDE Tree Glow" src="http://wadejolson.files.wordpress.com/2008/12/kde_treeglow_400.jpg?w=400&h=250" alt=""   /><img class="alignnone" title="KDE Tree Glow" src="http://wadejolson.files.wordpress.com/2008/12/kde_treeglow2_400.jpg?w=400&h=250" alt=""   />
 
-<img class="alignnone" title="KDE Sunrise" src="http://wadejolson.files.wordpress.com/2008/12/kde_sunrise_400.jpg?w=400&h=250" alt="" width="400" height="250" />
+<img class="alignnone" title="KDE Sunrise" src="http://wadejolson.files.wordpress.com/2008/12/kde_sunrise_400.jpg?w=400&h=250" alt=""   />
 
 Download the high res images from [his Picasa Gallery][1]. Wade, you rock!
 

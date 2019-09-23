@@ -66,7 +66,7 @@ tags:
 
 ---
 <p align="center">
-  <img src="http://games.kde.org/new/counter/" alt="KDE 4.0 Release Counter" height="47" width="377" />
+  <img src="http://games.kde.org/new/counter/" alt="KDE 4.0 Release Counter"   />
 </p>
 
 With the first release of KDE4 framework, KDE 4.0 just few days away &#8212; as the above counter shows, the next few articles will have a look at some of the features new to KDE 4.0

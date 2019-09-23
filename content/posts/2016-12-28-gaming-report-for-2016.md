@@ -16,7 +16,7 @@ tags:
   - steam
 
 ---
-[<img class="aligncenter size-full wp-image-1494" src="https://sathyasays.com/wp-content/uploads/2016/12/overwatch-FH3.jpg" alt="" width="1280" height="720" />][1]
+[<img class="aligncenter size-full wp-image-1494" src="https://sathyasays.com/wp-content/uploads/2016/12/overwatch-FH3.jpg" alt=""   />][1]
 
 End of the year is here and while other services are busy sending Year in 2016 report, there sparked a mini gaming report in our telegram group and I decided to compile my gaming in 2016 report. At the start of the year I had decided to finish more games this year and I guess I did a pretty decent in accomplishing this. So here&#8217;s my summary
 

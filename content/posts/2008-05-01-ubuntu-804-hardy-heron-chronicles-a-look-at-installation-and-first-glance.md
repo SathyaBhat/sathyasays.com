@@ -131,7 +131,7 @@ The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; 
 One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow, Feisty was ok, but Hardy IS very fast. In fact, it makes Windows XP&#8217;s Bootup after fresh install(which is the fastest) seem slow! Hardy was due to get a theme overall, but it was omitted out, so you&#8217;re stuck with the same dull Human/brown theme with a striking new wallpaper
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg" alt="" width="240" height="150" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -143,7 +143,7 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455945925/"><img src="http://farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg" alt="" width="240" height="195" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455945925/"><img src="http://farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -155,11 +155,11 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: left;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2456888870/"><img src="http://farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg" alt="" /></a> <a href="http://www.flickr.com/photos/sathyabhat/2455950591/"><img src="http://farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg" alt="" width="240" height="150" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2456888870/"><img src="http://farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg" alt="" /></a> <a href="http://www.flickr.com/photos/sathyabhat/2455950591/"><img src="http://farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg" alt="" width="240" height="150" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">

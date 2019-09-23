@@ -89,7 +89,7 @@ The product of Canonical collaboration with Intel® and the open source communit
 
 ### Just the right stuff
 
-<img src="http://www.ubuntu.com/files/u1/html-small.jpg" alt=" " align="right" height="199" width="340" />Ubuntu Mobile just works, and it works just right.
+<img src="http://www.ubuntu.com/files/u1/html-small.jpg" alt=" " align="right"   />Ubuntu Mobile just works, and it works just right.
 
 Just the right applications provide an uncompromised Web 2.0 experience: Web browsing, email, media, camera, VoIP, instant messaging, GPS, blogging, digital TV, games, contacts, dates/calendar, simple software updates&#8230; and lots more.
 
@@ -123,11 +123,11 @@ MIDs typically have the following features and attributes:
 
 ### Clutter User Interface
 
-<img src="http://www.ubuntu.com/files/u1/clutter-small.jpg" alt="Clutter UI" height="199" width="340" />
+<img src="http://www.ubuntu.com/files/u1/clutter-small.jpg" alt="Clutter UI"   />
 
 ### Flash User Interface
 
-<img src="http://www.ubuntu.com/files/u1/flash-small.jpg" alt="Flash UI" height="199" width="340" />
+<img src="http://www.ubuntu.com/files/u1/flash-small.jpg" alt="Flash UI"   />
 
 Ubuntu Mobile is highly flexible and customizable. It is an ideal platform for the kind of product differentiation that reaches target users and penetrates key markets.
 

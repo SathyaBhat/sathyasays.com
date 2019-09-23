@@ -41,7 +41,7 @@ tags:
 
 ## 
 
-Gobuntu is a GNU/Linux operating system, derived from Ubuntu, that endeavors to adhere to the Free Software Foundations four freedoms and intends to <img align="right" width="236" src="http://www.ubuntu.com/files/u1/gobuntu-med.jpg" alt="gobuntu" height="66" />provide a base for other free software platforms to build upon with minimal modification required. It does this by only including open-source non-restricted software. This means there will be no firmware, drivers, applications, or content included in Gobuntu that does not include the full source or whose license does not provide the right to use, study, modify, and redistribute the body of work.
+Gobuntu is a GNU/Linux operating system, derived from Ubuntu, that endeavors to adhere to the Free Software Foundations four freedoms and intends to <img align="right"  src="http://www.ubuntu.com/files/u1/gobuntu-med.jpg" alt="gobuntu"  />provide a base for other free software platforms to build upon with minimal modification required. It does this by only including open-source non-restricted software. This means there will be no firmware, drivers, applications, or content included in Gobuntu that does not include the full source or whose license does not provide the right to use, study, modify, and redistribute the body of work.
 
 Gobuntu shares the same system requirements as Ubuntu. At present, this means Gobuntu is available for 32-bit and 64-Bit PC architectures and the install requires at least 4 GB of disk space.
 

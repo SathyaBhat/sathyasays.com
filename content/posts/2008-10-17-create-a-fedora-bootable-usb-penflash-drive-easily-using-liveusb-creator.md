@@ -51,7 +51,7 @@ tags:
   - yum
 
 ---
-LiveCDs are a great way to try out (new) Linux distros on your system. [<img class="alignright size-medium wp-image-475" title="fedorausb" src="http://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png" alt="" width="184" height="84" />][1]
+LiveCDs are a great way to try out (new) Linux distros on your system. [<img class="alignright size-medium wp-image-475" title="fedorausb" src="http://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png" alt=""   />][1]
 
 Unfortunately CDs get scratched pretty easily, and can turn into a coaster pretty soon.
 

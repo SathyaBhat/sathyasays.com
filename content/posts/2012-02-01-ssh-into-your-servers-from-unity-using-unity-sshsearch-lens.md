@@ -18,7 +18,7 @@ tags:
 I love Unity, especially the lens feature. While going through the Ubuntu store, found this neat little lens for initiating an SSH connection.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/d7tX0.jpg"><img class="aligncenter" title="Unity sshsearch Lens" src="http://i.imgur.com/d7tX0.jpg" alt="Unity sshsearch Lens" width="542" height="245" /></a>
+  <a href="http://i.imgur.com/d7tX0.jpg"><img class="aligncenter" title="Unity sshsearch Lens" src="http://i.imgur.com/d7tX0.jpg" alt="Unity sshsearch Lens"   /></a>
 </p>
 
 <p style="text-align: left;">

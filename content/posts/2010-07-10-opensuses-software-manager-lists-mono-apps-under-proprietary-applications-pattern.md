@@ -31,7 +31,7 @@ tags:
   - zypper
 
 ---
-<img class="aligncenter size-medium wp-image-874" title="Mono Apps" src="http://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png" alt="" width="608" height="422" srcset="https://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png 608w, https://sathyasays.com/wp-content/uploads/2010/07/mono-800x555.png 800w, https://sathyasays.com/wp-content/uploads/2010/07/mono.png 903w" sizes="(max-width: 608px) 100vw, 608px" />I&#8217;ve been using openSUSE for quite some time now, but this is definitely the first time that I&#8217;ve noticed this ( though probably because I tend to use zypper or the 1-click install rather than entering YaST).
+<img class="aligncenter size-medium wp-image-874" title="Mono Apps" src="http://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png" alt=""   srcset="https://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png 608w, https://sathyasays.com/wp-content/uploads/2010/07/mono-800x555.png 800w, https://sathyasays.com/wp-content/uploads/2010/07/mono.png 903w" sizes="(max-width: 608px) 100vw, 608px" />I&#8217;ve been using openSUSE for quite some time now, but this is definitely the first time that I&#8217;ve noticed this ( though probably because I tend to use zypper or the 1-click install rather than entering YaST).
 
 Edit:
   

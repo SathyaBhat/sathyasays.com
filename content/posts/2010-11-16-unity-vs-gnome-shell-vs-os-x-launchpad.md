@@ -29,15 +29,15 @@ tags:
 ---
 ### Unity
 
-<img class="alignnone" title="Unity" src="http://i.imgur.com/hJUIR.png" alt="" width="627" height="359" />
+<img class="alignnone" title="Unity" src="http://i.imgur.com/hJUIR.png" alt=""   />
 
 ### Gnome Shell
 
-<img class="alignnone" src="http://i.imgur.com/5A3iQ.png" alt="" width="494" height="274" />
+<img class="alignnone" src="http://i.imgur.com/5A3iQ.png" alt=""   />
 
 ### OS X Launchpad
 
-<img class="alignnone" title="OS X Launchpad" src="http://i.imgur.com/xqzc9.png" alt="" width="519" height="326" />
+<img class="alignnone" title="OS X Launchpad" src="http://i.imgur.com/xqzc9.png" alt=""   />
 
 [Manish][1]{#aptureLink_mCbyylmV5l}&#8216;s tweet about Gnome shell [being usable][2] resulted in this impromptu [conversation][3] and comparison. I know all three are in development &#8211; but this how it looks currently. Gnome-shell looks way too cluttered, Unity&#8217;s icons seem to be too big while Launchpad seems to have gotten the right balance.
 

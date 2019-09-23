@@ -13,7 +13,7 @@ tags:
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
-    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap" width="36" valign="top">
+    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
       <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
@@ -143,7 +143,7 @@ tags:
         </div>
         
         <p>
-          <img height="1" src="http://feeds.feedburner.com/~r/TheDailyWtf/~4/zQ1uXZjj_c0" width="1" />
+          <img  src="http://feeds.feedburner.com/~r/TheDailyWtf/~4/zQ1uXZjj_c0"  />
         </p>
         
         <p>

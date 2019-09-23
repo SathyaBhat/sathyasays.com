@@ -13,7 +13,7 @@ tags:
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
-    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap" width="36" valign="top">
+    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
       <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
@@ -47,7 +47,7 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Bonus outfits, tattoos and more: Michael, Franklin and Trevor get bonus outfits, character-specific tattoos, and special deals from shopkeepers.
   * Additional weapons: When visiting Ammunation stores in single player, merchants will have special weapons in their inventory available for free: the Pistol .50, Bullpup Shotgun and melee Hammer.
 
-<img alt="" height="372" src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" />
+<img alt=""  src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
 
 **Collector&#8217;s Edition**
 
@@ -58,7 +58,7 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Unique vehicles and garage property: Instantly receive a garage to store custom vehicles. In single-player, the garage will be stocked with the 1930s style Hotknife hotrod and the CarbonRS sports bike. In Grand Theft Auto Online, players will get the high-end Khamelion electric car.
   * All contents of Special Edition.
 
-<img alt="" height="341" src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;" width="620" />
+<img alt=""  src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
 
 Prices for the Special Edition and Collector&rsquo;s Edition haven&rsquo;t yet been announced, but considering the latter&rsquo;s $150 price tag internationally, we&rsquo;d expect something in the Rs 10,000 region.
 
@@ -66,7 +66,7 @@ Grand Theft Auto 5 is scheduled for release on 17th September for Xbox 360 and P
 
 _Sign up for the free MCV India newsletter&nbsp;<a href="http://mcvindia.com/user/index/register/journey/register" target="_blank">here</a>._
 
-<img height="1" src="http://feeds.feedburner.com/~r/mcvindia/stream/~4/60MEsCYJTeM" width="1" />
+<img  src="http://feeds.feedburner.com/~r/mcvindia/stream/~4/60MEsCYJTeM"  />
 
 via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/mcvindia/stream/~3/60MEsCYJTeM/0116058
 

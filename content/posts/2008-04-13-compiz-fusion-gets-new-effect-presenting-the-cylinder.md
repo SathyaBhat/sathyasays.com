@@ -56,7 +56,7 @@ Developer Dennis Kasprzyk has finally [finished his idea][1] to implement a cyli
 
 <!--more-->
 
-[<img src="http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder" height="60" width="150" />][2]
+[<img src="http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder"   />][2]
 
 For those who wish to see it in action, [here][3] is a YouTube video of it.
 

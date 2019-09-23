@@ -13,7 +13,7 @@ tags:
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
-    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap" width="36" valign="top">
+    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
       <img src="http://ift.tt/1eVbecN" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
@@ -36,7 +36,7 @@ tags:
         </p>
         
         <p>
-          <a href="http://ift.tt/14CiXKw"><img alt="Civilized-discourse-construction-kit-inc" height="210" src="http://ift.tt/1h0Nozw" title="Civilized-discourse-construction-kit-inc" width="720" /></a>
+          <a href="http://ift.tt/14CiXKw"><img alt="Civilized-discourse-construction-kit-inc"  src="http://ift.tt/1h0Nozw" title="Civilized-discourse-construction-kit-inc"  /></a>
         </p>
         
         <p>
@@ -79,7 +79,7 @@ tags:
         </p>
         
         <p>
-          <img alt="I-love-it-when-a-plan-comes-wait" height="396" src="http://ift.tt/1h0NoPY" title="I-love-it-when-a-plan-comes-wait" width="528" />
+          <img alt="I-love-it-when-a-plan-comes-wait"  src="http://ift.tt/1h0NoPY" title="I-love-it-when-a-plan-comes-wait"  />
         </p>
         
         <p>
@@ -144,7 +144,7 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-1" height="186" src="http://ift.tt/1h0NlDT" title="Discourse-character-count-1" width="605" />
+          <img alt="Discourse-character-count-1"  src="http://ift.tt/1h0NlDT" title="Discourse-character-count-1"  />
         </p>
         
         <p>
@@ -152,11 +152,11 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-2" height="176" src="http://ift.tt/1h0NoQ2" title="Discourse-character-count-2" width="639" />
+          <img alt="Discourse-character-count-2"  src="http://ift.tt/1h0NoQ2" title="Discourse-character-count-2"  />
         </p>
         
         <p>
-          <img alt="Discourse-character-count-3" height="176" src="http://ift.tt/1jNBPk1" title="Discourse-character-count-3" width="628" />
+          <img alt="Discourse-character-count-3"  src="http://ift.tt/1jNBPk1" title="Discourse-character-count-3"  />
         </p>
         
         <p>
@@ -168,7 +168,7 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-4" height="172" src="http://ift.tt/1h0NlDX" title="Discourse-character-count-4" width="610" />
+          <img alt="Discourse-character-count-4"  src="http://ift.tt/1h0NlDX" title="Discourse-character-count-4"  />
         </p>
         
         <p>

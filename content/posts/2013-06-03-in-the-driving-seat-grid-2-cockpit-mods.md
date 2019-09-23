@@ -13,7 +13,7 @@ tags:
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
-    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap" width="36" valign="top">
+    <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
       <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
@@ -41,7 +41,7 @@ PC people really are clever and dedicated folks. If they&#8217;re not inventing 
   <a href="http://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:nQ_hWtDbxek"><img border="0" src="http://feeds.feedburner.com/~ff/RockPaperShotgun?d=nQ_hWtDbxek" /></a> <a href="http://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:yIl2AUoC8zA"><img border="0" src="http://feeds.feedburner.com/~ff/RockPaperShotgun?d=yIl2AUoC8zA" /></a>
 </div>
 
-<img height="1" src="http://feeds.feedburner.com/~r/RockPaperShotgun/~4/leQ8aidF8aA" width="1" />
+<img  src="http://feeds.feedburner.com/~r/RockPaperShotgun/~4/leQ8aidF8aA"  />
 
 via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/RockPaperShotgun/~3/leQ8aidF8aA/
 
