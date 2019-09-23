@@ -7,50 +7,10 @@ url: /2007/06/13/5-must-know-commands-every-linux-newbie-should-know/
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - /dev
-  - apt-get
-  - Arch
-  - boot
-  - bootup
-  - bunzip2
-  - cat
-  - Command-line
   - commands
-  - DE
-  - Debian
-  - dmseg
-  - dpkg
-  - dual
-  - file
-  - Home
-  - how-tos
-  - IM
-  - indic
-  - install
-  - linux
-  - Master
-  - mount
-  - mounting
-  - move
-  - moving
-  - New
-  - newbie
-  - os
-  - partition
-  - Partitions
-  - root
-  - rpm
-  - smart
-  - sudo
-  - tar
   - tips
   - tutorials
-  - UNIX
-  - upgrade
-  - user
-  - ux
-  - windows
-  - X
+ 
 
 ---
 Although Linux had progressed far from being a command-line only OS to a full fledged totally GUI based one, sometimes, the command line is the best way to get something done. Here are 5 of the must-know commands. These commands can b quite useful and handy.

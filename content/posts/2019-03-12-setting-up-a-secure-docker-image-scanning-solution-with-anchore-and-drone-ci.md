@@ -23,17 +23,14 @@ For this project, we will be integrating Drone and Anchore. With the setup compl
 
 ### Setting up Drone
 
-<a href="https://docs.drone.io/installation/github/" target="_blank" rel="noopener noreferrer">Follow the instructions</a> listed on Drone&#8217;s Installation Guide to set up Drone. A sample Drone server configuration and the command to start Drone is listed below. Make sure to substitute the client id and secret with the one generated from the setup<figure class="wp-block-embed">
+[Follow](https://docs.drone.io/installation/github/) the instruction listed on Drone&#8217;s Installation Guide to set up Drone. A sample Drone server configuration and the command to start Drone is listed below. Make sure to substitute the client id and secret with the one generated from the setup
 
-<div class="wp-block-embed__wrapper">
-  https://gist.github.com/SathyaBhat/2f6b628135586d030b6f3405d2ab8d3b
-</div></figure> 
+{{< gist SathyaBhat 2f6b628135586d030b6f3405d2ab8d3b >}}
 
-Run Drone with the following command<figure class="wp-block-embed">
 
-<div class="wp-block-embed__wrapper">
-  https://gist.github.com/SathyaBhat/661b02a1c7d5b0bebc6e1c1ab1a567d0
-</div></figure> 
+Run Drone with the following command
+
+{{< gist SathyaBhat 661b02a1c7d5b0bebc6e1c1ab1a567d0 >}}
 
 Once Drone server is up and running, head over to the Drone UI and click on &#8220;Activate&#8221; on the repo which you wish to integrate Drone with. Clicking on &#8220;Activate&#8221; sets up a Webhook on the repo so any activity against the repo results in an event being generated and the event is then pushed to Drone.
 
@@ -47,15 +44,16 @@ Follow the instructions on Anchore&#8217;s <a href="https://anchore.freshdesk.co
 
 We can achieve this by the following sequence of commands
 
-<pre class="wp-block-preformatted">anchore-cli image add &lt;image name&gt;
-anchore-cli image wait &lt;image name&gt;
-anchore-cli evaluate check &lt;image name&gt;</pre>
+{{< highlight bash >}}
+anchore-cli image add <image name>
+anchore-cli image wait <image name>
+anchore-cli evaluate check <image name>
+{{< /highlight >}}
 
 Combining these commands with Drone&#8217;s pipeline we get this for the<a rel="noopener noreferrer" href="https://github.com/sathya-demo/subreddit-fetcher/blob/83fe5d0d31d4e225202d7d8694a8885ba818e57d/.drone.yml" target="_blank">.drone.yml file</a><figure class="wp-block-embed">
 
-<div class="wp-block-embed__wrapper">
-  https://gist.github.com/SathyaBhat/0412331d117026807e34a647fa148998
-</div></figure> 
+{{< gist SathyaBhat 0412331d117026807e34a647fa148998 >}}
+
 
 Commit the .drone.yml file and push the changes to the repository. This results in the commit and push event being delivered to Drone, kickstarting the Drone pipeline.
 
