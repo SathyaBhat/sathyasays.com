@@ -14,7 +14,8 @@ tags:
 I've always dreamed of being at reInvent and this year, not only do I get to be at re:Invent, I also get a chance to lead a Dev Chat. 
 I'm really excited to be there, to present and more importantly, to meet and interact with other [AWS Heroes](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc) and re:Invent participants.
 
-Last year, I was honoured to [being named](https://aws.amazon.com/blogs/aws/announcing-aws-machine-learning-heroes-plus-new-aws-community-heroes/) as one of the [Community Heroes](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/) and almost made it to re:Invent 2018. However, due to some delays in visa renewal, I could not make it to re:Invent 2018. 
+Last year, I was honoured to [being named](https://aws.amazon.com/blogs/aws/announcing-aws-machine-learning-heroes-plus-new-aws-community-heroes/) as one of the [Community Heroes](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/) and almost made it to re:Invent 2018. However, due to some delays in visa renewal, I could not make it on time.
+
 A lot has happened since then and I am happy to make it to this year's re:Invent.
 
 re:Invent is no doubt crazy with [thousands of sessions](https://reinvent.awsevents.com/learn/session_catalog/) spanning multiple venues - obviously, it is not possible to be present for all.
@@ -25,6 +26,7 @@ However, if you do plan to drop by for the [Dev Chat](https://www.portal.reinven
 
 {{< tweet 1198277028497231872 >}}
 
+{{< figure src="/images/at-reinvent-2019.jpg" title="Catch me at re:Invent 2019" >}}
 
 
 Have a good re:Invent and see you then!
