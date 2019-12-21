@@ -7,32 +7,20 @@ url: /2009/11/15/updating-to-opensuse-11-2/
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - DE
-  - Desktop
-  - download
-  - install
   - linux
   - open source
   - openSuSE
   - openSUSE 11
   - openSUSE 11.0
   - opensuse 11.1
-  - os
-  - repo
-  - repos
-  - rm
   - root
   - show
   - SUSE
-  - switch
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - update
   - updating
-  - upgrade
   - upgrading
-  - zypper
 
 ---
 As mentioned openSUSE 11.2 is now available. If you&#8217;re on previous versions of openSUSE you can do an inplace upgrade to 11.2 by using zypper.

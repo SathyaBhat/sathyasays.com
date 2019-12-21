@@ -9,26 +9,19 @@ categories:
 tags:
   - Brasero
   - commands
-  - DE
   - DVD
   - file
-  - IM
   - iso
   - linux
   - open source
   - record
-  - rm
   - root
   - script
   - shell
   - shell script
-  - switch
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - ux
-  - write
-  - X
 
 ---
 Ever wondered if there&#8217;s a quick and easy way to write an iso file to a CD-R/DVD-R ? Don&#8217;t want to open K3B or Brasero ? Here&#8217;s a handy way of writing the iso file.

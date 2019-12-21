@@ -11,7 +11,6 @@ categories:
 tags:
   - console
   - games
-  - pcmasterrace
   - playstation 4
   - ps4
 

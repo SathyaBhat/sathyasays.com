@@ -9,14 +9,10 @@ topsy_short_url:
 categories:
   - Linked
 tags:
-  - DE
-  - free
-  - IM
   - irc
   - linux
   - openSuSE
   - SUSE
-  - user
 
 ---
 <a HREF="http://lists.opensuse.org/opensuse-announce/2010-07/msg00002.html">openSUSE India IRC Channel LIVE !</a>

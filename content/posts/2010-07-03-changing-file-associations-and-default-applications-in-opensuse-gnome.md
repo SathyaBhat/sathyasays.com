@@ -12,27 +12,18 @@ tags:
   - applications
   - Arch
   - associations
-  - cat
   - codecs
-  - DE
   - file
   - file associations
   - find
   - GNOME
-  - IM
-  - install
   - linux
-  - media
   - open source
   - openSuSE
-  - os
   - SUSE
-  - tar
   - "tips-and-howto's"
   - tutorials
-  - update
   - VLC
-  - YaST
 
 ---
 A quickie:

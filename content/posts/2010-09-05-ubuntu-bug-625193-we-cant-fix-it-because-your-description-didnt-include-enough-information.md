@@ -10,28 +10,18 @@ categories:
   - General
 tags:
   - Canonical
-  - DE
   - eye-candy
-  - IM
-  - install
   - Leopard
   - LTS
   - Meta
-  - net
-  - os
   - OS X
-  - repo
-  - rm
   - script
   - snow
   - Ubuntu
-  - Ubuntu 10.10
-  - upgrade
-  - views
+  -  upgrade
   - wallpaper
   - wallpapers
   - windows
-  - X
   - xp
 
 ---

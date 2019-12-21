@@ -9,15 +9,12 @@ categories:
 tags:
   - Amarok
   - Amarok 2
-  - install
   - KDE
-  - KDE4
   - music
   - MySQL
   - mysql-client
   - "tips-and-howto's"
   - tutorials
-  - X
   - xp
 
 ---

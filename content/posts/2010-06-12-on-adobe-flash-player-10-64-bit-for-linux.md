@@ -14,11 +14,8 @@ tags:
   - flash
   - flash player
   - linux
-  - os
   - security
-  - ux
-  - X
-
+  
 ---
 [Adobe says][1]:
 

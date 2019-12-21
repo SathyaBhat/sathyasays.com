@@ -9,32 +9,22 @@ categories:
 tags:
   - 2.23
   - Amarok
-  - cat
   - chm
-  - DE
   - Dolphin
   - file
   - filesystem
   - GNOME
   - hard disk
   - KDE
-  - laptop
   - linux
-  - mount
   - mounting
-  - os
-  - read
   - Samba
   - smb
   - smb4k
   - "tips-and-howto's"
   - tutorials
-  - usb
-  - user
-  - ux
   - WiFi
   - windows
-  - X
 
 ---
 Well recently I&#8217;d bought an external 750GB USB hard disk, as I was running out of space on my laptop. Now this drive requires an external power source, so I just cant lug it everywhere with my laptop in my room so I thought I&#8217;ll connect this to my other laptop, and share the drive (the other laptop is my office one, runs on Windows) and I could access this drive over WiFi. While accessing the drive contents via Dolphin was pretty easy thanks to the smb kparts (ie, to access just type smb://<ip-address>/<share-name> oh btw this works in Gnome 2.23 as well) trying to access the drive in Amarok via smb kparts would result in Amarok crashing. Hence I decided to mount it. I was sorta stuck, as I read the man pages for mount which mentioned smbfs is available but then mount kept throwing &#8216;unknown filesystem type smbfs&#8221;.

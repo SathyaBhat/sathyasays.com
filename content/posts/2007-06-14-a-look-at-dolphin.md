@@ -7,38 +7,8 @@ url: /2007/06/14/a-look-at-dolphin/
 categories:
   - News
 tags:
-  - beta
-  - bluetooth
-  - browser
-  - DE
   - Dolphin
-  - download
-  - dual
-  - file
-  - hard disk
-  - icons
-  - install
-  - KDE
-  - KDE4
-  - Konqueror
-  - menu
-  - moving
-  - Nautilus
-  - net
-  - New
-  - preview
-  - read
-  - review
-  - show
-  - switch
-  - Tree View
-  - user
-  - views
-  - Vista
-  - web
-  - web browser
-  - windows
-  - X
+  - linux
 
 ---
 While looking at the packages available in Adept, I saw that [Dolphin][1] was available. I was a bit surprised, considering that Dolphin is still in beta stage but nonetheless decided to have a look at it

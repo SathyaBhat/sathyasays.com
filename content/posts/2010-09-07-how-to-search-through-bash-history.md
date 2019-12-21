@@ -13,8 +13,6 @@ tags:
   - bash
   - commands
   - history
-  - IM
-  - rm
   - terminal
   - "tips-and-howto's"
   - tutorials

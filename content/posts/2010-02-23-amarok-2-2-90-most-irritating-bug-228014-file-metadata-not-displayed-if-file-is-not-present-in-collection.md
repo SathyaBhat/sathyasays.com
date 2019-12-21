@@ -11,26 +11,15 @@ categories:
 tags:
   - Amarok
   - Amarok 2
-  - cat
-  - DE
   - file
-  - IM
-  - install
   - KDE
-  - KDE4
   - Meta
   - metadata
   - music
   - open source
-  - os
-  - read
-  - repo
   - RIA
   - show
-  - tar
   - updating
-  - X
-  - zypper
 
 ---
 Well it&#8217;s no secret that I&#8217;m a music fan and love to keep my music organized, and neatly tagged. ( Well, if you didn&#8217;t &#8211; now you do ). I&#8217;d posted quite sometime ago on how to keep your music [well tagged and organized][1]{#aptureLink_3xJl5k39gE}, so there&#8217;s pretty much no way that my files wouldn&#8217;t be tagged.

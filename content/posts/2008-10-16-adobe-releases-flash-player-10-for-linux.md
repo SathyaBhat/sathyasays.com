@@ -8,20 +8,13 @@ categories:
   - News
 tags:
   - Adobe
-  - download
   - flash
   - flash player
   - flash10
-  - install
   - linux
-  - New
-  - os
-  - support
   - "tips-and-howto's"
   - Ubuntu
-  - ux
   - windows
-  - X
 
 ---
 Adobe released the latest version, Flash 10 for Windows, Macintosh and Linux.

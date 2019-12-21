@@ -11,12 +11,8 @@ tags:
   - linux
   - logical volumes
   - LVM
-  - mount
-  - net
   - openSuSE
-  - os
   - SUSE
-  - switch
   - "tips-and-howto's"
   - tutorials
 

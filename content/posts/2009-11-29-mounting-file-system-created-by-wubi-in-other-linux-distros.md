@@ -8,27 +8,19 @@ categories:
   - News
 tags:
   - commands
-  - DE
   - distro
-  - distros
   - file
   - filesystem
   - Home
-  - install
   - linux
-  - mount
   - mounting
   - open source
-  - os
-  - rm
   - root
   - terminal
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - ux
   - Wubi
-  - X
   - xp
 
 ---

@@ -7,12 +7,9 @@ url: /2010/01/10/guess-the-icons-and-win/
 categories:
   - General
 tags:
-  - DE
-  - fun
   - icons
   - open source
   - quiz
-  - X
 
 ---
 OK, OK You don&#8217;t exactly win anything, but just for fun &#8211; can you identify the icons ? Really, shouldn&#8217;t be that much difficult ;)

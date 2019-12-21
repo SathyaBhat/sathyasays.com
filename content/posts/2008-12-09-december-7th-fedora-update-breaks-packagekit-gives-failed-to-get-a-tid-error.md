@@ -7,33 +7,21 @@ url: /2008/12/09/december-7th-fedora-update-breaks-packagekit-gives-failed-to-ge
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - boot
   - Cambridge
-  - DE
-  - Desktop
   - events
   - Failed to get TID error
   - Fedora
   - Fedora 10
   - file
-  - free
   - GNOME
   - Google
-  - hassles
-  - IM
-  - install
   - KDE
-  - media
   - package manager
   - PackageKit
   - PolicyKit
   - root
   - security
-  - tar
   - TID error
-  - update
-  - user
-  - X
   - xp
 
 ---

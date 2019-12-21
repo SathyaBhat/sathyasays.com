@@ -12,38 +12,22 @@ tags:
   - ASUS
   - Atom
   - benchmarks
-  - beta
   - chm
   - comparison
-  - DE
-  - Desktop
   - distro
-  - distros
   - Fedora
   - Fedora 10
-  - IM
-  - intel
   - iso
   - linux
   - LTS
-  - net
   - open source
   - Opera
   - Operating System
-  - os
   - performance
-  - preview
   - quotes
-  - read
   - review
-  - rm
-  - RMS
   - Ubuntu
-  - Ubuntu 8.10
-  - update
-  - ux
-  - X
-
+  - Ubuntu  
 ---
 The guys at Phoronix have written made an intresting article, comparing the performance of the Asus EEE-PC 901 with its Intel Atom processor
   

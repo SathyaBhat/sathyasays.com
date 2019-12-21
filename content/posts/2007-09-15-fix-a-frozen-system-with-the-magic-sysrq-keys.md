@@ -7,23 +7,9 @@ url: /2007/09/15/fix-a-frozen-system-with-the-magic-sysrq-keys/
 categories:
   - News
 tags:
-  - boot
-  - DE
-  - driver
-  - dual
-  - FOSS
-  - IM
-  - install
   - linux
-  - LV
-  - mount
-  - os
-  - rm
-  - Screen
-  - tar
-  - ux
-  - X
 
+  
 ---
 <p class="post-entry">
   You finally got your Linux environment to crash. <strong><em>Ctrl+Alt+Backspace</em></strong> does nothing, nor do the <strong><em>F-keys</em></strong>. You know you shouldn’t have installed that bad driver, but <em>you did it anyway</em>.

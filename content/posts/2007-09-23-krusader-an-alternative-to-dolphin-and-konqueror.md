@@ -7,33 +7,9 @@ url: /2007/09/23/krusader-an-alternative-to-dolphin-and-konqueror/
 categories:
   - News
 tags:
-  - applications
-  - Arch
-  - cat
-  - DE
-  - Dolphin
-  - download
-  - file
-  - File management
-  - Flex
-  - FOSS
-  - IM
-  - install
   - KDE
-  - Konqueror
-  - LV
-  - menu
-  - MID
-  - New
-  - os
-  - package manager
-  - rm
-  - terminal
-  - tips
-  - user
-  - web
-  - X
-  - xp
+  - Krusader
+
 
 ---
 KDE users have for a long time had the jack-of-all-trades, all-singing-all-dancing Konqueror for file management. In KDE 4 we’ll be joined by the new Dolphin which will be the default file manager.

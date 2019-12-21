@@ -11,25 +11,15 @@ categories:
 tags:
   - bin
   - cover
-  - DE
   - file
   - FOSS
-  - hassles
-  - IM
   - KDE
   - music
   - MusicBrainz
   - MusicBrainz Picard
   - open source
-  - os
   - Picard
   - Qt
-  - read
-  - rm
-  - tar
-  - update
-  - upgrade
-  - X
 
 ---
 I love MusicBrainz Picard. It keeps my [music collection organized, tags and renames them][1]{#aptureLink_0HBhpzYgM6}, and heck even fetches the cover art for (almost) all songs. Picard is just brilliant.

@@ -10,24 +10,14 @@ categories:
   - News
 tags:
   - applications
-  - cat
-  - DE
-  - Desktop
   - file
   - linux
   - Mac OS X
   - music
-  - os
   - OS X
-  - preview
-  - read
   - review
-  - rm
   - Spotify
-  - support
-  - ux
   - windows
-  - X
 
 ---
 > A lot of our developers are using Linux, obviously they want to listen to music while they’re coding away and looking at the feedback we get it appears that they’re not the only ones. So today we’re pretty happy to present a preview version of Spotify for Linux.

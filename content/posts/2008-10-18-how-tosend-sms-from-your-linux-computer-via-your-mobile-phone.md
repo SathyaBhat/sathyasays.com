@@ -10,26 +10,15 @@ categories:
 tags:
   - apt-get
   - Arch
-  - beta
   - bluetooth
-  - cat
-  - DE
-  - Desktop
   - Fedora
   - Fedora 10
   - GNOME
-  - IM
-  - install
   - linux
-  - Mobile
-  - move
-  - New
-  - open source
+  -   - open source
   - phone manager
   - phonemanager
   - Reviews
-  - rm
-  - Screen
   - sending sms
   - sending text message
   - show
@@ -39,8 +28,6 @@ tags:
   - text message
   - "tips-and-howto's"
   - Ubuntu
-  - ux
-  - X
   - xp
   - yum
 
