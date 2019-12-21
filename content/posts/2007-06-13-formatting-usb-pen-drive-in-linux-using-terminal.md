@@ -7,7 +7,9 @@ url: /2007/06/13/formatting-usb-pen-drive-in-linux-using-terminal/
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - /dev
   - commands
+  - DE
   - ext3
   - FAT
   - FAT32
@@ -17,16 +19,24 @@ tags:
   - formatting
   - hard disk
   - linux
+  - mount
+  - move
   - pen drive
   - pendrive
   - RIA
+  - rm
+  - RMS
   - subs
   - sudo
   - terminal
   - "tips-and-howto's"
   - tutorials
+  - usb
   - USB drive
   - USB pen drive
+  - ux
+  - write
+  - X
 
 ---
 Insert your USB pen drive. Let it get detected and mounted. Open Terminal. Type The Following commands

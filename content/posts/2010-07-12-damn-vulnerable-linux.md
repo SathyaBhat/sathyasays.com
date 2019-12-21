@@ -11,12 +11,17 @@ categories:
   - Linked
 tags:
   - apps
+  - DE
   - distro
+  - distros
+  - download
   - DVD
   - linux
   - open source
   - RIA
-  
+  - ux
+  - X
+
 ---
 > A whole linux distro, Slackware based I believe, to train you in the dark arts. This distro is deliberately insecure, containing out of date packages, mis-configured apps, and loads of training material. It comes as a live dvd download, so you can run it up as and when you want to practice your skills.
 

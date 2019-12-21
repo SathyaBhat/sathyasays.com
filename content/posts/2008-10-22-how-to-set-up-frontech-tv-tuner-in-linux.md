@@ -7,18 +7,32 @@ url: /2008/10/22/how-to-set-up-frontech-tv-tuner-in-linux/
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - AA
+  - blog
   - commands
+  - DE
   - driver
   - Fedora
+  - Frontech
+  - install
   - internet
   - KDE TV
   - linux
   - LV
+  - net
+  - personal
+  - read
   - RIA
+  - rm
   - "tips-and-howto's"
+  - Tuner
   - tutorials
+  - TV
   - TV TIme
-  
+  - user
+  - ux
+  - X
+
 ---
 Continue I am personally a Frontech tv tuner user. I dont currently use it now but i was using in the past. I faced hell a lot of problems to get it working. It was sheer luck that i ran into the info [here][1] which saved me!!!! Thanks to Mann.
 

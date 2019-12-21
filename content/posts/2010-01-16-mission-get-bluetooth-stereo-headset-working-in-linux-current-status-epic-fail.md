@@ -14,18 +14,28 @@ tags:
   - bluetooth
   - bluez
   - commands
+  - DE
+  - Desktop
   - file
   - FOSS
+  - free
+  - hassles
+  - IM
   - iPhone
+  - laptop
   - linux
   - Mplayer
   - openSuSE
+  - os
   - record
   - script
   - SUSE
+  - tar
   - testing
+  - ux
   - Vista
   - windows
+  - X
   - xp
 
 ---

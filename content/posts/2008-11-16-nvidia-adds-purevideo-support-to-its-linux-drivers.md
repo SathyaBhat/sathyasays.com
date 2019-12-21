@@ -7,13 +7,23 @@ url: /2008/11/16/nvidia-adds-purevideo-support-to-its-linux-drivers/
 categories:
   - News
 tags:
+  - beta
+  - DE
   - driver
   - drivers
+  - free
+  - install
   - linux
+  - net
+  - New
   - notes
   - NVIDIA
   - Purevideo
-  
+  - read
+  - support
+  - ux
+  - X
+
 ---
 NVIDIA released their <a href="http://www.nvnews.net/vbulletin/showthread.php?t=123072" target="_blank">new set of beta drivers</a> yesterday, with a version 180.04. While going through the release notes, I found this line very interesting.
 

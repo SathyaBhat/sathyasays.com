@@ -8,8 +8,12 @@ categories:
   - General
 tags:
   - cover
+  - download
   - linux
   - podcast
+  - rm
+  - ux
+  - X
   - YAPodcast
 
 ---

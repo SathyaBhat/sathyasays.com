@@ -9,13 +9,17 @@ topsy_short_url:
 categories:
   - Linked
 tags:
+  - DE
+  - Desktop
   - Desktop theme
   - elementary
   - eye-candy
   - find
   - gtk
   - linux
+  - tar
   - theme
+  - X
 
 ---
 <a id="aptureLink_7qDrtVOWWN" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://i.imgur.com/V7Mjb.jpg"><img style="border: 0px initial initial;" src="http://i.imgur.com/V7Mjb.jpg" alt="" width="697.064243323442px" height="437.45px" /></a>

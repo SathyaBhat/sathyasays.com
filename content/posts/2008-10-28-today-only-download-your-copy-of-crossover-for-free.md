@@ -9,14 +9,22 @@ categories:
 tags:
   - Codeweavers
   - CrossOver
+  - DE
+  - download
+  - downloads
+  - free
   - free downloads
   - games
+  - IM
   - linux
+  - os
   - RIA
   - software
   - Unity
+  - ux
   - windows
   - WINE
+  - X
 
 ---
 Codeweavers&#8217; CrossOver software, which allows you to run Windows programs on your Linux and Mac machines, has a Lame Duck offer in which for today ONLY they&#8217;ve put up unlocked builds of Codeweavers&#8217; CrossOver for Mac and Linux, and are allowing you to download them FREE OF COST.

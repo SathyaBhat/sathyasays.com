@@ -8,18 +8,28 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - .dmrc
-  -   - accessible
+  - $HOME/.dmrc
+  - accessible
   - chm
   - commands
+  - DE
   - ext3
   - file
   - filesystem
   - Home
+  - IM
   - login
+  - mount
   - owner
   - partition
+  - read
+  - rm
   - root
+  - support
+  - user
   - warning
+  - write
+  - X
 
 ---
 I just encountered this problem recently so I thought I would drop a short note about it. Once I was trying to mount ext3 filesystems with read and write support and I, by mistake, did chmod my entire root partition as 775.

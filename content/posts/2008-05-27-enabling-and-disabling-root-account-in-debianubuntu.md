@@ -7,20 +7,31 @@ url: /2008/05/27/enabling-and-disabling-root-account-in-debianubuntu/
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - cat
+  - DE
   - Debian
   - distro
+  - distros
   - dl
   - file
+  - IM
+  - laptop
   - linux
   - login
+  - New
   - open source
+  - os
+  - read
   - root
   - security
   - sudo
+  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
   - UNIX
+  - update
+  - X
 
 ---
 <span style="text-decoration: line-through;">Debian and other debian-based distros like</span> Ubuntu <span style="text-decoration: line-through;">have</span>, by default, has the root account disabled as a security measure.(thanks to Subbu and PICCORO for the clarification)

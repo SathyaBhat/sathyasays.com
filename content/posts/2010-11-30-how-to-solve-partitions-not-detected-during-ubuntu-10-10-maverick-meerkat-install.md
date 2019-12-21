@@ -9,18 +9,34 @@ topsy_short_url:
 categories:
   - News
 tags:
+  - blog
+  - boot
+  - cat
+  - DE
+  - download
   - fdisk
   - find
   - forums
+  - free
   - hard disk
+  - IM
+  - install
   - LiveCD
   - LV
+  - os
   - partition
   - partitioning
+  - Partitions
+  - read
+  - rm
   - software
   - terminal
   - Ubuntu
-  -  windows
+  - Ubuntu 10.10
+  - user
+  - windows
+  - write
+  - X
   - xp
 
 ---

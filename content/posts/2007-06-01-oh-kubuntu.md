@@ -13,26 +13,40 @@ tags:
   - AWN
   - basics
   - codecs
+  - DE
+  - Desktop
   - distro
+  - distros
+  - download
   - driver
   - drivers
   - file
   - find
   - games
   - GNOME
+  - IM
+  - install
   - internet
   - kubuntu
   - linux
   - magazine
+  - media
+  - mount
+  - move
+  - net
   - NVIDIA
   - openSuSE
+  - os
   - show
   - sudo
   - SUSE
+  - tar
   - Ubuntu
+  - ux
   - videos
   - wallpaper
   - windows
+  - X
 
 ---
 I&#8217;ve been a SuSE fan over since I tried out Linux back in well&#8230;. April 2000 to be exact(not that I remember, have the CD with me). The one I had tried was of version 6.3, came with [CHIP][1] magazine. Being the geek that I am, decided to try it out and was very impressed, though the display was a less-than-convincing 640&#215;480 @ 60Hz, mainly due to my graphics card, the infamous SiS 6326. Having learned the basics of Linux, I reverted back to Windows, as I didn&#8217;t have an Internet connection then and my &#8220;work&#8221; on my computer was mainly playing few ol&#8217; games. Although I didn&#8217;t give up on Linux completely, tried out few distros, which couldn&#8217;t convince me to shift to Linux.

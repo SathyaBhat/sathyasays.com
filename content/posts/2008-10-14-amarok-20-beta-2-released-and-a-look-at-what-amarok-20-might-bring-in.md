@@ -13,28 +13,45 @@ tags:
   - Amarok 2
   - amarok2
   - audio player
+  - beta
+  - blog
   - chm
   - comparison
+  - DE
   - file
+  - IM
+  - install
   - iso
   - KDE
+  - KDE4
   - music
   - MusicBrainz
   - MySQL
   - nepomuk
+  - New
   - Opera
+  - os
   - performance
   - plasmoid
   - plasmoids
   - PostgreSQL
+  - preview
   - replaygain
+  - repo
   - review
+  - rm
+  - RMS
   - script
   - scripts
   - show
   - SQLite
   - strigi
   - subs
+  - support
+  - switch
+  - usb
+  - user
+  - X
   - xp
 
 ---

@@ -13,18 +13,23 @@ tags:
   - awn dock
   - cairo
   - cairo dock
+  - DE
   - eye-candy
   - guide
+  - IM
   - linux
   - Mac OS X
+  - os
   - OS X
   - theme
   - tips
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - ux
   - Vista
   - windows
+  - X
 
 ---
 This is just a casual how to for people who love customisation. As of today the most wanted OS look and feel are that of  Windows Vista and MAC OS X._ _Have a look at [this post][1] Damien has written on MakeTechEasier, will help you get that OS X look.                                

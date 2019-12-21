@@ -14,14 +14,19 @@ tags:
   - Cambridge
   - Fedora
   - Fedora 10
+  - IM
   - lenovo
   - linux
   - LTS
   - MBR
+  - os
   - performance
   - power management
+  - rm
   - testing
-  
+  - ux
+  - X
+
 ---
 > We tested every major release of Fedora from Fedora 10 &#8220;Cambridge&#8221; through the most recent Fedora 14 &#8220;Laughlin&#8221; Alpha build.
 

@@ -11,25 +11,42 @@ categories:
 tags:
   - applications
   - bin
+  - blog
+  - cat
   - chm
   - commands
+  - DE
   - delete
+  - Desktop
+  - download
   - DVD
   - exe
   - file
   - find
   - Home
+  - IM
   - iso
   - linux
   - login
+  - move
   - music
+  - os
   - PHP
+  - preview
   - record
   - review
+  - rm
   - security
+  - tar
   - "tips-and-howto's"
+  - TV
   - Ubuntu
   - UNIX
+  - usb
+  - user
+  - ux
+  - write
+  - X
 
 ---
 I&#8217;ve used find extensively and always wanted to writeup a nice post on this, but the linked post trumps my effort! Copy pasted from his blog, as the person&#8217;s allowed to do so. Also, as a general note &#8211; before using exec with the actual command, do preview it!

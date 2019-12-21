@@ -8,11 +8,16 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
+  - Archmage
+  - beta
   - browser
+  - cat
   - chm
   - chm reader
   - chm viewer
   - compiled html files
+  - DE
+  - download
   - file
   - Firefox
   - Gnochm
@@ -20,13 +25,24 @@ tags:
   - Google
   - KChmViewer
   - KDE
+  - KDE4
   - linux
   - Mozilla
   - Mozilla Firefox
+  - net
   - open source
   - package manager
+  - read
+  - rm
+  - RMS
+  - Screen
+  - support
+  - tar
   - "tips-and-howto's"
   - tutorials
+  - user
+  - ux
+  - X
   - Xchm
 
 ---

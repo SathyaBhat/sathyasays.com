@@ -9,17 +9,27 @@ topsy_short_url:
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - /dev
   - commands
+  - DE
   - file
   - filesystem
+  - free
   - Home
   - how-tos
+  - IM
   - linux
+  - New
+  - os
   - partition
+  - Partitions
   - root
   - sudo
   - "tips-and-howto's"
-  
+  - user
+  - ux
+  - X
+
 ---
 > Block size of my partition is 4096 (it can be checked using dumpe2fs command). So reserved space on my partition is about 6,3 Gb and equal missing size from hd command.
 > 

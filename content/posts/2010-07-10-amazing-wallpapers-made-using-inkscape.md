@@ -10,6 +10,7 @@ categories:
   - General
   - Linked
 tags:
+  - DE
   - eye-candy
   - inkscape
   - wallpaper

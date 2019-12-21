@@ -8,7 +8,10 @@ categories:
   - News
 tags:
   - ASUS
+  - boot
   - bootup
+  - cat
+  - DE
   - dl
   - driver
   - drivers
@@ -17,19 +20,29 @@ tags:
   - filesystem
   - find
   - HAL
+  - IM
   - license
   - linux
   - Linux Plumbers Conference
   - LPC
   - LTS
   - Moblin
+  - net
+  - New
   - "O'Reilly"
   - open source
   - PowerTOP
+  - read
+  - rm
+  - Screen
   - security
+  - support
   - sync
+  - tar
   - Ubuntu
-  
+  - ux
+  - X
+
 ---
 At the recently held Linux Plumbers&#8217; Conference, 2 Linux developers,  [Arjan van de Ven][1] and Auke Kok, demonstrated a Linux system booting in five seconds flat. To demonstrate this, they used an Asus EEE PC using a modified [Fedora][2] and modified [Moblin][3]. In-fact the bootup was so fast that the they actually had to hold the EEE PC, as the bootup was completed well before the projector could warm up and sync.
 

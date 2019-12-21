@@ -9,23 +9,38 @@ categories:
 tags:
   - addon
   - Calender
+  - cat
+  - DE
+  - download
   - events
   - file
   - Google
   - Home
+  - IM
+  - install
+  - laptop
   - Lightning
   - Lightning project
   - login
   - Microsoft
+  - mount
   - Mozilla
+  - New
   - open source
+  - os
   - PIM
   - PIM suite
+  - read
+  - rm
   - show
   - sync
+  - tar
   - Thunderbird
   - "tips-and-howto's"
   - tutorials
+  - user
+  - write
+  - X
   - Zindus
 
 ---

@@ -9,34 +9,53 @@ categories:
 tags:
   - Arch
   - ArchLinux
+  - community
+  - DE
   - Debian
+  - Desktop
   - desktop environment
   - distro
+  - distros
   - Fedora
   - Fedora 10
   - file
   - forums
+  - IM
+  - install
   - KDE
   - KDE 4.2
-  - KDE
+  - KDE4
   - linux
+  - media
   - Meta
+  - move
+  - net
   - openSuSE
   - openSUSE 11
   - openSUSE 11.0
   - opensuse 11.1
+  - os
   - PolicyKit
+  - repo
+  - repos
+  - rm
   - root
   - Sabayon
   - Sabayon 4
   - sudo
   - SUSE
+  - switch
+  - tar
   - terminal
   - testing
   - Unity
+  - update
+  - upgrade
   - upgrading
+  - ux
   - warning
   - Wireless
+  - X
   - yum
 
 ---

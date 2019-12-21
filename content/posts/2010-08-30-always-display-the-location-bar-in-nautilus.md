@@ -10,21 +10,31 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - apps
+  - cat
   - commands
+  - DE
   - distro
+  - distros
   - dl
   - File management
   - gconf
   - GNOME
+  - IM
   - linux
   - Nautilus
+  - New
   - open source
+  - os
+  - rm
   - show
+  - tar
   - terminal
   - tips
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - user
+  - X
 
 ---
 This is a pretty good tip. The default style irritates me to no end. Check out the full post, there are some great tips, especially if you&#8217;re new to Nautilus like me.

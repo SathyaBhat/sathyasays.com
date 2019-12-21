@@ -10,15 +10,22 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
+  - DE
   - Debian
   - driver
+  - IM
   - internet
   - iPhone
   - linux
-  -   - sync
+  - Mobile
+  - net
+  - sync
   - tethering
   - Ubuntu
+  - ux
   - windows
+  - write
+  - X
 
 ---
 > I&#8217;ve owned couple of mobile phones now, all in increasing number of features. But the one thing that remained common amongst all of them, was the ability to use a tethered Internet connection in both Windows and Linux. Until I got the iPhone, that is. With the iPhone, I could no longer use the iPhone as a modem in Linux. Not anymore.

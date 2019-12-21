@@ -10,15 +10,22 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - commands
+  - DE
   - delete
   - file
   - filesystem
+  - IM
   - linux
+  - media
+  - move
   - moving
+  - rm
   - Super
   - "tips-and-howto's"
   - tutorials
   - UNIX
+  - user
+  - X
 
 ---
 > I did something crazy at some point that created a file called &#8220;-rf&#8221; on my filesystem. Now I can&#8217;t figure out how to delete it.

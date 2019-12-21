@@ -11,24 +11,40 @@ tags:
   - Amarok 2
   - Apple
   - Arch
+  - cat
+  - DE
   - file
   - forums
   - GNOME
+  - hassles
+  - IM
+  - install
   - Jaunty
   - KDE
   - KDE 4.2
   - kubuntu
   - Launchpad
   - linux
+  - move
+  - net
+  - New
   - open source
+  - os
   - plasma
+  - read
   - software
+  - support
   - SUSE
+  - switch
   - synaptic
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - Ubuntu
+  - Ubuntu 9.04
+  - update
+  - user
+  - X
+
 ---
 I was catching up on some feeds yesterday, and this piece of news caught my eye &#8211;[Amarok 2.1 released][1]{#aptureLink_chgCx0N0sk}. Being a long time Amarok fan ( heck Amarok itself was catalyst to make me use my SUSE 10.0 use full) time &#8211; I read the article with great interest.
 

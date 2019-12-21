@@ -8,22 +8,30 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - 9.10
+  - boot
+  - DE
   - file
   - grub
+  - IM
   - Karmic
   - Karmic Koala
   - Koala
   - linux
   - LiveCD
   - menu
+  - mount
   - open source
+  - os
+  - rm
   - root
   - sync
   - syncing
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - unable
   - vm
+  - X
 
 ---
 This one seems to be a really famous problem for most folks in Ubuntu 9.10 Karmic Koala. So I had it too. The problem was on the initrd file. It is a kernel related file needed for booting. So i did a simple thing.

@@ -10,15 +10,23 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - CrossOver
+  - DE
   - distro
   - find
   - games
+  - IM
+  - install
   - linux
   - menu
+  - os
   - Starcraft II
+  - support
+  - tar
   - "tips-and-howto's"
   - tutorials
+  - ux
   - WINE
+  - X
 
 ---
 > Starcraft 2 [runs] under my Linux install with no issues. Since the game&#8217;s official release a few days ago I have been getting a good bit of traffic on those two pages &#8211; so I figured I would put together a quick HOWTO for getting Starcraft 2 working on your Linux distro of choice. The game runs under [Wine][1] 1.2 and/or [Crossover][2]Games 9.1.

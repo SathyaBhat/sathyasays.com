@@ -10,15 +10,22 @@ categories:
 tags:
   - applications
   - Arch
+  - boot
   - Brasero
+  - cat
   - codecs
+  - community
   - compiz
   - compiz fusion
   - CrossOver
+  - DE
+  - Desktop
   - desktop environment
   - desktop environments
   - distro
+  - distros
   - dl
+  - download
   - driver
   - drivers
   - dual
@@ -34,6 +41,7 @@ tags:
   - find
   - Firefox
   - forums
+  - fun
   - fusion
   - GNOME
   - Google
@@ -42,6 +50,9 @@ tags:
   - guides
   - Home
   - icons
+  - IM
+  - install
+  - intel
   - internet
   - KDE
   - Konqueror
@@ -49,8 +60,13 @@ tags:
   - linux guide
   - LiveCD
   - LV
+  - media
+  - mount
+  - move
   - moving
   - multimedia
+  - net
+  - New
   - newbie
   - NTFS
   - open source
@@ -59,31 +75,44 @@ tags:
   - Opera
   - Operating System
   - operating systems
+  - os
   - package manager
   - partition
   - partitioning
+  - Partitions
   - Pidgin
+  - read
   - Resolution
+  - rm
+  - Screen
   - Screen Resolution
   - show
   - software
   - softwares
   - Solaris
   - SUSE
+  - switch
   - switching
   - switchover
   - synaptic
+  - tar
   - theme
   - themes
   - Ubuntu
   - Unity
   - UNIX
+  - update
+  - upgrade
+  - user
+  - ux
   - VLC
   - wallpaper
   - web
   - windows
   - WINE
+  - X
   - xp
+  - YaST
   - yum
 
 ---

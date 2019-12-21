@@ -10,13 +10,19 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
+  - boot
+  - cat
   - commands
+  - DE
   - dl
   - file
   - find
   - GNOME
   - gvfs
+  - IM
+  - install
   - KDE
+  - KDE4
   - Launchpad
   - linux
   - LTS
@@ -25,12 +31,16 @@ tags:
   - Nautilus
   - notes
   - open source
+  - os
   - partition
+  - rm
   - Super
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - user
   - windows
+  - X
 
 ---
 I spend quite a lot of time on Super User( [my][1]{#aptureLink_qMmmNb2Xqv} [rep][2]{#aptureLink_vjHLLfl9NA} is a testament to that I guess ;) ) &#8211; both on the site as well as the mindblowingly awesome [chat][3]{#aptureLink_yMJtbXi2I1} (if you haven&#8217;t been here, you \*must\* drop by).

@@ -8,32 +8,50 @@ categories:
   - Reviews
 tags:
   - Arch
+  - boot
+  - cat
   - compiz
   - crap
+  - DE
+  - download
   - driver
   - drivers
   - DVD
   - find
   - fusion
   - hardy
+  - hassles
   - Human
   - Ibex
+  - IM
+  - install
   - internet
   - intrepid
   - Intrepid Ibex
   - LTS
   - Nautilus
+  - net
+  - New
   - NewHuman
   - NVIDIA
   - Nvidia Drivers
+  - os
+  - repo
+  - repos
+  - repositories
   - Resolution
   - review
   - Reviews
+  - Screen
   - Screen Resolution
   - software
   - softwares
+  - support
   - theme
   - Ubuntu
+  - update
+  - upgrade
+  - X
   - xorg
 
 ---

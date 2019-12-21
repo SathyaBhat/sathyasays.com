@@ -9,6 +9,8 @@ categories:
 tags:
   - applications
   - Arch
+  - cat
+  - DE
   - delete
   - eye-candy
   - GNOME
@@ -16,11 +18,17 @@ tags:
   - linux
   - LTS
   - menu
+  - move
+  - New
   - open source
   - openSuSE
+  - os
+  - personal
   - SUSE
   - "tips-and-howto's"
   - tutorials
+  - user
+  - X
 
 ---
 Seems like lot of openSUSE Gnome users don&#8217;t like the new Gnome panel, which is radically different interface from the traditional Menu bar with Applications/Places/System entries. Personally I prefer the new style, perhaps because I&#8217;m used to the openSUSE Kickoff panel, and I really dig the search feature

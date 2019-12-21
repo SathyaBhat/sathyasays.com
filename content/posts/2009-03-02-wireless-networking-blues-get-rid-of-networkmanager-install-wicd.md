@@ -8,21 +8,33 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
+  - boot
+  - DE
   - Debian
   - distro
+  - distros
   - Fedora
   - Gentoo
+  - IM
+  - install
   - KDE
   - KDE 4.2
-  - KDE
+  - KDE4
+  - move
+  - net
   - NetworkManager
   - open source
+  - os
+  - read
   - Sabayon
   - Sabayon 4
   - show
+  - tar
   - Ubuntu
+  - update
   - wicd
   - Wireless
+  - X
 
 ---
 I&#8217;ve jsut about had it with NetworkManager. Everytime I update my system I have to bite my nails wondering whether the update will break my wireless. I&#8217;ve posted earlier about my problems with NetworkManager and on howto fix it, there&#8217;s the best way to fix it: get rid of it.

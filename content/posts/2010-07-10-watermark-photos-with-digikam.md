@@ -9,9 +9,14 @@ topsy_short_url:
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - DE
   - digikam
+  - fun
   - images
   - KDE
+  - os
+  - rm
+  - support
   - watermarking
 
 ---

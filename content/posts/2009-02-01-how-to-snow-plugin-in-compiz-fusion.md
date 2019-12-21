@@ -14,7 +14,11 @@ tags:
   - commands
   - compiling
   - compiz
+  - DE
+  - Desktop
   - distro
+  - distros
+  - download
   - Dreamscene
   - exe
   - eye-candy
@@ -24,13 +28,19 @@ tags:
   - forums
   - fusion
   - git
+  - IM
+  - install
   - internet
   - linux
   - LV
+  - net
   - open source
   - openSuSE
+  - os
   - plugin
+  - read
   - RIA
+  - rm
   - Sabayon
   - snow
   - SUSE
@@ -38,7 +48,9 @@ tags:
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - user
   - wallpaper
+  - X
 
 ---
 After a long time&#8217;s search over the internet for many days I finally figured out how to do this. Many may know this already but many may not too. And since I hate to compile programs from sourceI have found here a method that involves less of actual compiling. Since am a ubuntu user I only have tried this in ubuntu and not other distros.

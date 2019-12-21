@@ -7,17 +7,33 @@ url: /2008/11/09/updating-kde4-to-kde-413-from-the-command-prompt-using-zypper/
 categories:
   - News
 tags:
+  - cat
   - commands
+  - DE
+  - Desktop
   - dl
+  - download
+  - free
   - HAL
+  - install
   - internet
   - KDE
   - kde 4.1
-  - KDE
+  - KDE4
   - KDE4.0
+  - net
   - openSuSE
+  - os
+  - repo
+  - repos
+  - repositories
   - SUSE
+  - update
   - updating
+  - upgrade
+  - X
+  - YaST
+  - zypper
 
 ---
 Couple of days ago, while I was updating the KDE4.0.4 install present on my openSUSE, my Internet conked off(as usual), and I was stuck halfway between the KDE4.0.4 -> KDE 4.1.3 update. So I shutdown my system. Later on while powering it on, this semi-update badly damaged by KDE installation with version incompatibilities and DBUS communication failures &#8211; resulting that my X server wouldn&#8217;t come up, with KDE chosen as the DE. With KDE out, I was trying to figure out how to get it updated, without any GUI tools(generally I rely on YaST2) and then I thought why not try out <a rel="wikipedia" href="http://en.wikipedia.org/wiki/Zypper">zypper</a>

@@ -12,15 +12,31 @@ tags:
   - applicates
   - applications
   - apps
+  - beta
   - bin
+  - cat
+  - DE
+  - download
+  - downloads
   - exe
   - file
   - Home
+  - IM
+  - install
   - linux
+  - New
+  - os
+  - repo
+  - repos
+  - repositories
   - RIA
   - rich internet applications
+  - rm
+  - Screen
   - show
   - terminal
+  - ux
+  - X
   - xp
 
 ---

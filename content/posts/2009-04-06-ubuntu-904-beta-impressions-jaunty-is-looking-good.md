@@ -9,10 +9,16 @@ categories:
 tags:
   - AIR
   - apps
+  - beta
+  - boot
   - bootsplash
   - browser
   - compiz
+  - DE
+  - Desktop
   - distro
+  - distros
+  - download
   - driver
   - drivers
   - DVD
@@ -22,36 +28,49 @@ tags:
   - GNOME
   - grub
   - gvfs
+  - IM
+  - install
   - iso
   - Jaunty
   - Jaunty Jackalope
   - KDE
   - kubuntu
   - linux
+  - media
   - Mplayer
   - multimedia
   - Nautilus
+  - New
   - NVIDIA
   - open source
   - openSuSE
   - operating systems
+  - os
   - performance
   - Pidgin
+  - read
   - Reviews
+  - rm
   - Sabayon
+  - Screen
   - SMplayer
   - software
   - SUSE
+  - switch
+  - tar
   - terminal
   - theme
   - Thunderbird
   - torrents
   - transmission
   - Ubuntu
-  -  Vista
+  - Ubuntu 9.04
+  - user
+  - Vista
   - web
   - WiFi
   - WP
+  - X
   - xp
 
 ---

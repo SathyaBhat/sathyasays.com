@@ -7,16 +7,42 @@ url: /2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connec
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - /dev
+  - ADSL
+  - Airtel
+  - boot
+  - Broadband
+  - BSNL
+  - BSNL broadband
+  - BSNL dataone
+  - cat
   - commands
+  - Dataone
+  - DE
+  - Desktop
+  - dsl
   - Fedora
+  - free
+  - IM
+  - indicom
   - internet
   - linux
   - login
+  - net
+  - os
+  - rm
   - sudo
+  - switch
+  - tar
+  - tata
   - terminal
   - "tips-and-howto's"
   - tutorials
+  - usb
+  - user
+  - ux
   - windows
+  - X
 
 ---
 This is yet another of the posts was lying in my drafts, decided to dust it off and publish it!
