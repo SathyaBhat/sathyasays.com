@@ -7,28 +7,10 @@ url: /2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/
 categories:
   - News
 tags:
-  - '*buntu'
   - commands
-  - console
-  - distro
-  - DVD
-  - file
-  - images
-  - indic
-  - iso
-  - linux
-  - mdf
-  - mds
-  - mounting
-  -   - open source
-  - root
-  - show
-  - software
-  - sudo
   - terminal
   - tutorials
-  - Ubuntu
-  - windows
+
 
 ---
 There are lots of times where you&#8217;d want to mount a CD/DVD image. Say your friend who uses his Windows box has given you a .iso file or a .mds/mdf file, created using Alcohol 120%. How would you mount them in Linux? Using the Terminal and making use of the [loop device][1],there is no need for any external software tools and utlities.

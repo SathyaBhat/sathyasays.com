@@ -2,5 +2,5 @@
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/themes/minimo"]
-	path = themes/themes/minimo
+	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
