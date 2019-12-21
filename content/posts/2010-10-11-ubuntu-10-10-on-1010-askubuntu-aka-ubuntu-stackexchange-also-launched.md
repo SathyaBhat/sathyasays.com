@@ -9,11 +9,16 @@ topsy_short_url:
 categories:
   - General
 tags:
+  - cat
+  - DE
   - FAQ
+  - IM
   - kubuntu
   - Stack Exchange
   - Ubuntu
-  - Ubuntu
+  - Ubuntu 10.10
+  - X
+
 ---
 You must&#8217;ve heard enough number of times about Ubuntu 10.10 &#8220;Maverick Meerkat&#8221; [being released][1]{#aptureLink_NJkWyum11e} today, so I won&#8217;t bore you with the details.
 

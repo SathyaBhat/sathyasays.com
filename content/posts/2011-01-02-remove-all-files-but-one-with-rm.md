@@ -9,6 +9,7 @@ topsy_short_url:
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - rm
   - terminal
   - "tips-and-howto's"
   - tutorials

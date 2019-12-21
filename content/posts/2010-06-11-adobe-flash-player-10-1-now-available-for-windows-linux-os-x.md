@@ -10,19 +10,31 @@ categories:
   - News
 tags:
   - Adobe
+  - blog
   - browser
+  - DE
+  - Desktop
   - events
   - flash
   - flash player
+  - fun
+  - IM
   - linux
+  - New
   - Opera
   - Operating System
   - operating systems
+  - os
   - OS X
   - performance
+  - rm
   - script
   - smart
+  - update
+  - user
+  - ux
   - windows
+  - X
   - xp
 
 ---

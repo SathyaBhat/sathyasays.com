@@ -8,8 +8,22 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - apt-get
+  - cloeses
+  - DE
+  - 'E: Unable to parse package file /var/lib/apt/extended_states (1)'
+  - exe
+  - exits
+  - file
+  - install
+  - os
+  - read
+  - repo
+  - rm
   - sudo
+  - synaptic
   - terminal
+  - unable
+  - X
 
 ---
 This is just a quick tip. If you are getting this error message in Synaptic:

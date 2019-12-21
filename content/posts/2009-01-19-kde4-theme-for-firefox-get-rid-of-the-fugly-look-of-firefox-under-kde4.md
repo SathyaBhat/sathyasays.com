@@ -7,15 +7,26 @@ url: /2009/01/19/kde4-theme-for-firefox-get-rid-of-the-fugly-look-of-firefox-und
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - cat
+  - community
+  - DE
+  - download
   - eye-candy
   - Firefox
+  - IM
+  - install
   - KDE
+  - KDE4
   - Mozilla
   - open source
+  - os
   - Sabayon
+  - support
   - theme
   - themes
   - Unity
+  - upgrade
+  - X
   - xp
 
 ---

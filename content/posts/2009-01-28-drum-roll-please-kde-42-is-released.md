@@ -7,20 +7,30 @@ url: /2009/01/28/drum-roll-please-kde-42-is-released/
 categories:
   - News
 tags:
+  - DE
   - desktop environment
   - desktop environments
   - distro
   - eye-candy
   - GNOME
+  - install
   - KDE
   - kde 4.1
   - KDE 4.2
-  - KDE
+  - KDE4
   - linux
   - open source
+  - os
+  - repo
+  - repos
+  - repositories
   - review
   - Sabayon
+  - Screen
+  - switch
+  - upgrade
   - videos
+  - X
   - xp
 
 ---

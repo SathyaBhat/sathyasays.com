@@ -7,19 +7,26 @@ url: /2008/12/08/make-use-of-peerguardian-2s-ip-filter-in-ktorrent/
 categories:
   - "Tips &amp; How-To's"
 tags:
+  - DE
+  - download
   - FOSS
   - IPFilters
   - KDE
+  - KDE4
   - KTorrent
   - linux
   - open source
+  - os
   - PeerGuardian2
   - plugin
+  - rm
   - show
   - software
   - "tips-and-howto's"
   - tutorials
-  
+  - ux
+  - X
+
 ---
 PeerGuardian 2, is an awesome IP filtering software. Though its FOSS, it there isn&#8217;t a Linux port of it yet. But don&#8217;t worry, if you&#8217;re using KTorrent, you can make use of PeerGuardian&#8217;s filters.  Let me show how you can do so.
 

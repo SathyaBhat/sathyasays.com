@@ -11,24 +11,33 @@ tags:
   - applications
   - Arch
   - associations
+  - cat
+  - DE
+  - Desktop
   - file
   - file associations
+  - IM
   - images
+  - install
   - KDE
   - kde 4.1
-  - KDE
+  - KDE4
   - KDE4.1
   - linux
   - menu
+  - move
   - moving
   - open source
   - openSuSE
   - openSUSE 11
+  - os
+  - rm
   - show
   - SUSE
   - terminal
   - "tips-and-howto's"
   - tutorials
+  - X
 
 ---
 Consider this situation. You have multiple programs installed for a particular file type. Now double clicking it opens an application, but you want it to open in another application.

@@ -12,9 +12,13 @@ tags:
   - 9.10
   - acpi
   - BIOS
+  - boot
   - eye-candy
   - find
+  - hassles
   - history
+  - IM
+  - install
   - Karmic
   - Karmic Koala
   - Koala
@@ -23,10 +27,16 @@ tags:
   - MID
   - NVIDIA
   - open source
+  - os
+  - rm
+  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  
+  - user
+  - ux
+  - X
+
 ---
 This is one problem that has affected me the most in my history of Linux usage, so far. Imagine, for two full years I just din&#8217;t know that the solution to this problem is so simple. Too late of me to find out. Anyway, better late than never.
 

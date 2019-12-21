@@ -9,12 +9,21 @@ categories:
 tags:
   - 2D Boy
   - 3D
+  - DE
+  - download
+  - free
   - games
   - guide
+  - IM
   - linux
+  - New
+  - os
   - shell
+  - ux
   - web
   - World of Goo
+  - write
+  - X
   - xp
 
 ---

@@ -14,14 +14,22 @@ tags:
   - ext4
   - file
   - filesystem
+  - free
   - linux
   - linux partition reader
   - open source
+  - os
   - partition
+  - Partitions
+  - read
   - software
+  - support
   - "tips-and-howto's"
   - tutorials
+  - ux
   - windows
+  - write
+  - X
   - xp
 
 ---

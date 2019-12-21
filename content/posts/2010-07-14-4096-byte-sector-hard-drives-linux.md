@@ -11,7 +11,9 @@ categories:
 tags:
   - AIR
   - Arch
+  - DE
   - distro
+  - distros
   - dl
   - fdisk
   - formatting
@@ -20,14 +22,23 @@ tags:
   - HAL
   - hard drives
   - how-tos
+  - IM
   - linux
   - LV
+  - New
+  - os
   - partition
   - partitioning
   - performance
+  - read
+  - repo
+  - rm
   - show
   - Ubuntu
+  - ux
   - windows
+  - write
+  - X
   - xp
 
 ---

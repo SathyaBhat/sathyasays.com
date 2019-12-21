@@ -9,28 +9,39 @@ categories:
 tags:
   - 9.10
   - commands
+  - DE
   - distro
+  - distros
   - driver
   - drivers
   - file
   - forums
+  - hassles
   - Home
+  - IM
   - Karmic
   - Karmic Koala
   - KDE
   - Koala
   - linux
+  - New
   - NVIDIA
   - open source
+  - os
+  - read
   - Resolution
+  - rm
   - root
+  - Screen
   - Screen Resolution
   - sudo
+  - tar
   - terminal
   - tips
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - X
   - xorg
 
 ---

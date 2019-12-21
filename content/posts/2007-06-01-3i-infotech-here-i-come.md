@@ -7,6 +7,11 @@ url: /2007/06/01/3i-infotech-here-i-come/
 categories:
   - News
 tags:
+  - cat
+  - DE
+  - os
+  - personal
+  - rm
   - software
 
 ---

@@ -9,17 +9,24 @@ categories:
 tags:
   - 9.10
   - AIR
+  - boot
   - console
   - cover
   - find
   - grub
+  - IM
+  - install
   - Karmic
   - Karmic Koala
   - Koala
+  - rm
   - shell
   - show
+  - tar
   - Ubuntu
+  - update
   - Wubi
+  - X
 
 ---
 I had this problem with a wubi install. Ubuntu would highly pester me and drop to command shell (that of grub) without showing the boot options (Why and who knows??). I every time will have to boot by manually entering boot options (really painful).  So I did this.

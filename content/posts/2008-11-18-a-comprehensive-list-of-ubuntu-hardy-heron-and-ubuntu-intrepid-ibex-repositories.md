@@ -10,6 +10,7 @@ tags:
   - 3D
   - 8.04
   - 8.10
+  - AA
   - Amarok
   - apps
   - Arch
@@ -18,15 +19,20 @@ tags:
   - Brasero
   - browser
   - Canonical
+  - cat
+  - community
   - compiz
   - crap
+  - DE
   - Debian
   - dl
+  - download
   - driver
   - drivers
   - file
   - Firefox
   - flash
+  - free
   - git
   - GNOME
   - Google
@@ -36,43 +42,63 @@ tags:
   - Heron
   - Home
   - Ibex
+  - IM
   - inkscape
+  - install
   - intrepid
   - Intrepid Ibex
   - KDE
+  - KDE4
   - kubuntu
   - Launchpad
   - linux
   - MBR
+  - media
   - Mono
   - Mozilla
   - multimedia
   - music
   - MusicBrainz
+  - net
+  - New
   - NVIDIA
   - Nvidia Drivers
   - Opera
+  - os
   - plugin
+  - preview
+  - read
+  - repo
+  - repos
+  - repositories
   - repository
   - review
+  - rm
   - root
+  - Screen
   - security
   - software
   - sudo
   - Super
+  - support
   - sync
   - terminal
   - testing
   - Thunderbird
   - transmission
+  - TV
   - Ubuntu
   - Unity
+  - update
+  - user
+  - ux
   - Vista
   - VLC
   - vm
   - VMWare
   - warning
   - WINE
+  - X
   - xp
 
 ---

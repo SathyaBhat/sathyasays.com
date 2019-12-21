@@ -9,27 +9,42 @@ categories:
 tags:
   - bin
   - Brasero
+  - cat
   - commands
+  - community
+  - DE
   - Debian
   - file
   - Home
+  - IM
   - images
+  - install
   - iso
   - linux
   - mdf
   - mds
+  - mount
   - mounting
   - mounting images
   - mounting iso images
   - Nautilus
-  -   - open source
+  - nrg
+  - open source
   - openSuSE
+  - os
+  - repo
+  - repos
+  - repositories
   - show
   - software
   - SUSE
   - "tips-and-howto's"
   - Ubuntu
   - Unity
+  - user
+  - ux
+  - X
+  - YaST
 
 ---
 A while ago, I&#8217;d written a post on [howto mount CD images][1], such as .iso, .mdf files etc via the command prompt using the mount command. In the post, among the comments, Sumeet had asked if there was a way to do all of this without having to type lengthy commands. Well yes there is! And it can&#8217;t get simpler than this!

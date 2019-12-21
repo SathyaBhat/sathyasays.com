@@ -11,15 +11,23 @@ topsy_short_url:
 categories:
   - Linked
 tags:
+  - cat
   - commands
   - cover
+  - DE
+  - Desktop
   - find
+  - fun
   - linux
+  - net
   - open source
   - tips
   - "tips-and-howto's"
   - tutorials
-  
+  - user
+  - ux
+  - X
+
 ---
 > 1: The pager
 > 

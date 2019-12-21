@@ -8,16 +8,24 @@ categories:
   - News
 tags:
   - Auto Upgrade
+  - blog
+  - DE
   - exploit
   - find
+  - IM
   - open source
+  - os
   - plugin
   - security
+  - update
   - updating
+  - upgrade
   - upgrading
+  - user
   - WordPress
   - WordPress Automatic Upgrading
   - wordpress plugin
+  - X
   - xp
 
 ---

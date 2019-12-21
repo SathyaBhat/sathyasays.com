@@ -9,7 +9,11 @@ categories:
 tags:
   - 8.10
   - bin
+  - blog
+  - DE
+  - Desktop
   - distro
+  - distros
   - dl
   - driver
   - drivers
@@ -17,26 +21,43 @@ tags:
   - EDID
   - file
   - find
+  - free
   - GNOME
   - Ibex
+  - IM
+  - install
   - intrepid
   - Intrepid Ibex
   - linux
   - login
   - LV
   - menu
+  - New
   - NVIDIA
   - Nvidia Drivers
+  - os
+  - personal
+  - read
+  - repo
+  - repos
+  - repositories
   - Resolution
+  - rm
   - root
+  - Screen
   - Screen Resolution
   - sudo
+  - support
   - sync
   - Sync. Out of Range
+  - tar
   - terminal
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - update
+  - ux
+  - X
   - xorg
 
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - 9.10
   - commands
+  - DE
   - Karmic
   - Karmic Koala
   - keyboard
@@ -16,9 +17,12 @@ tags:
   - linux
   - menu
   - open source
+  - rm
+  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
+  - X
   - xp
 
 ---

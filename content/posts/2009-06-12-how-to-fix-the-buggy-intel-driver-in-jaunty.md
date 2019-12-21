@@ -11,21 +11,28 @@ tags:
   - commands
   - compiz
   - compiz fusion
+  - DE
+  - Desktop
   - driver
   - drivers
   - eye-candy
   - find
   - how-tos
+  - install
+  - intel
   - intrepid
   - Jaunty
   - linux
   - music
   - open source
+  - os
+  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
   - videos
   - VLC
+  - X
   - xorg
 
 ---

@@ -8,8 +8,10 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - AIR
+  - boot
   - bootrec
   - commands
+  - DE
   - dual
   - DVD
   - easybcd
@@ -18,13 +20,18 @@ tags:
   - fixmbr
   - grub
   - guide
+  - install
   - linux
   - LiveCD
+  - Master
   - MBR
   - menu
+  - move
   - Opera
+  - os
   - partition
   - record
+  - rm
   - root
   - show
   - software
@@ -32,8 +39,10 @@ tags:
   - terminal
   - "tips-and-howto's"
   - tutorials
+  - ux
   - Vista
   - windows
+  - X
   - xp
 
 ---

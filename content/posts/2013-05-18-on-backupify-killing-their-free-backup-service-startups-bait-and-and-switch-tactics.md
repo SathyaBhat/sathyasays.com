@@ -8,6 +8,7 @@ categories:
   - Opinions
 tags:
   - online services
+  - rants
 
 ---
 Long ago <a href="http://blog.backupify.com/2009/12/16/backup-your-online-accounts-for-free/" target="_blank">when Backupify said they were going to offer their service for free</a>, I knew it was too good to be true and weren&#8217;t going to last long. Fast forward today, they mention they&#8217;re going to not only kill their free twitter backup service, but also wipe out data of their existing free users.

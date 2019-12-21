@@ -9,13 +9,18 @@ topsy_short_url:
 categories:
   - Linked
 tags:
+  - DE
   - DJ
   - DJ software
   - linux
   - MID
+  - rm
   - software
+  - support
   - Ubuntu
-  
+  - ux
+  - X
+
 ---
 > Mixxx is described as a complete package for amateur and professional DJs alike, providing everything you need to create and perform live mixes. It can run without connecting turntables and mixers, which makes it a replacement for traditional DJ setup. For professionals, it supports advanced features like comprehensive MIDI controller support, vinyl control, and multi-core CPU support.
 > 

@@ -9,11 +9,21 @@ categories:
 tags:
   - Amarok
   - Amarok 2
+  - beta
+  - DE
+  - download
+  - IM
   - KDE
+  - KDE4
   - MySQL
+  - os
   - plasma
+  - rm
+  - Screen
   - script
   - scripts
+  - support
+  - X
 
 ---
 After couple of years of development, Amarok 2 finally hit the release mark, yup Amarok 2.0 was officially <a href="http://amarok.kde.org/en/releases/2.0" target="_blank">released today</a>.

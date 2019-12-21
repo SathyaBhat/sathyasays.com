@@ -7,9 +7,24 @@ url: /2007/11/14/my-laptop-chronicles-it-gets-better/
 categories:
   - News
 tags:
+  - AA
+  - DE
+  - Dell
   - driver
+  - hassles
+  - IM
+  - laptop
   - license
+  - move
+  - os
+  - personal
+  - rants
+  - read
+  - rm
+  - RMS
   - security
+  - ux
+  - X
   - xp
 
 ---

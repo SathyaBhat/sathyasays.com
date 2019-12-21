@@ -7,11 +7,14 @@ url: /2008/09/21/my-first-ubiquity-command-lincr-it/
 categories:
   - General
 tags:
+  - AA
   - addon
   - Arch
   - bin
   - browser
+  - cat
   - commands
+  - DE
   - dual
   - find
   - Firefox
@@ -19,12 +22,17 @@ tags:
   - Mozilla
   - Mozilla Firefox
   - open source
+  - os
   - plugin
+  - read
   - review
   - Reviews
   - subs
   - Ubiquity
+  - update
   - url shortening
+  - views
+  - X
   - xp
 
 ---

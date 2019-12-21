@@ -11,25 +11,41 @@ tags:
   - Arch
   - Command-line
   - compiz
+  - DE
+  - Desktop
+  - download
   - Dreamscene
   - eye-candy
   - file
   - GNOME
   - icons
+  - IM
+  - install
   - KDE
   - linux
   - login
   - Mplayer
+  - New
   - openSuSE
+  - os
+  - rm
   - root
+  - Screen
   - software
   - SUSE
+  - tar
+  - user
+  - ux
   - Vista
   - wallpaper
   - wallpapers
   - web
   - windows
+  - write
+  - X
   - XWinWrap
+  - YaST
+  - zypper
 
 ---
 I am probably writing this post too late. To many out there this could be an old news. But, since it was long since I wrote on Sathya Says, (been searching for something to write about) and also this post is worth featuring here, I decided to write this. ;)

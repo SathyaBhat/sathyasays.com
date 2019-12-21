@@ -8,24 +8,34 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
+  - cat
   - ccsm
   - compiz
   - compiz fusion
+  - DE
   - forums
   - fusion
   - games
   - Google
+  - IM
   - internet
   - linux
   - LV
   - menu
+  - move
   - moving
+  - net
   - opacity
+  - os
+  - rm
+  - switch
   - switching
   - "tips-and-howto's"
   - transparency
   - tutorials
   - Ubuntu
+  - ux
+  - X
   - xp
 
 ---

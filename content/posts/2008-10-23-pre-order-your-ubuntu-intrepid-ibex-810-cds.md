@@ -9,7 +9,10 @@ categories:
 tags:
   - 8.10
   - Canonical
+  - DE
+  - Desktop
   - distro
+  - free
   - free cd
   - Ibex
   - intrepid
@@ -17,9 +20,13 @@ tags:
   - linux
   - open source
   - operating systems
+  - os
   - shipti
+  - tar
   - Ubuntu
-  - Ubuntu
+  - Ubuntu 8.10
+  - X
+
 ---
 With just few days ago to Ubuntu 8.10 (Intrepid Ibex) ShipIt &#8211; Canonical&#8217;s service of sending Ubuntu CDs FREE of cost to your doorstop has now started accepting pre-orders for delivery requests of Ubuntu Intrepid Ibex (Ubuntu 8.10). You can order either the Desktop edition or the server edition, and it will be delivered FREE of cost to you(yes, you don&#8217;t even have to pay for shipping).
   

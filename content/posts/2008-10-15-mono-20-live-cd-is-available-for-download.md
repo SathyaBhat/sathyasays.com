@@ -8,15 +8,22 @@ categories:
   - News
 tags:
   - applications
+  - cat
   - compiling
+  - DE
   - distro
   - dot net
+  - download
   - GNOME
+  - IM
   - LiveCD
   - Mono
   - Mono 2.0
+  - net
+  - Novell
   - open source
   - openSuSE
+  - os
   - SUSE
   - torrents
   - vm
