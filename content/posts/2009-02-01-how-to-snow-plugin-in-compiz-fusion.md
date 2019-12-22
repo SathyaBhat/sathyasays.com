@@ -93,6 +93,6 @@ Thanks to elgilicious and ubuntu forums for [this][3]
 
 _Ed&#8217;s note: Do we really need all of this ?  openSUSE, Fedora, Sabayon &#8211; all had Snow plugin without having to do any of this_
 
- [1]: http://oreaus.googlepages.com/snow.tar
- [2]: http://ubuntuforums.org/showthread.php?p=3792520
- [3]: http://ubuntuforums.org/showthread.php?t=768804
+ [1]: https://oreaus.googlepages.com/snow.tar
+ [2]: https://ubuntuforums.org/showthread.php?p=3792520
+ [3]: https://ubuntuforums.org/showthread.php?t=768804

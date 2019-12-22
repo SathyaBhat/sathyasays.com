@@ -5,7 +5,7 @@ type: post
 date: 2012-02-29T04:39:54+00:00
 url: /2012/02/29/linus-on-opensuses-security-settings/
 topsy_short_url:
-  - http://u.sbhat.me/wasp57
+  - https://u.sbhat.me/wasp57
 categories:
   - General
 tags:
@@ -25,4 +25,4 @@ via [Linus Torvalds &#8211; Google+][1], as spotted on [HN][2].
 FWIW, this drove me nuts as well.
 
  [1]: https://plus.google.com/102150693225130002912/posts
- [2]: http://news.ycombinator.com/item?id=3644907
+ [2]: https://news.ycombinator.com/item?id=3644907

@@ -51,4 +51,4 @@ Make wicd the default tool for managing networks
 
 Also we&#8217;ll add an entry to startup so that wicd starts automatically. Have a look at the video below, that will show you how you can do so.
 
- [1]: http://wicd.sourceforge.net/download.php
+ [1]: https://wicd.sourceforge.net/download.php

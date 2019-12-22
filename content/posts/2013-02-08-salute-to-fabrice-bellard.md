@@ -27,21 +27,21 @@ I probably top the ranks of lazy arses who procrastinate like there&#8217;s no t
 >   * [Pi][15] formulas, algorithms and computations.
 >   * A [tiny C program][16] to print the biggest known prime number.
 
-Mind Boggling. Read the <a href="http://news.ycombinator.com/item?id=5187585" target="_blank">HN comments for more</a>.
+Mind Boggling. Read the <a href="https://news.ycombinator.com/item?id=5187585" target="_blank">HN comments for more</a>.
 
- [1]: http://bellard.org/lte/
- [2]: http://bellard.org/ffasn1/
- [3]: http://bellard.org/jslinux/
- [4]: http://bellard.org/pi/pi2700e9/
- [5]: http://bellard.org/dvbt/
- [6]: http://qemu.org/
- [7]: http://ffmpeg.org/
- [8]: http://bellard.org/tcc/
- [9]: http://bellard.org/otcc/
- [10]: http://bellard.org/tcc/tccboot.html
- [11]: http://bellard.org/qemacs/
- [12]: http://www.ioccc.org/
- [13]: http://bellard.org/TinyGL/
- [14]: http://numcalc.com/
- [15]: http://bellard.org/pi/
- [16]: http://bellard.org/mersenne.html
+ [1]: https://bellard.org/lte/
+ [2]: https://bellard.org/ffasn1/
+ [3]: https://bellard.org/jslinux/
+ [4]: https://bellard.org/pi/pi2700e9/
+ [5]: https://bellard.org/dvbt/
+ [6]: https://qemu.org/
+ [7]: https://ffmpeg.org/
+ [8]: https://bellard.org/tcc/
+ [9]: https://bellard.org/otcc/
+ [10]: https://bellard.org/tcc/tccboot.html
+ [11]: https://bellard.org/qemacs/
+ [12]: https://www.ioccc.org/
+ [13]: https://bellard.org/TinyGL/
+ [14]: https://numcalc.com/
+ [15]: https://bellard.org/pi/
+ [16]: https://bellard.org/mersenne.html

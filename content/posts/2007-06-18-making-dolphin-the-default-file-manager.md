@@ -20,7 +20,7 @@ Then, Click on K Menu -> Run Command and type &#8216;kcontrol&#8217; (without th
 Then Click on KDE Components -> File Associations. Expand the inode section.</p> 
 
 <p style="text-align:center;">
-  <img src="http://sathyasays.wordpress.com/files/2007/06/dolphin-default.thumbnail.jpg" alt="dolphin-default.jpg" />
+  <img src="https://sathyasays.wordpress.com/files/2007/06/dolphin-default.thumbnail.jpg" alt="dolphin-default.jpg" />
 </p>
 
 </a>Make Dolphin the first choice, by moving it above Konqueror in the precedence order. This will ensure that Dolphin gets the first priority for opening directories.
@@ -29,4 +29,4 @@ To make dolphin the default file manager for the virtual directories kde creates
 
 Voila! Dolphin is now your default file manager!
 
- [1]: http://sathyasays.wordpress.com/2007/06/14/a-look-at-dolphin/
+ [1]: https://sathyasays.wordpress.com/2007/06/14/a-look-at-dolphin/

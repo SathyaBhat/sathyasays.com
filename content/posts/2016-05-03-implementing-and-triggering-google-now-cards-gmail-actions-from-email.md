@@ -17,11 +17,11 @@ tags:
   - structured data
 
 ---
-For every Barcamp event that comes and goes by, I try to think of what new thing I can do to make it a bit better. Off late, I&#8217;ve been using <a href="http://www.google.co.in/inbox/" target="_blank">Inbox by Gmail</a> almost exclusively. I love the product, particularly for the cards that show up that gives you a brief info about the mail(ex: Event reservation details/Flight details etc) without even opening the email.
+For every Barcamp event that comes and goes by, I try to think of what new thing I can do to make it a bit better. Off late, I&#8217;ve been using <a href="https://www.google.co.in/inbox/" target="_blank">Inbox by Gmail</a> almost exclusively. I love the product, particularly for the cards that show up that gives you a brief info about the mail(ex: Event reservation details/Flight details etc) without even opening the email.
 
 I noticed that Meetup does the same. So I thought to myself, why not implement this for the mailer we send out to folks who have RSVP&#8217;d for the event? We do sent a short &#8216;here&#8217;s what you should look forward to&#8217; email, it&#8217;d be cool to add the event details so that people using Google Now would get notification and the Now card as well.
 
-The biggest problem when I started looking out was that I didn&#8217;t even know what they were known as! After bit of searching with various keywords (&#8220;triggering Google now cards&#8221;, &#8220;Inbox cards&#8221;, &#8220;Inbox mail preview&#8221;) I found that the actual term is &#8220;[Gmail actions][1]&#8220;. Gmail actions use markup from <a href="http://schema.org" target="_blank">schema.org</a> for powering these snippets.
+The biggest problem when I started looking out was that I didn&#8217;t even know what they were known as! After bit of searching with various keywords (&#8220;triggering Google now cards&#8221;, &#8220;Inbox cards&#8221;, &#8220;Inbox mail preview&#8221;) I found that the actual term is &#8220;[Gmail actions][1]&#8220;. Gmail actions use markup from <a href="https://schema.org" target="_blank">schema.org</a> for powering these snippets.
 
 <!--more-->
 
@@ -56,7 +56,7 @@ Simply writing the markup isn&#8217;t enough, you will need to validate the mark
 
 ### Testing the Markup
 
-Since these markups need to be registered, validated and whitelisted by Google, you cannot simply whip up an email from your production server and send an email to your test account. However, you can test for these integrations by creating an email containing the final Markup and send it to yourself. Since these emails need to be in HTML format, you can not use Gmail webapp. You can use <a href="https://developers.google.com/gmail/markup/apps-script-tutorial" target="_blank">this Google Apps Script</a> or the <a href="http://gmail-actions.appspot.com/" target="_blank">Gmail Actions Email app to send emails</a> to yourself. Alternatively, an HTML mail from desktop mail clients should also work(though I have not tested).
+Since these markups need to be registered, validated and whitelisted by Google, you cannot simply whip up an email from your production server and send an email to your test account. However, you can test for these integrations by creating an email containing the final Markup and send it to yourself. Since these emails need to be in HTML format, you can not use Gmail webapp. You can use <a href="https://developers.google.com/gmail/markup/apps-script-tutorial" target="_blank">this Google Apps Script</a> or the <a href="https://gmail-actions.appspot.com/" target="_blank">Gmail Actions Email app to send emails</a> to yourself. Alternatively, an HTML mail from desktop mail clients should also work(though I have not tested).
 
 ### All set for production run!
 
@@ -74,10 +74,10 @@ This was the markup that I finally used.
 
 > <pre><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">"application/ld+json"</span><span class="o">&gt;</span>
     <span class="p">{</span>
-        <span class="s2">"@context"</span><span class="o">:</span>                     <span class="s2">"http://schema.org"</span><span class="p">,</span>
+        <span class="s2">"@context"</span><span class="o">:</span>                     <span class="s2">"https://schema.org"</span><span class="p">,</span>
         <span class="s2">"@type"</span><span class="o">:</span>                        <span class="s2">"EventReservation"</span><span class="p">,</span>
         <span class="s2">"reservationNumber"</span><span class="o">:</span>            <span class="s2">"30042016017"</span><span class="p">,</span>
-        <span class="s2">"reservationStatus"</span><span class="o">:</span>            <span class="s2">"http://schema.org/Confirmed"</span><span class="p">,</span>
+        <span class="s2">"reservationStatus"</span><span class="o">:</span>            <span class="s2">"https://schema.org/Confirmed"</span><span class="p">,</span>
         <span class="s2">"underName"</span><span class="o">:</span> <span class="p">{</span>
             <span class="s2">"@type"</span><span class="o">:</span>                    <span class="s2">"Person"</span><span class="p">,</span>
             <span class="s2">"name"</span><span class="o">:</span>                     <span class="s2">"[FIRST_NAME]"</span>

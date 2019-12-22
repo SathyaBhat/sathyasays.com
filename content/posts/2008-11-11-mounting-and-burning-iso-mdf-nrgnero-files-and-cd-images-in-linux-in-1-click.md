@@ -37,7 +37,7 @@ A while ago, I&#8217;d written a post on [howto mount CD images][1], such as .is
 <p style="text-align: center;">
   <!--more-->Furious ISO Mount Tool is a an amazing little application, taking only about 256KB, and gives you a neat little interface to mount all your iso, mdf(ie, made by Alcohol 120), nrg(created using Nero) images using 1 click!
   
-  <br /> <a href="http://www.flickr.com/photos/sathyabhat/3019351633/"><img class="aligncenter" src="http://farm4.static.flickr.com/3005/3019351633_6396ab88db_m.jpg" alt="Furious ISO Mount Tool" /></a>
+  <br /> <a href="https://www.flickr.com/photos/sathyabhat/3019351633/"><img class="aligncenter" src="https://farm4.static.flickr.com/3005/3019351633_6396ab88db_m.jpg" alt="Furious ISO Mount Tool" /></a>
 </p>
 
 As the above pic shows, the interface is simplistic. To mount an image, just hit the browse button, choose the image file, and hit the mount button! The image will be mounted in your home directory. Furious ISO Mount tool can also launch Brasero or Nautilus and burn the image file, and can also calculate the SHA/HD5 hash, to check that the ISO is not corrupted.
@@ -52,8 +52,8 @@ For [32-bit(x86)][2] / For [64-bit (amd64)][3]
 
 You can [grab the sources][4] and [recompile it as well][5].
 
- [1]: http://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/
- [2]: http://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount_0.9.0.2-1_i386.deb
- [3]: http://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount_0.9.0.2-1_amd64.deb
- [4]: http://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount-0.9.0.2.tar.gz
- [5]: http://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/
+ [1]: https://sathyasays.com/2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/
+ [2]: https://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount_0.9.0.2-1_i386.deb
+ [3]: https://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount_0.9.0.2-1_amd64.deb
+ [4]: https://www.marcus-furius.com/files/FuriusIsoMount/furiusisomount-0.9.0.2.tar.gz
+ [5]: https://sathyasays.com/2008/07/24/how-to-compile-a-program-from-source-code-installing-from-source/

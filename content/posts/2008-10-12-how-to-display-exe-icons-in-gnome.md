@@ -40,5 +40,5 @@ This idea is possible in gnome desktop environment. I seriously dont know about 
 
 Please comment on the idea and also notify me if anyone knows how to do this in KDE
 
- [1]: http://www.objectnetworks.net/wiki/index.php?title=Exe_icon_for_Gnome
- [2]: http://brainstorm.ubuntu.com/idea/2141/
+ [1]: https://www.objectnetworks.net/wiki/index.php?title=Exe_icon_for_Gnome
+ [2]: https://brainstorm.ubuntu.com/idea/2141/

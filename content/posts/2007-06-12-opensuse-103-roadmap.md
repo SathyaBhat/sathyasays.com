@@ -77,6 +77,6 @@ Thu, Oct  4     openSUSE 10.3 public release
 
 The detailed schedule &#8211; including internal test releases &#8211; is available
   
-at:  <a href="http://en.opensuse.org/Roadmap/10.3" rel="nofollow">http://en.opensuse.org/Roadmap/10.3</a>
+at:  <a href="https://en.opensuse.org/Roadmap/10.3" rel="nofollow">https://en.opensuse.org/Roadmap/10.3</a>
 
 Michael and Andreas

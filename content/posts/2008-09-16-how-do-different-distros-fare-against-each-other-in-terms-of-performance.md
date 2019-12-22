@@ -41,4 +41,4 @@ Here&#8217;s some quotes from the article
 
 To read the full article head over to [Phoronix][1]
 
- [1]: http://www.phoronix.com/scan.php?page=article&item=asus_eee_distros&num=1
+ [1]: https://www.phoronix.com/scan.php?page=article&item=asus_eee_distros&num=1

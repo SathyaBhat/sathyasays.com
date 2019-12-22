@@ -71,14 +71,14 @@ Ajan and Aike did some changes to the way modules are being loaded, mainly
 </div>
 
 <div>
-  For more detailed info regarding the same, do read up on LWN&#8217;s <a href="http://lwn.net/Articles/299483/" target="_blank">article on the same.</a>
+  For more detailed info regarding the same, do read up on LWN&#8217;s <a href="https://lwn.net/Articles/299483/" target="_blank">article on the same.</a>
 </div>
 
 <div>
-  Also catchup on an interview Arjan gave to <a href="http://broadcast.oreilly.com/2008/09/how-powertop-latencytop-and-fi.html" target="_blank">O&#8217;Reilly News.</a>
+  Also catchup on an interview Arjan gave to <a href="https://broadcast.oreilly.com/2008/09/how-powertop-latencytop-and-fi.html" target="_blank">O&#8217;Reilly News.</a>
 </div>
 
- [1]: http://www.fenrus.org/
- [2]: http://fedoraproject.org/
- [3]: http://www.moblin.org/
- [4]: http://www.bootchart.org/
+ [1]: https://www.fenrus.org/
+ [2]: https://fedoraproject.org/
+ [3]: https://www.moblin.org/
+ [4]: https://www.bootchart.org/

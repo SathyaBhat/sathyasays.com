@@ -34,4 +34,4 @@ and both just fail to open or install, then just execute this in command line (t
 
 You are done. Thanks to [this][1] post
 
- [1]: http://ubuntuforums.org/showthread.php?t=724916
+ [1]: https://ubuntuforums.org/showthread.php?t=724916

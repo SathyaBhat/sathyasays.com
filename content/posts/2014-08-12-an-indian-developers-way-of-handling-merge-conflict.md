@@ -40,6 +40,6 @@ His way
  10. Pastes the line in Notepad.
  11. Saves.<figure style="width: 372px" class="wp-caption aligncenter">
 
-[<img src="http://i.stack.imgur.com/fTewC.jpg" alt="What is this I don't even.."   />][1]<figcaption class="wp-caption-text">What is this I don&#8217;t even&#8230;.</figcaption></figure>
+[<img src="https://i.stack.imgur.com/fTewC.jpg" alt="What is this I don't even.."   />][1]<figcaption class="wp-caption-text">What is this I don&#8217;t even&#8230;.</figcaption></figure>
 
- [1]: http://i.stack.imgur.com/fTewC.jpg
+ [1]: https://i.stack.imgur.com/fTewC.jpg

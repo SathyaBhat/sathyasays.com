@@ -23,6 +23,6 @@ Do drop a comment if you wish to say something, or want to leave me a word of en
 
 Cheers!
 
- [1]: http://sathyasays.com/tag/linux
- [2]: http://sathyasays.com
- [3]: http://www.webhostingsearch.com/domain-search.php
+ [1]: https://sathyasays.com/tag/linux
+ [2]: https://sathyasays.com
+ [3]: https://www.webhostingsearch.com/domain-search.php

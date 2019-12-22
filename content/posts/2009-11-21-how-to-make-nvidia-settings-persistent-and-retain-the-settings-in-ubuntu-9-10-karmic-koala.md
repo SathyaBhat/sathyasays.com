@@ -58,4 +58,4 @@ As a result, nvidia-settings is not able to save the settings and every time I l
 
 8. You&#8217;re Done. Try logging off and back in.
 
- [1]: http://ubuntuforums.org/showthread.php?t=1260518
+ [1]: https://ubuntuforums.org/showthread.php?t=1260518

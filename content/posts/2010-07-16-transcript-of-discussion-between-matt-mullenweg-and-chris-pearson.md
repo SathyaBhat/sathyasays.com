@@ -5,7 +5,7 @@ type: post
 date: 2010-07-15T22:56:40+00:00
 url: /2010/07/16/transcript-of-discussion-between-matt-mullenweg-and-chris-pearson/
 topsy_short_url:
-  - http://bit.ly/aq7SQ3
+  - https://bit.ly/aq7SQ3
 categories:
   - General
 tags:
@@ -130,11 +130,11 @@ Update: Drew Blas has a post, analysing the GPL&#8217;d code in Thesis. His thou
 > 
 > <pre>thesis_list_comments from thesis_17/lib/classes/comments.php:169</pre>
 > 
-> And you can see a comparison of the exact matching lines: <a href="http://gist.github.com/477051" target="_blank">http://gist.github.com/477051</a>
+> And you can see a comparison of the exact matching lines: <a href="https://gist.github.com/477051" target="_blank">https://gist.github.com/477051</a>
 
 Read the full post over [at Drew&#8217;s blog][4].
 
- [1]: http://en.wikipedia.org/wiki/GNU%20General%20Public%20License
- [2]: http://en.wikipedia.org/wiki//wiki/index.php?title=Copyleft "Copyleft"
- [3]: http://mixergy.com/chris-pearson-matt-mullenweg/
- [4]: http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/
+ [1]: https://en.wikipedia.org/wiki/GNU%20General%20Public%20License
+ [2]: https://en.wikipedia.org/wiki//wiki/index.php?title=Copyleft "Copyleft"
+ [3]: https://mixergy.com/chris-pearson-matt-mullenweg/
+ [4]: https://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/

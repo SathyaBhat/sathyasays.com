@@ -35,5 +35,5 @@ Now Click on Apply. Next on the sidebar, scroll down and click on IP Filter. Cli
 
 Next Click on Apply and OK. There you go, you&#8217;re done. KTorrent now will make use of PeerGuardian&#8217;s filters.
 
- [1]: http://farm4.static.flickr.com/3162/3091279823_ccff6b30cd_m.jpg
- [2]: http://farm4.static.flickr.com/3235/3091279829_fbca833b4e_m.jpg
+ [1]: https://farm4.static.flickr.com/3162/3091279823_ccff6b30cd_m.jpg
+ [2]: https://farm4.static.flickr.com/3235/3091279829_fbca833b4e_m.jpg

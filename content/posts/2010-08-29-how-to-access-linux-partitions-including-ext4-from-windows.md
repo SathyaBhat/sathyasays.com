@@ -5,7 +5,7 @@ type: post
 date: 2010-08-29T18:57:30+00:00
 url: /2010/08/29/how-to-access-linux-partitions-including-ext4-from-windows/
 topsy_short_url:
-  - http://bit.ly/cjVwm5
+  - https://bit.ly/cjVwm5
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -30,4 +30,4 @@ tags:
 via [techie-buzz][2]
 
  [1]: ../2008/06/01/how-to-access-ext2ext3-formatted-linux-partitions-in-windows/
- [2]: http://techie-buzz.com/foss/how-to-access-your-linux-partitions-from-windows.html
+ [2]: https://techie-buzz.com/foss/how-to-access-your-linux-partitions-from-windows.html

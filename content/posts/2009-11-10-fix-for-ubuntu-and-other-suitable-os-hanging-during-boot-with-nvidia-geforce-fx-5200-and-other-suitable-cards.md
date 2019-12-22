@@ -5,7 +5,7 @@ type: post
 date: 2009-11-09T18:33:43+00:00
 url: /2009/11/10/fix-for-ubuntu-and-other-suitable-os-hanging-during-boot-with-nvidia-geforce-fx-5200-and-other-suitable-cards/
 topsy_short_url:
-  - http://u.sbhat.me/gk0a6D
+  - https://u.sbhat.me/gk0a6D
 categories:
   - News
 tags:

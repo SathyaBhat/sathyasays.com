@@ -5,7 +5,7 @@ type: post
 date: 2010-08-30T04:06:10+00:00
 url: /2010/08/30/always-display-the-location-bar-in-nautilus/
 topsy_short_url:
-  - http://bit.ly/90bWfZ
+  - https://bit.ly/90bWfZ
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -37,5 +37,5 @@ This is a pretty good tip. The default style irritates me to no end. Check out t
 
 via [anxiousnut&#8217;s playground][2]
 
- [1]: http://zappedpoint.wordpress.com/2010/05/14/change-the-default-view-in-nautilus
- [2]: http://anxiousnut.wordpress.com/2010/08/28/nautilus-unpopular-flabbergasting-snippets/
+ [1]: https://zappedpoint.wordpress.com/2010/05/14/change-the-default-view-in-nautilus
+ [2]: https://anxiousnut.wordpress.com/2010/08/28/nautilus-unpopular-flabbergasting-snippets/

@@ -5,7 +5,7 @@ type: post
 date: 2010-07-12T22:11:17+00:00
 url: /2010/07/13/spotify-for-linux/
 topsy_short_url:
-  - http://bit.ly/bmRFzt
+  - https://bit.ly/bmRFzt
 categories:
   - News
 tags:
@@ -28,4 +28,4 @@ via [Spotify for Linux &#8211; Spotify][1].
 
 Nice! Now if only they&#8217;d allow us poor mortals(read: those living outside Europe) to use Spotify :(
 
- [1]: http://www.spotify.com/int/blog/archives/2010/07/12/linux/
+ [1]: https://www.spotify.com/int/blog/archives/2010/07/12/linux/

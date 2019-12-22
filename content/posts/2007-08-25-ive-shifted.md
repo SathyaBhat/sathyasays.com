@@ -19,10 +19,10 @@ On the web, I&#8217;ve shifted from WordPress hosted blog to my very own domain(
 
 And oh yeah, my sis gave birth to a girl. Here&#8217;s a pic of my niece, who&#8217;s been named Saanvi!
   
-<a href="http://img511.imageshack.us/my.php?image=dscn0101hp1.jpg" target="_blank"><img src="http://img511.imageshack.us/img511/2351/dscn0101hp1.th.jpg" alt="Free Image Hosting at www.ImageShack.us" border="0" /></a>
+<a href="https://img511.imageshack.us/my.php?image=dscn0101hp1.jpg" target="_blank"><img src="https://img511.imageshack.us/img511/2351/dscn0101hp1.th.jpg" alt="Free Image Hosting at www.ImageShack.us" border="0" /></a>
   
 Chao!
 
- [1]: http://www.3i-infotech.com
- [2]: http://www.expertrio.com
- [3]: http://www.acchablog.com
+ [1]: https://www.3i-infotech.com
+ [2]: https://www.expertrio.com
+ [3]: https://www.acchablog.com

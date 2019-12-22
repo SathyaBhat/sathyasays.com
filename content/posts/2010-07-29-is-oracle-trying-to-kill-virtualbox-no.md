@@ -5,7 +5,7 @@ type: post
 date: 2010-07-29T01:53:08+00:00
 url: /2010/07/29/is-oracle-trying-to-kill-virtualbox-no/
 topsy_short_url:
-  - http://bit.ly/chbUbO
+  - https://bit.ly/chbUbO
 categories:
   - General
 tags:
@@ -41,4 +41,4 @@ The article is either a bunch of baloney or the test system as got some serious 
 
 And heh, the author calls himself &#8220;_BaloneyGeek_&#8220;. Go figure.
 
- [1]: http://www.muktware.com/news/26/2010/249
+ [1]: https://www.muktware.com/news/26/2010/249

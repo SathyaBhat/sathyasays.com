@@ -33,4 +33,4 @@ The above guide is really excellent and provides the tiniest details for perfect
 
 Finally, I would like to give you a small tip. I encountered certain problems with customising awn dock. The theme specified for the dock did not give a complete imitation of mac dock. Also, the stacks did not work for me. So, in case anyone encountering same problem please use cairo-dock instead of awn. Because, in cairo-dock the imitation of mac dock is done well, it is more customisable than awn dock and stacks applet is aslo available for cairo-dock.
 
- [1]: http://maketecheasier.com/turn-your-ubuntu-hardy-to-mac-osx-leopard/2008/07/23
+ [1]: https://maketecheasier.com/turn-your-ubuntu-hardy-to-mac-osx-leopard/2008/07/23

@@ -5,7 +5,7 @@ type: post
 date: 2010-01-16T09:41:42+00:00
 url: /2010/01/16/mission-get-bluetooth-stereo-headset-working-in-linux-current-status-epic-fail/
 topsy_short_url:
-  - http://bit.ly/4wESPN
+  - https://bit.ly/4wESPN
 categories:
   - News
 tags:
@@ -84,11 +84,11 @@ Result: Didn&#8217;t bother. Same as attempt #2.
 
 I&#8217;ve just about given up trying to get this damn thing working. If you have any suggestions/advice, do drop a comment. FYI: I&#8217;m on openSUSE, my headset is a Sony Ericsson HBH DS970.
 
- [1]: http://sathyabh.at/2008/05/22/my-bt-headset-is-here/
- [2]: http://sathyabh.at/2008/03/30/sony-ericsson-p1i-review/
- [3]: http://twitter.com/sathyabhat/statuses/7403663222
- [4]: http://bluetooth-alsa.sourceforge.net/build.html
- [5]: http://wiki.bluez.org/wiki/HOWTO/AudioDevices
- [6]: http://fosswire.com/post/2008/1/a2dp-stereo-linux/
- [7]: http://fosswire.com/post/2008/10/better-bluetooth-audio/
- [8]: http://it.toolbox.com/blogs/locutus/mission-impossible-connect-bluetooth-headset-to-linux-35365
+ [1]: https://sathyabh.at/2008/05/22/my-bt-headset-is-here/
+ [2]: https://sathyabh.at/2008/03/30/sony-ericsson-p1i-review/
+ [3]: https://twitter.com/sathyabhat/statuses/7403663222
+ [4]: https://bluetooth-alsa.sourceforge.net/build.html
+ [5]: https://wiki.bluez.org/wiki/HOWTO/AudioDevices
+ [6]: https://fosswire.com/post/2008/1/a2dp-stereo-linux/
+ [7]: https://fosswire.com/post/2008/10/better-bluetooth-audio/
+ [8]: https://it.toolbox.com/blogs/locutus/mission-impossible-connect-bluetooth-headset-to-linux-35365

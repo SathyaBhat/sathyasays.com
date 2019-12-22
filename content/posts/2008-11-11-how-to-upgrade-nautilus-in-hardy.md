@@ -34,7 +34,7 @@ Here&#8217;s how you can go about doing so
 
 1. Add this repository in hardy :-
 
-deb <http://archive.ubuntu.com/ubuntu>{.http} intrepid main restricted universe multiverse
+deb <https://archive.ubuntu.com/ubuntu>{.http} intrepid main restricted universe multiverse
 
 2. Update your repository sources list 
 

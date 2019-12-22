@@ -5,7 +5,7 @@ type: post
 date: 2010-07-20T20:34:33+00:00
 url: /2010/07/21/ironruby-and-ironpython-now-on-apache-2-license/
 topsy_short_url:
-  - http://bit.ly/a1z5z9
+  - https://bit.ly/a1z5z9
 categories:
   - General
   - Linked
@@ -20,4 +20,4 @@ tags:
 
 via [Microsoft Licensing Changes for IronRuby and IronPython &#8211; Miguel de Icaza][1].
 
- [1]: http://tirania.org/blog/archive/2010/Jul-17-1.html
+ [1]: https://tirania.org/blog/archive/2010/Jul-17-1.html

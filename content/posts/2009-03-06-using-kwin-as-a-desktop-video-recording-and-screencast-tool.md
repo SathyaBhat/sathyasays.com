@@ -53,4 +53,4 @@ To convert goto the directory where the recode.sh file is, and type
 
 Here is the script: [dm]2[/dm]
 
- [1]: http://blog.mehulved.com/
+ [1]: https://blog.mehulved.com/
