@@ -11,13 +11,9 @@ categories:
   - Linked
 tags:
   - Apache
-  - DE
-  - IM
   - license
   - Microsoft
   - open source
-  - os
-  - rm
 
 ---
 > If you check the latest versions of IronRuby, IronPython or the Dynamic Language Runtime you will see that Microsoft has now relicensed the code from the Microsoft Permissive License to the Apache 2 License

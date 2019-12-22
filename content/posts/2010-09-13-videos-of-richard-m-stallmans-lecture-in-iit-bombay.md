@@ -9,16 +9,11 @@ topsy_short_url:
 categories:
   - General
 tags:
-  - DE
-  - download
   - events
   - free software
   - FSF
-  - IM
-  - os
   - record
   - Richard M Stallman
-  - RMS
   - videos
 
 ---

@@ -8,10 +8,7 @@ categories:
   - General
 tags:
   - Christmas
-  - DE
-  - download
   - eye-candy
-  - IM
   - images
   - KDE
   - wallpaper

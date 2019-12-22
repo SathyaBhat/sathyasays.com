@@ -10,19 +10,12 @@ categories:
   - News
 tags:
   - Arch
-  - blog
   - Canonical
-  - DE
   - find
   - GNOME
-  - IM
-  - intel
   - LV
   - Nokia
-  - Novell
-  - os
   - Red Hat
-  - rm
   - Sun
 
 ---

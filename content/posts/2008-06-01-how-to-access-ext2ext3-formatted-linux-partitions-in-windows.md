@@ -7,37 +7,8 @@ url: /2008/06/01/how-to-access-ext2ext3-formatted-linux-partitions-in-windows/
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - applications
-  - cat
-  - DE
-  - driver
-  - ext2
-  - ext3
-  - FAT
-  - FAT32
-  - file
   - filesystem
-  - install
-  - linux
-  - linux reader
-  - mount
-  - NTFS
-  - os
-  - partition
-  - Partitions
-  - personal
-  - read
-  - rm
-  - software
-  - softwares
-  - support
-  - tips
   - "tips-and-howto's"
-  - tutorials
-  - ux
-  - windows
-  - write
-  - X
 
 ---
 This is another one of those tips I always wanted to post, but kept forgetting :| So here goes.

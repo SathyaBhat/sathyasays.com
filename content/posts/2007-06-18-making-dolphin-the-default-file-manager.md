@@ -7,27 +7,8 @@ url: /2007/06/18/making-dolphin-the-default-file-manager/
 categories:
   - News
 tags:
-  - applications
-  - apt-get
-  - associations
-  - cat
-  - DE
   - Dolphin
-  - file
-  - file associations
-  - IM
-  - install
-  - KDE
-  - kmenu
-  - Konqueror
-  - menu
-  - move
-  - moving
-  - os
-  - quotes
-  - read
-  - X
-  - xp
+
 
 ---
 Dolphin&#8217;s fast loading times and clean interface made me consider to have a second look at Dolphin. So here&#8217;s a way to make Dolphin the default file manager.

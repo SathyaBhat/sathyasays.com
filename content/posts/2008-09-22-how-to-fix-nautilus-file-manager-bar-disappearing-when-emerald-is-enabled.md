@@ -8,8 +8,6 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - applications
-  - cat
-  - DE
   - Emerald
   - file
   - find
@@ -19,16 +17,12 @@ tags:
   - Meta
   - Nautilus
   - open source
-  - os
   - Resolution
-  - rm
-  - Screen
   - Screen Resolution
   - terminal
   - "tips-and-howto's"
   - window-decorator
   - windows
-  - X
   - xp
 
 ---

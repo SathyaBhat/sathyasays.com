@@ -7,18 +7,9 @@ url: /2007/08/25/ive-shifted/
 categories:
   - News
 tags:
-  - AA
-  - blog
-  - DE
-  - IM
-  - laptop
   - linux
-  - os
-  - update
-  - ux
   - web
   - WordPress
-  - X
   - xp
 
 ---

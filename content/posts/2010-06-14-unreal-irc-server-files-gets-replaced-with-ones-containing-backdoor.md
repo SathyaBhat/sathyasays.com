@@ -10,20 +10,15 @@ categories:
   - News
 tags:
   - backdoor
-  - DE
   - dl
   - exe
   - file
   - irc
   - linux
-  - os
   - security
   - security breach
-  - tar
   - Unreal
   - Unreal IRCD
-  - user
-  - X
 
 ---
 [Forum post @ Unreal IRCD][1]

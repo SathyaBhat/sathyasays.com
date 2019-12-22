@@ -7,17 +7,9 @@ url: /2008/11/01/wordpress-27-beta-1-is-out-november-10-release-gets-delayed/
 categories:
   - News
 tags:
-  - beta
-  - blog
-  - blogging
-  - DE
-  - IM
   - open source
-  - os
-  - Screen
   - software
   - testing
-  - user
   - WordPress
   - WP
 

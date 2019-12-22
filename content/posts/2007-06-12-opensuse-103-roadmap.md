@@ -7,37 +7,14 @@ url: /2007/06/12/opensuse-103-roadmap/
 categories:
   - News
 tags:
-  - beta
-  - boot
-  - community
-  - DE
   - GNOME
-  - IM
-  - install
   - KDE
-  - KDE4
   - linux
-  - Master
-  - net
-  - New
-  - Novell
   - openSuSE
-  - os
-  - preview
-  - repo
-  - repos
-  - repositories
   - review
-  - rm
-  - RMS
-  - roadmap
-  - support
   - SUSE
   - Unity
-  - update
-  - ux
-  - X
-  - zypper
+
 
 ---
 As mentioned in my earlier posts, I&#8217;m a huge fan of openSuSE and am eagerly waiting for the next release, openSuSE 10.3, scheduled for October 2007.

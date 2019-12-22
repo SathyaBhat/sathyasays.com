@@ -8,8 +8,6 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - DE
-  - Desktop
   - exe
   - eye-candy
   - find
@@ -20,29 +18,17 @@ tags:
   - Heron
   - Human
   - Ibex
-  - install
   - internet
   - intrepid
   - Intrepid Ibex
   - Launchpad
   - login
-  - net
-  - New
   - NewHuman
-  - os
-  - repo
-  - repos
-  - repositories
-  - rm
-  - Screen
-  - tar
   - terminal
   - theme
   - Ubuntu
-  - update
   - wallpaper
   - web
-  - X
 
 ---
 This could be a very useful post for people who search about and want the  new Intrepid Ibex and its NewHuman theme. There are many clones of the theme available all over the internet in websites like [gnome-look.org][1]. However there is also a way to get the original theme through the repositories.

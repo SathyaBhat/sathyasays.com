@@ -10,32 +10,21 @@ categories:
   - General
 tags:
   - bin
-  - blog
-  - boot
-  - DE
-  - IM
-  - install
   - linux
-  - net
   - open source
   - Opera
   - Operating System
   - oracle
-  - os
   - pen drive
-  - rm
   - show
   - software
   - subs
   - Sun
-  - usb
   - USB pen drive
-  - ux
   - VirtualBox
   - virtualization
   - vm
   - windows
-  - X
 
 ---
 > It seems Oracle is hellbent on destroying whatever good Sun had done to the Open Source Ecosystem. The latest product to get the axe seems to be none other than the Flagship Virtualization program xVM VirtualBox.

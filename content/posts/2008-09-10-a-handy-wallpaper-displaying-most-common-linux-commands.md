@@ -8,19 +8,13 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - commands
-  - DE
   - eye-candy
   - guide
   - linux
-  - net
-  - os
   - "tips-and-howto's"
   - tutorials
   - UNIX
-  - update
-  - ux
   - wallpaper
-  - X
   - xp
 
 ---
