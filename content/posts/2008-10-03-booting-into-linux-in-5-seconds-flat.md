@@ -8,10 +8,7 @@ categories:
   - News
 tags:
   - ASUS
-  - boot
   - bootup
-  - cat
-  - DE
   - dl
   - driver
   - drivers
@@ -20,29 +17,19 @@ tags:
   - filesystem
   - find
   - HAL
-  - IM
   - license
   - linux
   - Linux Plumbers Conference
   - LPC
   - LTS
   - Moblin
-  - net
-  - New
   - "O'Reilly"
   - open source
   - PowerTOP
-  - read
-  - rm
-  - Screen
   - security
-  - support
   - sync
-  - tar
   - Ubuntu
-  - ux
-  - X
-
+  
 ---
 At the recently held Linux Plumbers&#8217; Conference, 2 Linux developers,  [Arjan van de Ven][1] and Auke Kok, demonstrated a Linux system booting in five seconds flat. To demonstrate this, they used an Asus EEE PC using a modified [Fedora][2] and modified [Moblin][3]. In-fact the bootup was so fast that the they actually had to hold the EEE PC, as the bootup was completed well before the projector could warm up and sync.
 
@@ -84,14 +71,14 @@ Ajan and Aike did some changes to the way modules are being loaded, mainly
 </div>
 
 <div>
-  For more detailed info regarding the same, do read up on LWN&#8217;s <a href="http://lwn.net/Articles/299483/" target="_blank">article on the same.</a>
+  For more detailed info regarding the same, do read up on LWN&#8217;s <a href="https://lwn.net/Articles/299483/" target="_blank">article on the same.</a>
 </div>
 
 <div>
-  Also catchup on an interview Arjan gave to <a href="http://broadcast.oreilly.com/2008/09/how-powertop-latencytop-and-fi.html" target="_blank">O&#8217;Reilly News.</a>
+  Also catchup on an interview Arjan gave to <a href="https://broadcast.oreilly.com/2008/09/how-powertop-latencytop-and-fi.html" target="_blank">O&#8217;Reilly News.</a>
 </div>
 
- [1]: http://www.fenrus.org/
- [2]: http://fedoraproject.org/
- [3]: http://www.moblin.org/
- [4]: http://www.bootchart.org/
+ [1]: https://www.fenrus.org/
+ [2]: https://fedoraproject.org/
+ [3]: https://www.moblin.org/
+ [4]: https://www.bootchart.org/

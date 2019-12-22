@@ -7,52 +7,7 @@ url: /2007/12/02/my-laptop-chronicles-installing-opensuse-103-on-my-dell-inspiro
 categories:
   - General
 tags:
-  - boot
-  - cat
-  - codecs
-  - DE
-  - Dell
-  - Desktop
-  - download
-  - DVD
-  - file
-  - filesystem
-  - git
-  - HAL
-  - hassles
-  - IM
-  - indic
-  - Inspiron
-  - install
-  - internet
-  - kubuntu
-  - laptop
   - linux
-  - magazine
-  - media
-  - net
-  - NTFS
-  - oh-boy
-  - open source
-  - openSuSE
-  - os
-  - partition
-  - partitioning
-  - Qt
-  - rm
-  - Screen
-  - SUSE
-  - switch
-  - tar
-  - Ubuntu
-  - unable
-  - user
-  - ux
-  - views
-  - windows
-  - X
-  - xp
-  - YaST
 
 ---
 <p class="MsoNormal">
@@ -84,10 +39,10 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  <a href="http://sathyasays.com/wp-content/uploads/2007/12/opensuse.jpg" title="opensuse.jpg"></p> 
+  <a href="https://sathyasays.com/wp-content/uploads/2007/12/opensuse.jpg" title="opensuse.jpg"></p> 
   
   <p style="text-align: center">
-    <img src="http://sathyasays.com/wp-content/uploads/2007/12/opensuse.thumbnail.jpg" alt="opensuse.jpg" />
+    <img src="https://sathyasays.com/wp-content/uploads/2007/12/opensuse.thumbnail.jpg" alt="opensuse.jpg" />
   </p>
   
   <p>

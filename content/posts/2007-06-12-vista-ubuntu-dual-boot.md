@@ -7,37 +7,10 @@ url: /2007/06/12/vista-ubuntu-dual-boot/
 categories:
   - News
 tags:
-  - AWN
-  - boot
-  - DE
-  - Desktop
-  - dual
-  - ext3
-  - file
-  - find
-  - grub
-  - IM
-  - install
-  - internet
+  - dualboot
   - linux
-  - LV
-  - media
-  - menu
-  - Microsoft
-  - net
-  - New
-  - NTFS
-  - os
-  - partition
-  - Partitions
-  - root
-  - sudo
   - Ubuntu
-  - ux
-  - Vista
-  - windows
-  - write
-  - X
+
 
 ---
 One of the most teething problems involving Vista is that because of the way Microsoft have changed the booting process, the traditional boot.ini method no longer works. After scouring over the Internet and helping a friend over this, here a simple approach to dual booting.
@@ -78,5 +51,5 @@ That&#8217;s it. You&#8217;re done. When you next boot the machine, don&#8217;t 
   
 PS: If you still are not able to boot into Vista, try changin (hd0,1) to (hd0,2). Thanks to [Subbu][1] and [Rajesh][2] for helping me out with trying this out.
 
- [1]: http://www.xubz.com
- [2]: http://melife.wordpress.com
+ [1]: https://www.xubz.com
+ [2]: https://melife.wordpress.com

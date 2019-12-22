@@ -8,8 +8,6 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - DE
-  - Desktop
   - exe
   - eye-candy
   - find
@@ -20,29 +18,17 @@ tags:
   - Heron
   - Human
   - Ibex
-  - install
   - internet
   - intrepid
   - Intrepid Ibex
   - Launchpad
   - login
-  - net
-  - New
   - NewHuman
-  - os
-  - repo
-  - repos
-  - repositories
-  - rm
-  - Screen
-  - tar
   - terminal
   - theme
   - Ubuntu
-  - update
   - wallpaper
   - web
-  - X
 
 ---
 This could be a very useful post for people who search about and want the  new Intrepid Ibex and its NewHuman theme. There are many clones of the theme available all over the internet in websites like [gnome-look.org][1]. However there is also a way to get the original theme through the repositories.
@@ -53,8 +39,8 @@ Let&#8217;s see how we can go about doing the same.
 
 1.   Please add the following repositories and reload/update the repositories, by opening the terminal and typing the following
   
-`deb http://ppa.launchpad.net/kwwii/ubuntu hardy main<br />
-deb-src http://ppa.launchpad.net/kwwii/ubuntu hardy main<br />
+`deb https://ppa.launchpad.net/kwwii/ubuntu hardy main<br />
+deb-src https://ppa.launchpad.net/kwwii/ubuntu hardy main<br />
 ` 
 
 2. Now install the packages gtk2-engines-murrine, human-theme and
@@ -71,12 +57,12 @@ and go to Theme tab.
 
 5. For a nice wallpaper matching to this theme go [here][2].
 
-6. For the login screen can try [this][3] or [this][4]. EDIT: A new list login has also been released <a href="http://gnome-look.org/content/download.php?content=87580&id=1&tan=14172264" target="_blank">here</a>.
+6. For the login screen can try [this][3] or [this][4]. EDIT: A new list login has also been released <a href="https://gnome-look.org/content/download.php?content=87580&id=1&tan=14172264" target="_blank">here</a>.
 
 Thanks to TheIndexer for [this post][5].
 
- [1]: http://gnome-look.org/
- [2]: http://fc01.deviantart.com/fs23/f/2007/346/5/1/Vista_Ultimate_Wood_No_Glass_by_Mosqu1t0.jpg
- [3]: http://gnome-look.org/content/download.php?content=91018&id=1&tan=54025604
- [4]: http://gnome-look.org/content/download.php?content=87516&id=1&tan=4830568
- [5]: http://theindexer.wordpress.com/2008/07/01/install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/
+ [1]: https://gnome-look.org/
+ [2]: https://fc01.deviantart.com/fs23/f/2007/346/5/1/Vista_Ultimate_Wood_No_Glass_by_Mosqu1t0.jpg
+ [3]: https://gnome-look.org/content/download.php?content=91018&id=1&tan=54025604
+ [4]: https://gnome-look.org/content/download.php?content=87516&id=1&tan=4830568
+ [5]: https://theindexer.wordpress.com/2008/07/01/install-newhuman-theme-from-intrepid-ibex-on-hardy-heron/

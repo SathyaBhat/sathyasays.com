@@ -5,29 +5,21 @@ type: post
 date: 2010-07-05T13:00:08+00:00
 url: /2010/07/05/five-tips-for-a-more-efficient-linux-desktop-five-tips-techrepublic-com/
 linked_list_url:
-  - http://blogs.techrepublic.com.com/five-tips/?p=189
+  - https://blogs.techrepublic.com.com/five-tips/?p=189
 topsy_short_url:
-  - http://bit.ly/ccMP3d
+  - https://bit.ly/ccMP3d
 categories:
   - Linked
 tags:
-  - cat
   - commands
   - cover
-  - DE
-  - Desktop
   - find
-  - fun
   - linux
-  - net
   - open source
   - tips
   - "tips-and-howto's"
   - tutorials
-  - user
-  - ux
-  - X
-
+  
 ---
 > 1: The pager
 > 
@@ -47,4 +39,4 @@ via [Five tips for a more efficient Linux desktop | Five Tips | TechRepublic.com
 
 More or less my pager usage too.
 
- [1]: http://blogs.techrepublic.com.com/five-tips/?p=189
+ [1]: https://blogs.techrepublic.com.com/five-tips/?p=189

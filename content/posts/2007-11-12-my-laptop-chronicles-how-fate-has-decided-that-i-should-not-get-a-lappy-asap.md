@@ -7,32 +7,7 @@ url: /2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get
 categories:
   - News
 tags:
-  - AIR
-  - applications
-  - Arch
-  - cat
-  - DE
-  - Dell
-  - driver
-  - drivers
-  - events
-  - FAT
-  - fun
-  - HAL
-  - hassles
-  - IM
-  - laptop
-  - mount
-  - move
-  - net
-  - os
-  - personal
-  - rants
-  - read
-  - rm
-  - RMS
-  - X
-  - xp
+  - laptops
 
 ---
 Mega Post ahead: You have been warned!

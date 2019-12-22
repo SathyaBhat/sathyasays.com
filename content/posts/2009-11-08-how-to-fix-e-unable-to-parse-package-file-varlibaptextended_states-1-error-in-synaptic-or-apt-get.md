@@ -8,22 +8,8 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - apt-get
-  - cloeses
-  - DE
-  - 'E: Unable to parse package file /var/lib/apt/extended_states (1)'
-  - exe
-  - exits
-  - file
-  - install
-  - os
-  - read
-  - repo
-  - rm
   - sudo
-  - synaptic
   - terminal
-  - unable
-  - X
 
 ---
 This is just a quick tip. If you are getting this error message in Synaptic:
@@ -48,4 +34,4 @@ and both just fail to open or install, then just execute this in command line (t
 
 You are done. Thanks to [this][1] post
 
- [1]: http://ubuntuforums.org/showthread.php?t=724916
+ [1]: https://ubuntuforums.org/showthread.php?t=724916

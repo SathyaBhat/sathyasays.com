@@ -9,39 +9,28 @@ categories:
 tags:
   - 9.10
   - commands
-  - DE
   - distro
-  - distros
   - driver
   - drivers
   - file
   - forums
-  - hassles
   - Home
-  - IM
   - Karmic
   - Karmic Koala
   - KDE
   - Koala
   - linux
-  - New
   - NVIDIA
   - open source
-  - os
-  - read
   - Resolution
-  - rm
   - root
-  - Screen
   - Screen Resolution
   - sudo
-  - tar
   - terminal
   - tips
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - X
   - xorg
 
 ---
@@ -69,4 +58,4 @@ As a result, nvidia-settings is not able to save the settings and every time I l
 
 8. You&#8217;re Done. Try logging off and back in.
 
- [1]: http://ubuntuforums.org/showthread.php?t=1260518
+ [1]: https://ubuntuforums.org/showthread.php?t=1260518

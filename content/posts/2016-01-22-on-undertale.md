@@ -14,13 +14,13 @@ tags:
   - undertale
 
 ---
-<a href="http://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that&#8217;s been getting rave reviews from quite a few people &#8211; <a href="http://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
+<a href="https://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that&#8217;s been getting rave reviews from quite a few people &#8211; <a href="https://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
 
-<a href="http://www.ign.com/articles/2016/01/13/undertale-review" target="_blank">IGN</a>:
+<a href="https://www.ign.com/articles/2016/01/13/undertale-review" target="_blank">IGN</a>:
 
 > It&#8217;s hard to express just how much I adore Undertale without spoiling anything significant, but that&#8217;s what I love about it. It tells its story in such a dynamic way, and with such a great understanding of the RPG player’s mindset, that it couldn’t have been told in any other way. It&#8217;s a masterfully crafted experience that I won&#8217;t forget any time soon
 
-<a href="http://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/" target="_blank">Jimquistion</a>
+<a href="https://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/" target="_blank">Jimquistion</a>
 
 > The complexities woven deeply into this initially unassuming RPG are enough to keep you invested long after you’ve watched the end credits for the first time. It’s been a long, long time since this style of RPG has grabbed me as _Undertale_ has, and even longer since a small independent effort has been so ambitious, impressive, and unquestionably successful.
 
@@ -38,7 +38,7 @@ inspired by this and egged on by Rishi
 
 
 
-And so I did play. Or tried to anyway. But I failed. It was during my conversation with Rishi about <a href="http://gadgets.ndtv.com/games/reviews/undertale-review-791303" target="_blank">his review</a> that I was able to elaborate what exactly I didn&#8217;t like about Undertale:
+And so I did play. Or tried to anyway. But I failed. It was during my conversation with Rishi about <a href="https://gadgets.ndtv.com/games/reviews/undertale-review-791303" target="_blank">his review</a> that I was able to elaborate what exactly I didn&#8217;t like about Undertale:
 
 > Sathya: that game is broken at the start
   

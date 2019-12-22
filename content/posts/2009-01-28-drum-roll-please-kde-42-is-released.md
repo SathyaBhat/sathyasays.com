@@ -7,30 +7,20 @@ url: /2009/01/28/drum-roll-please-kde-42-is-released/
 categories:
   - News
 tags:
-  - DE
   - desktop environment
   - desktop environments
   - distro
   - eye-candy
   - GNOME
-  - install
   - KDE
   - kde 4.1
   - KDE 4.2
-  - KDE4
+  - KDE
   - linux
   - open source
-  - os
-  - repo
-  - repos
-  - repositories
   - review
   - Sabayon
-  - Screen
-  - switch
-  - upgrade
   - videos
-  - X
   - xp
 
 ---
@@ -42,13 +32,13 @@ You can install the RC version from Naendo repo, I recommend that you wait for t
 
 Some screenshots from KDE 4.2 release page:
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png" alt=""   />][1]
+[<img class="alignnone" src="https://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png" alt=""   />][1]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/systray-progress.png" alt=""   />][2]
+[<img class="alignnone" src="https://www.kde.org/announcements/4.2/screenshots/systray-progress.png" alt=""   />][2]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png" alt=""   />][3]
+[<img class="alignnone" src="https://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png" alt=""   />][3]
 
-[<img class="alignnone" src="http://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png" alt=""   />][4]
+[<img class="alignnone" src="https://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png" alt=""   />][4]
 
 Can&#8217;t wait to upgrade to it.
 
@@ -56,8 +46,8 @@ Can&#8217;t wait to upgrade to it.
 
 For more screenshots and videos, you can Check out the Release page [here][5]
 
- [1]: http://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png
- [2]: http://www.kde.org/announcements/4.2/screenshots/systray-progress.png
- [3]: http://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png
- [4]: http://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png
- [5]: http://www.kde.org/announcements/4.2/
+ [1]: https://www.kde.org/announcements/4.2/screenshots/powerdevil_thumb.png
+ [2]: https://www.kde.org/announcements/4.2/screenshots/systray-progress.png
+ [3]: https://www.kde.org/announcements/4.2/screenshots/panel-controller_thumb.png
+ [4]: https://www.kde.org/announcements/4.2/screenshots/dolphin-full_thumb.png
+ [5]: https://www.kde.org/announcements/4.2/

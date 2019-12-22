@@ -5,36 +5,24 @@ type: post
 date: 2010-06-11T03:19:24+00:00
 url: /2010/06/11/adobe-flash-player-10-1-now-available-for-windows-linux-os-x/
 topsy_short_url:
-  - http://bit.ly/d0CLsI
+  - https://bit.ly/d0CLsI
 categories:
   - News
 tags:
   - Adobe
-  - blog
   - browser
-  - DE
-  - Desktop
   - events
   - flash
   - flash player
-  - fun
-  - IM
   - linux
-  - New
   - Opera
   - Operating System
   - operating systems
-  - os
   - OS X
   - performance
-  - rm
   - script
   - smart
-  - update
-  - user
-  - ux
   - windows
-  - X
   - xp
 
 ---
@@ -52,5 +40,5 @@ Some nice features:
 
 Time to update. Hope performance has improved lots under Linux.
 
- [1]: http://blogs.adobe.com/flashplayer/2010/06/flash_player_101_now_available.html
- [2]: http://get.adobe.com/flashplayer/
+ [1]: https://blogs.adobe.com/flashplayer/2010/06/flash_player_101_now_available.html
+ [2]: https://get.adobe.com/flashplayer/

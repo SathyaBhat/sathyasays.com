@@ -10,26 +10,18 @@ tags:
   - capsury
   - chm
   - cpsrecode
-  - DE
-  - Desktop
   - exe
   - file
-  - fun
-  - IM
   - KDE
   - KDE 4.2
   - KWin
   - mencoder
-  - os
   - plugin
   - record
-  - rm
-  - Screen
   - script
   - shell script
   - show
   - videos
-  - X
 
 ---
 Not many know of this, but as of KDE 4.2, Kwin, the window manager has a nifty little feature &#8211; it can grab videos of desktop much like a screencasting tool such as Camtasia. This functionality requires Kwin&#8217;s composition mode to be enabled (ie, you must be using Kwin&#8217;s desktop effects).
@@ -61,4 +53,4 @@ To convert goto the directory where the recode.sh file is, and type
 
 Here is the script: [dm]2[/dm]
 
- [1]: http://blog.mehulved.com/
+ [1]: https://blog.mehulved.com/

@@ -5,7 +5,7 @@ type: post
 date: 2012-02-01T09:30:13+00:00
 url: /2012/02/01/ssh-into-your-servers-from-unity-using-unity-sshsearch-lens/
 topsy_short_url:
-  - http://u.sbhat.me/y7zALG
+  - https://u.sbhat.me/y7zALG
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -18,7 +18,7 @@ tags:
 I love Unity, especially the lens feature. While going through the Ubuntu store, found this neat little lens for initiating an SSH connection.
 
 <p style="text-align: center;">
-  <a href="http://i.imgur.com/d7tX0.jpg"><img class="aligncenter" title="Unity sshsearch Lens" src="http://i.imgur.com/d7tX0.jpg" alt="Unity sshsearch Lens"   /></a>
+  <a href="https://i.imgur.com/d7tX0.jpg"><img class="aligncenter" title="Unity sshsearch Lens" src="https://i.imgur.com/d7tX0.jpg" alt="Unity sshsearch Lens"   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -30,7 +30,7 @@ I love Unity, especially the lens feature. While going through the Ubuntu store,
 </p>
 
 <p style="text-align: left;">
-  Pretty slick. Install it by searching for SSH Search Lens in Ubuntu store or by clicking <a title="Unity Lens SSH Search" href="http://apt.ubuntu.com/p/unity-lens-sshsearch">here</a>. Oh, the notes mention you&#8217;ll need Oneiric & above &#8211; so keep that in mind.
+  Pretty slick. Install it by searching for SSH Search Lens in Ubuntu store or by clicking <a title="Unity Lens SSH Search" href="https://apt.ubuntu.com/p/unity-lens-sshsearch">here</a>. Oh, the notes mention you&#8217;ll need Oneiric & above &#8211; so keep that in mind.
 </p>
 
 <p style="text-align: left;">

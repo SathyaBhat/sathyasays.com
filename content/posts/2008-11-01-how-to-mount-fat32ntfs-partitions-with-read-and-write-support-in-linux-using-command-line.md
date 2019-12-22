@@ -7,11 +7,9 @@ url: /2008/11/01/how-to-mount-fat32ntfs-partitions-with-read-and-write-support-i
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - /dev
   - auto-mount
   - Command-line
   - commands
-  - DE
   - ext2
   - ext3
   - FAT
@@ -22,33 +20,21 @@ tags:
   - hard disk
   - Home
   - linux
-  - mount
   - mounting
   - NTFS
-  - os
   - partition
-  - Partitions
   - pysdm
-  - read
-  - rm
   - root
   - show
   - sudo
   - Super
-  - support
-  - switch
-  - tar
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - user
-  - ux
   - windows
-  - write
-  - X
 
 ---
-Previously I&#8217;d posted on <a href="http://sathyasays.com/2008/10/08/how-to-automount-hard-drive-partitions-everytime-you-login-in-linux/" target="_blank">auto-mounting partitions at startup</a> using pysdm. This post shows how you can do so by making use of mount <a href="http://sathyasays.com/tag/commands" target="_blank">command</a>.
+Previously I&#8217;d posted on <a href="https://sathyasays.com/2008/10/08/how-to-automount-hard-drive-partitions-everytime-you-login-in-linux/" target="_blank">auto-mounting partitions at startup</a> using pysdm. This post shows how you can do so by making use of mount <a href="https://sathyasays.com/tag/commands" target="_blank">command</a>.
 
 Below steps require root priviliges, so switch to root or prefix sudo to the commands.
 

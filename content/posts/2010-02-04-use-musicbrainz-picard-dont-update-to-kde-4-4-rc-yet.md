@@ -5,31 +5,21 @@ type: post
 date: 2010-02-04T01:43:33+00:00
 url: /2010/02/04/use-musicbrainz-picard-dont-update-to-kde-4-4-rc-yet/
 topsy_short_url:
-  - http://bit.ly/bZRn5q
+  - https://bit.ly/bZRn5q
 categories:
   - News
 tags:
   - bin
   - cover
-  - DE
   - file
   - FOSS
-  - hassles
-  - IM
   - KDE
   - music
   - MusicBrainz
   - MusicBrainz Picard
   - open source
-  - os
   - Picard
   - Qt
-  - read
-  - rm
-  - tar
-  - update
-  - upgrade
-  - X
 
 ---
 I love MusicBrainz Picard. It keeps my [music collection organized, tags and renames them][1]{#aptureLink_0HBhpzYgM6}, and heck even fetches the cover art for (almost) all songs. Picard is just brilliant.
@@ -56,4 +46,4 @@ Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later
 
 Seems the upgrade in Qt has resulted in MusicBrainz Picard being broken :(. As of now there seems to be no solution &#8211; perhaps wait and watch till someone notices and fixes it ? Or dive into code and try to fix it myself ( mmm enticing). Anybody reading this has a solution ? Do drop a comment
 
- [1]: http://sathyabh.at/2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/
+ [1]: https://sathyabh.at/2008/07/27/how-organise-and-tag-music-mp3-files-automatically-using-musicbrainz-picard-tagger/

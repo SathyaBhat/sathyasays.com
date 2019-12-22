@@ -7,70 +7,7 @@ url: /2007/12/02/dell-inspiron-1520-review/
 categories:
   - Reviews
 tags:
-  - AA
-  - AIR
-  - Amarok
-  - BIOS
-  - bluetooth
-  - boot
-  - bootup
-  - cat
-  - chipset
-  - cover
-  - DE
-  - Dell
-  - Desktop
-  - dl
-  - driver
-  - drivers
-  - dual
-  - DVD
-  - games
-  - guide
-  - HAL
-  - IM
-  - images
-  - indic
-  - Inspiron
-  - install
-  - intel
-  - iso
-  - keyboard
-  - laptop
-  - linux
-  - LV
-  - media
-  - MID
-  - net
-  - NVIDIA
-  - openSuSE
-  - os
-  - owner
-  - performance
-  - read
-  - Resolution
   - review
-  - Reviews
-  - rm
-  - RMS
-  - Screen
-  - software
-  - subs
-  - support
-  - SUSE
-  - switch
-  - switching
-  - update
-  - usb
-  - user
-  - ux
-  - VGA
-  - web
-  - WiFi
-  - windows
-  - Wireless
-  - X
-  - xp
 
 ---
 <p class="MsoNormal">
@@ -202,5 +139,5 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  Some screenshots(please pardon the poor quality of images, VGA Cam :| )<a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00093.JPG" title="dsc00093.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00093.thumbnail.JPG" alt="dsc00093.JPG" /></a> <a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00094.JPG" title="dsc00094.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00094.thumbnail.JPG" alt="dsc00094.JPG" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00095.JPG" title="dsc00095.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00095.thumbnail.JPG" alt="dsc00095.JPG" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/dsc00096.JPG" title="dsc00096.JPG"><img src="http://sathyasays.com/wp-content/uploads/2007/12/dsc00096.thumbnail.JPG" alt="dsc00096.JPG" /></a>
+  Some screenshots(please pardon the poor quality of images, VGA Cam :| )<a href="https://sathyasays.com/wp-content/uploads/2007/12/dsc00093.JPG" title="dsc00093.JPG"><img src="https://sathyasays.com/wp-content/uploads/2007/12/dsc00093.thumbnail.JPG" alt="dsc00093.JPG" /></a> <a href="https://sathyasays.com/wp-content/uploads/2007/12/dsc00094.JPG" title="dsc00094.JPG"><img src="https://sathyasays.com/wp-content/uploads/2007/12/dsc00094.thumbnail.JPG" alt="dsc00094.JPG" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/dsc00095.JPG" title="dsc00095.JPG"><img src="https://sathyasays.com/wp-content/uploads/2007/12/dsc00095.thumbnail.JPG" alt="dsc00095.JPG" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/dsc00096.JPG" title="dsc00096.JPG"><img src="https://sathyasays.com/wp-content/uploads/2007/12/dsc00096.thumbnail.JPG" alt="dsc00096.JPG" /></a>
 </p>

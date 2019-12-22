@@ -8,17 +8,11 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - bin
-  - cat
   - chm
   - commands
-  - DE
   - dl
-  - install
   - linux
-  - mount
-  - os
   - partition
-  - rm
   - root
   - setuid
   - setuid root
@@ -27,7 +21,6 @@ tags:
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - X
 
 ---
 I had encountered this problem on [sudo][1]/[gksu][2] not working few months earlier.
@@ -43,5 +36,5 @@ This is how I went about fixing it:-
 
 If anyone of you are still having problems regarding this issue please post it in comments
 
- [1]: http://www.tech-faq.com/sudo.shtml
- [2]: http://linux.about.com/cs/linux101/g/gksu.htm
+ [1]: https://www.tech-faq.com/sudo.shtml
+ [2]: https://linux.about.com/cs/linux101/g/gksu.htm

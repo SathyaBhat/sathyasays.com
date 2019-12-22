@@ -7,64 +7,9 @@ url: /2007/12/10/a-look-at-ubuntu-gutsy-gibbon/
 categories:
   - Reviews
 tags:
-  - AIR
-  - ALSA
-  - Arch
-  - blog
-  - boot
-  - compiz
-  - compiz fusion
-  - DE
-  - Dell
-  - dl
-  - download
-  - driver
-  - drivers
-  - DVD
-  - file
-  - find
-  - Firefox
-  - fusion
-  - Google
-  - Gutsy Gibbon
-  - IM
-  - Inspiron
-  - install
-  - intel
-  - internet
   - linux
-  - login
-  - magazine
-  - media
-  - menu
-  - mount
-  - moving
-  - Mozilla
-  - Mozilla Firefox
-  - net
-  - New
-  - newbie
-  - Novell
-  - NVIDIA
-  - open source
-  - openSuSE
-  - os
-  - package manager
-  - Pidgin
-  - plugin
-  - rm
-  - RMS
-  - Screen
-  - software
-  - SUSE
-  - tar
   - Ubuntu
-  - upgrade
-  - user
-  - ux
-  - views
-  - X
-  - xp
+
 
 ---
 Ubuntu Gutsy has been receiving a huge amount of hype and fan fare recently, and I&#8217;ve been following Gutsy closely, from Ubuntu Fridge&#8217;s 10 Rocking Features in 10 Days to fellow bloggers and Linux users posts on Gutsy. Naturally after their Feisty launch, expectations were high(from my side). Now I&#8217;m not Ubuntu&#8217;s biggest fan(I&#8217;m a SuSE fellow, Novell haters, meh!), but I appreciate what Ubuntu has been doing for newbie Linux users in general.
@@ -85,6 +30,6 @@ Software wise, there&#8217;s no difference between the DVD and CD edition, atlea
 
 Overall Gusty is a nice release. The new features(Deskbar, Trakker, BulletProof X for failsafe X onfiguration, AppArmour profiles) are worth the upgrade from Feisty to Gutsy. Me however will be sticking to the green Lizard, openSUSE 10.3, as Gusty offers nothing much to me compared to what openSUSE is offering, and working in any OS other than openSUSE 10.3 makes me realize how vital and useful the SLAB menu and integrated search feature is!
 
- [1]: http://www.chip-india.com
- [2]: http://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
- [3]: http://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/
+ [1]: https://www.chip-india.com
+ [2]: https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
+ [3]: https://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/

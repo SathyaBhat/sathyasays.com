@@ -7,22 +7,12 @@ url: /2008/10/16/a-new-look-for-sathya-says/
 categories:
   - News
 tags:
-  - announcement
   - Arch
-  - blog
-  - blogging
-  - DE
   - HAL
-  - IM
   - linux
-  - New
-  - os
-  - tar
   - theme
-  - ux
   - WordPress
   - WP
-  - X
 
 ---
 It&#8217;s been about 1 and half years since I started blogging on [Linux][1]. I started Sathya Says as a [WordPress hosted blog][2], and soon shifted to [**my own domain**][3]. It&#8217;s been more than a year now, since I&#8217;ve been shifted away from WordPress hosted blog, and ever since the inception, the theme of my blog has remained the same. Recently while having a look at my blog, I decided to change the theme a bit. After searching for a bit, I decided to have this(WP-Premium) as the theme for Sathya Says.
@@ -33,6 +23,6 @@ Do drop a comment if you wish to say something, or want to leave me a word of en
 
 Cheers!
 
- [1]: http://sathyasays.com/tag/linux
- [2]: http://sathyasays.com
- [3]: http://www.webhostingsearch.com/domain-search.php
+ [1]: https://sathyasays.com/tag/linux
+ [2]: https://sathyasays.com
+ [3]: https://www.webhostingsearch.com/domain-search.php

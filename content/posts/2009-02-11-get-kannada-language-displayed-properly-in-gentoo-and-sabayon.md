@@ -8,25 +8,17 @@ categories:
   - News
 tags:
   - Arch
-  - DE
   - Firefox
   - Gentoo
   - indic
-  - Kannada
   - linux
   - login
   - open source
-  - rm
   - root
   - Sabayon
-  - support
-  - switch
-  - tar
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - user
-  - X
 
 ---
 Well I was browsing through some Kannada sites the other day and all I got was big blocks.
