@@ -6,7 +6,7 @@ footnoteReturnLinkContents: ↩
 hasCJKLanguage: false
 paginate: 10
 enableEmoji: true
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: "UA-155085050-1"      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
 
