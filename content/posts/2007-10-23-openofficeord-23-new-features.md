@@ -60,7 +60,7 @@ Calc now supports inline matrix/array constants in formulas. Summation has been 
 
 ### Base
 
-Base continues to evolve as a fully-fledged OpenOffice.org application in its own right, with its windows all having their own size, position, etc settings. The Report Builder, available as extension on <a rel="nofollow" href="https://extensions.services.openoffice.org/" title="https://extensions.services.openoffice.org" class="external free">https://extensions.services.openoffice.org</a>, now has additional facilities for expert users. There is a greater support for keyboard shortcuts throughout Base.
+Base continues to evolve as a fully-fledged OpenOffice.org application in its own right, with its windows all having their own size, position, etc settings. The Report Builder, available as extension on <a rel="nofollow" href="http://extensions.services.openoffice.org/" title="http://extensions.services.openoffice.org" class="external free">http://extensions.services.openoffice.org</a>, now has additional facilities for expert users. There is a greater support for keyboard shortcuts throughout Base.
 
 <a name="Draw" title="Draw"></a>
 
@@ -94,4 +94,4 @@ Writer, Calc, Draw, and Impress now allow users to preview their work within a b
 
 Source: [OpenOffice.org Wiki][1]
 
- [1]: https://wiki.services.openoffice.org/wiki/New_Features_2.3
+ [1]: http://wiki.services.openoffice.org/wiki/New_Features_2.3

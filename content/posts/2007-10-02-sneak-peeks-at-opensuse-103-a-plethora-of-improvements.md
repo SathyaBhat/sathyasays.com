@@ -106,18 +106,18 @@ openSUSE 10.3 will be released this Thursday, the 4th of October, so stay tuned 
 
 Source & More Details on [openSUSE.org][15]
 
- [1]: https://en.opensuse.org/User:A_jaeger
- [2]: https://download.opensuse.org/update/10.3/
- [3]: https://packman.links2linux.org/
- [4]: https://download.opensuse.org/repositories
- [5]: https://news.opensuse.org/?p=76
- [6]: https://linux01.gwdg.de/%7Epbleser/
- [7]: https://en.opensuse.org/UX
- [8]: https://en.opensuse.org/YaST/Network_Card_Module
- [9]: https://files.opensuse.org/opensuse/en/b/b5/Summary_NW_YaST2.pdf
- [10]: https://development.openoffice.org/releases/2.3.0.html
- [11]: https://opensuse.org/KIWI
- [12]: https://opensuse.org/Build_Service
- [13]: https://en.opensuse.org/LTSP
- [14]: https://en.opensuse.org/Product_Highlights/10.3
- [15]: https://news.opensuse.org/?p=341
+ [1]: http://en.opensuse.org/User:A_jaeger
+ [2]: http://download.opensuse.org/update/10.3/
+ [3]: http://packman.links2linux.org/
+ [4]: http://download.opensuse.org/repositories
+ [5]: http://news.opensuse.org/?p=76
+ [6]: http://linux01.gwdg.de/%7Epbleser/
+ [7]: http://en.opensuse.org/UX
+ [8]: http://en.opensuse.org/YaST/Network_Card_Module
+ [9]: http://files.opensuse.org/opensuse/en/b/b5/Summary_NW_YaST2.pdf
+ [10]: http://development.openoffice.org/releases/2.3.0.html
+ [11]: http://opensuse.org/KIWI
+ [12]: http://opensuse.org/Build_Service
+ [13]: http://en.opensuse.org/LTSP
+ [14]: http://en.opensuse.org/Product_Highlights/10.3
+ [15]: http://news.opensuse.org/?p=341

@@ -5,7 +5,7 @@ type: post
 date: 2012-06-02T04:17:22+00:00
 url: /2012/06/02/sauber-f1-car-cutaway/
 topsy_short_url:
-  - https://u.sbhat.me/N5diGz
+  - http://u.sbhat.me/N5diGz
 categories:
   - General
 tags:
@@ -20,4 +20,4 @@ The Sauber F1 team has this video of a F1 car spliced right in the middle, showi
 
 What&#8217;s fascinating to me is the driver&#8217;s(Sergio Pérez in the video) sitting position. Damn that&#8217;s way too close for comfort!
 
- [1]: https://www.youtube.com/watch?feature=player_embedded&v=_Wn1EFLa2C8
+ [1]: http://www.youtube.com/watch?feature=player_embedded&v=_Wn1EFLa2C8

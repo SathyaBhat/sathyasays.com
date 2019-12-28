@@ -5,7 +5,7 @@ type: post
 date: 2011-03-29T18:50:33+00:00
 url: /2011/03/29/ruboto-ruby-on-android/
 topsy_short_url:
-  - https://u.sbhat.me/fgQquX
+  - http://u.sbhat.me/fgQquX
 categories:
   - Android
 tags:
@@ -25,4 +25,4 @@ via [Ruboto: Ruby on Android][1].
 
 Cool.
 
- [1]: https://www.ibm.com/developerworks/web/library/wa-ruby/index.html
+ [1]: http://www.ibm.com/developerworks/web/library/wa-ruby/index.html

@@ -43,8 +43,8 @@ or use these Direct Download links
 
 Remember to signup for the serial, you might receive it in a couple of days time though.
 
- [1]: https://codeweavers.com/
- [2]: https://media.codeweavers.com/pub/crossover/lameduck/crossover-pro-7.1.0.dmg
- [3]: https://media.codeweavers.com/pub/crossover/lameduck/crossover-games-7.1.1.dmg
- [4]: https://media.codeweavers.com/pub/crossover/lameduck/install-crossover-pro-7.1.0.sh
- [5]: https://media.codeweavers.com/pub/crossover/lameduck/install-crossover-games-7.1.2.sh
+ [1]: http://codeweavers.com/
+ [2]: http://media.codeweavers.com/pub/crossover/lameduck/crossover-pro-7.1.0.dmg
+ [3]: http://media.codeweavers.com/pub/crossover/lameduck/crossover-games-7.1.1.dmg
+ [4]: http://media.codeweavers.com/pub/crossover/lameduck/install-crossover-pro-7.1.0.sh
+ [5]: http://media.codeweavers.com/pub/crossover/lameduck/install-crossover-games-7.1.2.sh

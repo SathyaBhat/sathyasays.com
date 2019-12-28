@@ -17,6 +17,6 @@ tags:
 ---
 Via &#8211; [TechThrob][1]![][1]
 
-<img src="https://img212.imageshack.us/img212/7843/poserqp6.png"   />
+<img src="http://img212.imageshack.us/img212/7843/poserqp6.png"   />
 
- [1]: https://www.techthrob.com/tech/poser.php
+ [1]: http://www.techthrob.com/tech/poser.php

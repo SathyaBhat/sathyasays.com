@@ -67,8 +67,8 @@ Overall Firefox 3 is shaping up to a really good update to an already-fantastic 
   
 [Download Firefox 3 Beta 2][5]
 
- [1]: https://xubz.com/
- [2]: https://www.internetdownloadmanager.com/
+ [1]: http://xubz.com/
+ [2]: http://www.internetdownloadmanager.com/
  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=382356
- [4]: https://en-us.www.mozilla.com/en-US/firefox/3.0b2/releasenotes/#whatsnew
- [5]: https://en-us.www.mozilla.com/en-US/firefox/3.0b2/releasenotes/#download
+ [4]: http://en-us.www.mozilla.com/en-US/firefox/3.0b2/releasenotes/#whatsnew
+ [5]: http://en-us.www.mozilla.com/en-US/firefox/3.0b2/releasenotes/#download

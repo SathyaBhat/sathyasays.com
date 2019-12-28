@@ -5,7 +5,7 @@ type: post
 date: 2010-07-10T10:12:41+00:00
 url: /2010/07/10/watermark-photos-with-digikam/
 topsy_short_url:
-  - https://bit.ly/9uDNZx
+  - http://bit.ly/9uDNZx
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -26,4 +26,4 @@ via [Watermark Photos with digiKam « Scribbles and Snaps][1].
 
 Neat!
 
- [1]: https://scribblesandsnaps.wordpress.com/2010/07/06/watermark-photos-with-digikam/
+ [1]: http://scribblesandsnaps.wordpress.com/2010/07/06/watermark-photos-with-digikam/

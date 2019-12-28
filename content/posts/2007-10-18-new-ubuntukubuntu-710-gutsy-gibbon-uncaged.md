@@ -23,8 +23,8 @@ tags:
 ---
 <span class="submitted"></span><span class="taxonomy"></span>(K)Ubuntu today released it&#8217;s latest version of the popular Linux distribution, Gutsy Gibbon. Gutsy features better power management, improved hardware compatability, easier printer configuration and lots of desktop eye candy.
 
-To download it, <a href="https://cdimage.ubuntu.com/releases/gutsy/release/" target="_blank">go here</a>.
+To download it, <a href="http://cdimage.ubuntu.com/releases/gutsy/release/" target="_blank">go here</a>.
 
 To download Kubuntu, [go here][1]
 
- [1]: https://https://www.kubuntu.org/download.php#latest
+ [1]: http://http://www.kubuntu.org/download.php#latest

@@ -27,7 +27,7 @@ tags:
 
 ---
 LDP is a loosely knit team of volunteers who provide documentation for many aspects of Linux. There are several forms of documentation: Guides, HOWTOs, man pages, and FAQs.  
-You can browse it at <https://tldp.org/>
+You can browse it at <http://tldp.org/>
 
 A member of Mangalore LUG, [Dr. Neville][1] has uploaded this and was kind enough allow me to post the links here, so all credits to him.
 
@@ -39,9 +39,9 @@ A member of Mangalore LUG, [Dr. Neville][1] has uploaded this and was kind enoug
 
 Archive type: 7z, spanned, using [Peazip][6]
 
- [1]: https://www.neville.in
- [2]: https://massmirror.com/6ca088866dbde318492c663f5ec2d5ff.html
- [3]: https://massmirror.com/ee1d724b95e04ee279d71e77acba4bcd.html
- [4]: https://massmirror.com/2953e708af2046731f33c3452289b032.html
- [5]: https://massmirror.com/590674386115e4b336f26f0d04df5eef.html%5D
- [6]: https://peazip.sourceforge.net/
+ [1]: http://www.neville.in
+ [2]: http://massmirror.com/6ca088866dbde318492c663f5ec2d5ff.html
+ [3]: http://massmirror.com/ee1d724b95e04ee279d71e77acba4bcd.html
+ [4]: http://massmirror.com/2953e708af2046731f33c3452289b032.html
+ [5]: http://massmirror.com/590674386115e4b336f26f0d04df5eef.html%5D
+ [6]: http://peazip.sourceforge.net/

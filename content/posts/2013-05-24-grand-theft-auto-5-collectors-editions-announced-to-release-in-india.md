@@ -14,11 +14,11 @@ tags:
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
     <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
-      <img src="https://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
+      <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="https://sathyabhat.newsblur.com/story/grand-theft-auto-5-c/5a799a">shared this story</a><br /> from <img src="https://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/grand-theft-auto-5-c/5a799a">shared this story</a><br /> from <img src="http://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
     </td>
   </tr>
   
@@ -47,7 +47,7 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Bonus outfits, tattoos and more: Michael, Franklin and Trevor get bonus outfits, character-specific tattoos, and special deals from shopkeepers.
   * Additional weapons: When visiting Ammunation stores in single player, merchants will have special weapons in their inventory available for free: the Pistol .50, Bullpup Shotgun and melee Hammer.
 
-<img alt=""  src="https://www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
+<img alt=""  src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-se.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
 
 **Collector&#8217;s Edition**
 
@@ -58,16 +58,16 @@ The standard edition will only contain the game and is (tentatively) priced at R
   * Unique vehicles and garage property: Instantly receive a garage to store custom vehicles. In single-player, the garage will be stocked with the 1930s style Hotknife hotrod and the CarbonRS sports bike. In Grand Theft Auto Online, players will get the high-end Khamelion electric car.
   * All contents of Special Edition.
 
-<img alt=""  src="https://www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
+<img alt=""  src="http://www.mcvuk.com/_media/images/India/grand-theft-auto-5-ce.jpg" style="display: block; margin-left: auto; margin-right: auto; float: none;"  />
 
 Prices for the Special Edition and Collector&rsquo;s Edition haven&rsquo;t yet been announced, but considering the latter&rsquo;s $150 price tag internationally, we&rsquo;d expect something in the Rs 10,000 region.
 
 Grand Theft Auto 5 is scheduled for release on 17th September for Xbox 360 and PS3.
 
-_Sign up for the free MCV India newsletter&nbsp;<a href="https://mcvindia.com/user/index/register/journey/register" target="_blank">here</a>._
+_Sign up for the free MCV India newsletter&nbsp;<a href="http://mcvindia.com/user/index/register/journey/register" target="_blank">here</a>._
 
-<img  src="https://feeds.feedburner.com/~r/mcvindia/stream/~4/60MEsCYJTeM"  />
+<img  src="http://feeds.feedburner.com/~r/mcvindia/stream/~4/60MEsCYJTeM"  />
 
-via sathyabhat&#8217;s blurblog https://feedproxy.google.com/~r/mcvindia/stream/~3/60MEsCYJTeM/0116058
+via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/mcvindia/stream/~3/60MEsCYJTeM/0116058
 
- [1]: https://www.mcvindia.com/cimages/fd2b93c2524cb6cd360e185526de1138.jpg
+ [1]: http://www.mcvindia.com/cimages/fd2b93c2524cb6cd360e185526de1138.jpg

@@ -45,15 +45,15 @@ Register for the **[event][2]**, or for the **[Webinar][3]**.
 
 Developers  may also be interested in **YourMove** &#8211; The Moblin Developer Challenge.
 
-Developers will be given all the tools thay maybe needed to develop the coolest Moblin core, Linux based applications for entertainment and communication on **<a href="https://www.intel.com/products/mid/" target="_blank">Mobile Internet Devices</a>** (MID). Developers tetain the Intellectual property rights while they get a marketing head start. Winning developers receive cash prizes, MID devices and the grand prize is a trip for two to any open source event, which includes lodging.
+Developers will be given all the tools thay maybe needed to develop the coolest Moblin core, Linux based applications for entertainment and communication on **<a href="http://www.intel.com/products/mid/" target="_blank">Mobile Internet Devices</a>** (MID). Developers tetain the Intellectual property rights while they get a marketing head start. Winning developers receive cash prizes, MID devices and the grand prize is a trip for two to any open source event, which includes lodging.
 
 Register for **YourMove** contest over [here][4](for Indian developers).
 
 Thanks Dhaval Pancholi, aka [DBhai /a> for the][5] [Plug][6].
 
- [1]: https://www.intel.com/pressroom/archive/releases/20080302comp.htm
- [2]: https://www.endtoend.in/ete2008/intel/isss/moblin/registration.html
- [3]: https://www.endtoend.in/ete2008/intel/isss/moblin/registrationw.html
- [4]: https://moblin.org/contest_india.php
- [5]: https://twitter.com/dbhai
- [6]: https://twitter.com/DBhai/statuses/831153428
+ [1]: http://www.intel.com/pressroom/archive/releases/20080302comp.htm
+ [2]: http://www.endtoend.in/ete2008/intel/isss/moblin/registration.html
+ [3]: http://www.endtoend.in/ete2008/intel/isss/moblin/registrationw.html
+ [4]: http://moblin.org/contest_india.php
+ [5]: http://twitter.com/dbhai
+ [6]: http://twitter.com/DBhai/statuses/831153428

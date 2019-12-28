@@ -61,11 +61,11 @@ I simply don&#8217;t use Microsoft products, not because I hate them, but becaus
 </p>
 
 <p>
-  Read the complete interview at <a href="https://www.informationweek.com/news/showArticle.jhtml;jsessionid=LI1CNDPCHNR4SQSNDLRSKHSCJUNN2JVN?articleID=204202971&pgno=1&queryText=">InformationWeek</a>
+  Read the complete interview at <a href="http://www.informationweek.com/news/showArticle.jhtml;jsessionid=LI1CNDPCHNR4SQSNDLRSKHSCJUNN2JVN?articleID=204202971&pgno=1&queryText=">InformationWeek</a>
 </p>
 
 <p>
   </span>
 </p>
 
- [1]: https://www.onformationweek.com
+ [1]: http://www.onformationweek.com

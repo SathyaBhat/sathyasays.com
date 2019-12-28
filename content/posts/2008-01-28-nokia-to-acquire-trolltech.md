@@ -64,4 +64,4 @@ As per the Press release,
    Interesting news! Will KDE make it to Nokia&#8217;s cellphones? What will be the future of Trolltech I wonder
 </p>
 
- [1]: https://www.nokia.com/A4136001?newsid=1185531
+ [1]: http://www.nokia.com/A4136001?newsid=1185531

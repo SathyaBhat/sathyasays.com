@@ -57,7 +57,7 @@ tags:
 It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a computer or a laptop for over 4 months. But now that I&#8217;ve got my laptop back, It&#8217;s good to be with openSUSE!
 
 <p class="MsoNormal">
-  Alright so let&#8217;s have a look at how to change bootsplash screen. Note that this is written with openSUSE as the target distro, the same steps should work with all distros which have bootsplash package installed, if you don&#8217;t have it installed or are unsure if bootsplash is present, head over to <a href="https://www.bootsplash.org/"><span class="Internetlink1">https://www.bootsplash.org/</span></a> and check it out.
+  Alright so let&#8217;s have a look at how to change bootsplash screen. Note that this is written with openSUSE as the target distro, the same steps should work with all distros which have bootsplash package installed, if you don&#8217;t have it installed or are unsure if bootsplash is present, head over to <a href="http://www.bootsplash.org/"><span class="Internetlink1">http://www.bootsplash.org/</span></a> and check it out.
 </p>
 
 <p class="MsoNormal">
@@ -87,7 +87,7 @@ It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a compu
 </p>
 
 <p class="MsoNormal">
-  <span> </span>You can get some awesome themes from <a href="https://www.kde-look.org/"><span class="Internetlink1">https://www.kde-look.org</span></a><span> </span>My personal favorites are Fingerprint and Tattoo&#8217;s Girl(search for them in the site mentioned above).
+  <span> </span>You can get some awesome themes from <a href="http://www.kde-look.org/"><span class="Internetlink1">http://www.kde-look.org</span></a><span> </span>My personal favorites are Fingerprint and Tattoo&#8217;s Girl(search for them in the site mentioned above).
 </p>
 
 <p class="MsoNormal">
@@ -112,11 +112,11 @@ It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a compu
   </p>
   
   <p class="MsoNormal">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.jpg" title="fm-superuser1.jpg"></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.jpg" title="fm-superuser1.jpg"></a>
   </p>
   
   <p style="text-align: center">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.jpg" title="fm-superuser1.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.thumbnail.jpg" alt="fm-superuser1.jpg" /></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.jpg" title="fm-superuser1.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fm-superuser1.thumbnail.jpg" alt="fm-superuser1.jpg" /></a>
   </p>
   
   <p class="MsoNormal">
@@ -128,7 +128,7 @@ It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a compu
   </p>
   
   <p class="MsoNormal" align="center">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/fm-dir.jpg" title="fm-dir.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/fm-dir.thumbnail.jpg" alt="fm-dir.jpg" /></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/fm-dir.jpg" title="fm-dir.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fm-dir.thumbnail.jpg" alt="fm-dir.jpg" /></a>
   </p>
   
   <p class="MsoNormal">
@@ -140,7 +140,7 @@ It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a compu
   </p>
   
   <p class="MsoNormal">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/yast2-sysconf.jpg" title="yast2-sysconf.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/yast2-sysconf.thumbnail.jpg" alt="yast2-sysconf.jpg" /></a> <a href="https://sathyasays.com/wp-content/uploads/2007/12/theme-setting.jpg" title="theme-setting.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/theme-setting.thumbnail.jpg" alt="theme-setting.jpg" /></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/yast2-sysconf.jpg" title="yast2-sysconf.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/yast2-sysconf.thumbnail.jpg" alt="yast2-sysconf.jpg" /></a> <a href="http://sathyasays.com/wp-content/uploads/2007/12/theme-setting.jpg" title="theme-setting.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/theme-setting.thumbnail.jpg" alt="theme-setting.jpg" /></a>
   </p>
   
   <p class="MsoNormal">
@@ -156,11 +156,11 @@ It&#8217;s been a while since I&#8217;ve used openSUSE, as I was without a compu
   </p>
   
   <p class="MsoNormal">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/mkinit.jpg" title="mkinit.jpg"></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/mkinit.jpg" title="mkinit.jpg"></a>
   </p>
   
   <p style="text-align: center">
-    <a href="https://sathyasays.com/wp-content/uploads/2007/12/mkinit.jpg" title="mkinit.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/mkinit.thumbnail.jpg" alt="mkinit.jpg" /></a>
+    <a href="http://sathyasays.com/wp-content/uploads/2007/12/mkinit.jpg" title="mkinit.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/mkinit.thumbnail.jpg" alt="mkinit.jpg" /></a>
   </p>
   
   <p class="MsoNormal">

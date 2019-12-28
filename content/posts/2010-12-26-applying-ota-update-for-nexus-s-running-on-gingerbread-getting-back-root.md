@@ -5,7 +5,7 @@ type: post
 date: 2010-12-26T02:16:57+00:00
 url: /2010/12/26/applying-ota-update-for-nexus-s-running-on-gingerbread-getting-back-root/
 topsy_short_url:
-  - https://u.sbhat.me/enUdBy
+  - http://u.sbhat.me/enUdBy
 categories:
   - Android
 tags:
@@ -47,12 +47,12 @@ Also: note that 2.3.1 features a change which will replace CW with stock recover
 
 Compiled from my experiments after getting confused over various threads in [XDA][9].
 
- [1]: https://post.sathyabh.at/hello-to-the-nexus
- [2]: https://www.cyrket.com/p/android/com.keramidas.TitaniumBackup/
- [3]: https://db.tt/Bfe1DYU
- [4]: https://forum.xda-developers.com/showthread.php?t=682828
- [5]: https://koush.kanged.net/cm/recoveries/
- [6]: https://www.mediafire.com/?ontvvh8z9h9lb7a
- [7]: https://www.appbrain.com/app/rom-manager/com.koushikdutta.rommanager
- [8]: https://www.appbrain.com/app/busybox/stericson.busybox
- [9]: https://forum.xda-developers.com/
+ [1]: http://post.sathyabh.at/hello-to-the-nexus
+ [2]: http://www.cyrket.com/p/android/com.keramidas.TitaniumBackup/
+ [3]: http://db.tt/Bfe1DYU
+ [4]: http://forum.xda-developers.com/showthread.php?t=682828
+ [5]: http://koush.kanged.net/cm/recoveries/
+ [6]: http://www.mediafire.com/?ontvvh8z9h9lb7a
+ [7]: http://www.appbrain.com/app/rom-manager/com.koushikdutta.rommanager
+ [8]: http://www.appbrain.com/app/busybox/stericson.busybox
+ [9]: http://forum.xda-developers.com/

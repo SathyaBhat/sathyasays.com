@@ -72,7 +72,7 @@ I ended up trying to resize the partition using **diskutil resizeVolume** in the
 
 Wonder if Preshit would try this out!
 
- [1]: https://www.techiemoe.com/
- [2]: https://www.techiemoe.com/tech/macbookub.htm
- [3]: https://www.techiemoe.com/tech/macbookub.htm#refs
- [4]: https://installingcats.wordpress.com/
+ [1]: http://www.techiemoe.com/
+ [2]: http://www.techiemoe.com/tech/macbookub.htm
+ [3]: http://www.techiemoe.com/tech/macbookub.htm#refs
+ [4]: http://installingcats.wordpress.com/

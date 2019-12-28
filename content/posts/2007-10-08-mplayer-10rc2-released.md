@@ -42,5 +42,5 @@ tags:
 </p>
 
 <p>
-  <a href="https://www.mplayerhq.hu/design7/news.html" target="_blank">More @ mplayer headquarters</a></font>
+  <a href="http://www.mplayerhq.hu/design7/news.html" target="_blank">More @ mplayer headquarters</a></font>
 </p>

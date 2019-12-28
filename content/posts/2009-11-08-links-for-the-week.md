@@ -47,10 +47,10 @@ tags:
   5. [Experiencing Sabayon 5][6]{#aptureLink_9hqyejQU50} //personal note: must try it soon.
   6. First GNOME 3.0 development release [available][7]{#aptureLink_Dr8Kjty26c}.
 
- [1]: https://ubuntuforums.org/showthread.php?t=1305924
- [2]: https://linuxpoison.blogspot.com/2009/11/how-to-upgrade-from-ubuntu-904-jaunty.html
- [3]: https://www.ubuntugeek.com/install-nvidia-graphics-drivers-190-42-in-ubuntu-karmicjauntyintrepidhardy.html
- [4]: https://sathyasays.com/tag/kde/
- [5]: https://kde.org/announcements/announce-4.3.3.php
- [6]: https://www.linuxforu.com/reviews/experiencing-sabayon-5-oh/
- [7]: https://www.phoronix.com/scan.php?page=news_item&px=NzY1NA
+ [1]: http://ubuntuforums.org/showthread.php?t=1305924
+ [2]: http://linuxpoison.blogspot.com/2009/11/how-to-upgrade-from-ubuntu-904-jaunty.html
+ [3]: http://www.ubuntugeek.com/install-nvidia-graphics-drivers-190-42-in-ubuntu-karmicjauntyintrepidhardy.html
+ [4]: http://sathyasays.com/tag/kde/
+ [5]: http://kde.org/announcements/announce-4.3.3.php
+ [6]: http://www.linuxforu.com/reviews/experiencing-sabayon-5-oh/
+ [7]: http://www.phoronix.com/scan.php?page=news_item&px=NzY1NA

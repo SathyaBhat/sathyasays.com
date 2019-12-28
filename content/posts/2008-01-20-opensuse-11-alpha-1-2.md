@@ -42,7 +42,7 @@ tags:
 With the new year beginning we kick start major development into the next version of openSUSE: openSUSE 11.0. A very early alpha version, Alpha 1, is now available for download and testing.
 
 <div align="center">
-  <a href="https://news.opensuse.org/wp-content/uploads/2008/01/installer.jpg" title="openSUSE 11.0 Alpha 1 Installer"><img src="https://news.opensuse.org/wp-content/uploads/2008/01/installer-thumb.jpg" alt="openSUSE 11.0 Alpha 1 Installer" /></a><br /> The Beautiful New Look of the Installer
+  <a href="http://news.opensuse.org/wp-content/uploads/2008/01/installer.jpg" title="openSUSE 11.0 Alpha 1 Installer"><img src="http://news.opensuse.org/wp-content/uploads/2008/01/installer-thumb.jpg" alt="openSUSE 11.0 Alpha 1 Installer" /></a><br /> The Beautiful New Look of the Installer
 </div>
 
 Despite many other products being developed in parallel to [Factory][1],
@@ -82,7 +82,7 @@ Due to the huge amount of changes, there are also several noticeable bugs:
   
     choice, i.e. it’s not possible to create a broken system. We’re still
   
-    discussing if this is a bug or a feature  <img src="https://news.opensuse.org/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+    discussing if this is a bug or a feature  <img src="http://news.opensuse.org/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
   * the CDs lack a huge amount of software. Many packages had to be
   
     taken out to make way for others. The CDs should still have a a
@@ -109,10 +109,10 @@ Please refer to **[software.openSUSE.org/developer][5]** for direct links to all
 
 Have a lot of fun!
 
-Technorati Tags: <a class="performancingtags" href="https://technorati.com/tag/openSUSE" rel="tag">openSUSE</a>, <a class="performancingtags" href="https://technorati.com/tag/linux" rel="tag">linux</a>, <a class="performancingtags" href="https://technorati.com/tag/sathyasays.com" rel="tag">sathyasays.com</a>
+Technorati Tags: <a class="performancingtags" href="http://technorati.com/tag/openSUSE" rel="tag">openSUSE</a>, <a class="performancingtags" href="http://technorati.com/tag/linux" rel="tag">linux</a>, <a class="performancingtags" href="http://technorati.com/tag/sathyasays.com" rel="tag">sathyasays.com</a>
 
- [1]: https://opensuse.org/Factory
- [2]: https://en.opensuse.org/Libzypp/Sat_Solver
- [3]: https://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F
- [4]: https://www.kdedevelopers.org/node/3119
- [5]: https://software.opensuse.org/developer
+ [1]: http://opensuse.org/Factory
+ [2]: http://en.opensuse.org/Libzypp/Sat_Solver
+ [3]: http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F
+ [4]: http://www.kdedevelopers.org/node/3119
+ [5]: http://software.opensuse.org/developer

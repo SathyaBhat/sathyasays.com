@@ -63,29 +63,29 @@ tags:
 
 ---
 <p align="center">
-  <img src="https://www.andlinux.org/img/logo_header.png" />
+  <img src="http://www.andlinux.org/img/logo_header.png" />
 </p>
 
-andLinux is a complete <a href="https://www.ubuntu.com/" target="_blank">Ubuntu</a> Linux system running seamlessly in Windows 2000 based systems (2000, XP, 2003, Vista [32-bit only])
+andLinux is a complete <a href="http://www.ubuntu.com/" target="_blank">Ubuntu</a> Linux system running seamlessly in Windows 2000 based systems (2000, XP, 2003, Vista [32-bit only])
 
 <p align="justify">
   &nbsp;
 </p>
 
 <p align="justify">
-  andLinux uses <a href="https://www.colinux.org/" target="_blank">CoLinux</a> as its core which is confusing for many people. CoLinux is a port of the Linux kernel to Windows. Although this technology is like VMware or Virtual PC, CoLinux differs itself by being more of a merger of Windows and the Linux kernel and not an emulated PC, making it more efficient. <a href="https://www.straightrunning.com/XmingNotes/" target="_blank">Xming</a> is used as X server and <a href="https://www.pulseaudio.org/" target="_blank">PulseAudio</a> as sound server.
+  andLinux uses <a href="http://www.colinux.org/" target="_blank">CoLinux</a> as its core which is confusing for many people. CoLinux is a port of the Linux kernel to Windows. Although this technology is like VMware or Virtual PC, CoLinux differs itself by being more of a merger of Windows and the Linux kernel and not an emulated PC, making it more efficient. <a href="http://www.straightrunning.com/XmingNotes/" target="_blank">Xming</a> is used as X server and <a href="http://www.pulseaudio.org/" target="_blank">PulseAudio</a> as sound server.
 </p>
 
 andLinux is not just for development and runs almost all Linux applications without modification.
 
 <p class="label">
-  <a href="https://www.andlinux.org/img/screenshot.png" title="click to get a full size version of the image"><img src="https://www.andlinux.org/img/screenshot_small.png" border="0" /></a><br /> Screenshot (click to enlarge)
+  <a href="http://www.andlinux.org/img/screenshot.png" title="click to get a full size version of the image"><img src="http://www.andlinux.org/img/screenshot_small.png" border="0" /></a><br /> Screenshot (click to enlarge)
 </p>
 
 To start Linux applications, you may either use the XFCE Panel:
 
 <p class="label">
-  <img src="https://www.andlinux.org/img/xfce_panel.png" border="0" /><br /> The XFCE Panel
+  <img src="http://www.andlinux.org/img/xfce_panel.png" border="0" /><br /> The XFCE Panel
 </p>
 
 <p class="noskip">
@@ -112,21 +112,21 @@ To start Linux applications, you may either use the XFCE Panel:
   <tr>
     <td>
       <p class="label">
-        <img src="https://www.andlinux.org/img/quicklaunch_xfce.png" align="middle" border="0" /><br /> Quicklaunch icons (XFCE version)
+        <img src="http://www.andlinux.org/img/quicklaunch_xfce.png" align="middle" border="0" /><br /> Quicklaunch icons (XFCE version)
       </p>
       
       <p class="label">
-        <img src="https://www.andlinux.org/img/quicklaunch_kde.png" align="middle" border="0" /><br /> Quicklaunch icons (KDE version)
+        <img src="http://www.andlinux.org/img/quicklaunch_kde.png" align="middle" border="0" /><br /> Quicklaunch icons (KDE version)
       </p>
       
       <p class="label">
-        <img src="https://www.andlinux.org/img/xfce_menu.png" align="middle" border="0" /><br /> Start menu (XFCE version)
+        <img src="http://www.andlinux.org/img/xfce_menu.png" align="middle" border="0" /><br /> Start menu (XFCE version)
       </p>
     </td>
     
     <td>
       <p class="label">
-        <img src="https://www.andlinux.org/img/kmenu.png" align="middle" border="0" /><br /> Start menu (KDE version)
+        <img src="http://www.andlinux.org/img/kmenu.png" align="middle" border="0" /><br /> Start menu (KDE version)
       </p>
     </td>
   </tr>
@@ -134,7 +134,7 @@ To start Linux applications, you may either use the XFCE Panel:
   <tr>
     <td colspan="2">
       <p class="label">
-        <img src="https://www.andlinux.org/img/explorer1.png" border="0" /><br /> Open a folder with Konqueror or Konsole
+        <img src="http://www.andlinux.org/img/explorer1.png" border="0" /><br /> Open a folder with Konqueror or Konsole
       </p>
     </td>
   </tr>
@@ -200,7 +200,7 @@ This looks really interesting and promising! Am definitely going to try this out
 
 Thanks to @[chetanthaker][1] who [twittered][2] about this
 
-Technorati Tags: <a href="https://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="https://technorati.com/tag/andlinux" class="performancingtags" rel="tag">andlinux</a>, <a href="https://technorati.com/tag/sathyasays" class="performancingtags" rel="tag">sathyasays</a>
+Technorati Tags: <a href="http://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="http://technorati.com/tag/andlinux" class="performancingtags" rel="tag">andlinux</a>, <a href="http://technorati.com/tag/sathyasays" class="performancingtags" rel="tag">sathyasays</a>
 
- [1]: https://twitter.com/chetanthaker
- [2]: https://twitter.com/chetanthaker/statuses/726461112
+ [1]: http://twitter.com/chetanthaker
+ [2]: http://twitter.com/chetanthaker/statuses/726461112

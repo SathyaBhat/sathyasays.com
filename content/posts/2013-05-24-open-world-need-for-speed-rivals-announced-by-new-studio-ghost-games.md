@@ -14,11 +14,11 @@ tags:
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
     <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
-      <img src="https://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
+      <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="https://sathyabhat.newsblur.com/story/open-world-need-for-/42e1aa">shared this story</a><br /> from <img src="https://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/open-world-need-for-/42e1aa">shared this story</a><br /> from <img src="http://icons.newsblur.com/3906447.png" style="vertical-align: middle;width:16px;height:16px;" /> MCV: Home Stream:</b>
     </td>
   </tr>
   
@@ -32,7 +32,7 @@ tags:
         <hr style="clear: both; margin: 0 0 24px;" />
         
         <p>
-          <img alt="Open-world Need for Speed: Rivals announced by new studio Ghost Games" src="https://www.mcvindia.com/cimages/e1029cfc89d071ce9a2ba852a05cb93a.jpg" />
+          <img alt="Open-world Need for Speed: Rivals announced by new studio Ghost Games" src="http://www.mcvindia.com/cimages/e1029cfc89d071ce9a2ba852a05cb93a.jpg" />
         </p>
         
         <p>
@@ -68,17 +68,17 @@ tags:
         </p>
         
         <p>
-          <iframe  src="https://www.youtube.com/embed/83JZmu5rzgI" style="display: block; margin-left: auto; margin-right: auto; float: none;" ></iframe>
+          <iframe  src="http://www.youtube.com/embed/83JZmu5rzgI" style="display: block; margin-left: auto; margin-right: auto; float: none;" ></iframe>
         </p>
         
         <p>
-          <em>Sign up for the free MCV India newsletter&nbsp;<a href="https://mcvindia.com/user/index/register/journey/register" target="_blank">here</a>.</em>
+          <em>Sign up for the free MCV India newsletter&nbsp;<a href="http://mcvindia.com/user/index/register/journey/register" target="_blank">here</a>.</em>
         </p>
         
         <p>
-          <img  src="https://feeds.feedburner.com/~r/mcvindia/stream/~4/8vrI-4aYg3w"  />
+          <img  src="http://feeds.feedburner.com/~r/mcvindia/stream/~4/8vrI-4aYg3w"  />
         </p>
         
         <p>
-          via sathyabhat&#8217;s blurblog https://feedproxy.google.com/~r/mcvindia/stream/~3/8vrI-4aYg3w/0116061
+          via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/mcvindia/stream/~3/8vrI-4aYg3w/0116061
         </p>

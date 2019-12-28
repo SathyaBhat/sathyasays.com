@@ -15,7 +15,7 @@ tags:
   - VR
 
 ---
-VR and me go like chalk and cheese &#8211; ever since a kid, I&#8217;ve had motion sickness which limited me from playing most FPS games and my last attempt at VR(at <a href="https://www.gamesexpo.in" target="_blank" rel="noopener">IGX 2016</a>) was a disaster &#8211; I barely could withstand 30 seconds of VR. Granted the game selection was bad &#8211; for me anyway (Driveclub on PSVR) &#8211; still I didn&#8217;t expect that bad of a reaction.
+VR and me go like chalk and cheese &#8211; ever since a kid, I&#8217;ve had motion sickness which limited me from playing most FPS games and my last attempt at VR(at <a href="http://www.gamesexpo.in" target="_blank" rel="noopener">IGX 2016</a>) was a disaster &#8211; I barely could withstand 30 seconds of VR. Granted the game selection was bad &#8211; for me anyway (Driveclub on PSVR) &#8211; still I didn&#8217;t expect that bad of a reaction.
 
 <!--more-->
 
@@ -73,14 +73,14 @@ The Touch Controller is crafted very well, fits your palm nicely and doing gestu
 
 I haven&#8217;t played a whole lot of games &#8211; among the ones that I did play &#8211; Robo Recall came with the bundle and is regarded supposedly one of the best VR games and I can see the acclaim. You pick up the guns from the holster. You can catch bullets and throw it back. You can catch robots and throw them back. You can grab them and pull them apart. You can grab them, throw them in the air, grab your weapons and shoot them. All this while doing gestures just like how you’d do it in real. And while you&#8217;re doing all this, you&#8217;re reactively ducking to avoid gun fire, bending your knee to pick up guns or other things on the ground &#8211; it&#8217;s quite an experience and makes me why even on this date, the VR demos are the crappy low res Rollercoaster ones.
 
-<a href="https://store.steampowered.com/app/471710/Rec_Room/" target="_blank" rel="noopener">RecRoom</a> is another great VR experience &#8211; it&#8217;s basically a big social club with some great mini games such as VR Paintball, 3D charades and so on. RecRoom is in early access, but is free for now.
+<a href="http://store.steampowered.com/app/471710/Rec_Room/" target="_blank" rel="noopener">RecRoom</a> is another great VR experience &#8211; it&#8217;s basically a big social club with some great mini games such as VR Paintball, 3D charades and so on. RecRoom is in early access, but is free for now.
 
-I&#8217;m yet to pick up <a href="https://www.oculus.com/experiences/rift/1070597869619581/" target="_blank" rel="noopener">Unspoken</a>(which basically made Jo purhcase the Rift) and will also pickup <a href="https://store.steampowered.com/app/530120/VR_The_Diner_Duo/" target="_blank" rel="noopener">Diner Duo</a> when it goes on sale. I did give Project Cars a go(again!) but yeah didn&#8217;t last long &#8211; the motion sickness made me uncomfortable before I could even say the word.
+I&#8217;m yet to pick up <a href="https://www.oculus.com/experiences/rift/1070597869619581/" target="_blank" rel="noopener">Unspoken</a>(which basically made Jo purhcase the Rift) and will also pickup <a href="http://store.steampowered.com/app/530120/VR_The_Diner_Duo/" target="_blank" rel="noopener">Diner Duo</a> when it goes on sale. I did give Project Cars a go(again!) but yeah didn&#8217;t last long &#8211; the motion sickness made me uncomfortable before I could even say the word.
 
 ### Summing up
 
 If you&#8217;re still on the fence about VR, have a decent system capable of VR, I think the Rift bundle, especially with the US pricing of $400 is a great purchase. There&#8217;s loads of VR games &#8211; both free and paid and some of them are just that good to make the purchase worthwhile.
 
-Have any questions? Drop a comment below or send me <a href="https://twitter.com/sathyabhat" target="_blank" rel="noopener">tweet</a>, will reply.
+Have any questions? Drop a comment below or send me <a href="http://twitter.com/sathyabhat" target="_blank" rel="noopener">tweet</a>, will reply.
 
 &nbsp;

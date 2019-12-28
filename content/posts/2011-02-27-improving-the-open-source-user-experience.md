@@ -5,7 +5,7 @@ type: post
 date: 2011-02-27T16:16:35+00:00
 url: /2011/02/27/improving-the-open-source-user-experience/
 topsy_short_url:
-  - https://u.sbhat.me/fsWuDD
+  - http://u.sbhat.me/fsWuDD
 categories:
   - General
 tags:
@@ -23,4 +23,4 @@ tags:
 
 via [Improving the Open Source user experience][1].
 
- [1]: https://sirupsen.com/improving-the-open-source-user-experience/
+ [1]: http://sirupsen.com/improving-the-open-source-user-experience/

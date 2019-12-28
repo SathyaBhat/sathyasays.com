@@ -76,7 +76,7 @@ If the policy check (or any stage) fails, the pipeline ends and does not trigger
   <figure class="aligncenter"><img src="https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-608x302.png" alt="" class="wp-image-1738" srcset="https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-608x302.png 608w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-768x381.png 768w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-800x397.png 800w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-840x417.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
 </div>
 
-You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> &#8211; and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.
+You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> &#8211; and Drone with its <a href="http://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.
 
 What Next?
 

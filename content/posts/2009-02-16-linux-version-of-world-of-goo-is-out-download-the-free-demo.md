@@ -37,8 +37,8 @@ There are different types of goo-balls, each with their own unique set of proper
 
 Graphics wise its plain 2D with little hints of 3D but then its all rendered beautifully, and have a really nice cartoony-look. Audio is where World of Goo really stands out &#8211; the score is awesome, and immerses you totally into the game.
 
-The game soundtrack is available as a free download &#8211; and you can download it from <a href="https://kylegabler.com/WorldOfGooSoundtrack/" target="_blank">here</a>.
+The game soundtrack is available as a free download &#8211; and you can download it from <a href="http://kylegabler.com/WorldOfGooSoundtrack/" target="_blank">here</a>.
 
 The game, while is not free &#8211; you can purchase it for $20, you can download the free demo version and evaluate it and see how it is &#8211; the demo version offers you only the First chapter of the of the total Five chapters available. I do  urge you to try the demo version &#8211; you just might be surprised how addictive the game can be.
 
-Download the <a href="https://worldofgoo.com/dl2.php?lk=demo" target="_blank">free demo version</a> | Visit <a href="https://2dboy.com/games.php" target="_blank">World of Goo website</a>.
+Download the <a href="http://worldofgoo.com/dl2.php?lk=demo" target="_blank">free demo version</a> | Visit <a href="http://2dboy.com/games.php" target="_blank">World of Goo website</a>.

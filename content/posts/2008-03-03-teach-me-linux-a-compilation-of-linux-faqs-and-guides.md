@@ -55,5 +55,5 @@ Some of the  topics include
 
 &#8230; and many more! So if you&#8217;re interested, head over to [Teach Me Linux][2], and you might learn a new thing or two!
 
- [1]: https://www.themebin.com/
- [2]: https://teachmelinux.googlepages.com/index.html
+ [1]: http://www.themebin.com/
+ [2]: http://teachmelinux.googlepages.com/index.html

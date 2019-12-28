@@ -41,4 +41,4 @@ Here&#8217;s his reasons:
 
 Head over to [Penguin Pete&#8217;s][1] for his detailed explainations
 
- [1]: https://penguinpetes.com/b2evo/index.php?title=10_reasons_why_the_command_line_is_more_&more=1&c=1&tb=1&pb=1
+ [1]: http://penguinpetes.com/b2evo/index.php?title=10_reasons_why_the_command_line_is_more_&more=1&c=1&tb=1&pb=1

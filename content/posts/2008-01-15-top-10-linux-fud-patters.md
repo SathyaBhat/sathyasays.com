@@ -39,4 +39,4 @@ He states,
 > 
 > Continue reading at [LinuxFUD][1]
 
- [1]: https://linuxfud.wordpress.com/2008/01/15/top-10-linux-fud-patterns-part-1/
+ [1]: http://linuxfud.wordpress.com/2008/01/15/top-10-linux-fud-patterns-part-1/

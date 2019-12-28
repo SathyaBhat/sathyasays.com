@@ -70,10 +70,10 @@ tags:
   * [x64 (AMD64/EM64T) README][6]
   * [x64 (AMD64/EM64T) Driver Download][7]
 
- [1]: https://www.nvidia.com/
- [2]: https://www.nvidia.com/object/linux_display_ia32_169.04.html
- [3]: https://www.nvidia.com/object/linux_display_amd64_169.04.html
- [4]: https://us.download.nvidia.com/XFree86/Linux-x86/169.04/README/index.html
- [5]: https://us.download.nvidia.com/XFree86/Linux-x86/169.04/NVIDIA-Linux-x86-169.04-pkg1.run
- [6]: https://us.download.nvidia.com/XFree86/Linux-x86_64/169.04/README/index.html
- [7]: https://us.download.nvidia.com/XFree86/Linux-x86_64/169.04/NVIDIA-Linux-x86_64-169.04-pkg2.run
+ [1]: http://www.nvidia.com/
+ [2]: http://www.nvidia.com/object/linux_display_ia32_169.04.html
+ [3]: http://www.nvidia.com/object/linux_display_amd64_169.04.html
+ [4]: http://us.download.nvidia.com/XFree86/Linux-x86/169.04/README/index.html
+ [5]: http://us.download.nvidia.com/XFree86/Linux-x86/169.04/NVIDIA-Linux-x86-169.04-pkg1.run
+ [6]: http://us.download.nvidia.com/XFree86/Linux-x86_64/169.04/README/index.html
+ [7]: http://us.download.nvidia.com/XFree86/Linux-x86_64/169.04/NVIDIA-Linux-x86_64-169.04-pkg2.run

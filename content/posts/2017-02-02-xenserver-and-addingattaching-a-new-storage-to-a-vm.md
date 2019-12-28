@@ -39,4 +39,4 @@ sudo resize2fs /dev/mapper/mesa--nl--vg-root<br />
 
 HowToGeek has a [nice writeup & cheatsheet on LVM][1], you should read that to get you up to speed with LVM.
 
- [1]: https://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-management-in-ubuntu/
+ [1]: http://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-management-in-ubuntu/

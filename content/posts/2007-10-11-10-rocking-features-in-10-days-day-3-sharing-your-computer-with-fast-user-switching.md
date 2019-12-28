@@ -51,7 +51,7 @@ tags:
 </p>
 
 <p>
-  Well, first you need at least one other user on your computers. If you are uncertain about how to do that, please refer to <a href="https://help.ubuntu.com/community/AddUsersHowto">this excellent wikipage</a> on it or for the more visually inclined, there is a <a href="https://screencasts.ubuntu.com/MoS2007/13_Users_and_Fast_User_Switcher">screencast</a> (which also covers how to switch new users).
+  Well, first you need at least one other user on your computers. If you are uncertain about how to do that, please refer to <a href="https://help.ubuntu.com/community/AddUsersHowto">this excellent wikipage</a> on it or for the more visually inclined, there is a <a href="http://screencasts.ubuntu.com/MoS2007/13_Users_and_Fast_User_Switcher">screencast</a> (which also covers how to switch new users).
 </p>
 
 <p>

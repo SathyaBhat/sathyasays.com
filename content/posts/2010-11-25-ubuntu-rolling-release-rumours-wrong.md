@@ -5,7 +5,7 @@ type: post
 date: 2010-11-25T18:00:52+00:00
 url: /2010/11/25/ubuntu-rolling-release-rumours-wrong/
 topsy_short_url:
-  - https://u.sbhat.me/hj0ah8
+  - http://u.sbhat.me/hj0ah8
 categories:
   - News
 tags:
@@ -20,4 +20,4 @@ tags:
 
 via [Ubuntu: Rolling release rumours wrong &#8211; The H Open Source: News and Features][1].
 
- [1]: https://www.h-online.com/open/news/item/Ubuntu-Rolling-release-rumours-wrong-1142040.html
+ [1]: http://www.h-online.com/open/news/item/Ubuntu-Rolling-release-rumours-wrong-1142040.html

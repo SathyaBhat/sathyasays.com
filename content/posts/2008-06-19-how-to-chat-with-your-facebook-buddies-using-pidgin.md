@@ -44,11 +44,11 @@ For Linux users copy one of the .so files to either /usr/lib/purple-2/ (for 32-b
 
 Don&#8217;t forget to grab the icons too. Just Extract the facebook_icons.zip file to the pixmaps/pidgin/protocols folder. On Windows this is generally C:\Program Files\Pidgin\pixmaps\pidgin\protocols and on Linux, /usr/share/pixmaps/pidgin/protocol and enjoy chatting.
 
- [1]: https://facebook.com
- [2]: https://blog.facebook.com/blog.php?post=12811122130
- [3]: https://code.google.com/u/eionrobb/
- [4]: https://code.google.com/u/Saturn2888/
- [5]: https://www.pidgin.im/
- [6]: https://code.google.com/p/pidgin-facebookchat/
- [7]: https://pidgin-facebookchat.googlecode.com/files/pidgin-facebookchat-1.16.deb
- [8]: https://pidgin-facebookchat.googlecode.com/files/pidgin-facebookchat-1.16.exe
+ [1]: http://facebook.com
+ [2]: http://blog.facebook.com/blog.php?post=12811122130
+ [3]: http://code.google.com/u/eionrobb/
+ [4]: http://code.google.com/u/Saturn2888/
+ [5]: http://www.pidgin.im/
+ [6]: http://code.google.com/p/pidgin-facebookchat/
+ [7]: http://pidgin-facebookchat.googlecode.com/files/pidgin-facebookchat-1.16.deb
+ [8]: http://pidgin-facebookchat.googlecode.com/files/pidgin-facebookchat-1.16.exe

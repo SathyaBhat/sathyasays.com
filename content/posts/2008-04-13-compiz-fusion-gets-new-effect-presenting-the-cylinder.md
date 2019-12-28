@@ -56,7 +56,7 @@ Developer Dennis Kasprzyk has finally [finished his idea][1] to implement a cyli
 
 <!--more-->
 
-[<img src="https://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder"   />][2]
+[<img src="http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder-150x60.jpg" class="alignnone size-thumbnail wp-image-7" title="cube_cylinder"   />][2]
 
 For those who wish to see it in action, [here][3] is a YouTube video of it.
 
@@ -75,7 +75,7 @@ git clone git://anongit.compiz-fusion.org/fusion/misc/yags`
 
 For Ubuntu users, Ubuntu Forums has a dedicated thread to installing Compiz Fusion from git, have a look at it over [here][4].
 
- [1]: https://dev.compiz-fusion.org/~onestone/blog/?p=6
- [2]: https://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder.jpg
- [3]: https://youtube.com/watch?v=o5ycjsMQ0Q4
- [4]: https://ubuntuforums.org/showthread.php?t=643485
+ [1]: http://dev.compiz-fusion.org/~onestone/blog/?p=6
+ [2]: http://dev.compiz-fusion.org/%7Eonestone/blog/wp-content/uploads/2008/04/cube_cylinder.jpg
+ [3]: http://youtube.com/watch?v=o5ycjsMQ0Q4
+ [4]: http://ubuntuforums.org/showthread.php?t=643485

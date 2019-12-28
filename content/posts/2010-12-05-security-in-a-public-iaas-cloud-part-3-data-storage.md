@@ -5,7 +5,7 @@ type: post
 date: 2010-12-05T15:07:31+00:00
 url: /2010/12/05/security-in-a-public-iaas-cloud-part-3-data-storage/
 topsy_short_url:
-  - https://u.sbhat.me/dJQZrA
+  - http://u.sbhat.me/dJQZrA
 categories:
   - Cloud
 tags:
@@ -19,4 +19,4 @@ tags:
 
 via [Security in a Public IaaS Cloud Part 3: Data Storage][1].
 
- [1]: https://cloudsigma.com/en/blog/2010/12/04/15-security-in-the-cloud-data-storage
+ [1]: http://cloudsigma.com/en/blog/2010/12/04/15-security-in-the-cloud-data-storage

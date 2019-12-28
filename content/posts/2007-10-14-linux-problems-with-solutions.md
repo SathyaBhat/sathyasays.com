@@ -683,5 +683,5 @@ irrecord fails on lirc 0.8.2, with kernel 2.6.22.1. It when a button is pressed,
   
 lirc 0.8.2 doesn&#8217;t support this kernel (it&#8217;s probably fixed in the latest version by the time you read this). Downgrade to 2.6.20 and it works like a charm.
 
- [1]: https://www.vidarholen.net/
- [2]: https://www.vidarholen.net/contents/linuxtips/xorg.conf
+ [1]: http://www.vidarholen.net/
+ [2]: http://www.vidarholen.net/contents/linuxtips/xorg.conf

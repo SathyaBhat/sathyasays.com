@@ -148,6 +148,6 @@ From the mailing list post,
 Like the popular saying, All Good Things Must Come to an End. SUSE 10.0 was and still is my all time favorite distro, it&#8217;s paved way for the community support now so abundant in openSUSE releases. Adios, amigo.   
 It&#8217;s been good knowing you and powering my system
 
-Technorati Tags: <a class="performancingtags" href="https://technorati.com/tag/SUSE" rel="tag">SUSE</a>, <a class="performancingtags" href="https://technorati.com/tag/linux" rel="tag">linux</a>, <a class="performancingtags" href="https://technorati.com/tag/open%20source" rel="tag">open source</a>
+Technorati Tags: <a class="performancingtags" href="http://technorati.com/tag/SUSE" rel="tag">SUSE</a>, <a class="performancingtags" href="http://technorati.com/tag/linux" rel="tag">linux</a>, <a class="performancingtags" href="http://technorati.com/tag/open%20source" rel="tag">open source</a>
 
- [1]: https://lists.opensuse.org/archive/opensuse-announce/2008-01/msg00001.html
+ [1]: http://lists.opensuse.org/archive/opensuse-announce/2008-01/msg00001.html

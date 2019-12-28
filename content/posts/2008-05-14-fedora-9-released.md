@@ -153,5 +153,5 @@ The Fedora system installer, Anaconda, has received a lot of new features this r
 
 > Read the complete [Release Summary][2]
 
- [1]: https://fedoraproject.org/get-fedora
- [2]: https://fedoraproject.org/wiki/Releases/9/ReleaseSummary
+ [1]: http://fedoraproject.org/get-fedora
+ [2]: http://fedoraproject.org/wiki/Releases/9/ReleaseSummary

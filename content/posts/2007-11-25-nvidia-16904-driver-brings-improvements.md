@@ -45,5 +45,5 @@ The PowerMizer area in the nvidia-settings panel shows whether adaptive clocking
 
 [Phoronix][2]</p> <p bG1cO="0" P_WMX="0" align="left">With me getting a Dell laptop with a nVidia 8600m GT as the graphics card, this is indeed good new for me.</p>
 
- [1]: https://www.phoronix.com
- [2]: https://www.phoronix.com/scan.php?page=article&item=925&num=1
+ [1]: http://www.phoronix.com
+ [2]: http://www.phoronix.com/scan.php?page=article&item=925&num=1

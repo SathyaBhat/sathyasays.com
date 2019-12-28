@@ -51,7 +51,7 @@ tags:
 </p>
 
 <p>
-  There are some misconceptions floating around about openSUSE 10.3. Unfortunately uninformed people are still allowed to blog <img src="https://www.kdedevelopers.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" /> so let me pick up some I read:
+  There are some misconceptions floating around about openSUSE 10.3. Unfortunately uninformed people are still allowed to blog <img src="http://www.kdedevelopers.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" /> so let me pick up some I read:
 </p>
 
 <p>
@@ -59,7 +59,7 @@ tags:
 </p>
 
 <p>
-  Obviously someone didn&#8217;t <a href="https://news.opensuse.org/?p=386">follow the development</a> and also didn&#8217;t read <a href="https://news.opensuse.org/?p=400">the release announcement</a>. To quote from there: &#8220;Live CDs will be released in the next couple of weeks.&#8221; <a href="https://bugzilla.novell.com/show_bug.cgi?id=299663">A bug with CD-drives</a> led to the decision to not release it last Thursday, currently I would bet on later this week. The KDE/GNOME Live-CDs contain btw the same packages as the one CD install media.
+  Obviously someone didn&#8217;t <a href="http://news.opensuse.org/?p=386">follow the development</a> and also didn&#8217;t read <a href="http://news.opensuse.org/?p=400">the release announcement</a>. To quote from there: &#8220;Live CDs will be released in the next couple of weeks.&#8221; <a href="https://bugzilla.novell.com/show_bug.cgi?id=299663">A bug with CD-drives</a> led to the decision to not release it last Thursday, currently I would bet on later this week. The KDE/GNOME Live-CDs contain btw the same packages as the one CD install media.
 </p>
 
 <p>
@@ -75,7 +75,7 @@ tags:
 </p>
 
 <p>
-  The one CD install media contain a complete functional desktop, either KDE or GNOME, which can be installed offline. If you compare you will actually notice that we managed to fit more applications on it than most other CD distros which often miss bigger stuff like OpenOffice.org, Firefox, Gimp or games. openSUSE 10.3 introduces the new concept of registering online repositories before the installation starts. On the screen where you choose whether to install or upgrade, there is <a href="https://news.opensuse.org/wp-content/uploads/2007/09/more-repos1.png">a checkbox &#8220;Add online repositories before installation&#8221;</a> which is enabled by default. If you want a quick offline installation, or an &#8216;unbloated&#8217; installation, disable this option. Keeping it enabled will give you the default installation like you would get from the release DVD for one desktop, including eg translations and more games. And yes, we didn&#8217;t manage to fit the DVD content on a single CD. <img src="https://www.kdedevelopers.org/misc/smileys/smile.png" title="Smiling" alt="Smiling" />
+  The one CD install media contain a complete functional desktop, either KDE or GNOME, which can be installed offline. If you compare you will actually notice that we managed to fit more applications on it than most other CD distros which often miss bigger stuff like OpenOffice.org, Firefox, Gimp or games. openSUSE 10.3 introduces the new concept of registering online repositories before the installation starts. On the screen where you choose whether to install or upgrade, there is <a href="http://news.opensuse.org/wp-content/uploads/2007/09/more-repos1.png">a checkbox &#8220;Add online repositories before installation&#8221;</a> which is enabled by default. If you want a quick offline installation, or an &#8216;unbloated&#8217; installation, disable this option. Keeping it enabled will give you the default installation like you would get from the release DVD for one desktop, including eg translations and more games. And yes, we didn&#8217;t manage to fit the DVD content on a single CD. <img src="http://www.kdedevelopers.org/misc/smileys/smile.png" title="Smiling" alt="Smiling" />
 </p>
 
 <p>
@@ -87,5 +87,5 @@ tags:
 </p>
 
 <p>
-  Source: <a href="https://www.kdedevelopers.org/blog/457">beineri&#8217;s blog</a></font>
+  Source: <a href="http://www.kdedevelopers.org/blog/457">beineri&#8217;s blog</a></font>
 </p>

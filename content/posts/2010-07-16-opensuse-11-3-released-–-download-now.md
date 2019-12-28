@@ -5,7 +5,7 @@ type: post
 date: 2010-07-15T22:04:17+00:00
 url: /2010/07/16/opensuse-11-3-released-–-download-now/
 topsy_short_url:
-  - https://bit.ly/cRivVm
+  - http://bit.ly/cRivVm
 categories:
   - News
 tags:
@@ -47,4 +47,4 @@ via [openSUSE 11.3 Released – Download Now][1].
 
 My favourite distro gets an update.
 
- [1]: https://techie-buzz.com/foss/opensuse-11-3-released-download-now.html
+ [1]: http://techie-buzz.com/foss/opensuse-11-3-released-download-now.html

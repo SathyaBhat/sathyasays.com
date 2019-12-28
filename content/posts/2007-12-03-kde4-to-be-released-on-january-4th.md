@@ -46,4 +46,4 @@ Some parts of the desktop experience do not yet meet the KDE community&#8217;s q
 
 I hope they don&#8217;t do a Vista here and release it before it&#8217;s ready. From what I&#8217;ve seen of KDE Preview(admittedly, from openSUSE 10.3) it was far, far from usable.
 
- [1]: https://dot.kde.org/1196525703/
+ [1]: http://dot.kde.org/1196525703/

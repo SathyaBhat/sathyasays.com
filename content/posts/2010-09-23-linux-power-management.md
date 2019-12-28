@@ -5,7 +5,7 @@ type: post
 date: 2010-09-23T16:23:14+00:00
 url: /2010/09/23/linux-power-management/
 topsy_short_url:
-  - https://bit.ly/cLA07u
+  - http://bit.ly/cLA07u
 categories:
   - General
   - Linked
@@ -42,4 +42,4 @@ _
 
 via [[Phoronix] Is Linux Power Management Getting Better Or Worse?][1].
 
- [1]: https://www.phoronix.com/scan.php?page=article&item=fedora_battery_power&num=1
+ [1]: http://www.phoronix.com/scan.php?page=article&item=fedora_battery_power&num=1

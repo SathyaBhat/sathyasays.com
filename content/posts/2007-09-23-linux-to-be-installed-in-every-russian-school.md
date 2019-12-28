@@ -34,4 +34,4 @@ The Ministry of Communication Press Service explains the Ministry plans to insta
 
 Source: [CNews][1]
 
- [1]: https://eng.cnews.ru/news/top/indexEn.shtml?2007/09/14/266177
+ [1]: http://eng.cnews.ru/news/top/indexEn.shtml?2007/09/14/266177

@@ -85,15 +85,15 @@ The openSUSE 11.0 beta 1 includes quite a few changes and new features that user
 Here’s a quick look at openSUSE 11.0 beta 1:
 
 <p align="center">
-  <a title="New Install Theme" href="https://en.opensuse.org/Image:OS11.0beta1-inst7.png"><img src="https://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-inst7_thumb.jpg" alt="os110beta1-inst7_thumb.jpg" /></a> <a title="KDE4 Desktop" href="https://en.opensuse.org/Image:OS11.0beta1-kde4-2.png"><img src="https://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-kde4-2_thumb.jpg" alt="os110beta1-kde4-2_thumb.jpg" /></a>
+  <a title="New Install Theme" href="http://en.opensuse.org/Image:OS11.0beta1-inst7.png"><img src="http://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-inst7_thumb.jpg" alt="os110beta1-inst7_thumb.jpg" /></a> <a title="KDE4 Desktop" href="http://en.opensuse.org/Image:OS11.0beta1-kde4-2.png"><img src="http://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-kde4-2_thumb.jpg" alt="os110beta1-kde4-2_thumb.jpg" /></a>
 </p>
 
 <p align="center">
-  <a title="KDE3 Desktop" href="https://en.opensuse.org/Image:OS11.0beta1-kde3.png"><img src="https://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-kde3_thumb.jpg" alt="os110beta1-kde3_thumb.jpg" /></a> <a title="GNOME 2.22" href="https://en.opensuse.org/Image:OS11.0beta1-gnome.png"><img src="https://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-gnome_thumb.jpg" alt="os110beta1-gnome_thumb.jpg" /></a>
+  <a title="KDE3 Desktop" href="http://en.opensuse.org/Image:OS11.0beta1-kde3.png"><img src="http://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-kde3_thumb.jpg" alt="os110beta1-kde3_thumb.jpg" /></a> <a title="GNOME 2.22" href="http://en.opensuse.org/Image:OS11.0beta1-gnome.png"><img src="http://news.opensuse.org/wp-content/uploads/2008/04/os110beta1-gnome_thumb.jpg" alt="os110beta1-gnome_thumb.jpg" /></a>
 </p>
 
 <p align="center">
-  For some more screenshots head over to <a href="https://en.opensuse.org/Screenshots/openSUSE_11.0_Beta1">Screenshots/openSUSE_11.0_Beta1</a> on the wiki.
+  For some more screenshots head over to <a href="http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta1">Screenshots/openSUSE_11.0_Beta1</a> on the wiki.
 </p>
 
 ### Under the Hood
@@ -121,7 +121,7 @@ Several important changes have happened since Alpha 3 was released, most notably
   * RPM payload [switch to LZMA][7] (results in smaller RPM packages and faster installation of them)
   * DVD uses [images for installation][8] (speed-up)
 
-A more detailed list of changes is available via the <a href="https://opensuse.org/Factory/News" target="_blank">Factory/News</a> page.
+A more detailed list of changes is available via the <a href="http://opensuse.org/Factory/News" target="_blank">Factory/News</a> page.
 
 <!-- A sentence from Coolo -->
 
@@ -139,7 +139,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
   * Live-CD installer does not work (<a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=377565" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=377565">Bug #377565</a>, <a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=381153" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=381153">Bug #381153</a>)
 
 <p class="editsection" style="float: right; margin-left: 5px;">
-  [<a title="Bugs:Most Annoying Bugs 11.0 dev" href="https://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=3">edit</a>]
+  [<a title="Bugs:Most Annoying Bugs 11.0 dev" href="http://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=3">edit</a>]
 </p>
 
 #### DVD
@@ -149,7 +149,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
   * License text still from 10.3 (<span style="text-decoration: line-through;"><a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=381158" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=381158">Bug #381158</a></span>)
 
 <p class="editsection" style="float: right; margin-left: 5px;">
-  [<a title="Bugs:Most Annoying Bugs 11.0 dev" href="https://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=4">edit</a>]
+  [<a title="Bugs:Most Annoying Bugs 11.0 dev" href="http://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=4">edit</a>]
 </p>
 
 #### General
@@ -157,7 +157,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
   * Patterns or patches will never be shown as selected (<a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=380356" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=380356">Bug #380356</a>)
   * GNOME Main Menu (and some other apps) are slow to respond (<a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=375701" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=375701">Bug #375701</a>) Workaround: Click on volume control in the panel, Configure local sound server then check “Enable network access to local sound devices”
   * GDM does not start, missing gdm user (<span style="text-decoration: line-through;"><a class="external text" title="https://bugzilla.novell.com/show bug.cgi?id=381227" rel="nofollow" href="https://bugzilla.novell.com/show_bug.cgi?id=381227">Bug #381227</a></span>), Fix: Reinstall gdm as below to work around
-  * NVIDIA driver doesn’t compile. Workaround: check <a class="external text" title="https://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html" rel="nofollow" href="https://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html">here</a> for a patch.
+  * NVIDIA driver doesn’t compile. Workaround: check <a class="external text" title="http://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html" rel="nofollow" href="http://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html">here</a> for a patch.
 
 #### Missing System Users in 11.0 Beta1
 
@@ -172,18 +172,18 @@ See the [Bugs:Most\_Annoying\_Bugs\_11.0\_dev][10] page on the wiki for an up-to
 
 ### Media and Download
 
-openSUSE 11.0 Beta 1 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[https://software.opensuse.org/developer][11]**.
+openSUSE 11.0 Beta 1 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[http://software.opensuse.org/developer][11]**.
 
-The next <a title="Roadmap" href="https://en.opensuse.org/Roadmap/11.0" target="_blank">planned release</a> is openSUSE 11.0 Beta 2 on May 2.
+The next <a title="Roadmap" href="http://en.opensuse.org/Roadmap/11.0" target="_blank">planned release</a> is openSUSE 11.0 Beta 2 on May 2.
 
- [1]: https://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php
- [2]: https://library.gnome.org/misc/release-notes/2.22/
- [3]: https://opensuse.org/YaST
- [4]: https://jimmac.musichall.cz/log/?p=413
- [5]: https://duncan.mac-vicar.com/blog/archives/304
- [6]: https://distrowatch.com/table.php?distribution=suse
- [7]: https://opensuse.org/LZMA
- [8]: https://www.kdedevelopers.org/node/3385
- [9]: https://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev#Missing_System_Users_in_11.0_Beta1
- [10]: https://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev
- [11]: https://software.opensuse.org/developer "Download openSUSE 11.0 Beta 1"
+ [1]: http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php
+ [2]: http://library.gnome.org/misc/release-notes/2.22/
+ [3]: http://opensuse.org/YaST
+ [4]: http://jimmac.musichall.cz/log/?p=413
+ [5]: http://duncan.mac-vicar.com/blog/archives/304
+ [6]: http://distrowatch.com/table.php?distribution=suse
+ [7]: http://opensuse.org/LZMA
+ [8]: http://www.kdedevelopers.org/node/3385
+ [9]: http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev#Missing_System_Users_in_11.0_Beta1
+ [10]: http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev
+ [11]: http://software.opensuse.org/developer "Download openSUSE 11.0 Beta 1"

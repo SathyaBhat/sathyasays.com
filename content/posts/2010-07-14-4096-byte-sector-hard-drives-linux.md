@@ -5,7 +5,7 @@ type: post
 date: 2010-07-13T23:02:21+00:00
 url: /2010/07/14/4096-byte-sector-hard-drives-linux/
 topsy_short_url:
-  - https://bit.ly/bx6qkp
+  - http://bit.ly/bx6qkp
 categories:
   - General
 tags:
@@ -52,4 +52,4 @@ If you&#8217;re going to grab some new hard drives, the above article is worth r
 
 > These drives are on the market **now**. We&#8217;ve known about this issue for a LONG time, and now it&#8217;s here, and we haven&#8217;t fully prepared. Some distros, like Ubuntu, use &#8220;parted&#8221;, which has a very nice &#8220;&#8211;align optimal&#8221; option that will do the right thing. But parted is incomplete, and we must rely on tools like fdisk for everything else. **But anyone manually formatting drives based on popular how-tos that pop up at the top of Google searches is going to cause themselves a major performance hit, because mention of this alignment issue and how to fix it is conspicuously absent**.
 
- [1]: https://www.osnews.com/story/22872/Linux_Not_Fully_Prepared_for_4096-Byte_Sector_Hard_Drives
+ [1]: http://www.osnews.com/story/22872/Linux_Not_Fully_Prepared_for_4096-Byte_Sector_Hard_Drives

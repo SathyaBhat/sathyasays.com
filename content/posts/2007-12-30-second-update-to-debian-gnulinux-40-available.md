@@ -53,4 +53,4 @@ The installer has been updated to use and support the updated kernels included i
 
 Other changes include stability improvements in specific situations, improved serial console support when configuring grub, and added support for SGI O2 machines with 300MHz RM5200SC (Nevada) CPUs (mips).
 
-Technorati Tags: <a href="https://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="https://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="https://technorati.com/tag/debian" class="performancingtags" rel="tag">debian</a>, <a href="https://technorati.com/tag/etch" class="performancingtags" rel="tag">etch</a>
+Technorati Tags: <a href="http://technorati.com/tag/linux" class="performancingtags" rel="tag">linux</a>, <a href="http://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="http://technorati.com/tag/debian" class="performancingtags" rel="tag">debian</a>, <a href="http://technorati.com/tag/etch" class="performancingtags" rel="tag">etch</a>

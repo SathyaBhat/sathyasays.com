@@ -36,5 +36,5 @@ In this interview Todd mentions that a Linux version of id Tech 5 is not planned
 
 The Golem.de reporters were able to [see][2] the game running on all four platforms the game will ship in (from the left: Mac, PC, PS3 and XBOX 360) and they were all purportedly running at 60 frames per second at 720p resolution. In that photograph it&#8217;s visible that the PC also has a XBOX 360 controller plugged-in.
 
- [1]: https://www.golem.de/0708/54357.html
- [2]: https://scr3.golem.de/?d=0708/idtech5&a=54357&s=4
+ [1]: http://www.golem.de/0708/54357.html
+ [2]: http://scr3.golem.de/?d=0708/idtech5&a=54357&s=4

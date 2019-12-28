@@ -25,6 +25,6 @@ So for those people who drop by my blog, do pay a visit to his blog.
 
 Thanks :)
 
- [1]: https://blog.tech-nologic.info/
- [2]: https://linux.tech-nologic.info/
- [3]: https://en.wikipedia.org/wiki/Red_Hat_Certification_Program
+ [1]: http://blog.tech-nologic.info/
+ [2]: http://linux.tech-nologic.info/
+ [3]: http://en.wikipedia.org/wiki/Red_Hat_Certification_Program

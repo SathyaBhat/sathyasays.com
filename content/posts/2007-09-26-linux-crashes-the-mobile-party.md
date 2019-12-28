@@ -35,7 +35,7 @@ Symbian, which does have a foothold in enterprise, thanks largely to its work wi
 
 More on [ZDNet][4]
 
- [1]: https://news.zdnet.co.uk/hardware/0,1000000091,39275178,00.htm?r=3 "Mobile Linux alliance formed"
- [2]: https://news.zdnet.co.uk/software/0,1000000121,39237012,00.htm "PalmSource and Orange team up for mobile Linux standards"
- [3]: https://news.zdnet.co.uk/communications/0,1000000085,39287814,00.htm "Symbian: Mobile Linux 'fragmentation city'"
- [4]: https://resources.zdnet.co.uk/articles/features/0,1000002000,39289595,00.htm
+ [1]: http://news.zdnet.co.uk/hardware/0,1000000091,39275178,00.htm?r=3 "Mobile Linux alliance formed"
+ [2]: http://news.zdnet.co.uk/software/0,1000000121,39237012,00.htm "PalmSource and Orange team up for mobile Linux standards"
+ [3]: http://news.zdnet.co.uk/communications/0,1000000085,39287814,00.htm "Symbian: Mobile Linux 'fragmentation city'"
+ [4]: http://resources.zdnet.co.uk/articles/features/0,1000002000,39289595,00.htm

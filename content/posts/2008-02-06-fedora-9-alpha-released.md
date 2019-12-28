@@ -73,22 +73,22 @@ For direct http access to a local mirror:
   
 [
   
-https://download.fedoraproject.org/pub/fedora/linux/releases/test/9-Alpha/][1]
+http://download.fedoraproject.org/pub/fedora/linux/releases/test/9-Alpha/][1]
 
 For a list of mirrors carrying the content and the various protocols they support:
 
-<https://mirrors.fedoraproject.org/publiclist/Fedora/9-Alpha/>
+<http://mirrors.fedoraproject.org/publiclist/Fedora/9-Alpha/>
 
 For bittorrent:
 
-<https://torrent.fedoraproject.org/>
+<http://torrent.fedoraproject.org/>
 
 ### More Information:
 
 For more information regarding the Alpha release, please visit the release notes page:
 
-<https://fedoraproject.org/wiki/Releases/9/Alpha/ReleaseNotes>
+<http://fedoraproject.org/wiki/Releases/9/Alpha/ReleaseNotes>
 
-Technorati Tags: <a href="https://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="https://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="https://technorati.com/tag/Fedora" class="performancingtags" rel="tag">Fedora</a>
+Technorati Tags: <a href="http://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="http://technorati.com/tag/opensource" class="performancingtags" rel="tag">opensource</a>, <a href="http://technorati.com/tag/Fedora" class="performancingtags" rel="tag">Fedora</a>
 
- [1]: https://download.fedoraproject.org/pub/fedora/linux/releases/test/9-Alpha/
+ [1]: http://download.fedoraproject.org/pub/fedora/linux/releases/test/9-Alpha/

@@ -5,7 +5,7 @@ type: post
 date: 2011-04-15T14:38:05+00:00
 url: /2011/04/15/simple-algorithms-illustrated/
 topsy_short_url:
-  - https://u.sbhat.me/frDSdU
+  - http://u.sbhat.me/frDSdU
 categories:
   - General
 tags:
@@ -19,4 +19,4 @@ via [simple algorithms][1].
 
 Very nice illustrations of every step of various algorithms.
 
- [1]: https://algorithms.openmymind.net/
+ [1]: http://algorithms.openmymind.net/

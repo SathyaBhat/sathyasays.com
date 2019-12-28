@@ -33,7 +33,7 @@ However they mention that they release a Release Candidate on November 10th, and
 I&#8217;ve been checking it out, and looks pretty impressive indeed.
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2991891892/"><img class="aligncenter" src="https://farm4.static.flickr.com/3253/2991891892_65d8e29851_m.jpg" alt="WordPress Dashboard" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2991891892/"><img class="aligncenter" src="http://farm4.static.flickr.com/3253/2991891892_65d8e29851_m.jpg" alt="WordPress Dashboard" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -41,5 +41,5 @@ I&#8217;ve been checking it out, and looks pretty impressive indeed.
 </p>
 
 <p style="text-align: left;">
-  Grab it from <a href="https://wordpress.org/wordpress-2.7-beta1.zip" target="_blank">here</a>
+  Grab it from <a href="http://wordpress.org/wordpress-2.7-beta1.zip" target="_blank">here</a>
 </p>

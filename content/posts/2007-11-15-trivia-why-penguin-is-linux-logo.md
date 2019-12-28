@@ -58,4 +58,4 @@ Here is this Linus&#8217; email:
 
 Continue Reading at [Linux Screw][1]
 
- [1]: https://www.linuxscrew.com/2007/11/14/why-penguin-is-linux-logo/
+ [1]: http://www.linuxscrew.com/2007/11/14/why-penguin-is-linux-logo/

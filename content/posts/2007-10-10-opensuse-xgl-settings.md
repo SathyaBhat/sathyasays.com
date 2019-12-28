@@ -26,5 +26,5 @@ tags:
 </p>
 
 <p>
-  <a href="https://dev.compiz-fusion.org/%7Ecyberorg/2007/10/09/opensuse-xgl-settings/" target="_blank">Get it Here</a> <a href="https://software.opensuse.org/ymp/X11:XGL/openSUSE_10.3/noarch/opensuse-xgl-settings-10.3.1-1.1.noarch.rpm.ymp">or here</a></font>
+  <a href="http://dev.compiz-fusion.org/%7Ecyberorg/2007/10/09/opensuse-xgl-settings/" target="_blank">Get it Here</a> <a href="http://software.opensuse.org/ymp/X11:XGL/openSUSE_10.3/noarch/opensuse-xgl-settings-10.3.1-1.1.noarch.rpm.ymp">or here</a></font>
 </p>

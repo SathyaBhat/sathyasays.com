@@ -32,10 +32,10 @@ tags:
 ---
 Soon after the [release][1] of [Linux Mint 3.1 &#8220;Celena&#8221;][2] developers of Linux Mint have released Linux Mint &#8220;Celena&#8221; Light Edition.
 
-<a href="https://sathyasays.com/wp-content/uploads/2007/10/celena.png" rel="lightbox" title="Celena"></a>
+<a href="http://sathyasays.com/wp-content/uploads/2007/10/celena.png" rel="lightbox" title="Celena"></a>
 
 <p style="text-align: center">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/10/celena.png" rel="lightbox" title="Celena"><img src="https://sathyasays.com/wp-content/uploads/2007/10/celena.png" alt="Celena" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/10/celena.png" rel="lightbox" title="Celena"><img src="http://sathyasays.com/wp-content/uploads/2007/10/celena.png" alt="Celena" /></a>
 </p>
 
 The purpose of the Light Edition is to bring a version of Linux Mint which doesn&#8217;t contain:
@@ -61,7 +61,7 @@ Note: You can transform Linux Mint &#8220;Light Edition&#8221; into Linux Mint &
 
 From: [Linux Mint Website][4]
 
- [1]: https://sathyasays.com/2007/10/21/linux-mint-31-celena/
- [2]: https://linuxmint.com/celena.html
- [3]: https://linuxmint.com/software/?sec=item&id=50
- [4]: https://linuxmint.com/celena-light.html
+ [1]: http://sathyasays.com/2007/10/21/linux-mint-31-celena/
+ [2]: http://linuxmint.com/celena.html
+ [3]: http://linuxmint.com/software/?sec=item&id=50
+ [4]: http://linuxmint.com/celena-light.html

@@ -40,7 +40,7 @@ Ahead of its October 4th release date, the ISO images of [openSUSE][1] 10.3 have
 
 Source: [DistroWatch][4]
 
- [1]: https://www.opensuse.org
- [2]: https://en.opensuse.org/Mirrors_Released_Version
- [3]: https://www.suse.com/relnotes/i386/openSUSE/10.3/RELEASE-NOTES.en.html
- [4]: https://distrowatch.com/weekly.php?issue=20071001#news
+ [1]: http://www.opensuse.org
+ [2]: http://en.opensuse.org/Mirrors_Released_Version
+ [3]: http://www.suse.com/relnotes/i386/openSUSE/10.3/RELEASE-NOTES.en.html
+ [4]: http://distrowatch.com/weekly.php?issue=20071001#news

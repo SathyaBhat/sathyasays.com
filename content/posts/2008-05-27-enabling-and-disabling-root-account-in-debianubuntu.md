@@ -64,5 +64,5 @@ Also, read [**this**][2] article in Ubuntu Wiki as to why sudo is preferred over
 
 PS: Just incase you guys are wondering why I&#8217;ve posted this basic info so late, well I&#8217;m just getting the hang of Ubuntu.
 
- [1]: https://www.ducea.com/2006/06/21/ubuntu-how-to-enable-the-root-account/
+ [1]: http://www.ducea.com/2006/06/21/ubuntu-how-to-enable-the-root-account/
  [2]: https://help.ubuntu.com/community/RootSudo

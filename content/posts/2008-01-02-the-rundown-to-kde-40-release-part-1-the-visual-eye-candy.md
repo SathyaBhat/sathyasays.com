@@ -66,7 +66,7 @@ tags:
 
 ---
 <p align="center">
-  <img src="https://games.kde.org/new/counter/" alt="KDE 4.0 Release Counter"   />
+  <img src="http://games.kde.org/new/counter/" alt="KDE 4.0 Release Counter"   />
 </p>
 
 With the first release of KDE4 framework, KDE 4.0 just few days away &#8212; as the above counter shows, the next few articles will have a look at some of the features new to KDE 4.0
@@ -121,23 +121,23 @@ Mimetypes:
 
 [![mimetypes.png][19]][20]
 
- [1]: https://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.thumbnail.jpg
- [2]: https://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.jpg "kde-desktop.jpg"
- [3]: https://sathyasays.com/wp-content/uploads/2008/01/add_widgets.thumbnail.jpg
- [4]: https://sathyasays.com/wp-content/uploads/2008/01/add_widgets.jpg "add_widgets.jpg"
- [5]: https://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.thumbnail.jpg
- [6]: https://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.jpg "add_widgets1.jpg"
- [7]: https://sathyasays.com/wp-content/uploads/2008/01/kde_4.thumbnail.jpg
- [8]: https://sathyasays.com/wp-content/uploads/2008/01/kde_4.jpg "kde_4.jpg"
- [9]: https://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.thumbnail.jpg
- [10]: https://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.jpg "kde_4-rc2.jpg"
- [11]: https://sathyasays.com/wp-content/uploads/2008/01/actions.thumbnail.png
- [12]: https://sathyasays.com/wp-content/uploads/2008/01/actions.png "actions.png"
- [13]: https://sathyasays.com/wp-content/uploads/2008/01/applications.thumbnail.png
- [14]: https://sathyasays.com/wp-content/uploads/2008/01/applications.png "applications.png"
- [15]: https://sathyasays.com/wp-content/uploads/2008/01/devices.thumbnail.png
- [16]: https://sathyasays.com/wp-content/uploads/2008/01/devices.png "devices.png"
- [17]: https://sathyasays.com/wp-content/uploads/2008/01/filesystems.thumbnail.png
- [18]: https://sathyasays.com/wp-content/uploads/2008/01/filesystems.png "filesystems.png"
- [19]: https://sathyasays.com/wp-content/uploads/2008/01/mimetypes.thumbnail.png
- [20]: https://sathyasays.com/wp-content/uploads/2008/01/mimetypes.png "mimetypes.png"
+ [1]: http://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.thumbnail.jpg
+ [2]: http://sathyasays.com/wp-content/uploads/2008/01/kde-desktop.jpg "kde-desktop.jpg"
+ [3]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets.thumbnail.jpg
+ [4]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets.jpg "add_widgets.jpg"
+ [5]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.thumbnail.jpg
+ [6]: http://sathyasays.com/wp-content/uploads/2008/01/add_widgets1.jpg "add_widgets1.jpg"
+ [7]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4.thumbnail.jpg
+ [8]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4.jpg "kde_4.jpg"
+ [9]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.thumbnail.jpg
+ [10]: http://sathyasays.com/wp-content/uploads/2008/01/kde_4-rc2.jpg "kde_4-rc2.jpg"
+ [11]: http://sathyasays.com/wp-content/uploads/2008/01/actions.thumbnail.png
+ [12]: http://sathyasays.com/wp-content/uploads/2008/01/actions.png "actions.png"
+ [13]: http://sathyasays.com/wp-content/uploads/2008/01/applications.thumbnail.png
+ [14]: http://sathyasays.com/wp-content/uploads/2008/01/applications.png "applications.png"
+ [15]: http://sathyasays.com/wp-content/uploads/2008/01/devices.thumbnail.png
+ [16]: http://sathyasays.com/wp-content/uploads/2008/01/devices.png "devices.png"
+ [17]: http://sathyasays.com/wp-content/uploads/2008/01/filesystems.thumbnail.png
+ [18]: http://sathyasays.com/wp-content/uploads/2008/01/filesystems.png "filesystems.png"
+ [19]: http://sathyasays.com/wp-content/uploads/2008/01/mimetypes.thumbnail.png
+ [20]: http://sathyasays.com/wp-content/uploads/2008/01/mimetypes.png "mimetypes.png"

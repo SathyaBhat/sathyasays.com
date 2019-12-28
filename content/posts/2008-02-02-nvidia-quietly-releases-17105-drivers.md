@@ -37,6 +37,6 @@ You can try out this driver by heading on over to the <a href="ftp://download.nv
 
 Source: [Phoronix][1]
 
-Technorati Tags: <a href="https://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="https://technorati.com/tag/NVIDIA" class="performancingtags" rel="tag">NVIDIA</a>, <a href="https://technorati.com/tag/Drivers" class="performancingtags" rel="tag">Drivers</a>
+Technorati Tags: <a href="http://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="http://technorati.com/tag/NVIDIA" class="performancingtags" rel="tag">NVIDIA</a>, <a href="http://technorati.com/tag/Drivers" class="performancingtags" rel="tag">Drivers</a>
 
- [1]: https://www.phoronix.com/scan.php?page=article&item=987&num=1
+ [1]: http://www.phoronix.com/scan.php?page=article&item=987&num=1

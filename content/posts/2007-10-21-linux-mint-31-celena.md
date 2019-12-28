@@ -79,7 +79,7 @@ tags:
 ---
 This is Linux Mint 3.1, codename Celena, based on Cassandra and compatible with Ubuntu Feisty and its repositories.
 
-<img src="https://linuxmint.com/pictures/screenshots/celena/012.png" style="width: 200px; height: 150px" />
+<img src="http://linuxmint.com/pictures/screenshots/celena/012.png" style="width: 200px; height: 150px" />
 
 Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
   
@@ -94,7 +94,7 @@ Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
 </p>
 
 <p style="text-align: left">
-  <img src="https://linuxmint.com/pictures/screenshots/celena/004.png" style="width: 501px; height: 260px" />
+  <img src="http://linuxmint.com/pictures/screenshots/celena/004.png" style="width: 501px; height: 260px" />
 </p>
 
 <p style="text-align: left">
@@ -103,7 +103,7 @@ Celena is using Cassandra&#8217;s base (kernel 2.6.20-15, Gnome 2.18).
 
 <span style="font-weight: bold">2. mintUpload</span>
 
-<img src="https://linuxmint.com/pictures/screenshots/celena/013.png" style="width: 265px; height: 375px" /><img src="https://linuxmint.com/pictures/screenshots/celena/014.png" style="width: 423px; height: 274px" />
+<img src="http://linuxmint.com/pictures/screenshots/celena/013.png" style="width: 265px; height: 375px" /><img src="http://linuxmint.com/pictures/screenshots/celena/014.png" style="width: 423px; height: 274px" />
 
 MintUpload allows the user to upload any file smaller than 10MB on the Internet. The user doesn&#8217;t have to worry about getting an FTP client or finding Web-space to store his files. It&#8217;s never been easier to share files with friends. MintUpload is also compatible with the mint-space service which allows files to be as big as 1GB. <span style="font-weight: bold"></span>
 
@@ -127,7 +127,7 @@ Whether it&#8217;s an email in Thunderbird, a Web page in Firefox or even a text
 
 The Update Manager and Update Notifier were removed from Celena so users would not perform un-educated upgrades. With more than 2 releases a year and many modules affected by upgrades, stability was preferred to security in Celena. No more pop-ups telling you a new version of Ubuntu became available, no more pop-ups telling you to download the latest kernel&#8230; your system is stable, tested and it should stay that way.
 
-For more information about this read the following blog entry: <https://www.linuxmint.com/blog/?p=54>
+For more information about this read the following blog entry: <http://www.linuxmint.com/blog/?p=54>
 
 <span style="font-weight: bold">6. Improved Performance</span>
 
@@ -158,10 +158,10 @@ Beagle is gone. A recent survey showed that a vast majority of Linux Mint users 
 
 Source: [LinuxMint Website][7]
 
- [1]: https://sathyasays.com/wp-content/uploads/2007/10/artwork1.png
- [2]: https://sathyasays.com/wp-content/uploads/2007/10/artwork1.png "artwork1.png"
- [3]: https://sathyasays.com/wp-content/uploads/2007/10/artwork2.png
- [4]: https://sathyasays.com/wp-content/uploads/2007/10/artwork2.png "artwork2.png"
- [5]: https://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png
- [6]: https://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png "print-to-pdf.png"
- [7]: https://linuxmint.com/celena.html
+ [1]: http://sathyasays.com/wp-content/uploads/2007/10/artwork1.png
+ [2]: http://sathyasays.com/wp-content/uploads/2007/10/artwork1.png "artwork1.png"
+ [3]: http://sathyasays.com/wp-content/uploads/2007/10/artwork2.png
+ [4]: http://sathyasays.com/wp-content/uploads/2007/10/artwork2.png "artwork2.png"
+ [5]: http://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png
+ [6]: http://sathyasays.com/wp-content/uploads/2007/10/print-to-pdf.png "print-to-pdf.png"
+ [7]: http://linuxmint.com/celena.html

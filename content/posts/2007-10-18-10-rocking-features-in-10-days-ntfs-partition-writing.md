@@ -45,5 +45,5 @@ Now, having said that, have some care when you are deleting stuff. You can easil
 
 See you tomorrow, for one last edition of 10 Rocking Features in 10 Days!
 
- [1]: https://fridge.ubuntu.com/node/1178
- [2]: https://fridge.ubuntu.com/files/images/ntfs-writing.preview.png
+ [1]: http://fridge.ubuntu.com/node/1178
+ [2]: http://fridge.ubuntu.com/files/images/ntfs-writing.preview.png

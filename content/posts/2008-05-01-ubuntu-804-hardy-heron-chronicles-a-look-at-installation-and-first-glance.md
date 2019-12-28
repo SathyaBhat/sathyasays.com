@@ -86,9 +86,9 @@ Read on to find out more!
 
 ### System Specifications
 
-I used my beloved <a href="https://sathyasays.com/2007/12/02/dell-inspiron-1520-review/" target="_blank">Dell Inspiron 1520</a>(Intel Core2Duo T5250 @ 1.5 Ghz, 2 GB DDR2 667 RAM, nVidia 8600m GT, Intel 3945 Pro/Wireless) for testing out the Hardy Heron.
+I used my beloved <a href="http://sathyasays.com/2007/12/02/dell-inspiron-1520-review/" target="_blank">Dell Inspiron 1520</a>(Intel Core2Duo T5250 @ 1.5 Ghz, 2 GB DDR2 667 RAM, nVidia 8600m GT, Intel 3945 Pro/Wireless) for testing out the Hardy Heron.
 
-I had a pretty bad time with Gutsy &#8211; <a href="https://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/" target="_blank">no sound</a> despite the sound card being detected, LCD brightness varying as if its possessed etc &#8211; these resulted with me removing Gutsy and going back to openSUSE 10.3.
+I had a pretty bad time with Gutsy &#8211; <a href="http://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/" target="_blank">no sound</a> despite the sound card being detected, LCD brightness varying as if its possessed etc &#8211; these resulted with me removing Gutsy and going back to openSUSE 10.3.
 
 Also, generally I&#8217;ve always tested the 32-bit versions of most distros. This time I decided to break the tradition and go with the 64-bit version.
 
@@ -103,7 +103,7 @@ Since I&#8217;m pretty confident with the traditional installer, I thought I&#82
 The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; Demo and Full Installation(ie, boot into the LiveCD), Install within Windows(i.e., using Wubi) and Learn more.
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2456149305/"><img src="https://farm3.static.flickr.com/2260/2456149305_4a85167043_m.jpg" alt="" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2456149305/"><img src="http://farm3.static.flickr.com/2260/2456149305_4a85167043_m.jpg" alt="" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -111,7 +111,7 @@ The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; 
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2457062430/"><img src="https://farm4.static.flickr.com/3024/2457062430_bc55b333d0_m.jpg" alt="" /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2457062430/"><img src="http://farm4.static.flickr.com/3024/2457062430_bc55b333d0_m.jpg" alt="" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -131,7 +131,7 @@ The moment you pop in the CD, the Autorun window pops up with 3 choices &#8211; 
 One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow, Feisty was ok, but Hardy IS very fast. In fact, it makes Windows XP&#8217;s Bootup after fresh install(which is the fastest) seem slow! Hardy was due to get a theme overall, but it was omitted out, so you&#8217;re stuck with the same dull Human/brown theme with a striking new wallpaper
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2455951321/"><img src="https://farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg" alt=""   /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2363/2456776456_ff1ccdf5f5_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -143,7 +143,7 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2455945925/"><img src="https://farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg" alt=""   /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455945925/"><img src="http://farm3.static.flickr.com/2286/2455945925_bdc3c7fe07_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -155,11 +155,11 @@ One thing that struck me was Hardy is Very fast at bootup. Gutsy for me was slow
 </p>
 
 <p style="text-align: left;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2456888870/"><img src="https://farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg" alt="" /></a> <a href="https://www.flickr.com/photos/sathyabhat/2455950591/"><img src="https://farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg" alt=""   /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2456888870/"><img src="http://farm4.static.flickr.com/3228/2456888870_a27991263e_m.jpg" alt="" /></a> <a href="http://www.flickr.com/photos/sathyabhat/2455950591/"><img src="http://farm4.static.flickr.com/3194/2455950591_a46489e0ac_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.flickr.com/photos/sathyabhat/2455951321/"><img src="https://farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg" alt=""   /></a>
+  <a href="http://www.flickr.com/photos/sathyabhat/2455951321/"><img src="http://farm3.static.flickr.com/2415/2455951321_5ac4ea37d4_m.jpg" alt=""   /></a>
 </p>
 
 <p style="text-align: left;">

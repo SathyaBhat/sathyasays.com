@@ -50,9 +50,9 @@ Found this really easy tutorial on setting up a LAMP server at [UbuntuGeek][1]. 
 
 <!--more-->
 
-First you need to download server version of Ubuntu version from <a target="_blank" href="https://www.ubuntu.com/getubuntu/download">here</a> after that you create a CD and start booting with the CD Once it starts booting you should see the following screen in this you need to select second option “Install to the Hard disk Option” and press enter.
+First you need to download server version of Ubuntu version from <a target="_blank" href="http://www.ubuntu.com/getubuntu/download">here</a> after that you create a CD and start booting with the CD Once it starts booting you should see the following screen in this you need to select second option “Install to the Hard disk Option” and press enter.
 
 Continue reading at [UbuntuGeek][2]
 
- [1]: https://www.ubuntugeek.com
- [2]: https://www.ubuntugeek.com/ubuntu-710-gutsy-gibbon-lamp-server-setup.html
+ [1]: http://www.ubuntugeek.com
+ [2]: http://www.ubuntugeek.com/ubuntu-710-gutsy-gibbon-lamp-server-setup.html

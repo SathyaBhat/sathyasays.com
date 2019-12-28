@@ -38,6 +38,6 @@ For a detailed read on Firefox 3&#8217;s new features you can a look at my Glimp
 
 Don&#8217;t forget to **[pledge][3]** for Firefox 3 download!
 
- [1]: https://sathyasays.com/2007/12/23/mozilla-firefox-3-beta-2-impressions/
- [2]: https://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/
- [3]: https://sathyasays.com/2008/05/29/firefox-3-download-day-pledge-and-set-a-new-guiness-world-record/
+ [1]: http://sathyasays.com/2007/12/23/mozilla-firefox-3-beta-2-impressions/
+ [2]: http://sathyasays.com/2008/02/14/mozilla-firefox-3-beta-3-impressions/
+ [3]: http://sathyasays.com/2008/05/29/firefox-3-download-day-pledge-and-set-a-new-guiness-world-record/

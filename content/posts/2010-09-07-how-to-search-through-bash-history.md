@@ -5,7 +5,7 @@ type: post
 date: 2010-09-07T00:16:14+00:00
 url: /2010/09/07/how-to-search-through-bash-history/
 topsy_short_url:
-  - https://bit.ly/aCfruU
+  - http://bit.ly/aCfruU
 categories:
   - "Tips &amp; How-To's"
 tags:

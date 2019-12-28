@@ -59,8 +59,8 @@ Right now a GNOME-only interface is avialable, and here are the Links
   
   <blockquote>
     <p>
-      <code>deb https://www.getdropbox.com/static/ubuntu hardy main&lt;br />
-deb-src https://www.getdropbox.com/static/ubuntu hardy main</code>
+      <code>deb http://www.getdropbox.com/static/ubuntu hardy main&lt;br />
+deb-src http://www.getdropbox.com/static/ubuntu hardy main</code>
     </p>
   </blockquote>
   
@@ -83,8 +83,8 @@ deb-src https://www.getdropbox.com/static/ubuntu hardy main</code>
   </p>
 </div>
 
- [1]: https://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0-1.fc9.x86_64.rpm
- [2]: https://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0-1.fc9.i386.rpm
- [3]: https://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox_0.4.0-1_amd64.deb
- [4]: https://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox_0.4.0-1_i386.deb
- [5]: https://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0.tar.bz2
+ [1]: http://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0-1.fc9.x86_64.rpm
+ [2]: http://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0-1.fc9.i386.rpm
+ [3]: http://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox_0.4.0-1_amd64.deb
+ [4]: http://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox_0.4.0-1_i386.deb
+ [5]: http://dl.getdropbox.com/u/5143/dblinux/nautilus-dropbox-0.4.0.tar.bz2

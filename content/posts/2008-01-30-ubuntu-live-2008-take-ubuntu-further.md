@@ -37,11 +37,11 @@ The two day event will allow participants to share their Ubuntu experiences, lea
 
 The Ubuntu Live program committee is now accepting proposals to lead sessions, panel discussions, and demos at the 2008 edition of Ubuntu Live. How are you taking Ubuntu further? Are you a guru using Ubuntu in unexpected ways? An entrepreneur launching a business with Ubuntu? An educator or researcher helping an underserved community thrive with Edubuntu? Are you a programmer, trainer, or system administrator with techniques or best practices to share? If so, [submit a proposal][1] to speak **by February 4, 2008**.
 
-Co-presented by O&#8217;Reilly Media and <a href="https://www.canonical.com/" target="_blank" title="Opens link in a new browser window.">Canonical</a>, Ltd., the commercial sponsor of Ubuntu, Ubuntu Live is conveniently co-located with the O&#8217;Reilly Open Source Convention (OSCON) event, thus making Portland, Oregon the place to be during the week of July 21.
+Co-presented by O&#8217;Reilly Media and <a href="http://www.canonical.com/" target="_blank" title="Opens link in a new browser window.">Canonical</a>, Ltd., the commercial sponsor of Ubuntu, Ubuntu Live is conveniently co-located with the O&#8217;Reilly Open Source Convention (OSCON) event, thus making Portland, Oregon the place to be during the week of July 21.
 
 Wish there would be something similar here. It&#8217;s be great the Linux movement and for OSS in general. Event managers, are you listening?
 
 For those planning to go for the Convention, [here][2]&#8216;s more details
 
- [1]: https://en.oreilly.com/ubuntu2008/public/cfp/12
- [2]: https://en.oreilly.com/ubuntu2008/public/content/home
+ [1]: http://en.oreilly.com/ubuntu2008/public/cfp/12
+ [2]: http://en.oreilly.com/ubuntu2008/public/content/home

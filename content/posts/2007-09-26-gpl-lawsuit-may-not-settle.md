@@ -47,8 +47,8 @@ In the past, both the Free Software Foundation and the SFLC, the two main defend
 
 Source: [Linux.com][5]
 
- [1]: https://sathyasays.com/2007/09/25/first-us-gpl-lawsuit-heads-for-quick-settlement/
- [2]: https://www.monsoonmultimedia.com/
- [3]: https://www.busybox.net/
- [4]: https://www.softwarefreedom.org/
- [5]: https://www.linux.com/feature/119439
+ [1]: http://sathyasays.com/2007/09/25/first-us-gpl-lawsuit-heads-for-quick-settlement/
+ [2]: http://www.monsoonmultimedia.com/
+ [3]: http://www.busybox.net/
+ [4]: http://www.softwarefreedom.org/
+ [5]: http://www.linux.com/feature/119439

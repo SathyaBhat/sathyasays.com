@@ -66,7 +66,7 @@ tags:
   - YaST
 
 ---
-<font size="2">The Sony PLAYSTATION 3 (PS3) is based on a 3.2GHz <a href="https://www.wikipedia.org/wiki/Cell_Microprocessor" class="extiw" title="wikipedia:Cell Microprocessor">Cell Microprocessor</a>, with 256MByte GDDR-VRAM. The processor is <a href="https://en.opensuse.org/POWER%40SUSE" title="POWER@SUSE">PowerPC</a> compatible. The alliance of (IBM/Sony/Toshiba) who created the Cell processor have been active creating Linux kernel patches for the processor since Linux Kernel 2.6.13. Sony has created kernel patches specific for the PS3 in Linux Kernel 2.6.22, as well as maintaining the GNU toolchain (gcc, binutils etc).</font>
+<font size="2">The Sony PLAYSTATION 3 (PS3) is based on a 3.2GHz <a href="http://www.wikipedia.org/wiki/Cell_Microprocessor" class="extiw" title="wikipedia:Cell Microprocessor">Cell Microprocessor</a>, with 256MByte GDDR-VRAM. The processor is <a href="http://en.opensuse.org/POWER%40SUSE" title="POWER@SUSE">PowerPC</a> compatible. The alliance of (IBM/Sony/Toshiba) who created the Cell processor have been active creating Linux kernel patches for the processor since Linux Kernel 2.6.13. Sony has created kernel patches specific for the PS3 in Linux Kernel 2.6.22, as well as maintaining the GNU toolchain (gcc, binutils etc).</font>
 
 ## <font size="2">Hardware Requirements</font>
 
@@ -112,10 +112,10 @@ tags:
     <font size="2"></p> 
     
     <li>
-      <a href="https://download.opensuse.org/" class="external text" title="https://download.opensuse.org/" rel="nofollow">openSUSE 10.3 for PPC</a>
+      <a href="http://download.opensuse.org/" class="external text" title="http://download.opensuse.org/" rel="nofollow">openSUSE 10.3 for PPC</a>
     </li>
     <li>
-      <a href="https://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" class="external text" title="https://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" rel="nofollow">Other OS Boot loader</a> available on installation media aswell
+      <a href="http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" class="external text" title="http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" rel="nofollow">Other OS Boot loader</a> available on installation media aswell
     </li>
     <p>
       </font></ul> 
@@ -165,7 +165,7 @@ tags:
 </font><font size="2">|-otheros</font></pre>
           
           <p>
-            <font size="2">It is possible to download the Boot loader here <a href="https://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" class="external text" title="https://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" rel="nofollow">otheros.bld</a></font>
+            <font size="2">It is possible to download the Boot loader here <a href="http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" class="external text" title="http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/PS3/otheros/otheros.bld" rel="nofollow">otheros.bld</a></font>
           </p>
           
           <p>
@@ -455,7 +455,7 @@ tags:
                                             <font size="2"></p> 
                                             
                                             <li>
-                                              <a href="https://www.kernel.org/pub/linux/kernel/people/geoff/cell" class="external text" title="https://www.kernel.org/pub/linux/kernel/people/geoff/cell" rel="nofollow">PS3 Linux Distributor&#8217;s Starter Kit</a>
+                                              <a href="http://www.kernel.org/pub/linux/kernel/people/geoff/cell" class="external text" title="http://www.kernel.org/pub/linux/kernel/people/geoff/cell" rel="nofollow">PS3 Linux Distributor&#8217;s Starter Kit</a>
                                             </li>
                                             <p>
                                               </font></ul> 
@@ -476,14 +476,14 @@ tags:
                                                 <font size="2"></p> 
                                                 
                                                 <li>
-                                                  <a href="https://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144" class="external text" title="https://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144" rel="nofollow">Fedora 5 on PS3</a>
+                                                  <a href="http://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144" class="external text" title="http://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144" rel="nofollow">Fedora 5 on PS3</a>
                                                 </li>
                                                 <li>
-                                                  <a href="https://ubuntuforums.org/showthread.php?t=316047" class="external text" title="https://ubuntuforums.org/showthread.php?t=316047" rel="nofollow">Ubuntu on PS3</a> &#8211; Installs Ubuntu by using basic Fedora installation
+                                                  <a href="http://ubuntuforums.org/showthread.php?t=316047" class="external text" title="http://ubuntuforums.org/showthread.php?t=316047" rel="nofollow">Ubuntu on PS3</a> &#8211; Installs Ubuntu by using basic Fedora installation
                                                 </li>
                                                 <p>
                                                   </font></ul> 
                                                   
                                                   <p>
-                                                    Source: <a href="https://en.opensuse.org/PS3">openSuSE</a>
+                                                    Source: <a href="http://en.opensuse.org/PS3">openSuSE</a>
                                                   </p>

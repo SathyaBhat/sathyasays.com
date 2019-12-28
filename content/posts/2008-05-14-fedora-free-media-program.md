@@ -32,7 +32,7 @@ In addition to ordering the media from **[here][2]** you can also join and parti
 
 They also accept **[donations][4]** via PayPal, so if you can afford it, do your bit!
 
- [1]: https://fedoraproject.org
- [2]: https://fedoraproject.org/wiki/Distribution/FreeMedia
- [3]: https://fedoraproject.org/wiki/Distribution/FreeMedia/Join
- [4]: https://fedoraproject.org/wiki/Distribution/FreeMedia/Donation
+ [1]: http://fedoraproject.org
+ [2]: http://fedoraproject.org/wiki/Distribution/FreeMedia
+ [3]: http://fedoraproject.org/wiki/Distribution/FreeMedia/Join
+ [4]: http://fedoraproject.org/wiki/Distribution/FreeMedia/Donation

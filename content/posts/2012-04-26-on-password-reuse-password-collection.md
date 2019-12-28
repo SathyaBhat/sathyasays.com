@@ -5,7 +5,7 @@ type: post
 date: 2012-04-26T08:45:20+00:00
 url: /2012/04/26/on-password-reuse-password-collection/
 topsy_short_url:
-  - https://u.sbhat.me/Idqdp4
+  - http://u.sbhat.me/Idqdp4
 categories:
   - Security
 tags:
@@ -20,8 +20,8 @@ tags:
 > 
 > via [How I Collect Passwords « Xato][1].
 
-I&#8217;ve mentioned previous why it&#8217;s a bad idea to re use passwords. And it&#8217;s come to <a href="https://techie-buzz.com/gmail/how-playstation-network-attack-password-reuse-and-unmonitored-account-resulted-in-mass-phishing.html" target="_blank">bite me long after getting</a> rid of the habit.
+I&#8217;ve mentioned previous why it&#8217;s a bad idea to re use passwords. And it&#8217;s come to <a href="http://techie-buzz.com/gmail/how-playstation-network-attack-password-reuse-and-unmonitored-account-resulted-in-mass-phishing.html" target="_blank">bite me long after getting</a> rid of the habit.
 
-I recommend <a href="https://lastpass.com/" target="_blank">LastPass</a>. Even better, <a href="https://lastpass.com/features_joinpremium.php" target="_blank">LastPass Premium</a>. It&#8217;s worth the cost and even more so. And don&#8217;t forget to enable <a href="https://www.codinghorror.com/blog/2012/04/make-your-email-hacker-proof.html" target="_blank">2-factor auth on your Google Account</a>.
+I recommend <a href="http://lastpass.com/" target="_blank">LastPass</a>. Even better, <a href="https://lastpass.com/features_joinpremium.php" target="_blank">LastPass Premium</a>. It&#8217;s worth the cost and even more so. And don&#8217;t forget to enable <a href="http://www.codinghorror.com/blog/2012/04/make-your-email-hacker-proof.html" target="_blank">2-factor auth on your Google Account</a>.
 
- [1]: https://xato.net/passwords/how-i-collect-passwords
+ [1]: http://xato.net/passwords/how-i-collect-passwords

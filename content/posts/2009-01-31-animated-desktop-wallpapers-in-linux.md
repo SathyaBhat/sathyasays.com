@@ -64,7 +64,7 @@ To use the GLMatrix screensaver use:
 
 > `xwinwrap -ov -fs -- /usr/lib/xscreensaver/glmatrix -root -window-id WID`
 
-<img class="alignnone" src="https://tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg" alt=""   />
+<img class="alignnone" src="http://tombuntu.com/wp-content/uploads/2008/12/xwinwrap1.jpg" alt=""   />
 
 To use a video as wallpaper using MPlayer:
 
@@ -78,7 +78,7 @@ The animated wallpaper appears at the top of the desktop though. So the desktop 
 
 And here&#8217;s my own Desktop :P
 
-[<img class="alignnone" src="https://img300.imageshack.us/img300/5684/screenshotrz2.png" alt=""   />][10]
+[<img class="alignnone" src="http://img300.imageshack.us/img300/5684/screenshotrz2.png" alt=""   />][10]
 
 I like this idea and I hope you will too. ENJOY!!!!
 
@@ -86,14 +86,14 @@ I like this idea and I hope you will too. ENJOY!!!!
 
 [this post][11] and pic.</p>
 
- [1]: https://stardock.com/
- [2]: https://wincustomize.com
- [3]: https://gnome-look.org
- [4]: https://kde-look.org
- [5]: https://xfce-look.org
- [6]: https://swik.net/xwinwrap
- [7]: https://tech.shantanugoel.com/resources/downloads/shantz-xwinwrap.zip
- [8]: https://webcvs.freedesktop.org/xapps/xwinwrap/
- [9]: https://en.opensuse.org/Xwinwrap
- [10]: https://img300.imageshack.us/img300/5684/screenshotrz2.png
- [11]: https://tombuntu.com/index.php/2008/12/15/animated-wallpaper-on-your-ubuntu-810-desktop/
+ [1]: http://stardock.com/
+ [2]: http://wincustomize.com
+ [3]: http://gnome-look.org
+ [4]: http://kde-look.org
+ [5]: http://xfce-look.org
+ [6]: http://swik.net/xwinwrap
+ [7]: http://tech.shantanugoel.com/resources/downloads/shantz-xwinwrap.zip
+ [8]: http://webcvs.freedesktop.org/xapps/xwinwrap/
+ [9]: http://en.opensuse.org/Xwinwrap
+ [10]: http://img300.imageshack.us/img300/5684/screenshotrz2.png
+ [11]: http://tombuntu.com/index.php/2008/12/15/animated-wallpaper-on-your-ubuntu-810-desktop/

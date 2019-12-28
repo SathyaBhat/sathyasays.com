@@ -5,7 +5,7 @@ type: post
 date: 2011-05-19T03:46:05+00:00
 url: /2011/05/19/mac-needs-no-antivirus/
 topsy_short_url:
-  - https://u.sbhat.me/jU30tJ
+  - http://u.sbhat.me/jU30tJ
 categories:
   - Security
 tags:
@@ -23,6 +23,6 @@ tags:
 
 via [An AppleCare support rep talks: Mac malware is &#8220;getting worse&#8221; | ZDNet][1].
 
-(If you&#8217;re wondering what Mac Defender is &#8211;> <a title="no, MacDefender is not the best AntiVirus" href="https://arstechnica.com/apple/news/2011/05/fake-mac-defender-antivirus-app-scams-users-for-money-cc-numbers.ars" target="_blank">take a look</a>.)
+(If you&#8217;re wondering what Mac Defender is &#8211;> <a title="no, MacDefender is not the best AntiVirus" href="http://arstechnica.com/apple/news/2011/05/fake-mac-defender-antivirus-app-scams-users-for-money-cc-numbers.ars" target="_blank">take a look</a>.)
 
- [1]: https://www.zdnet.com/blog/bott/an-applecare-support-rep-talks-mac-malware-is-getting-worse/3342?pg=1
+ [1]: http://www.zdnet.com/blog/bott/an-applecare-support-rep-talks-mac-malware-is-getting-worse/3342?pg=1

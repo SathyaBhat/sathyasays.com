@@ -66,5 +66,5 @@ tags:
 </p>
 
 <p>
-  Get it from <a href="https://www.qt-apps.org/content/show.php/QGRUBEditor?content=60391">QT Apps </a> </font>
+  Get it from <a href="http://www.qt-apps.org/content/show.php/QGRUBEditor?content=60391">QT Apps </a> </font>
 </p>

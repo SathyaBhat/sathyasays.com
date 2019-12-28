@@ -48,5 +48,5 @@ Among other concepts this is being accomplished by loading the map piece by piec
 
 Continue reading at [torsten rahn&#8217;s blog][2]
 
- [1]: https://www.kde.org/info/4.0.1.php
- [2]: https://www.kdedevelopers.org/blog/551
+ [1]: http://www.kde.org/info/4.0.1.php
+ [2]: http://www.kdedevelopers.org/blog/551

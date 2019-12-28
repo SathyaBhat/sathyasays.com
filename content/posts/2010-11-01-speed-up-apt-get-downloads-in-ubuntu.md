@@ -5,7 +5,7 @@ type: post
 date: 2010-11-01T12:41:49+00:00
 url: /2010/11/01/speed-up-apt-get-downloads-in-ubuntu/
 topsy_short_url:
-  - https://u.sbhat.me/9psTkf
+  - http://u.sbhat.me/9psTkf
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -33,4 +33,4 @@ tags:
 
 via [Speed Up Program Installs / Upgrades in Ubuntu][1].
 
- [1]: https://techie-buzz.com/foss/speed-up-program-installs-upgrades-in-ubuntu.html
+ [1]: http://techie-buzz.com/foss/speed-up-program-installs-upgrades-in-ubuntu.html

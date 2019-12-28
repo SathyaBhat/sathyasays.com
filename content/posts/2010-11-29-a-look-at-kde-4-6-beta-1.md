@@ -5,7 +5,7 @@ type: post
 date: 2010-11-28T21:29:47+00:00
 url: /2010/11/29/a-look-at-kde-4-6-beta-1/
 topsy_short_url:
-  - https://u.sbhat.me/gaqPdN
+  - http://u.sbhat.me/gaqPdN
 categories:
   - Previews
 tags:
@@ -51,4 +51,4 @@ Note to self: Try the beta. Faceted browsing seems to be very nice.
 
 via [KDE 4.6 Beta 1 – a first look | everyday linux how2s][1].
 
- [1]: https://everydaylht.com/2010/11/26/kde-4-6-beta-1-a-first-look/
+ [1]: http://everydaylht.com/2010/11/26/kde-4-6-beta-1-a-first-look/

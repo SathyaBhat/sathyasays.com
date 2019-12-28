@@ -28,7 +28,7 @@ tags:
   - xp
 
 ---
-<font size="2">In an interview with KDE spokesman Sebastian Kugler, <a href="https://www.computerworld.com.au/index.php/id;1596080362;pp;2">Computerworld</a> reports that KOffice 2.0 will be leaner, faster, and enjoy a cleaner code base than OpenOffice. KUgler emphasizes this part saying &#8220;One often hears that OpenOffice&#8217;s codebase is quite complex and rather large. While KOffice is lacking some functionality compared to OpenOffice, it&#8217;s certainly catching up &#8211; and eating less valuable developer time in the process.&#8221;</p> 
+<font size="2">In an interview with KDE spokesman Sebastian Kugler, <a href="http://www.computerworld.com.au/index.php/id;1596080362;pp;2">Computerworld</a> reports that KOffice 2.0 will be leaner, faster, and enjoy a cleaner code base than OpenOffice. KUgler emphasizes this part saying &#8220;One often hears that OpenOffice&#8217;s codebase is quite complex and rather large. While KOffice is lacking some functionality compared to OpenOffice, it&#8217;s certainly catching up &#8211; and eating less valuable developer time in the process.&#8221;</p> 
 
 <p class="storybody">
   The KDE project pitches KOffice as &#8220;the most comprehensive office suite&#8221;, as it consists of 11 applications &#8211; from the standard word processor and spreadsheet to the Krita image manipulation tool and Kivio flowcharting application. KOffice even has its own database creator and alternative to Microsoft Access, dubbed Kexi.
@@ -47,5 +47,5 @@ tags:
 </p>
 
 <p>
-  More details and the interview at <a href="https://www.computerworld.com.au/index.php/id;1596080362;pp;1">Computerworld </a></font>
+  More details and the interview at <a href="http://www.computerworld.com.au/index.php/id;1596080362;pp;1">Computerworld </a></font>
 </p>

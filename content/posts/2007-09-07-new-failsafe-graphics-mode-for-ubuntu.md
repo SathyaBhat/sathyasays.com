@@ -25,5 +25,5 @@ Ubuntu a 7.10 (Gutsy) build will feature Xorg BulletProof-X feature, which provi
 
 More details on [BulletProofX ][2]
 
- [1]: https://people.ubuntu.com/%7Ebryce/BulletProofX/
- [2]: https://people.ubuntu.com/~bryce/BulletProofX/
+ [1]: http://people.ubuntu.com/%7Ebryce/BulletProofX/
+ [2]: http://people.ubuntu.com/~bryce/BulletProofX/

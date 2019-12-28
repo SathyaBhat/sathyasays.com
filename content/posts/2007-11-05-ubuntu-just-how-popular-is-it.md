@@ -39,6 +39,6 @@ and of course using the 2 big daddies, [Google Trends][1] and [Digg][2]
 
 [Continue Reading][3]
 
- [1]: https://www.google.com/trends
- [2]: https://www.digg.com
- [3]: https://www.starryhope.com/linux/ubuntu/2007/ubuntu-just-how-popular-is-it/
+ [1]: http://www.google.com/trends
+ [2]: http://www.digg.com
+ [3]: http://www.starryhope.com/linux/ubuntu/2007/ubuntu-just-how-popular-is-it/

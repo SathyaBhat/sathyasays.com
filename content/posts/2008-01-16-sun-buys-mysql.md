@@ -72,5 +72,5 @@ Kaj Arno:
 
 >
 
- [1]: https://money.cnn.com/2008/01/10/markets/ipo/copeland_ipowatch.fortune/index.htm
- [2]: https://blogs.mysql.com/kaj/2008/01/16/sun-acquires-mysql/
+ [1]: http://money.cnn.com/2008/01/10/markets/ipo/copeland_ipowatch.fortune/index.htm
+ [2]: http://blogs.mysql.com/kaj/2008/01/16/sun-acquires-mysql/

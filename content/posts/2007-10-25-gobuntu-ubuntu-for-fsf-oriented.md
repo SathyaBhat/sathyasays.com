@@ -41,7 +41,7 @@ tags:
 
 ## 
 
-Gobuntu is a GNU/Linux operating system, derived from Ubuntu, that endeavors to adhere to the Free Software Foundations four freedoms and intends to <img align="right"  src="https://www.ubuntu.com/files/u1/gobuntu-med.jpg" alt="gobuntu"  />provide a base for other free software platforms to build upon with minimal modification required. It does this by only including open-source non-restricted software. This means there will be no firmware, drivers, applications, or content included in Gobuntu that does not include the full source or whose license does not provide the right to use, study, modify, and redistribute the body of work.
+Gobuntu is a GNU/Linux operating system, derived from Ubuntu, that endeavors to adhere to the Free Software Foundations four freedoms and intends to <img align="right"  src="http://www.ubuntu.com/files/u1/gobuntu-med.jpg" alt="gobuntu"  />provide a base for other free software platforms to build upon with minimal modification required. It does this by only including open-source non-restricted software. This means there will be no firmware, drivers, applications, or content included in Gobuntu that does not include the full source or whose license does not provide the right to use, study, modify, and redistribute the body of work.
 
 Gobuntu shares the same system requirements as Ubuntu. At present, this means Gobuntu is available for 32-bit and 64-Bit PC architectures and the install requires at least 4 GB of disk space.
 
@@ -59,7 +59,7 @@ Gobuntu has its own [area on the Ubuntu wiki][2], a collaborative environment wh
 
  From : [Ubuntu.com][4]
 
- [1]: https://cdimage.ubuntu.com/gobuntu/releases/7.10/release/
- [2]: https://wiki.ubuntu.com/Gobuntu
+ [1]: http://cdimage.ubuntu.com/gobuntu/releases/7.10/release/
+ [2]: http://wiki.ubuntu.com/Gobuntu
  [3]: https://lists.ubuntu.com/mailman/listinfo/gobuntu-devel
- [4]: https://www.ubuntu.com/products/whatisubuntu/gobuntu
+ [4]: http://www.ubuntu.com/products/whatisubuntu/gobuntu

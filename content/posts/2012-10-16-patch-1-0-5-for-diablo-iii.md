@@ -26,4 +26,4 @@ It&#8217;ll take some time before I can even think of Infernal machine &#8211; c
 
 Monster Power, on the other hand &#8211; gotta check it out. Looks fairly balanced, only after trying it out can say how it feels like.
 
- [1]: https://techie-buzz.com/tech-news/diablo-iii-1-0-5-patch.html
+ [1]: http://techie-buzz.com/tech-news/diablo-iii-1-0-5-patch.html

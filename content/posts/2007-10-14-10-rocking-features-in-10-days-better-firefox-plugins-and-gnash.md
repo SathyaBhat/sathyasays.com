@@ -64,7 +64,7 @@ So if you want to try out Gnash, just select when you click to install the Flash
 
 Anyway, that is all for today. Come back tomorrow when we cram two sessions into one and talk about better drivers, including restricted drivers and printers. Until then!
 
- [1]: https://fridge.ubuntu.com/node/1169
- [2]: https://fridge.ubuntu.com/files/images/Screenshot-Add-ons.png
- [3]: https://fridge.ubuntu.com/files/images/Screenshot-Install-Remove%20Extensions.preview.png
- [4]: https://fridge.ubuntu.com/files/images/Screenshot-Plugin%20Finder%20Service.preview.png
+ [1]: http://fridge.ubuntu.com/node/1169
+ [2]: http://fridge.ubuntu.com/files/images/Screenshot-Add-ons.png
+ [3]: http://fridge.ubuntu.com/files/images/Screenshot-Install-Remove%20Extensions.preview.png
+ [4]: http://fridge.ubuntu.com/files/images/Screenshot-Plugin%20Finder%20Service.preview.png

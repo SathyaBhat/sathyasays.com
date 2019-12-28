@@ -47,7 +47,7 @@ The company also plans to introduce other mobile devices like ultramobile PCs, s
 
 The notebooks will be introduced in the first half of next year, Kim said. The company provided no additional details, other than saying the mobile devices will be competitively priced.
 
-The energy-efficient $198 Linux desktop from Everex, TC2502 Green gPC, <a href="https://blogs.pcworld.com/staffblog/archives/005830.html" target="_blank">was introduced</a> in [Wal-Mart][7] retail stores Wednesday. It runs on a 1.5GHz Via C7-D processor and comes with 512M bytes of RAM, an 80G byte hard drive, a DVD player and an Ethernet port. It does not include a monitor.
+The energy-efficient $198 Linux desktop from Everex, TC2502 Green gPC, <a href="http://blogs.pcworld.com/staffblog/archives/005830.html" target="_blank">was introduced</a> in [Wal-Mart][7] retail stores Wednesday. It runs on a 1.5GHz Via C7-D processor and comes with 512M bytes of RAM, an 80G byte hard drive, a DVD player and an Ethernet port. It does not include a monitor.
 
 &#8220;The intent of GOS is to take [Linux] to the consumer and do what [Steve Jobs][8] did with [Mac OS X][9] &#8212; to take an alternative OS and package it for the consumer,&#8221; said [David Liu][10], founder of GOS.
 
@@ -55,16 +55,16 @@ The energy-efficient $198 Linux desktop from Everex, TC2502 Green gPC, <a href="
 
 Continue reading at [PCWorld][13]
 
- [1]: https://www.pcworld.com/tags/Ubuntu.html
- [2]: https://www.pcworld.com/tags/Facebook+Inc..html
- [3]: https://www.pcworld.com/tags/Google+Inc..html
- [4]: https://www.pcworld.com/tags/Paul+Kim.html
- [5]: https://www.pcworld.com/tags/United+States.html
- [6]: https://www.pcworld.com/tags/First+International+Computer+Inc..html
- [7]: https://www.pcworld.com/tags/Wal-Mart+Stores+Inc..html
- [8]: https://www.pcworld.com/tags/Steve+Jobs.html
- [9]: https://www.pcworld.com/tags/Apple+Mac+OS+X.html
- [10]: https://www.pcworld.com/tags/David+Liu.html
- [11]: https://www.pcworld.com/tags/Microsoft+Corporation.html
- [12]: https://www.pcworld.com/tags/Microsoft+Windows+Vista.html
- [13]: https://www.pcworld.com/article/id,139196-c,fullfeaturednotebooks/article.html
+ [1]: http://www.pcworld.com/tags/Ubuntu.html
+ [2]: http://www.pcworld.com/tags/Facebook+Inc..html
+ [3]: http://www.pcworld.com/tags/Google+Inc..html
+ [4]: http://www.pcworld.com/tags/Paul+Kim.html
+ [5]: http://www.pcworld.com/tags/United+States.html
+ [6]: http://www.pcworld.com/tags/First+International+Computer+Inc..html
+ [7]: http://www.pcworld.com/tags/Wal-Mart+Stores+Inc..html
+ [8]: http://www.pcworld.com/tags/Steve+Jobs.html
+ [9]: http://www.pcworld.com/tags/Apple+Mac+OS+X.html
+ [10]: http://www.pcworld.com/tags/David+Liu.html
+ [11]: http://www.pcworld.com/tags/Microsoft+Corporation.html
+ [12]: http://www.pcworld.com/tags/Microsoft+Windows+Vista.html
+ [13]: http://www.pcworld.com/article/id,139196-c,fullfeaturednotebooks/article.html

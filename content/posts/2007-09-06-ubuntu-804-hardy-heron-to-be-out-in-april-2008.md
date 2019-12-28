@@ -40,7 +40,7 @@ tags:
 
 <font face="Arial">The first Ubuntu with this kind of support was Ubuntu 6.06 LTS (Long Term Support) in June 2006. As an LTS, this, and in 2008 Ubuntu 8.04, will be supported with server security updates for five years for three years on the desktop after each version&#8217;s release. So, 6.06 desktop security support will end in June 2009 and the server support will come to a close in June 2011. This next version, 8.04, will have desktop support until 2011 and server support until 2013.</font>
 
-<font face="Arial">Source and more details: <a href="https://www.linux-watch.com/news/NS7596541819.html">LinuxWatch.com</a></font>
+<font face="Arial">Source and more details: <a href="http://www.linux-watch.com/news/NS7596541819.html">LinuxWatch.com</a></font>
 
- [1]: https://www.canonical.com/
- [2]: https://www.ubuntu.com/
+ [1]: http://www.canonical.com/
+ [2]: http://www.ubuntu.com/

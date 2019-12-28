@@ -14,11 +14,11 @@ tags:
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
     <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
-      <img src="https://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
+      <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="https://sathyabhat.newsblur.com/story/errord-where-i-come-/91001f">shared this story</a><br /> from <img src="https://icons.newsblur.com/941.png" style="vertical-align: middle;width:16px;height:16px;" /> The Daily WTF:</b>
+      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/errord-where-i-come-/91001f">shared this story</a><br /> from <img src="http://icons.newsblur.com/941.png" style="vertical-align: middle;width:16px;height:16px;" /> The Daily WTF:</b>
     </td>
   </tr>
   
@@ -37,7 +37,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-1"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-1.png" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-1"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-1.png" /></a>
           </p>
           
           <p>
@@ -51,7 +51,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-2"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-2.jpg" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-2"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-2.jpg" /></a>
           </p>
           
           <p>
@@ -65,7 +65,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-3"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-3.png" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-3"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-3.png" /></a>
           </p>
           
           <p>
@@ -79,7 +79,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-4"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-4.png" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-4"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-4.png" /></a>
           </p>
           
           <p>
@@ -93,7 +93,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-5"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-5.png" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-5"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-5.png" /></a>
           </p>
           
           <p>
@@ -107,7 +107,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-6.png" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-6.png" /></a>
           </p>
           
           <p>
@@ -121,7 +121,7 @@ tags:
         
         <blockquote>
           <p>
-            <a href="https://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="https://img.thedailywtf.com/images/13/q2/e64/Pic-7.jpg" /></a>
+            <a href="http://syndication.thedailywtf.com/TheDailyWtf#Pic-6"><img alt="" border="0" src="http://img.thedailywtf.com/images/13/q2/e64/Pic-7.jpg" /></a>
           </p>
           
           <p>
@@ -131,7 +131,7 @@ tags:
         
         <div style="margin: 10px; padding: 5px; background-color: #eee;">
           <div>
-            <img src="https://thedailywtf.com/tizes/ads/inedo40x40.png" style="display: block; float: left; margin-right: 4px;" /> [Advertisement] <b>Make your team a DevOps team with <a href="https://inedo.com/?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">BuildMaster</a></b>. Pairing an easy-to-use web UI with a free base platform, BuildMaster gets you started in minutes. See how <a href="https://inedo.com/buildmaster/case-studies?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">Allrecipes.com and others</a> use BuildMaster to automate their software delivery.
+            <img src="http://thedailywtf.com/tizes/ads/inedo40x40.png" style="display: block; float: left; margin-right: 4px;" /> [Advertisement] <b>Make your team a DevOps team with <a href="http://inedo.com/?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">BuildMaster</a></b>. Pairing an easy-to-use web UI with a free base platform, BuildMaster gets you started in minutes. See how <a href="http://inedo.com/buildmaster/case-studies?utm_source=tdwtf&utm_medium=afooter&utm_campaign=tdwtf13q1">Allrecipes.com and others</a> use BuildMaster to automate their software delivery.
           </div>
         </div>
         
@@ -139,13 +139,13 @@ tags:
         </div>
         
         <div class="feedflare">
-          <a href="https://syndication.thedailywtf.com/~ff/TheDailyWtf?a=zQ1uXZjj_c0:Rb3B7vPQjOg:yIl2AUoC8zA"><img border="0" src="https://feeds.feedburner.com/~ff/TheDailyWtf?d=yIl2AUoC8zA" /></a>
+          <a href="http://syndication.thedailywtf.com/~ff/TheDailyWtf?a=zQ1uXZjj_c0:Rb3B7vPQjOg:yIl2AUoC8zA"><img border="0" src="http://feeds.feedburner.com/~ff/TheDailyWtf?d=yIl2AUoC8zA" /></a>
         </div>
         
         <p>
-          <img  src="https://feeds.feedburner.com/~r/TheDailyWtf/~4/zQ1uXZjj_c0"  />
+          <img  src="http://feeds.feedburner.com/~r/TheDailyWtf/~4/zQ1uXZjj_c0"  />
         </p>
         
         <p>
-          via sathyabhat&#8217;s blurblog https://thedailywtf.com/Articles/Where-I-Come-From,-We-Dont-Need-July.aspx
+          via sathyabhat&#8217;s blurblog http://thedailywtf.com/Articles/Where-I-Come-From,-We-Dont-Need-July.aspx
         </p>

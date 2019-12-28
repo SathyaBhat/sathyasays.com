@@ -5,7 +5,7 @@ type: post
 date: 2010-09-22T01:49:11+00:00
 url: /2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/
 topsy_short_url:
-  - https://bit.ly/cVWzgN
+  - http://bit.ly/cVWzgN
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -63,16 +63,16 @@ That didn&#8217;t return anything, so I went back to the big G and searched deep
 
 And indeed, it was
 
-<img class="aligncenter" title="Notes" src="https://i.imgur.com/CWYMH.png" alt=""   />
+<img class="aligncenter" title="Notes" src="http://i.imgur.com/CWYMH.png" alt=""   />
 
 Unfortunately, given the data stored against it, I don&#8217;t think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
 
 Just another thing you learn every day :)
 
- [1]: https://superuser.com/users/4377/sathya
- [2]: https://superuser.com/users/flair/4377.png
- [3]: https://chat.superuser.com
- [4]: https://chat.superuser.com/transcript/message/11632
- [5]: https://sathyasays.com/tag/kde/
- [6]: https://www.google.com/search?q=notes+in+gnome+file+properties&hl=en
+ [1]: http://superuser.com/users/4377/sathya
+ [2]: http://superuser.com/users/flair/4377.png
+ [3]: http://chat.superuser.com
+ [4]: http://chat.superuser.com/transcript/message/11632
+ [5]: http://sathyasays.com/tag/kde/
+ [6]: http://www.google.com/search?q=notes+in+gnome+file+properties&hl=en
  [7]: https://answers.launchpad.net/ubuntu/+source/gvfs/+question/93098

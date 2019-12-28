@@ -42,4 +42,4 @@ These Include
 
 Continue reading at [Linux Journal][1]
 
- [1]: https://www.linuxjournal.com/node/1000435
+ [1]: http://www.linuxjournal.com/node/1000435

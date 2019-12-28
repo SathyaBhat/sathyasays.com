@@ -94,7 +94,7 @@ Install Compiz Manager to autostart compiz: [1-click installer][8]
 Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 
 <p align="center">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.jpg" title="compiz-fusion-icon.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.thumbnail.jpg" alt="compiz-fusion-icon.jpg" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.jpg" title="compiz-fusion-icon.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/compiz-fusion-icon.thumbnail.jpg" alt="compiz-fusion-icon.jpg" /></a>
 </p>
 
 <p align="left">
@@ -116,15 +116,15 @@ Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 </p>
 
 <p align="left">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/my-desktop.jpg" title="my-desktop.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/my-desktop.thumbnail.jpg" alt="my-desktop.jpg" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.jpg" title="my-desktop2.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.thumbnail.jpg" alt="my-desktop2.jpg" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/desktop3.jpg" title="desktop3.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/desktop3.thumbnail.jpg" alt="desktop3.jpg" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/motionblur.jpg" title="motionblur.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/motionblur.thumbnail.jpg" alt="motionblur.jpg" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop.jpg" title="my-desktop.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop.thumbnail.jpg" alt="my-desktop.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.jpg" title="my-desktop2.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/my-desktop2.thumbnail.jpg" alt="my-desktop2.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/desktop3.jpg" title="desktop3.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/desktop3.thumbnail.jpg" alt="desktop3.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/motionblur.jpg" title="motionblur.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/motionblur.thumbnail.jpg" alt="motionblur.jpg" /></a>
 </p>
 
 <p align="left">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/cf.jpg" title="cf.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/cf.thumbnail.jpg" alt="cf.jpg" /></a> <a href="https://sathyasays.com/wp-content/uploads/2007/12/cf-water.jpg" title="cf-water.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/cf-water.thumbnail.jpg" alt="cf-water.jpg" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.jpg" title="fusionfireminimize.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.thumbnail.jpg" alt="fusionfireminimize.jpg" /> </a><a href="https://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.jpg" title="fusioneffect1.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.thumbnail.jpg" alt="fusioneffect1.jpg" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/cf.jpg" title="cf.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/cf.thumbnail.jpg" alt="cf.jpg" /></a> <a href="http://sathyasays.com/wp-content/uploads/2007/12/cf-water.jpg" title="cf-water.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/cf-water.thumbnail.jpg" alt="cf-water.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.jpg" title="fusionfireminimize.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fusionfireminimize.thumbnail.jpg" alt="fusionfireminimize.jpg" /> </a><a href="http://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.jpg" title="fusioneffect1.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/fusioneffect1.thumbnail.jpg" alt="fusioneffect1.jpg" /></a>
 </p>
 
 <p align="left">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.jpg" title="transparent-cube.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.thumbnail.jpg" alt="transparent-cube.jpg" /></a>
+  <a href="http://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.jpg" title="transparent-cube.jpg"><img src="http://sathyasays.com/wp-content/uploads/2007/12/transparent-cube.thumbnail.jpg" alt="transparent-cube.jpg" /></a>
 </p>
 
 <p align="left">
@@ -133,11 +133,11 @@ Installation is done! Just run compiz by Clicking on the Compiz-Fusion Icon
 
 [][7]
 
- [1]: https://sathyasays.com/2007/07/01/go-crazy-on-eye-candy-with-compiz-fusion/
- [2]: https://opensuse-community.org/nvidia.ymp
- [3]: https://en.opensuse.org/NVIDIA/Legacy
- [4]: https://opensuse-community.org/nvidia-legacy.ymp
- [5]: https://www.nvidia.com/object/unix.html
- [6]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp
- [7]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp
- [8]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-manager.ymp
+ [1]: http://sathyasays.com/2007/07/01/go-crazy-on-eye-candy-with-compiz-fusion/
+ [2]: http://opensuse-community.org/nvidia.ymp
+ [3]: http://en.opensuse.org/NVIDIA/Legacy
+ [4]: http://opensuse-community.org/nvidia-legacy.ymp
+ [5]: http://www.nvidia.com/object/unix.html
+ [6]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp
+ [7]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp
+ [8]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-manager.ymp

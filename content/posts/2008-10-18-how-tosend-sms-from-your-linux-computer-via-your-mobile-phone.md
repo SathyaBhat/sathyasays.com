@@ -63,11 +63,11 @@ PhoneManager sits unobtrusively in the Gnome panel, running in the background. W
   For contacts and address book, PhoneManager integrates very nicely with Evolution. If you want to send an SMS or text message, just click on the PhoneManager icon (which is&#8230; a mobile phone!) and a screen as shown below pops up, where you can type the message. Enter the name of the receipient, and Phone Manager will suggest the names and number of the person. Simplicity at its best!
 </p>
 
-<a href="https://www.flickr.com/photos/sathyabhat/2951304044/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3201/2951304044_c904549ced_m.jpg" alt="Sending SMS using phone manager" /></a>
+<a href="http://www.flickr.com/photos/sathyabhat/2951304044/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3201/2951304044_c904549ced_m.jpg" alt="Sending SMS using phone manager" /></a>
   
 Unfortunately PhoneManager doesn&#8217;t show the name of the person for a received message, even if the number exists in Contacts. Maybe this will be included in future releases.
 
-<a href="https://www.flickr.com/photos/sathyabhat/2950451251/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3227/2950451251_81f941b573_m.jpg" alt="composing sms" /></a>
+<a href="http://www.flickr.com/photos/sathyabhat/2950451251/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3227/2950451251_81f941b573_m.jpg" alt="composing sms" /></a>
 
 PhoneManager can communicate with your mobile phone over Bluetooth, IrDA(infra red) or via any of the ports.
 
@@ -89,4 +89,4 @@ or just search for PhoneManager in Add/Remove programs.
 
 PhoneManager was originally developed by Edd Dumbill, and is currently maintained by Bastien Nocera.
 
- [1]: https://live.gnome.org/PhoneManager
+ [1]: http://live.gnome.org/PhoneManager

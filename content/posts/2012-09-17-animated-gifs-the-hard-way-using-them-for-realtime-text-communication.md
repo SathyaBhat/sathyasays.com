@@ -25,5 +25,5 @@ If you think that&#8217;s crazy, check [gifsockets][2]
 
 Amazingly, both work on IE6, according to the devs.
 
- [1]: https://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html
+ [1]: http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html
  [2]: https://github.com/videlalvaro/gifsockets#gifsockets "gifsockets"

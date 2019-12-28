@@ -30,4 +30,4 @@ Try it out! It rocks!
 
 PS: do type weather, matrix and whereiam You&#8217;ll like it!
 
- [1]: https://cb.vu/
+ [1]: http://cb.vu/

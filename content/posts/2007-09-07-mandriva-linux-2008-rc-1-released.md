@@ -96,14 +96,14 @@ Updated Software:
 
 ##  <span class="mw-headline">GNOME 2.20 </span>
 
-Once again, Mandriva Linux 2008 will come with the latest release of <a href="https://www.gnome.org/" class="external text" title="https://www.gnome.org" rel="nofollow">GNOME</a>, which will be hot off the press at release time. The development releases will feature the latest available releases of GNOME 2.19, the development series for 2.20. New features planned for GNOME 2.20 include:
+Once again, Mandriva Linux 2008 will come with the latest release of <a href="http://www.gnome.org/" class="external text" title="http://www.gnome.org" rel="nofollow">GNOME</a>, which will be hot off the press at release time. The development releases will feature the latest available releases of GNOME 2.19, the development series for 2.20. New features planned for GNOME 2.20 include:
 
   * A new Appearance configuration applet merging the old Themes, Font and Background applets
-  * <a href="https://ekiga.org/" class="external text" title="https://ekiga.org" rel="nofollow">Ekiga</a> 3.0, featuring a plugin framework for audio and video codecs, a revised interface, and SIP presence support
-  * Support for fillable forms in <a href="https://www.gnome.org/projects/evince/" class="external text" title="https://www.gnome.org/projects/evince/" rel="nofollow">Evince</a>, the GNOME PDF reader
-  * <a href="https://www.gnome.org/projects/evolution/" class="external text" title="https://www.gnome.org/projects/evolution/" rel="nofollow">Evolution</a> <a href="https://www.go-evolution.org/Evo2.12" class="external text" title="https://www.go-evolution.org/Evo2.12" rel="nofollow">2.12</a>, with better spam filtering and Microsoft Exchange support
+  * <a href="http://ekiga.org/" class="external text" title="http://ekiga.org" rel="nofollow">Ekiga</a> 3.0, featuring a plugin framework for audio and video codecs, a revised interface, and SIP presence support
+  * Support for fillable forms in <a href="http://www.gnome.org/projects/evince/" class="external text" title="http://www.gnome.org/projects/evince/" rel="nofollow">Evince</a>, the GNOME PDF reader
+  * <a href="http://www.gnome.org/projects/evolution/" class="external text" title="http://www.gnome.org/projects/evolution/" rel="nofollow">Evolution</a> <a href="http://www.go-evolution.org/Evo2.12" class="external text" title="http://www.go-evolution.org/Evo2.12" rel="nofollow">2.12</a>, with better spam filtering and Microsoft Exchange support
 
-See the full plan <a href="https://live.gnome.org/RoadMap" class="external text" title="https://live.gnome.org/RoadMap" rel="nofollow">here</a>.
+See the full plan <a href="http://live.gnome.org/RoadMap" class="external text" title="http://live.gnome.org/RoadMap" rel="nofollow">here</a>.
 
 <a name="KDE_3.5.7"></a>
 
@@ -122,7 +122,7 @@ The latest stable KDE 3 release will be included, with all the bug fixes since t
 
 ## <span class="editsection"></span> <span class="mw-headline">KDE 4 preview </span>
 
-KDE 4 will be available as an experimental preview, with the latest available pre-release included. The development releases will be tracking KDE 4 development very closely. The changes in KDE 4 are countless and, of course, include the revolutionary <a href="https://nepomuk.semanticdesktop.org/" class="external text" title="https://nepomuk.semanticdesktop.org" rel="nofollow">Nepomuk semantic desktop system</a>, whose development is being led by Mandriva. There is no single resource for a full list of new features in KDE 4, but <a href="https://en.wikipedia.org/wiki/KDE_4" class="external text" title="https://en.wikipedia.org/wiki/KDE_4" rel="nofollow">Wikipedia</a> gives a good overview.
+KDE 4 will be available as an experimental preview, with the latest available pre-release included. The development releases will be tracking KDE 4 development very closely. The changes in KDE 4 are countless and, of course, include the revolutionary <a href="http://nepomuk.semanticdesktop.org/" class="external text" title="http://nepomuk.semanticdesktop.org" rel="nofollow">Nepomuk semantic desktop system</a>, whose development is being led by Mandriva. There is no single resource for a full list of new features in KDE 4, but <a href="http://en.wikipedia.org/wiki/KDE_4" class="external text" title="http://en.wikipedia.org/wiki/KDE_4" rel="nofollow">Wikipedia</a> gives a good overview.
 
 <a name="XFCE_4.4.1"></a>
 
@@ -138,23 +138,23 @@ As Mandriva Linux 2008 marks a new basesystem (after the previous basesystem was
 
 Perhaps the biggest new feature visible to end users will be the new Devicescape (mac80211) wireless networking stack, which provides a superior base with much more common code than the previous kernel wireless stack, allowing drivers to be more reliable and functional.
 
-2.6.22 also includes the new &#8216;tickless&#8217; technology which will save battery power on laptops, with the effect increasing over time as applications are improved to avoid needlessly waking up the kernel. There&#8217;s a good write-up of this system <a href="https://news.zdnet.com/2100-3513_22-6192865.html" class="external text" title="https://news.zdnet.com/2100-3513_22-6192865.html" rel="nofollow">here</a>.
+2.6.22 also includes the new &#8216;tickless&#8217; technology which will save battery power on laptops, with the effect increasing over time as applications are improved to avoid needlessly waking up the kernel. There&#8217;s a good write-up of this system <a href="http://news.zdnet.com/2100-3513_22-6192865.html" class="external text" title="http://news.zdnet.com/2100-3513_22-6192865.html" rel="nofollow">here</a>.
 
-It also includes <a href="https://www.alsa-project.org/" class="external text" title="https://www.alsa-project.org" rel="nofollow">ALSA</a> 1.0.14, adding support for some newer sound cards and chipsets and improving support for others.
+It also includes <a href="http://www.alsa-project.org/" class="external text" title="http://www.alsa-project.org" rel="nofollow">ALSA</a> 1.0.14, adding support for some newer sound cards and chipsets and improving support for others.
 
-Other improvements include the usual gradual improvements to suspend support, a new scheduler (which will result in improved responsiveness in typical desktop use), and the integration of the <a href="https://ivtvdriver.org/" class="external text" title="https://ivtvdriver.org" rel="nofollow">ivtv</a> TV card driver (as used, notably, for the Hauppauge PVR series cards). An exhaustive overview of changes between 2.6.21 and 2.6.22 is available <a href="https://kernelnewbies.org/Linux_2_6_22" class="external text" title="https://kernelnewbies.org/Linux_2_6_22" rel="nofollow">here</a>: the same site has similar pages covering the changes back to 2.6.17, the kernel that was included in Mandriva Linux 2007 Spring.
+Other improvements include the usual gradual improvements to suspend support, a new scheduler (which will result in improved responsiveness in typical desktop use), and the integration of the <a href="http://ivtvdriver.org/" class="external text" title="http://ivtvdriver.org" rel="nofollow">ivtv</a> TV card driver (as used, notably, for the Hauppauge PVR series cards). An exhaustive overview of changes between 2.6.21 and 2.6.22 is available <a href="http://kernelnewbies.org/Linux_2_6_22" class="external text" title="http://kernelnewbies.org/Linux_2_6_22" rel="nofollow">here</a>: the same site has similar pages covering the changes back to 2.6.17, the kernel that was included in Mandriva Linux 2007 Spring.
 
 <a name="Compiz_Fusion"></a>
 
 ## <span class="editsection"></span> <span class="mw-headline">Compiz Fusion </span>
 
-Compiz Fusion, the result of the re-merge between the Compiz and Beryl 3D desktop technologies, will replace Compiz and Beryl in Mandriva Linux 2008. The development branch is currently tracking the pre-release Fusion code, prior to the first official release. New features in Fusion are many, and a video demonstrating some of them is available at <a href="https://www.youtube.com/watch?v=E4Fbk52Mk1w" class="external text" title="https://www.youtube.com/watch?v=E4Fbk52Mk1w" rel="nofollow">YouTube</a>.
+Compiz Fusion, the result of the re-merge between the Compiz and Beryl 3D desktop technologies, will replace Compiz and Beryl in Mandriva Linux 2008. The development branch is currently tracking the pre-release Fusion code, prior to the first official release. New features in Fusion are many, and a video demonstrating some of them is available at <a href="http://www.youtube.com/watch?v=E4Fbk52Mk1w" class="external text" title="http://www.youtube.com/watch?v=E4Fbk52Mk1w" rel="nofollow">YouTube</a>.
 
 <a name="Other_significant_updates"></a>
 
 ## <span class="editsection"></span> <span class="mw-headline">Other significant updates </span>
 
-Other significant updates will include <a href="https://www.x.org/wiki/Releases/7.3" class="external text" title="https://www.x.org/wiki/Releases/7.3" rel="nofollow">X.org 7.3</a>, featuring the new XrandR 1.2 framework which vastly improves support for multiple displays and display hotplugging on supported drivers, <a href="https://www.openoffice.org/" class="external text" title="https://www.openoffice.org/" rel="nofollow">OpenOffice.org</a> <a href="https://www.openoffice.org/press/press_release_ooo2.2.0.html" class="external text" title="https://www.openoffice.org/press/press_release_ooo2.2.0.html" rel="nofollow">2.2</a>, featuring improved text rendering, improved PDF exporting and enhanced compatibility with Excel spreadsheets, <a href="https://gcc.gnu.org/" class="external text" title="https://gcc.gnu.org" rel="nofollow">GCC</a> <a href="https://gcc.gnu.org/gcc-4.2/changes.html" class="external text" title="https://gcc.gnu.org/gcc-4.2/changes.html" rel="nofollow">4.2</a> (with a complementary build of <a href="https://gcc.gnu.org/gcc-4.3/changes.html" class="external text" title="https://gcc.gnu.org/gcc-4.3/changes.html" rel="nofollow">4.3</a> available as an option in the <span style="font-family: courier; color: blue; font-style: italic">/main</span> repository) and <a href="https://icedtea.classpath.org/" class="external text" title="https://icedtea.classpath.org" rel="nofollow">IcedTea</a>, a GNU project which makes it possible to provide an open source Java implementation based on the code open sourced by Sun as the <a href="https://openjdk.java.net/" class="external text" title="https://openjdk.java.net/" rel="nofollow">OpenJDK</a> project. IcedTea will likely not be ready for use as a browser plugin by the time of 2008&#8217;s release.
+Other significant updates will include <a href="http://www.x.org/wiki/Releases/7.3" class="external text" title="http://www.x.org/wiki/Releases/7.3" rel="nofollow">X.org 7.3</a>, featuring the new XrandR 1.2 framework which vastly improves support for multiple displays and display hotplugging on supported drivers, <a href="http://www.openoffice.org/" class="external text" title="http://www.openoffice.org/" rel="nofollow">OpenOffice.org</a> <a href="http://www.openoffice.org/press/press_release_ooo2.2.0.html" class="external text" title="http://www.openoffice.org/press/press_release_ooo2.2.0.html" rel="nofollow">2.2</a>, featuring improved text rendering, improved PDF exporting and enhanced compatibility with Excel spreadsheets, <a href="http://gcc.gnu.org/" class="external text" title="http://gcc.gnu.org" rel="nofollow">GCC</a> <a href="http://gcc.gnu.org/gcc-4.2/changes.html" class="external text" title="http://gcc.gnu.org/gcc-4.2/changes.html" rel="nofollow">4.2</a> (with a complementary build of <a href="http://gcc.gnu.org/gcc-4.3/changes.html" class="external text" title="http://gcc.gnu.org/gcc-4.3/changes.html" rel="nofollow">4.3</a> available as an option in the <span style="font-family: courier; color: blue; font-style: italic">/main</span> repository) and <a href="http://icedtea.classpath.org/" class="external text" title="http://icedtea.classpath.org" rel="nofollow">IcedTea</a>, a GNU project which makes it possible to provide an open source Java implementation based on the code open sourced by Sun as the <a href="http://openjdk.java.net/" class="external text" title="http://openjdk.java.net/" rel="nofollow">OpenJDK</a> project. IcedTea will likely not be ready for use as a browser plugin by the time of 2008&#8217;s release.
 
 ## <span class="mw-headline">Changes from previous betas</span>
 
@@ -188,9 +188,9 @@ This release candidate is available as a Free edition for the x86-32 and x86-64 
 
 The images are available from any official Mandriva mirror site in the /devel/iso/2008.0 subdirectory. For the list of Mandriva mirrors see [CookerMirrors][6].
 
- [1]: https://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Development/RC1
- [2]: https://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes
- [3]: https://wiki.mandriva.com/en/Releases/Mandriva/2008.0/What%27s_New
- [4]: https://wiki.mandriva.com/en/Development/Ideas/Technical_specs_2008
- [5]: https://wiki.mandriva.com/en/Development/Ideas/XFCE "Development/Ideas/XFCE"
- [6]: https://wiki.mandriva.com/en/CookerMirrors "CookerMirrors"
+ [1]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Development/RC1
+ [2]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes
+ [3]: http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/What%27s_New
+ [4]: http://wiki.mandriva.com/en/Development/Ideas/Technical_specs_2008
+ [5]: http://wiki.mandriva.com/en/Development/Ideas/XFCE "Development/Ideas/XFCE"
+ [6]: http://wiki.mandriva.com/en/CookerMirrors "CookerMirrors"

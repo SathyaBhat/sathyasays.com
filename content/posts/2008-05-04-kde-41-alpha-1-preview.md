@@ -84,6 +84,6 @@ PolishLinux guys were not the only ones doing a preview of KDE4.1, ArsTechnica a
 
 For an indepth look at what KDE4.1 offers do read the articles at [polishlinux][1] and [ArsTechnica][2]. For a full overview of new features planned for the 4.1 release, check out the [specification][3]
 
- [1]: https://polishlinux.org/kde/kde-4-rev-802150-work-in-progress/
- [2]: https://arstechnica.com/news.ars/post/20080430-first-look-kde-4-1-alpha-1-very-promising.html
- [3]: https://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan
+ [1]: http://polishlinux.org/kde/kde-4-rev-802150-work-in-progress/
+ [2]: http://arstechnica.com/news.ars/post/20080430-first-look-kde-4-1-alpha-1-very-promising.html
+ [3]: http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan

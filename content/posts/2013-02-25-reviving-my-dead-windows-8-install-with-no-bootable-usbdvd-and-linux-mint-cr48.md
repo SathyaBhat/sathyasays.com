@@ -14,13 +14,13 @@ tags:
   - windows
 
 ---
-Couple of months ago, just about a month before <a href="https://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that&#8217;s really unusual because the Envy&#8217;s cooling system is probably one of the best that I&#8217;ve seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
+Couple of months ago, just about a month before <a href="http://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that&#8217;s really unusual because the Envy&#8217;s cooling system is probably one of the best that I&#8217;ve seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
 
 And soon enough, HP&#8217;s diagnostics started informing me that my system fan&#8217;s dead during bootup. To figure out which one&#8217;s the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop &#8211; and was kinda surprised that the laptop was still able to run at all.
 
 <blockquote class="twitter-tweet" data->
   <p lang="en" dir="ltr">
-    Opened my Envy again to see which fan has failed. The top left doesn't rotate. Cc <a href="https://twitter.com/jayesh">@Jayesh</a> <a href="https://twitter.com/rushvora">@rushvora</a> <a href="https://twitter.com/ambar_hitman">@ambar_hitman</a> <a href="https://t.co/58989xFt">pic.twitter.com/58989xFt</a>
+    Opened my Envy again to see which fan has failed. The top left doesn't rotate. Cc <a href="https://twitter.com/jayesh">@Jayesh</a> <a href="https://twitter.com/rushvora">@rushvora</a> <a href="https://twitter.com/ambar_hitman">@ambar_hitman</a> <a href="http://t.co/58989xFt">pic.twitter.com/58989xFt</a>
   </p>
   
   <p>
@@ -34,7 +34,7 @@ And this was really torturing my system
 
 <blockquote class="twitter-tweet" data->
   <p lang="en" dir="ltr">
-    I'm really, really torturing my Envy with the broken main system fan. Temps while playing Torchlight 2 <a href="https://t.co/QVTqE8hc">https://t.co/QVTqE8hc</a>
+    I'm really, really torturing my Envy with the broken main system fan. Temps while playing Torchlight 2 <a href="http://t.co/QVTqE8hc">http://t.co/QVTqE8hc</a>
   </p>
   
   <p>
@@ -68,7 +68,7 @@ And this was really torturing my system
 
 
 
-[<img class="alignnone" title="temperatures" src="https://i.imgur.com/NguB4AP.png" alt="temperatures"   />][1]
+[<img class="alignnone" title="temperatures" src="http://i.imgur.com/NguB4AP.png" alt="temperatures"   />][1]
 
 So now, while I experimenting with switching off/on to see if I can &#8220;jump&#8221; start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new &#8220;enhancements&#8221; F8-mashing would not result in the start up menu being shown up.
 
@@ -96,4 +96,4 @@ Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux
 
 With a Windows 8 live USB finally available, I managed to do a clean install and finally revive the Envy.
 
- [1]: https://i.imgur.com/NguB4AP.png
+ [1]: http://i.imgur.com/NguB4AP.png

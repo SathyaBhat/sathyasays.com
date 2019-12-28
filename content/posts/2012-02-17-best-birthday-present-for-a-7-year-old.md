@@ -5,7 +5,7 @@ type: post
 date: 2012-02-17T10:43:22+00:00
 url: /2012/02/17/best-birthday-present-for-a-7-year-old/
 topsy_short_url:
-  - https://u.sbhat.me/vZzwxa
+  - http://u.sbhat.me/vZzwxa
 categories:
   - Gaming
 tags:
@@ -17,7 +17,7 @@ tags:
 > 
 > &#8230;
 > 
-> I sent a tweet to Edge creator <a href="https://twitter.com/twotribesgames" target="_blank">Two Tribes</a> where I asked if they had any promotional material such as a poster, flyer or business card perhaps. As Two Tribes is a Dutch game developer, I got a tweet back in Dutch from company founder Collin van Ginkel where he asked me to to send him an email.
+> I sent a tweet to Edge creator <a href="http://twitter.com/twotribesgames" target="_blank">Two Tribes</a> where I asked if they had any promotional material such as a poster, flyer or business card perhaps. As Two Tribes is a Dutch game developer, I got a tweet back in Dutch from company founder Collin van Ginkel where he asked me to to send him an email.
 > 
 > Then he wrote me:
 
@@ -25,4 +25,4 @@ via [Martin Kool &#8211; Game Developer Gives 7-Year-Old Best Birthday Present E
 
 Love this.
 
- [1]: https://martinkool.com/post/17611582440/game-developer-gives-7yr-old-best-birthday-present-ever
+ [1]: http://martinkool.com/post/17611582440/game-developer-gives-7yr-old-best-birthday-present-ever

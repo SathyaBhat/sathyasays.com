@@ -85,6 +85,6 @@ Software wise, there&#8217;s no difference between the DVD and CD edition, atlea
 
 Overall Gusty is a nice release. The new features(Deskbar, Trakker, BulletProof X for failsafe X onfiguration, AppArmour profiles) are worth the upgrade from Feisty to Gutsy. Me however will be sticking to the green Lizard, openSUSE 10.3, as Gusty offers nothing much to me compared to what openSUSE is offering, and working in any OS other than openSUSE 10.3 makes me realize how vital and useful the SLAB menu and integrated search feature is!
 
- [1]: https://www.chip-india.com
- [2]: https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
- [3]: https://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/
+ [1]: http://www.chip-india.com
+ [2]: http://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
+ [3]: http://sathyasays.com/2007/12/09/fixing-no-sound-bug-on-dell-inspiron-1520-in-ubuntu-gutsy/

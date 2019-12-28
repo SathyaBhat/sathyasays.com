@@ -23,7 +23,7 @@ $ sudo /etc/cron.daily/logrotate<br />
 error: backend:7 bad size '536870912.0'<br />
 error: found error in "log/production.log", skipping`
 
-Huh, ok so now we know why logrotate didn&#8217;t run. But having a decimal in the config causes it to flag as bad size? I checked the documentation and <a href="https://www.linuxcommand.org/man_pages/logrotate8.html" target="_blank">it doesn&#8217;t mention so</a>:
+Huh, ok so now we know why logrotate didn&#8217;t run. But having a decimal in the config causes it to flag as bad size? I checked the documentation and <a href="http://www.linuxcommand.org/man_pages/logrotate8.html" target="_blank">it doesn&#8217;t mention so</a>:
 
 <pre><b>size</b> <i>size</i>
               Log files are rotated when they grow bigger then <i>size</i> bytes.  If

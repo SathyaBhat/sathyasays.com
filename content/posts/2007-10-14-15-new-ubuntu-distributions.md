@@ -45,5 +45,5 @@ tags:
 
 Know of any other new Ubuntu distros I should add to this list?
 
- [1]: https://chris.pirillo.com/
- [2]: https://chris.pirillo.com/2007/10/13/15-new-ubuntu-distributions/
+ [1]: http://chris.pirillo.com/
+ [2]: http://chris.pirillo.com/2007/10/13/15-new-ubuntu-distributions/

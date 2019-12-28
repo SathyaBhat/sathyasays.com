@@ -38,7 +38,7 @@ Any test that’s marked “idle” is fair game — so feel free to jump in and
 
 If you do find any bugs, be sure to check the [Bug reporting FAQ][4] and report the bug in Bugzilla.
 
- [1]: https://sathyasays.com/2008/04/29/announcing-opensuse-11-beta-1/
- [2]: https://en.opensuse.org/Testing:Features_11.0
- [3]: https://en.opensuse.org/Testing:Features_11.0#openSUSE_11.0_Feature_Test_List
- [4]: https://en.opensuse.org/Bug_Reporting_FAQ
+ [1]: http://sathyasays.com/2008/04/29/announcing-opensuse-11-beta-1/
+ [2]: http://en.opensuse.org/Testing:Features_11.0
+ [3]: http://en.opensuse.org/Testing:Features_11.0#openSUSE_11.0_Feature_Test_List
+ [4]: http://en.opensuse.org/Bug_Reporting_FAQ

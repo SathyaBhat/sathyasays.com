@@ -45,8 +45,8 @@ _Got it Microsoft? Got it Jasow Matusow? Any misread acronym can make sensationa
 
 For those not into the subject, I’m refering to the often quoted and “reprinted” article [ODF backer abandons file format in favor of W3C alternative][5]{.extlink}.
 
- [1]: https://polishlinux.org/apps/openofficeorg/microsoft-drops-support-for-ooxml/
- [2]: https://polishlinux.org/en.wikipedia.org/wiki/ANSI
- [3]: https://en.wikipedia.org/wiki/TXT
- [4]: https://openxmldeveloper.org/
- [5]: https://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9044723
+ [1]: http://polishlinux.org/apps/openofficeorg/microsoft-drops-support-for-ooxml/
+ [2]: http://polishlinux.org/en.wikipedia.org/wiki/ANSI
+ [3]: http://en.wikipedia.org/wiki/TXT
+ [4]: http://openxmldeveloper.org/
+ [5]: http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9044723
