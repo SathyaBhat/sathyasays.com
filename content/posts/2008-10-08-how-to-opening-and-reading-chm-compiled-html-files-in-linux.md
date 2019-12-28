@@ -8,16 +8,11 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - Archmage
-  - beta
   - browser
-  - cat
   - chm
   - chm reader
   - chm viewer
   - compiled html files
-  - DE
-  - download
   - file
   - Firefox
   - Gnochm
@@ -25,30 +20,19 @@ tags:
   - Google
   - KChmViewer
   - KDE
-  - KDE4
   - linux
   - Mozilla
   - Mozilla Firefox
-  - net
   - open source
   - package manager
-  - read
-  - rm
-  - RMS
-  - Screen
-  - support
-  - tar
   - "tips-and-howto's"
   - tutorials
-  - user
-  - ux
-  - X
   - Xchm
 
 ---
 In my stash of ebooks, quite a few of them are in chm (compiled HTML) file format. Being HTML files I though they&#8217;d open in Mozilla Firefox browser. Unfortunately that didn&#8217;t work, so I started looking for CHM viewers. I didn&#8217;t have to look far, a quick search on Google gave me couple of programs.
 
-  1. KChmViewer: Since I&#8217;m a KDE user I tried out this application &#8211; and it works fantastic. Really nice, and neat. Download it from <http://www.kchmviewer.net/> or just search for it from your Package Manager. The latest version adds KDE4 support as well, though its still in beta
+  1. KChmViewer: Since I&#8217;m a KDE user I tried out this application &#8211; and it works fantastic. Really nice, and neat. Download it from <https://www.kchmviewer.net/> or just search for it from your Package Manager. The latest version adds KDE4 support as well, though its still in beta
   
     ![KChmViewer][1]
   2. Gnochm: If you&#8217;re a Gnome fan, you can try out Gnochm as well. Download Gnochm from [here][2].
@@ -60,9 +44,9 @@ In my stash of ebooks, quite a few of them are in chm (compiled HTML) file forma
 </div>
 
 <div>
-  If you want to convert the chm file to standard HTML files, then you can try out <a href="http://archmage.sourceforge.net/">Archmarge</a>
+  If you want to convert the chm file to standard HTML files, then you can try out <a href="https://archmage.sourceforge.net/">Archmarge</a>
 </div>
 
- [1]: http://www.kchmviewer.net/screenshots/thumb_snapshot4.png
- [2]: http://gnochm.sourceforge.net/
- [3]: http://gnochm.sourceforge.net/gnochm-large.png
+ [1]: https://www.kchmviewer.net/screenshots/thumb_snapshot4.png
+ [2]: https://gnochm.sourceforge.net/
+ [3]: https://gnochm.sourceforge.net/gnochm-large.png

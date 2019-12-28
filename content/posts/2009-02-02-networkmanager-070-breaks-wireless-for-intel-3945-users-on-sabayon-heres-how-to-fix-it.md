@@ -7,31 +7,18 @@ url: /2009/02/02/networkmanager-070-breaks-wireless-for-intel-3945-users-on-saba
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - DE
   - forums
   - Gentoo
-  - install
-  - intel
   - KDE
   - KDE 4.2
-  - net
   - NetworkManager
-  - os
   - package manager
-  - repo
-  - repos
-  - rm
   - root
   - Sabayon
-  - switch
   - switching
   - sync
-  - update
-  - upgrade
-  - user
   - WiFi
   - Wireless
-  - X
 
 ---
 Well like I mentioned in my previous post, as I upgraded my system to KDE 4.2, NetworkManager 0.70 was also pushed in the update, and that broke my wireless. NetworkManager didn&#8217;t detect \*any\* of my network devices(yup, not even the ethernet port). A small post on Sabayon forums and I got the confirmation that I wasn&#8217;t the only one facing this, and the only way (atleast for now) is to downgrade to NetworkManager 0.6.6-r1.

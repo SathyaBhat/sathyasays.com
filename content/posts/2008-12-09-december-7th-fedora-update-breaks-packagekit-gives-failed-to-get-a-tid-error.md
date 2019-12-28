@@ -7,33 +7,21 @@ url: /2008/12/09/december-7th-fedora-update-breaks-packagekit-gives-failed-to-ge
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - boot
   - Cambridge
-  - DE
-  - Desktop
   - events
   - Failed to get TID error
   - Fedora
   - Fedora 10
   - file
-  - free
   - GNOME
   - Google
-  - hassles
-  - IM
-  - install
   - KDE
-  - media
   - package manager
   - PackageKit
   - PolicyKit
   - root
   - security
-  - tar
   - TID error
-  - update
-  - user
-  - X
   - xp
 
 ---
@@ -58,7 +46,7 @@ ie, the file should look like this now
 
 > `<!DOCTYPE busconfig PUBLIC<br />
 "-//freedesktop//DTD D-BUS Bus Configuration 1.0//EN"<br />
-"http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd"><br />
+"https://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd"><br />
 <busconfig>`
 > 
 > <!&#8211; This configuration file specifies the required security policies
@@ -89,4 +77,4 @@ Hope that helps.
 
 **EDIT: As Janus & MH mention, do reboot the system or restart the dbus service for changes to take effect.**
 
- [1]: http://bugs.freedesktop.org/show_bug.cgi?id=18931
+ [1]: https://bugs.freedesktop.org/show_bug.cgi?id=18931

@@ -5,20 +5,16 @@ type: post
 date: 2009-11-09T18:33:43+00:00
 url: /2009/11/10/fix-for-ubuntu-and-other-suitable-os-hanging-during-boot-with-nvidia-geforce-fx-5200-and-other-suitable-cards/
 topsy_short_url:
-  - http://u.sbhat.me/gk0a6D
+  - https://u.sbhat.me/gk0a6D
 categories:
   - News
 tags:
   - 9.10
   - acpi
   - BIOS
-  - boot
   - eye-candy
   - find
-  - hassles
   - history
-  - IM
-  - install
   - Karmic
   - Karmic Koala
   - Koala
@@ -27,16 +23,10 @@ tags:
   - MID
   - NVIDIA
   - open source
-  - os
-  - rm
-  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - user
-  - ux
-  - X
-
+  
 ---
 This is one problem that has affected me the most in my history of Linux usage, so far. Imagine, for two full years I just din&#8217;t know that the solution to this problem is so simple. Too late of me to find out. Anyway, better late than never.
 

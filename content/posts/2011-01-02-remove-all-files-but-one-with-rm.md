@@ -5,11 +5,10 @@ type: post
 date: 2011-01-02T05:00:10+00:00
 url: /2011/01/02/remove-all-files-but-one-with-rm/
 topsy_short_url:
-  - http://u.sbhat.me/fyeh4g
+  - https://u.sbhat.me/fyeh4g
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - rm
   - terminal
   - "tips-and-howto's"
   - tutorials
@@ -21,4 +20,4 @@ via [command line &#8211; Remove all files but one with rm &#8211; Super User][1
 
 Nice tip.
 
- [1]: http://superuser.com/q/227865/4377
+ [1]: https://superuser.com/q/227865/4377

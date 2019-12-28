@@ -9,8 +9,6 @@ categories:
 tags:
   - applications
   - Arch
-  - cat
-  - DE
   - delete
   - eye-candy
   - GNOME
@@ -18,24 +16,18 @@ tags:
   - linux
   - LTS
   - menu
-  - move
-  - New
   - open source
   - openSuSE
-  - os
-  - personal
   - SUSE
   - "tips-and-howto's"
   - tutorials
-  - user
-  - X
 
 ---
 Seems like lot of openSUSE Gnome users don&#8217;t like the new Gnome panel, which is radically different interface from the traditional Menu bar with Applications/Places/System entries. Personally I prefer the new style, perhaps because I&#8217;m used to the openSUSE Kickoff panel, and I really dig the search feature
 
 <!--more-->
 
-<a id="aptureLink_yMh1BnWwbY" style="margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://img245.imageshack.us/img245/694/uploadc.jpg"><img style="border: 0px none currentColor;" src="http://img245.imageshack.us/img245/694/uploadc.jpg" alt="" width="509px" height="327px" /></a>
+<a id="aptureLink_yMh1BnWwbY" style="margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="https://img245.imageshack.us/img245/694/uploadc.jpg"><img style="border: 0px none currentColor;" src="https://img245.imageshack.us/img245/694/uploadc.jpg" alt="" width="509px" height="327px" /></a>
 
 You can go back to the default Applications / Places / System panel pretty easily. To do this:
 

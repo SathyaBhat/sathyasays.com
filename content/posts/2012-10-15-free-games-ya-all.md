@@ -12,7 +12,7 @@ tags:
   - origin
 
 ---
-### <a href="http://techie-buzz.com/gaming/ea-origin-coupon-free-games.html" target="_blank">EA’s Coupon Code Goof Up Results in Free Games Bonanza &#8594; </a>
+### <a href="https://techie-buzz.com/gaming/ea-origin-coupon-free-games.html" target="_blank">EA’s Coupon Code Goof Up Results in Free Games Bonanza &#8594; </a>
 
 > The coupon code was supposed to be one-time and applicable for one game — except EA forgot to put in the one-time check. Woops. Few enterprising souls discovered that they could use it multiple times. EA’s servers essentially didn’t bother to validate if the user had applied the code or not.
 
@@ -36,5 +36,5 @@ Thoughts:
 
 &nbsp;
 
- [1]: http://techie-buzz.com/gaming/ea-origin-coupon-free-games.html
- [2]: http://forum.ea.com/eaforum/posts/list/45/9040620.page#25421061
+ [1]: https://techie-buzz.com/gaming/ea-origin-coupon-free-games.html
+ [2]: https://forum.ea.com/eaforum/posts/list/45/9040620.page#25421061

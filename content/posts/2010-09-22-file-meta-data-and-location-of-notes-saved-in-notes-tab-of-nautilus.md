@@ -5,24 +5,18 @@ type: post
 date: 2010-09-22T01:49:11+00:00
 url: /2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/
 topsy_short_url:
-  - http://bit.ly/cVWzgN
+  - https://bit.ly/cVWzgN
 categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - boot
-  - cat
   - commands
-  - DE
   - dl
   - file
   - find
   - GNOME
   - gvfs
-  - IM
-  - install
   - KDE
-  - KDE4
   - Launchpad
   - linux
   - LTS
@@ -31,16 +25,12 @@ tags:
   - Nautilus
   - notes
   - open source
-  - os
   - partition
-  - rm
   - Super
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - user
   - windows
-  - X
 
 ---
 I spend quite a lot of time on Super User( [my][1]{#aptureLink_qMmmNb2Xqv} [rep][2]{#aptureLink_vjHLLfl9NA} is a testament to that I guess ;) ) &#8211; both on the site as well as the mindblowingly awesome [chat][3]{#aptureLink_yMJtbXi2I1} (if you haven&#8217;t been here, you \*must\* drop by).
@@ -63,16 +53,16 @@ That didn&#8217;t return anything, so I went back to the big G and searched deep
 
 And indeed, it was
 
-<img class="aligncenter" title="Notes" src="http://i.imgur.com/CWYMH.png" alt=""   />
+<img class="aligncenter" title="Notes" src="https://i.imgur.com/CWYMH.png" alt=""   />
 
 Unfortunately, given the data stored against it, I don&#8217;t think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
 
 Just another thing you learn every day :)
 
- [1]: http://superuser.com/users/4377/sathya
- [2]: http://superuser.com/users/flair/4377.png
- [3]: http://chat.superuser.com
- [4]: http://chat.superuser.com/transcript/message/11632
- [5]: http://sathyasays.com/tag/kde/
- [6]: http://www.google.com/search?q=notes+in+gnome+file+properties&hl=en
+ [1]: https://superuser.com/users/4377/sathya
+ [2]: https://superuser.com/users/flair/4377.png
+ [3]: https://chat.superuser.com
+ [4]: https://chat.superuser.com/transcript/message/11632
+ [5]: https://sathyasays.com/tag/kde/
+ [6]: https://www.google.com/search?q=notes+in+gnome+file+properties&hl=en
  [7]: https://answers.launchpad.net/ubuntu/+source/gvfs/+question/93098

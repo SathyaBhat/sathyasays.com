@@ -8,27 +8,19 @@ categories:
   - News
 tags:
   - commands
-  - DE
   - distro
-  - distros
   - file
   - filesystem
   - Home
-  - install
   - linux
-  - mount
   - mounting
   - open source
-  - os
-  - rm
   - root
   - terminal
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - ux
   - Wubi
-  - X
   - xp
 
 ---
@@ -46,4 +38,4 @@ Would come in very handy if someone were to migrate from Wubi install to a full 
 
 Thanks, [Bharath][1]{#aptureLink_DfqHkNP9O1}.
 
- [1]: http://sathyasays.com/author/bharath/
+ [1]: https://sathyasays.com/author/bharath/

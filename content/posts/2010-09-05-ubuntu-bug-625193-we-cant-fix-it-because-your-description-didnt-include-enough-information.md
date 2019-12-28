@@ -5,40 +5,30 @@ type: post
 date: 2010-09-05T17:02:42+00:00
 url: /2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/
 topsy_short_url:
-  - http://bit.ly/90FvR2
+  - https://bit.ly/90FvR2
 categories:
   - General
 tags:
   - Canonical
-  - DE
   - eye-candy
-  - IM
-  - install
   - Leopard
   - LTS
   - Meta
-  - net
-  - os
   - OS X
-  - repo
-  - rm
   - script
   - snow
   - Ubuntu
-  - Ubuntu 10.10
-  - upgrade
-  - views
+  -  upgrade
   - wallpaper
   - wallpapers
   - windows
-  - X
   - xp
 
 ---
 They say a picture is worth a thousand words. [This picture][1]{#aptureLink_ZLuYVKGOuU} speaks for itself. Yes, its fugly. What the heck are those 3 bloody orbs ?
 
 <p style="text-align: center;">
-  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="http://i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="http://i.imgur.com/YCn7C.jpg" alt=""   /></a>
+  <a id="aptureLink_kJIGpOkXVo" style="margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; text-align: center; display: block; padding-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 6px;" href="https://i.imgur.com/YCn7C.jpg"><img class="aligncenter" title="Ubuntu 10.10 Wallpaper ?" src="https://i.imgur.com/YCn7C.jpg" alt=""   /></a>
 </p>
 
 <!--more-->
@@ -87,8 +77,8 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 
 via [Bug #625193 is not in Ubuntu: “Official 10.10 wallpaper is unappealing”][5].
 
- [1]: http://i.imgur.com/YCn7C.jpg
+ [1]: https://i.imgur.com/YCn7C.jpg
  [2]: https://bugs.launchpad.net/ubuntu/+bug/625193/comments/17
  [3]: https://bugs.launchpad.net/ubuntu/+bug/625193/comments/24
- [4]: http://launchpad.net/~strycore
+ [4]: https://launchpad.net/~strycore
  [5]: https://bugs.launchpad.net/ubuntu/+bug/625193

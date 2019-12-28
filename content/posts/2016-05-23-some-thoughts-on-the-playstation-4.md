@@ -11,7 +11,6 @@ categories:
 tags:
   - console
   - games
-  - pcmasterrace
   - playstation 4
   - ps4
 
@@ -19,12 +18,12 @@ tags:
 Few months ago for our second wedding Anniversary, after much discussions on what to get for each other &#8211; we decided to get a PlayStation 4. This was a rather surprising decision considering
 
   * I&#8217;ve never been a console gamer(barring the SNES clones that Dad got for my <a href="https://en.wikipedia.org/wiki/Upanayana" target="_blank">Brahmopadesham</a>)
-  * I&#8217;ve had a fairly <a href="http://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank">decent gaming computer</a> and spend a lot of time in front of the computer than a TV
+  * I&#8217;ve had a fairly <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank">decent gaming computer</a> and spend a lot of time in front of the computer than a TV
   * I really don&#8217;t like playing with controllers and pretty bad with it
 
-Few months back Subbu lent me his PS Vita loaded with.. pretty much all the Vita games on the planet &#8211; however, my aim was to play Persona 4 as it has come highly recommended by <a href="http://www.godisageek.com/author/mikhail-madnani/" target="_blank">Mike</a>, <a href="https://twitter.com/burstdragon" target="_blank">Kush</a> and just about everyone else. And I did, and really enjoyed it. When I was not playing Persona 4, Jo would occasionally grab the Vita and play <a href="https://www.youtube.com/watch?v=mwZtt4Q9CxY" target="_blank">Sound Shapes</a> &#8211; and she really enjoyed it as well.
+Few months back Subbu lent me his PS Vita loaded with.. pretty much all the Vita games on the planet &#8211; however, my aim was to play Persona 4 as it has come highly recommended by <a href="https://www.godisageek.com/author/mikhail-madnani/" target="_blank">Mike</a>, <a href="https://twitter.com/burstdragon" target="_blank">Kush</a> and just about everyone else. And I did, and really enjoyed it. When I was not playing Persona 4, Jo would occasionally grab the Vita and play <a href="https://www.youtube.com/watch?v=mwZtt4Q9CxY" target="_blank">Sound Shapes</a> &#8211; and she really enjoyed it as well.
 
-With our Anniversary in sight and us liking the Vita so much, I thought we should get the Vita, but with lack of games and us both wanting to play together, we ended up with the PS4. I waited for a bit till I got a deal on the PS4 &#8211; <a href="http://www.amazon.in/Sony-PlayStation-1TB-Console-Ultimate/dp/B019XI6DJG/ref=sr_1_1?s=videogames&ie=UTF8&qid=1461355259&sr=1-1&tag=mewoof-21&keywords=playstation+4" target="_blank">the PlayStation 4 1TB  &#8220;Ultimate Player Edition&#8221;</a> had price drop of  Rs. 3,000, decided to grab that. Besides the increased storage, the bundle came with 2 games(inFamous Second Son and God of War Remastered back then)
+With our Anniversary in sight and us liking the Vita so much, I thought we should get the Vita, but with lack of games and us both wanting to play together, we ended up with the PS4. I waited for a bit till I got a deal on the PS4 &#8211; <a href="https://www.amazon.in/Sony-PlayStation-1TB-Console-Ultimate/dp/B019XI6DJG/ref=sr_1_1?s=videogames&ie=UTF8&qid=1461355259&sr=1-1&tag=mewoof-21&keywords=playstation+4" target="_blank">the PlayStation 4 1TB  &#8220;Ultimate Player Edition&#8221;</a> had price drop of  Rs. 3,000, decided to grab that. Besides the increased storage, the bundle came with 2 games(inFamous Second Son and God of War Remastered back then)
 
 <!--more-->
 
@@ -50,11 +49,11 @@ It&#8217;s been about 6 months now since I&#8217;ve bought it &#8211; and despit
 
 ### Media Center
 
-I have a <a href="https://plex.tv/" target="_blank">Plex server</a> running on <a href="http://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank">my desktop</a> serving much of my media to my TV via a Chromecast. I didn&#8217;t think it&#8217;d stop using the Chromecast and I was pretty much right &#8211; for first few months of owning the PS4, the Plex app was gated behind PlexPass. When it was officially released and available for all, I didn&#8217;t like using the Plex app to navigate through the UI &#8211; felt it was too cumbersome. To make matters worse, the PS4 takes a good 30s &#8211; 1minute to startup, initialize and be ready for playback &#8211; was sort of getting annoying. As such Media Center usage of the PS4 is pretty much nil.
+I have a <a href="https://plex.tv/" target="_blank">Plex server</a> running on <a href="https://sathyabh.at/2013/08/01/hellforge-my-desktop-after-a-long-time/" target="_blank">my desktop</a> serving much of my media to my TV via a Chromecast. I didn&#8217;t think it&#8217;d stop using the Chromecast and I was pretty much right &#8211; for first few months of owning the PS4, the Plex app was gated behind PlexPass. When it was officially released and available for all, I didn&#8217;t like using the Plex app to navigate through the UI &#8211; felt it was too cumbersome. To make matters worse, the PS4 takes a good 30s &#8211; 1minute to startup, initialize and be ready for playback &#8211; was sort of getting annoying. As such Media Center usage of the PS4 is pretty much nil.
 
 ### Dual Shock 4
 
-The bundle came with just one controller &#8211; which I think is a shame. A <a href="http://www.amazon.in/Sony-PlayStation-Dualshock-Controller-Blue/dp/B00D781OQ6/ref=sr_1_2?ie=UTF8&qid=1464022634&tag=mewoof-21&sr=8-2&keywords=dual+shock+4" target="_blank">new controller</a> costs about Rs. 4,250 &#8211; though I saved a bit by asking Reetesh to buy me a new controller when he came over to India. Having used to the Xbox 360 controller since a long time, I thought the DS4 experience would be similar but over time, I now prefer the DS4 to the Xbox 360 controller. The DS4 seems to suit my grip better and doesn&#8217;t cause any pain, especially when operating the left analog stick which was a problem for me with the Xbox 360 controller. The DS4 also features a nice touchpad, the light bar and a handy speaker on the controller. It&#8217;s a shame not many games make use of the speaker &#8211; I think of my games collection only inFamous 2, Sound Shapes and Journey use it to add an extra bit of immersion. Sure it&#8217;s a subtle touch but makes a huge difference to the experience.
+The bundle came with just one controller &#8211; which I think is a shame. A <a href="https://www.amazon.in/Sony-PlayStation-Dualshock-Controller-Blue/dp/B00D781OQ6/ref=sr_1_2?ie=UTF8&qid=1464022634&tag=mewoof-21&sr=8-2&keywords=dual+shock+4" target="_blank">new controller</a> costs about Rs. 4,250 &#8211; though I saved a bit by asking Reetesh to buy me a new controller when he came over to India. Having used to the Xbox 360 controller since a long time, I thought the DS4 experience would be similar but over time, I now prefer the DS4 to the Xbox 360 controller. The DS4 seems to suit my grip better and doesn&#8217;t cause any pain, especially when operating the left analog stick which was a problem for me with the Xbox 360 controller. The DS4 also features a nice touchpad, the light bar and a handy speaker on the controller. It&#8217;s a shame not many games make use of the speaker &#8211; I think of my games collection only inFamous 2, Sound Shapes and Journey use it to add an extra bit of immersion. Sure it&#8217;s a subtle touch but makes a huge difference to the experience.
 
 Quite a few games use the lightbar for different reasons &#8211; to indicate health, identify & tag controller to a player but I think, hands-down the best usage of the light bar has to be Broforce which flashes in the colours of the United States flag when you complete a level.
 
@@ -64,15 +63,15 @@ Let&#8217;s be honest, I bought the PS4 for the games, nothing else. I&#8217;ve 
 
 Here&#8217;s a list of some of the games that I have
 
-  * <a href="http://www.amazon.in/God-of-War-Remastered-PS4/dp/B00YORZL4A/ref=sr_1_2?ie=UTF8&qid=1464024264&sr=8-2&keywords=God+of+War+3" target="_blank">God of War Remastered</a> &#8211; got as part of the bundle
-  * <a href="http://www.amazon.in/Sony-G000006320-Infamous-Second-Son/dp/B00HR4JTZE/ref=sr_1_1?ie=UTF8&tag=mewoof-21&qid=1464024226&sr=8-1&keywords=inFamous+Second+Son" target="_blank">inFamous Second Son</a> &#8211; got as part of the bundle
+  * <a href="https://www.amazon.in/God-of-War-Remastered-PS4/dp/B00YORZL4A/ref=sr_1_2?ie=UTF8&qid=1464024264&sr=8-2&keywords=God+of+War+3" target="_blank">God of War Remastered</a> &#8211; got as part of the bundle
+  * <a href="https://www.amazon.in/Sony-G000006320-Infamous-Second-Son/dp/B00HR4JTZE/ref=sr_1_1?ie=UTF8&tag=mewoof-21&qid=1464024226&sr=8-1&keywords=inFamous+Second+Son" target="_blank">inFamous Second Son</a> &#8211; got as part of the bundle
   * <a href="https://www.playstation.com/en-us/games/sound-shapes-ps4/" target="_blank">Sound Shapes</a> &#8211; Jo loved this game on the Vita, immediately bought this for the PS4
-  * <a href="http://www.amazon.in/Sony-G000006312-Drive-Club-PS4/dp/B00HR4IFZ4/ref=sr_1_1?ie=UTF8&qid=1464000239&tag=mewoof-21&sr=8-1&keywords=driveclub" target="_blank">Driveclub</a> &#8211; One of the games that I have been meaning to play, buying this was a nobrainer
-  * <a href="http://www.amazon.in/Uncharted-Nathan-Drake-Collection-PS4/dp/B012ZEP3S2/ref=sr_1_1?ie=UTF8&tag=mewoof-21&qid=1464000281&sr=8-1&keywords=uncharted+nathan+drake+collection" target="_blank">Uncharted: Nathan Drake collection</a> &#8211; Collection of remastered editions of Uncharted 1, 2 and 3. Completed the first two, need to finish the third. Gifted to me as part of [IVG Secret Santa][1]. Definitely recommended.
-  * <a href="http://www.amazon.in/Last-Us-Remastered-PS4/dp/B00LVXIVF6/ref=sr_1_2?ie=UTF8&qid=1464000852&tag=mewoof-21&sr=8-2&keywords=the+last+of+us" target="_blank">The Last of Us &#8211; Remastered</a> &#8211; Another game gifted by my [IVG Secret Santa][1]. Yet to start but heard good reviews about this.
-  * <a href="http://www.amazon.in/Diablo-III-Ultimate-Evil-PS4/dp/B00GLZQR96/ref=sr_1_4?ie=UTF8&qid=1464024149&tag=mewoof-21&sr=8-4&keywords=Diablo+III%3A+Ultimate+Evil+Edition" target="_blank">Diablo III: Ultimate Evil Edition</a> &#8211; Being a Diablo fan, how can I not have this game? [Reetesh][2] gifted me [the game][3]. He wanted to gift me and surprise me, but the cat was sorta out of the bag when he mentioned &#8220;Don&#8217;t buy the game I know you&#8217;re going to buy&#8221;. Hehe.
-  * <a href="http://www.amazon.in/Assassins-Creed-IV-Black-Flag/dp/B00I2ORWZM/ref=sr_1_2?ie=UTF8&qid=1464024117&tag=mewoof-21&sr=8-2&keywords=Assassin%27s+Creed%3A+Black+Flag" target="_blank">Assassin&#8217;s Creed: Black Flag</a> &#8211; Yet to start. Bought this off IVG&#8217;s trading forum.
-  * <a href="http://www.amazon.in/Sony-Journey-Collectors-Edition-PS4/dp/B015XYPPDY/ref=sr_1_2?ie=UTF8&tag=mewoof-21&qid=1464001192&sr=8-2&keywords=Journey" target="_blank">Journey</a>: Game bought from PSN. Yet to try because I want to finish this in one sitting and I have not been able to find a continuous block of time :|
+  * <a href="https://www.amazon.in/Sony-G000006312-Drive-Club-PS4/dp/B00HR4IFZ4/ref=sr_1_1?ie=UTF8&qid=1464000239&tag=mewoof-21&sr=8-1&keywords=driveclub" target="_blank">Driveclub</a> &#8211; One of the games that I have been meaning to play, buying this was a nobrainer
+  * <a href="https://www.amazon.in/Uncharted-Nathan-Drake-Collection-PS4/dp/B012ZEP3S2/ref=sr_1_1?ie=UTF8&tag=mewoof-21&qid=1464000281&sr=8-1&keywords=uncharted+nathan+drake+collection" target="_blank">Uncharted: Nathan Drake collection</a> &#8211; Collection of remastered editions of Uncharted 1, 2 and 3. Completed the first two, need to finish the third. Gifted to me as part of [IVG Secret Santa][1]. Definitely recommended.
+  * <a href="https://www.amazon.in/Last-Us-Remastered-PS4/dp/B00LVXIVF6/ref=sr_1_2?ie=UTF8&qid=1464000852&tag=mewoof-21&sr=8-2&keywords=the+last+of+us" target="_blank">The Last of Us &#8211; Remastered</a> &#8211; Another game gifted by my [IVG Secret Santa][1]. Yet to start but heard good reviews about this.
+  * <a href="https://www.amazon.in/Diablo-III-Ultimate-Evil-PS4/dp/B00GLZQR96/ref=sr_1_4?ie=UTF8&qid=1464024149&tag=mewoof-21&sr=8-4&keywords=Diablo+III%3A+Ultimate+Evil+Edition" target="_blank">Diablo III: Ultimate Evil Edition</a> &#8211; Being a Diablo fan, how can I not have this game? [Reetesh][2] gifted me [the game][3]. He wanted to gift me and surprise me, but the cat was sorta out of the bag when he mentioned &#8220;Don&#8217;t buy the game I know you&#8217;re going to buy&#8221;. Hehe.
+  * <a href="https://www.amazon.in/Assassins-Creed-IV-Black-Flag/dp/B00I2ORWZM/ref=sr_1_2?ie=UTF8&qid=1464024117&tag=mewoof-21&sr=8-2&keywords=Assassin%27s+Creed%3A+Black+Flag" target="_blank">Assassin&#8217;s Creed: Black Flag</a> &#8211; Yet to start. Bought this off IVG&#8217;s trading forum.
+  * <a href="https://www.amazon.in/Sony-Journey-Collectors-Edition-PS4/dp/B015XYPPDY/ref=sr_1_2?ie=UTF8&tag=mewoof-21&qid=1464001192&sr=8-2&keywords=Journey" target="_blank">Journey</a>: Game bought from PSN. Yet to try because I want to finish this in one sitting and I have not been able to find a continuous block of time :|
   * Broforce: Got this game free as part of PS+. Initially dismissed this game, but when Reetesh encouraged me to try it, I did. Most fun co-op game I&#8217;ve played since long time.
   * Gauntlet: Got this game free as part of PS+. Another nice though a bit tough/annoying, it&#8217;s pretty much like most ARPGs and excels in co-op situation.
   * Galak-Z: Got this game free as part of PS+
@@ -103,7 +102,7 @@ At one time I used to drool about PS+, especially for the games would be given 
 
 ### Upcoming games
 
-There aren&#8217;t too many upcoming games I&#8217;m thrilled about &#8211; Persona 5 and Uncharted 4(which is already here..) being the exceptions. Persona 5 looks really stylish and can&#8217;t wait to get my hands on it. I&#8217;ve been keenly following the progress of GT Sport eagerly and it&#8217;s <a href="http://gadgets.ndtv.com/games/news/ps4-exclusive-gran-turismo-sport-release-date-announced-839534" target="_blank">coming in November</a>. No official pricing yet but I wouldn&#8217;t be surprised if it&#8217;ll be around Rs 4,000 &#8211; in which case I&#8217;ll wait before jumping in.
+There aren&#8217;t too many upcoming games I&#8217;m thrilled about &#8211; Persona 5 and Uncharted 4(which is already here..) being the exceptions. Persona 5 looks really stylish and can&#8217;t wait to get my hands on it. I&#8217;ve been keenly following the progress of GT Sport eagerly and it&#8217;s <a href="https://gadgets.ndtv.com/games/news/ps4-exclusive-gran-turismo-sport-release-date-announced-839534" target="_blank">coming in November</a>. No official pricing yet but I wouldn&#8217;t be surprised if it&#8217;ll be around Rs 4,000 &#8211; in which case I&#8217;ll wait before jumping in.
 
 Some other games that I&#8217;m looking forward to include:
 
@@ -114,6 +113,6 @@ And with E3 2016 right around the corner &#8211; who knows what&#8217;s in store
 
 ###
 
- [1]: http://www.indianvideogamer.com/forums/index.php?app=core&module=search&do=search&fromMainBar=1
+ [1]: https://www.indianvideogamer.com/forums/index.php?app=core&module=search&do=search&fromMainBar=1
  [2]: https://twitter.com/reetesh
  [3]: https://www.instagram.com/p/BDusuNnkBsd/?taken-by=sathyabhat

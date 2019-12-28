@@ -5,7 +5,7 @@ type: post
 date: 2010-09-23T16:23:14+00:00
 url: /2010/09/23/linux-power-management/
 topsy_short_url:
-  - http://bit.ly/cLA07u
+  - https://bit.ly/cLA07u
 categories:
   - General
   - Linked
@@ -14,19 +14,14 @@ tags:
   - Cambridge
   - Fedora
   - Fedora 10
-  - IM
   - lenovo
   - linux
   - LTS
   - MBR
-  - os
   - performance
   - power management
-  - rm
   - testing
-  - ux
-  - X
-
+  
 ---
 > We tested every major release of Fedora from Fedora 10 &#8220;Cambridge&#8221; through the most recent Fedora 14 &#8220;Laughlin&#8221; Alpha build.
 
@@ -42,4 +37,4 @@ _
 
 via [[Phoronix] Is Linux Power Management Getting Better Or Worse?][1].
 
- [1]: http://www.phoronix.com/scan.php?page=article&item=fedora_battery_power&num=1
+ [1]: https://www.phoronix.com/scan.php?page=article&item=fedora_battery_power&num=1

@@ -8,34 +8,24 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - cat
   - ccsm
   - compiz
   - compiz fusion
-  - DE
   - forums
   - fusion
   - games
   - Google
-  - IM
   - internet
   - linux
   - LV
   - menu
-  - move
   - moving
-  - net
   - opacity
-  - os
-  - rm
-  - switch
   - switching
   - "tips-and-howto's"
   - transparency
   - tutorials
   - Ubuntu
-  - ux
-  - X
   - xp
 
 ---
@@ -66,14 +56,14 @@ tags:
       Enter General Options
     </li>
     <p style="text-align: center;">
-      <a href="http://img215.imageshack.us/my.php?image=generaloptionsmu5.png" target="_blank"><img class="aligncenter" src="http://img215.imageshack.us/img215/8900/generaloptionsmu5.th.png" border="0" alt="" /></a>
+      <a href="https://img215.imageshack.us/my.php?image=generaloptionsmu5.png" target="_blank"><img class="aligncenter" src="https://img215.imageshack.us/img215/8900/generaloptionsmu5.th.png" border="0" alt="" /></a>
     </p>
     
     <li>
       Go the tab named &#8220;Opacity Settings&#8221; and expand a tree named &#8220;Window opacities&#8221;.
     </li>
     <p style="text-align: center;">
-      <a href="http://img113.imageshack.us/my.php?image=opacitysettingsgc1.png" target="_blank"><img src="http://img113.imageshack.us/img113/3672/opacitysettingsgc1.th.png" border="0" alt="" /></a>
+      <a href="https://img113.imageshack.us/my.php?image=opacitysettingsgc1.png" target="_blank"><img src="https://img113.imageshack.us/img113/3672/opacitysettingsgc1.th.png" border="0" alt="" /></a>
     </p>
     
     <li>
@@ -82,7 +72,7 @@ tags:
       </div>
       
       <p style="text-align: center;">
-        <a href="http://img521.imageshack.us/my.php?image=dropdownmenubk9.png" target="_blank"><img src="http://img521.imageshack.us/img521/9227/dropdownmenubk9.th.png" border="0" alt="" /></a>
+        <a href="https://img521.imageshack.us/my.php?image=dropdownmenubk9.png" target="_blank"><img src="https://img521.imageshack.us/img521/9227/dropdownmenubk9.th.png" border="0" alt="" /></a>
       </p>
       
       <div>

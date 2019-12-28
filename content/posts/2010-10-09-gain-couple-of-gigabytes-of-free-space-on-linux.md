@@ -5,31 +5,21 @@ type: post
 date: 2010-10-09T00:17:46+00:00
 url: /2010/10/09/gain-couple-of-gigabytes-of-free-space-on-linux/
 topsy_short_url:
-  - http://u.sbhat.me/bzTe0U
+  - https://u.sbhat.me/bzTe0U
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - /dev
   - commands
-  - DE
   - file
   - filesystem
-  - free
   - Home
   - how-tos
-  - IM
   - linux
-  - New
-  - os
   - partition
-  - Partitions
   - root
   - sudo
   - "tips-and-howto's"
-  - user
-  - ux
-  - X
-
+  
 ---
 > Block size of my partition is 4096 (it can be checked using dumpe2fs command). So reserved space on my partition is about 6,3 Gb and equal missing size from hd command.
 > 
@@ -51,4 +41,4 @@ Important note from the post:
 
 I think this point should be mentioned at the top of the post, given how many new users don&#8217;t keep separate root (/) and separate home (/home) partitions.
 
- [1]: http://whileitcompiles.com/linux/how-to-gain-couple-of-gigabytes-of-free-space-on-linux/
+ [1]: https://whileitcompiles.com/linux/how-to-gain-couple-of-gigabytes-of-free-space-on-linux/

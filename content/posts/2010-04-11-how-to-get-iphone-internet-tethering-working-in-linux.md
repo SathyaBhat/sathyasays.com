@@ -5,27 +5,20 @@ type: post
 date: 2010-04-11T18:02:57+00:00
 url: /2010/04/11/how-to-get-iphone-internet-tethering-working-in-linux/
 topsy_short_url:
-  - http://bit.ly/cWKwK8
+  - https://bit.ly/cWKwK8
 categories:
   - "Tips &amp; How-To's"
 tags:
   - Arch
-  - DE
   - Debian
   - driver
-  - IM
   - internet
   - iPhone
   - linux
-  - Mobile
-  - net
-  - sync
+  -   - sync
   - tethering
   - Ubuntu
-  - ux
   - windows
-  - write
-  - X
 
 ---
 > I&#8217;ve owned couple of mobile phones now, all in increasing number of features. But the one thing that remained common amongst all of them, was the ability to use a tethered Internet connection in both Windows and Linux. Until I got the iPhone, that is. With the iPhone, I could no longer use the iPhone as a modem in Linux. Not anymore.
@@ -34,4 +27,4 @@ tags:
 
 More @ [techie-buzz][1]
 
- [1]: http://techie-buzz.com/linux-tips/getting-iphone-internet-tethering-working-in-linux.html
+ [1]: https://techie-buzz.com/linux-tips/getting-iphone-internet-tethering-working-in-linux.html

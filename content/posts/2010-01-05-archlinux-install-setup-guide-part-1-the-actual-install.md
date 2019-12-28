@@ -8,67 +8,43 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - '*nix'
-  - /dev
   - AIR
   - Arch
   - ArchLinux
   - AWN
   - bin
   - BIOS
-  - boot
-  - cat
   - commands
   - console
-  - DE
   - dl
-  - download
   - ext3
   - fdisk
   - file
   - filesystem
-  - free
-  - fun
   - grub
   - guide
   - guides
   - HAL
   - hard disk
-  - IM
-  - install
   - internet
   - iso
   - linux
   - login
   - menu
-  - mount
-  - move
-  - net
-  - New
   - open source
   - operating systems
-  - os
   - partition
   - partitioning
-  - Partitions
   - PHP
-  - read
-  - rm
   - root
-  - Screen
   - show
-  - tar
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - usb
-  - user
-  - ux
   - VirtualBox
   - vm
   - warning
   - windows
-  - write
-  - X
   - xp
 
 ---
@@ -94,7 +70,7 @@ ArchLinux setup starts
 
 ![uploads.jpg][6]
 
-Arch comes with a fairly comprehensive install guide &#8211; check it at @ http://wiki.archlinux.org/index.php/Official\_Arch\_Linux\_Install\_Guide
+Arch comes with a fairly comprehensive install guide &#8211; check it at @ https://wiki.archlinux.org/index.php/Official\_Arch\_Linux\_Install\_Guide
 
 Or if you&#8217;re stuck without an Internet connection, the install guide is available on the CD, just hit Alt-F6 to spawn a new terminal, and type
 
@@ -246,33 +222,33 @@ On rebooting you&#8217;ll be prompted to login. Bear in mean there are no users 
 
 Part II: Creating a new user, setting up GUI &#8211; coming soon ;)
 
- [1]: http://wiki.archlinux.org/index.php/Main_Page
+ [1]: https://wiki.archlinux.org/index.php/Main_Page
  [2]: ../2008/01/22/virtualization-concepts-and-basics-for-dummies/
- [3]: http://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide
- [4]: http://wiki.archlinux.org/index.php/Beginners_Guide
- [5]: http://img109.imageshack.us/img109/568/uploadt.jpg
- [6]: http://img689.imageshack.us/img689/9173/uploads.jpg
- [7]: http://img42.imageshack.us/img42/654/uploadrh.jpg
- [8]: http://img138.imageshack.us/img138/7899/uploadb.jpg
- [9]: http://img138.imageshack.us/img138/7744/uploado.jpg
- [10]: http://img63.imageshack.us/img63/8769/uploadp.jpg
- [11]: http://img63.imageshack.us/img63/7744/uploado.jpg
- [12]: http://img22.imageshack.us/img22/6568/uploadmo.jpg
- [13]: http://img27.imageshack.us/img27/568/uploadt.jpg
- [14]: http://img27.imageshack.us/img27/5136/uploadz.jpg
- [15]: http://img22.imageshack.us/img22/8774/uploadx.jpg
- [16]: http://img130.imageshack.us/img130/7744/uploado.jpg
- [17]: http://img14.imageshack.us/img14/3241/uploadab.jpg
- [18]: http://img14.imageshack.us/img14/9650/uploadjy.jpg
- [19]: http://img683.imageshack.us/img683/9018/uploadu.jpg
- [20]: http://img709.imageshack.us/img709/3633/uploadq.jpg
- [21]: http://img163.imageshack.us/img163/3698/uploadif.jpg
- [22]: http://img163.imageshack.us/img163/6971/uploadxa.jpg
- [23]: http://img12.imageshack.us/img12/6842/uploadwv.jpg
- [24]: http://img12.imageshack.us/img12/4340/uploadcm.jpg
- [25]: http://img97.imageshack.us/img97/499/uploadj.jpg
- [26]: http://img189.imageshack.us/img189/4622/uploadn.jpg
- [27]: http://img189.imageshack.us/img189/3743/uploadhv.jpg
- [28]: http://img121.imageshack.us/img121/3325/uploadde.jpg
- [29]: http://img121.imageshack.us/img121/568/uploadt.jpg
- [30]: http://img691.imageshack.us/img691/2697/uploadr.jpg
+ [3]: https://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide
+ [4]: https://wiki.archlinux.org/index.php/Beginners_Guide
+ [5]: https://img109.imageshack.us/img109/568/uploadt.jpg
+ [6]: https://img689.imageshack.us/img689/9173/uploads.jpg
+ [7]: https://img42.imageshack.us/img42/654/uploadrh.jpg
+ [8]: https://img138.imageshack.us/img138/7899/uploadb.jpg
+ [9]: https://img138.imageshack.us/img138/7744/uploado.jpg
+ [10]: https://img63.imageshack.us/img63/8769/uploadp.jpg
+ [11]: https://img63.imageshack.us/img63/7744/uploado.jpg
+ [12]: https://img22.imageshack.us/img22/6568/uploadmo.jpg
+ [13]: https://img27.imageshack.us/img27/568/uploadt.jpg
+ [14]: https://img27.imageshack.us/img27/5136/uploadz.jpg
+ [15]: https://img22.imageshack.us/img22/8774/uploadx.jpg
+ [16]: https://img130.imageshack.us/img130/7744/uploado.jpg
+ [17]: https://img14.imageshack.us/img14/3241/uploadab.jpg
+ [18]: https://img14.imageshack.us/img14/9650/uploadjy.jpg
+ [19]: https://img683.imageshack.us/img683/9018/uploadu.jpg
+ [20]: https://img709.imageshack.us/img709/3633/uploadq.jpg
+ [21]: https://img163.imageshack.us/img163/3698/uploadif.jpg
+ [22]: https://img163.imageshack.us/img163/6971/uploadxa.jpg
+ [23]: https://img12.imageshack.us/img12/6842/uploadwv.jpg
+ [24]: https://img12.imageshack.us/img12/4340/uploadcm.jpg
+ [25]: https://img97.imageshack.us/img97/499/uploadj.jpg
+ [26]: https://img189.imageshack.us/img189/4622/uploadn.jpg
+ [27]: https://img189.imageshack.us/img189/3743/uploadhv.jpg
+ [28]: https://img121.imageshack.us/img121/3325/uploadde.jpg
+ [29]: https://img121.imageshack.us/img121/568/uploadt.jpg
+ [30]: https://img691.imageshack.us/img691/2697/uploadr.jpg

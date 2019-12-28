@@ -7,40 +7,23 @@ url: /2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-fro
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - /dev
-  - blog
-  - boot
   - commands
-  - DE
   - DVD
   - file
   - flash
   - flash drive
-  - IM
-  - install
   - iso
   - KDE
-  - KDE4
   - linux
   - LiveCD
-  - media
   - openSuSE
   - openSUSE 11
-  - os
-  - personal
-  - rm
   - root
-  - support
   - SUSE
-  - switch
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - usb
-  - user
-  - ux
-  - X
-
+  
 ---
 Howdy folks! Been a \*loong\* time since I last posted isn&#8217;t it? Just been busy with work & travel (won&#8217;t bore you with the details, just check [my personal blog][1]{#aptureLink_20DGMzo67U}).
   
@@ -68,5 +51,5 @@ And, that&#8217;s about it. Reboot, using the USB flash disk as boot device & vo
 
 Note: I&#8217;ve tried this with the KDE4 LiveCD version, if anyone else has tried the DVD version please drop a comment!
 
- [1]: http://sathyabh.at/
- [2]: http://en.opensuse.org/
+ [1]: https://sathyabh.at/
+ [2]: https://en.opensuse.org/

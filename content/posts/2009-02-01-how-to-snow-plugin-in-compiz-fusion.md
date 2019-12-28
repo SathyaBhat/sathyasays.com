@@ -14,11 +14,7 @@ tags:
   - commands
   - compiling
   - compiz
-  - DE
-  - Desktop
   - distro
-  - distros
-  - download
   - Dreamscene
   - exe
   - eye-candy
@@ -28,19 +24,13 @@ tags:
   - forums
   - fusion
   - git
-  - IM
-  - install
   - internet
   - linux
   - LV
-  - net
   - open source
   - openSuSE
-  - os
   - plugin
-  - read
   - RIA
-  - rm
   - Sabayon
   - snow
   - SUSE
@@ -48,9 +38,7 @@ tags:
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - user
   - wallpaper
-  - X
 
 ---
 After a long time&#8217;s search over the internet for many days I finally figured out how to do this. Many may know this already but many may not too. And since I hate to compile programs from sourceI have found here a method that involves less of actual compiling. Since am a ubuntu user I only have tried this in ubuntu and not other distros.
@@ -105,6 +93,6 @@ Thanks to elgilicious and ubuntu forums for [this][3]
 
 _Ed&#8217;s note: Do we really need all of this ?  openSUSE, Fedora, Sabayon &#8211; all had Snow plugin without having to do any of this_
 
- [1]: http://oreaus.googlepages.com/snow.tar
- [2]: http://ubuntuforums.org/showthread.php?p=3792520
- [3]: http://ubuntuforums.org/showthread.php?t=768804
+ [1]: https://oreaus.googlepages.com/snow.tar
+ [2]: https://ubuntuforums.org/showthread.php?p=3792520
+ [3]: https://ubuntuforums.org/showthread.php?t=768804

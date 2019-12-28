@@ -9,53 +9,34 @@ categories:
 tags:
   - Arch
   - ArchLinux
-  - community
-  - DE
   - Debian
-  - Desktop
   - desktop environment
   - distro
-  - distros
   - Fedora
   - Fedora 10
   - file
   - forums
-  - IM
-  - install
   - KDE
   - KDE 4.2
-  - KDE4
+  - KDE
   - linux
-  - media
   - Meta
-  - move
-  - net
   - openSuSE
   - openSUSE 11
   - openSUSE 11.0
   - opensuse 11.1
-  - os
   - PolicyKit
-  - repo
-  - repos
-  - rm
   - root
   - Sabayon
   - Sabayon 4
   - sudo
   - SUSE
-  - switch
-  - tar
   - terminal
   - testing
   - Unity
-  - update
-  - upgrade
   - upgrading
-  - ux
   - warning
   - Wireless
-  - X
   - yum
 
 ---
@@ -121,13 +102,13 @@ Thanks to RollMeWay for [the][6] [inputs][7]
 
 Some pics:
 
-[<img src="http://farm4.static.flickr.com/3454/3242040790_e85b436280.jpg" alt="KDE 4.2 show all windows"   />][8]
+[<img src="https://farm4.static.flickr.com/3454/3242040790_e85b436280.jpg" alt="KDE 4.2 show all windows"   />][8]
 
-[<img src="http://farm4.static.flickr.com/3260/3241207261_7ea9753114.jpg" alt="kde 4.2 cube"   />][9]
+[<img src="https://farm4.static.flickr.com/3260/3241207261_7ea9753114.jpg" alt="kde 4.2 cube"   />][9]
 
-[<img src="http://farm4.static.flickr.com/3489/3241206137_71e738408f.jpg" alt="KDE 4.2 grouping"   />][10]
+[<img src="https://farm4.static.flickr.com/3489/3241206137_71e738408f.jpg" alt="KDE 4.2 grouping"   />][10]
 
-[<img src="http://farm4.static.flickr.com/3308/3241205429_fd2b87786b.jpg" alt="KDE 4.2"   />][11]
+[<img src="https://farm4.static.flickr.com/3308/3241205429_fd2b87786b.jpg" alt="KDE 4.2"   />][11]
 
 **WARNING: While Upgrading to KDE 4.2 on Sabayon, wireless will be broken. This isn&#8217;t KDE 4.2&#8217;s fault, I&#8217;m inclined to say its because of PolicyKit since PolicyKit was installed as I installed KDE4.2 and I know PolicyKit can be a \_real\_ pain.
   
@@ -137,14 +118,14 @@ Update: The wireless breaking is a result of Network. Here&#8217;s a post on get
 
 Update: As mentioned by lythandrel, changed removed references to sudo
 
- [1]: http://sathyasays.com/2009/01/28/drum-roll-please-kde-42-is-released/
- [2]: http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.1/KDE4-DEFAULT.ymp
- [3]: http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-DEFAULT.ymp
- [4]: http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_10.3/KDE4-DEFAULT.ymp
- [5]: http://linuxsaga.com/guide/kde-42-in-debian-testing-lenny
- [6]: http://sathyasays.com/2009/02/01/upgrading-to-kde-42-in-your-favorite-linux-distro/comment-page-1/#comment-24047
- [7]: http://sathyasays.com/2009/02/01/upgrading-to-kde-42-in-your-favorite-linux-distro/comment-page-1/#comment-24063
- [8]: http://www.flickr.com/photos/sathyabhat/3242040790/
- [9]: http://www.flickr.com/photos/sathyabhat/3241207261/
- [10]: http://www.flickr.com/photos/sathyabhat/3241206137/
- [11]: http://www.flickr.com/photos/sathyabhat/3241205429/
+ [1]: https://sathyasays.com/2009/01/28/drum-roll-please-kde-42-is-released/
+ [2]: https://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.1/KDE4-DEFAULT.ymp
+ [3]: https://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-DEFAULT.ymp
+ [4]: https://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_10.3/KDE4-DEFAULT.ymp
+ [5]: https://linuxsaga.com/guide/kde-42-in-debian-testing-lenny
+ [6]: https://sathyasays.com/2009/02/01/upgrading-to-kde-42-in-your-favorite-linux-distro/comment-page-1/#comment-24047
+ [7]: https://sathyasays.com/2009/02/01/upgrading-to-kde-42-in-your-favorite-linux-distro/comment-page-1/#comment-24063
+ [8]: https://www.flickr.com/photos/sathyabhat/3242040790/
+ [9]: https://www.flickr.com/photos/sathyabhat/3241207261/
+ [10]: https://www.flickr.com/photos/sathyabhat/3241206137/
+ [11]: https://www.flickr.com/photos/sathyabhat/3241205429/

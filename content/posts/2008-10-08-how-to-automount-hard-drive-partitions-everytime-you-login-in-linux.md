@@ -10,34 +10,20 @@ categories:
 tags:
   - auto-mount
   - automount
-  - DE
   - distro
-  - distros
   - hard disk
-  - IM
-  - install
   - linux
   - login
   - LV
-  - mount
   - mounting
   - open source
-  - os
   - partition
-  - Partitions
   - pysdm
-  - repo
-  - repos
-  - repositories
-  - rm
   - software
-  - tar
   - "tips-and-howto's"
   - tutorials
   - Ubuntu
-  - ux
   - wallpaper
-  - X
 
 ---
 Hello people,

@@ -10,22 +10,15 @@ categories:
 tags:
   - applications
   - Arch
-  - boot
   - Brasero
-  - cat
   - codecs
-  - community
   - compiz
   - compiz fusion
   - CrossOver
-  - DE
-  - Desktop
   - desktop environment
   - desktop environments
   - distro
-  - distros
   - dl
-  - download
   - driver
   - drivers
   - dual
@@ -41,7 +34,6 @@ tags:
   - find
   - Firefox
   - forums
-  - fun
   - fusion
   - GNOME
   - Google
@@ -50,9 +42,6 @@ tags:
   - guides
   - Home
   - icons
-  - IM
-  - install
-  - intel
   - internet
   - KDE
   - Konqueror
@@ -60,13 +49,8 @@ tags:
   - linux guide
   - LiveCD
   - LV
-  - media
-  - mount
-  - move
   - moving
   - multimedia
-  - net
-  - New
   - newbie
   - NTFS
   - open source
@@ -75,44 +59,31 @@ tags:
   - Opera
   - Operating System
   - operating systems
-  - os
   - package manager
   - partition
   - partitioning
-  - Partitions
   - Pidgin
-  - read
   - Resolution
-  - rm
-  - Screen
   - Screen Resolution
   - show
   - software
   - softwares
   - Solaris
   - SUSE
-  - switch
   - switching
   - switchover
   - synaptic
-  - tar
   - theme
   - themes
   - Ubuntu
   - Unity
   - UNIX
-  - update
-  - upgrade
-  - user
-  - ux
   - VLC
   - wallpaper
   - web
   - windows
   - WINE
-  - X
   - xp
-  - YaST
   - yum
 
 ---
@@ -128,7 +99,7 @@ tags:
   </p>
   
   <p>
-    Linux environment may not be very comfortable to you as you are used to windows. Linux uses different  set of software, different GUI and different methods to perform a task. So, if you also want to get the services offered by Windows, it would be wise to do a dual-boot rather than removing Windows. And many Linux distributions come as a <a href="http://en.wikipedia.org/wiki/Live_CD">LiveCD</a> so it is better to try it before installing it. This way,  one may avoid installing what they do not actually want to install.
+    Linux environment may not be very comfortable to you as you are used to windows. Linux uses different  set of software, different GUI and different methods to perform a task. So, if you also want to get the services offered by Windows, it would be wise to do a dual-boot rather than removing Windows. And many Linux distributions come as a <a href="https://en.wikipedia.org/wiki/Live_CD">LiveCD</a> so it is better to try it before installing it. This way,  one may avoid installing what they do not actually want to install.
   </p>
   
   <p>
@@ -136,11 +107,11 @@ tags:
   </p>
   
   <p>
-    Next, be careful while partitioning before or during the install. Linux will be needing a separate partition and a different <a href="http://en.wikipedia.org/wiki/File_system">filesystem</a> like ext3, ext2 etc. and CANNOT be installed in FAT32 or NTFS partitions used for windows (unless you&#8217;re up to some tricks). Though, <a href="http://en.wikipedia.org/wiki/Ubuntu">Ubuntu</a> has now brought a cool feature that lets you install it inside Windows while being in windows.
+    Next, be careful while partitioning before or during the install. Linux will be needing a separate partition and a different <a href="https://en.wikipedia.org/wiki/File_system">filesystem</a> like ext3, ext2 etc. and CANNOT be installed in FAT32 or NTFS partitions used for windows (unless you&#8217;re up to some tricks). Though, <a href="https://en.wikipedia.org/wiki/Ubuntu">Ubuntu</a> has now brought a cool feature that lets you install it inside Windows while being in windows.
   </p>
   
   <p>
-    One of the most disappointing thing in most <a href="http://en.wikipedia.org/wiki/Linux_Distro">linux distros</a> is that Windows users CANNOT USE EXE FILES. This is because the structures of how Windows and Linux are made different. But with the help of some software, you can run EXE files. Open Source <span style="text-decoration: line-through">emulator</span> <em>[Ed&#8217;s note: WINE is not an emulator.WINE is recursive acronym for WINE Is Not an Emulator]</em> WINE is the most famous. There are also ones like Cedega and Crossover<em>[Ed&#8217;s note: Again, these are based on WINE code and aren&#8217;t emulators] </em>which are commercial ones.
+    One of the most disappointing thing in most <a href="https://en.wikipedia.org/wiki/Linux_Distro">linux distros</a> is that Windows users CANNOT USE EXE FILES. This is because the structures of how Windows and Linux are made different. But with the help of some software, you can run EXE files. Open Source <span style="text-decoration: line-through">emulator</span> <em>[Ed&#8217;s note: WINE is not an emulator.WINE is recursive acronym for WINE Is Not an Emulator]</em> WINE is the most famous. There are also ones like Cedega and Crossover<em>[Ed&#8217;s note: Again, these are based on WINE code and aren&#8217;t emulators] </em>which are commercial ones.
   </p>
   
   <p>
@@ -156,7 +127,7 @@ tags:
   </p>
   
   <p>
-    This is the most important part. A more comprehensive guide on Installing Linux could be found <a href="http://sathyasays.com/linux-install-guide/">here</a> and its link on the home page of this site. Do not do it in any kind of hurry or recklessness. Do all of it with complete concentration. Be extremely careful when selecting partitions and configuring the key options.
+    This is the most important part. A more comprehensive guide on Installing Linux could be found <a href="https://sathyasays.com/linux-install-guide/">here</a> and its link on the home page of this site. Do not do it in any kind of hurry or recklessness. Do all of it with complete concentration. Be extremely careful when selecting partitions and configuring the key options.
   </p>
   
   <p>
@@ -188,7 +159,7 @@ tags:
   </p>
   
   <p>
-    There could be problems during your install. Most of them are easily solvable with a search on the Internet. Or you post them in respective forums and ask any knowledgeable person you know. After a successful installation and reboot you will see a new <a href="http://en.wikipedia.org/wiki/Booting#Boot_loader">bootloader</a> mostly will be GRUB or LILO. They are bootloaders for Linux and they are used to boot into Linux or Windows
+    There could be problems during your install. Most of them are easily solvable with a search on the Internet. Or you post them in respective forums and ask any knowledgeable person you know. After a successful installation and reboot you will see a new <a href="https://en.wikipedia.org/wiki/Booting#Boot_loader">bootloader</a> mostly will be GRUB or LILO. They are bootloaders for Linux and they are used to boot into Linux or Windows
   </p>
   
   <p>
@@ -200,27 +171,27 @@ tags:
   </p>
   
   <p>
-    Following the install of Graphics Card drivers it would be worthy to mention about <a href="http://en.wikipedia.org/wiki/Compiz_fusion">Compiz Fusion</a>. So if your graphics card drivers are installed successful, just do a google search on how to install and activate compiz fusion on your distro. There are umpteen guides over the internet for this.
+    Following the install of Graphics Card drivers it would be worthy to mention about <a href="https://en.wikipedia.org/wiki/Compiz_fusion">Compiz Fusion</a>. So if your graphics card drivers are installed successful, just do a google search on how to install and activate compiz fusion on your distro. There are umpteen guides over the internet for this.
   </p>
   
   <p>
-    Next, you&#8217;ll have to install codecs for the more popular video and audio formats in case they are not provided with the installation medium due to legal restrictions.You can follow the guide <a href="http://sathyasays.com/multimedia-support-in-linux/">here</a>, to install them.
+    Next, you&#8217;ll have to install codecs for the more popular video and audio formats in case they are not provided with the installation medium due to legal restrictions.You can follow the guide <a href="https://sathyasays.com/multimedia-support-in-linux/">here</a>, to install them.
   </p>
   
   <p>
-    Install/Upgrade all necessary software for your specific purposes. They can be installed and/or upgraded through a <a href="http://en.wikipedia.org/wiki/Package_manager">package manager</a> that comes with most distros. Most famous ones include YaST in OpenSUSE, Synaptic in Ubuntu, yum in fedora etc. Find out what software you need for what specific purpose. Most famous purposes and respective softwares include Firefox/Konqueror for web browsing, Pidgin/Kopete for Chatting, Open Office for office purposes, Brasero/K3b for cd burning, VLC/Totem/Kaffenine/Rhythmbox/banshee for multimedia and so on. Do not worry about any anti-virus stuff, Your Linux is already secure. Forget viruses spyware etc.
+    Install/Upgrade all necessary software for your specific purposes. They can be installed and/or upgraded through a <a href="https://en.wikipedia.org/wiki/Package_manager">package manager</a> that comes with most distros. Most famous ones include YaST in OpenSUSE, Synaptic in Ubuntu, yum in fedora etc. Find out what software you need for what specific purpose. Most famous purposes and respective softwares include Firefox/Konqueror for web browsing, Pidgin/Kopete for Chatting, Open Office for office purposes, Brasero/K3b for cd burning, VLC/Totem/Kaffenine/Rhythmbox/banshee for multimedia and so on. Do not worry about any anti-virus stuff, Your Linux is already secure. Forget viruses spyware etc.
   </p>
   
   <p>
-    WINE, used to run Windows applications, can be installed for the same purpose. It works well with a few application and available for most distros. The WINE website is <a href="http://winehq.org">http://winehq.org/</a> and a list of working and non-working software can be found in the WineAppDB in the site. Other commercial software like Cedega or Crossover can also be used at will.
+    WINE, used to run Windows applications, can be installed for the same purpose. It works well with a few application and available for most distros. The WINE website is <a href="https://winehq.org">https://winehq.org/</a> and a list of working and non-working software can be found in the WineAppDB in the site. Other commercial software like Cedega or Crossover can also be used at will.
   </p>
   
   <p>
-    Its worth mentioning that your Linux partition will not be visible  under Windows.  Do not panic. This is happening because Windows doesn&#8217;t understand the file system, and so it did not mount (i.e. showing the contents of something inside a folder) it. You can check out Sathya&#8217;s post on <a href="http://sathyasays.com/2008/06/01/how-to-access-ext2ext3-formatted-linux-partitions-in-windows/" target="_blank">how you can access your Linux partitions under Windows</a>.
+    Its worth mentioning that your Linux partition will not be visible  under Windows.  Do not panic. This is happening because Windows doesn&#8217;t understand the file system, and so it did not mount (i.e. showing the contents of something inside a folder) it. You can check out Sathya&#8217;s post on <a href="https://sathyasays.com/2008/06/01/how-to-access-ext2ext3-formatted-linux-partitions-in-windows/" target="_blank">how you can access your Linux partitions under Windows</a>.
   </p>
   
   <p>
-    Start customising and using your Linux. Change the wallpaper. Set your screen resolution. Try new GUI themes from <a title="Gnome Look" href="http://gnome-look.org" target="_blank">Gnome Look</a>, <a title="KDE Look" href="http://kde-look.org/">KDE Look</a> and <a title="Xfce Look" href="http://xfce-look.org/">Xfce Look</a> for the respective desktops. Start placing desktop icons and other shortcuts. The more you explore, you will find out that Linux not something very alien but is just another OS serving the same purpose in a different way
+    Start customising and using your Linux. Change the wallpaper. Set your screen resolution. Try new GUI themes from <a title="Gnome Look" href="https://gnome-look.org" target="_blank">Gnome Look</a>, <a title="KDE Look" href="https://kde-look.org/">KDE Look</a> and <a title="Xfce Look" href="https://xfce-look.org/">Xfce Look</a> for the respective desktops. Start placing desktop icons and other shortcuts. The more you explore, you will find out that Linux not something very alien but is just another OS serving the same purpose in a different way
   </p>
   
   <p>
@@ -228,7 +199,7 @@ tags:
   </p>
   
   <p>
-    If you want to uninstall Linux just format your Linux partition an you are done. But in case you are getting a GRUB error screen or something, just follow my guide <a href="http://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/">here</a>.
+    If you want to uninstall Linux just format your Linux partition an you are done. But in case you are getting a GRUB error screen or something, just follow my guide <a href="https://sathyasays.com/2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/">here</a>.
   </p>
   
   <hr />

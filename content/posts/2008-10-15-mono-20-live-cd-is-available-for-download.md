@@ -8,22 +8,15 @@ categories:
   - News
 tags:
   - applications
-  - cat
   - compiling
-  - DE
   - distro
   - dot net
-  - download
   - GNOME
-  - IM
   - LiveCD
   - Mono
   - Mono 2.0
-  - net
-  - Novell
   - open source
   - openSuSE
-  - os
   - SUSE
   - torrents
   - vm
@@ -38,6 +31,6 @@ The Live CD is available from [Torrents][1], [Novell&#8217;s FTP server][2] and 
 
 So grab it via a distribution medium or your choice, and happy coding!
 
- [1]: http://ftp.novell.com/pub/mono/livecd/Mono-2.0-2_openSUSE-11.0.iso.torrent
- [2]: http://ftp.novell.com/pub/mono/livecd/Mono-2.0-2_openSUSE-11.0.iso
- [3]: http://ftp.novell.com/pub/mono/vmware/Mono-2.0-2_openSUSE-11.0.zip.torrent
+ [1]: https://ftp.novell.com/pub/mono/livecd/Mono-2.0-2_openSUSE-11.0.iso.torrent
+ [2]: https://ftp.novell.com/pub/mono/livecd/Mono-2.0-2_openSUSE-11.0.iso
+ [3]: https://ftp.novell.com/pub/mono/vmware/Mono-2.0-2_openSUSE-11.0.zip.torrent

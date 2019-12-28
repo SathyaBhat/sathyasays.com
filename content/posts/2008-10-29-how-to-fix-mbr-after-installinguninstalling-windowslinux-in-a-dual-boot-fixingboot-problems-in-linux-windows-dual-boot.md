@@ -8,10 +8,8 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - AIR
-  - boot
   - bootrec
   - commands
-  - DE
   - dual
   - DVD
   - easybcd
@@ -20,18 +18,13 @@ tags:
   - fixmbr
   - grub
   - guide
-  - install
   - linux
   - LiveCD
-  - Master
   - MBR
   - menu
-  - move
   - Opera
-  - os
   - partition
   - record
-  - rm
   - root
   - show
   - software
@@ -39,10 +32,8 @@ tags:
   - terminal
   - "tips-and-howto's"
   - tutorials
-  - ux
   - Vista
   - windows
-  - X
   - xp
 
 ---
@@ -91,4 +82,4 @@ chainloader+1`
 
 After installing Windows XP after Windows Vista and after restoring Vista&#8217;s bootloader one may find that xp or older windows&#8217; options will not be there. For this please make use of a software called [EasyBCD.][1] The installation and operation are self-explainatory. Just click on Add/Remove Entries and add your OS entry. You may also add your linux and mac entries to it. Also there is an option for having a common bootloader using NeoGrub.
 
- [1]: http://neosmart.net/dl.php?id=1
+ [1]: https://neosmart.net/dl.php?id=1
