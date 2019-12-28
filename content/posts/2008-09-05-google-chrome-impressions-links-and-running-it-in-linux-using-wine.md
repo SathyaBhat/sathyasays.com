@@ -87,7 +87,7 @@ tags:
 </div>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2828772328/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3280/2828700202_4c92bc752a_m.jpg" alt="Homepage" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2828772328/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3280/2828700202_4c92bc752a_m.jpg" alt="Homepage" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -99,7 +99,7 @@ tags:
 </div>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2828697754/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3090/2828697754_7dc3705799_m.jpg" alt="Chrome - Full " /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2828697754/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3090/2828697754_7dc3705799_m.jpg" alt="Chrome - Full " /></a>
 </p>
 
 <p style="text-align: left;">
@@ -131,7 +131,7 @@ tags:
   </ul>
   
   <p style="text-align: center;">
-    <a href="http://www.flickr.com/photos/sathyabhat/2828816522/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3123/2828816522_362b7f1222_m.jpg" alt="Search Engines" /></a>
+    <a href="https://www.flickr.com/photos/sathyabhat/2828816522/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3123/2828816522_362b7f1222_m.jpg" alt="Search Engines" /></a>
   </p>
   
   <ul>
@@ -141,7 +141,7 @@ tags:
   </ul>
   
   <p style="text-align: center;">
-    <a style="text-decoration: none;" href="http://www.flickr.com/photos/sathyabhat/2828695746/" target="_blank"> <img style="text-decoration: underline;" src="http://farm4.static.flickr.com/3239/2828695746_634554ce1f_m.jpg" alt="Tabs" /> <span style="color: #000000;"> </span></a><a href="http://www.flickr.com/photos/sathyabhat/2827800741/" target="_blank"><img src="http://farm4.static.flickr.com/3150/2827800741_90d9a97c14_m.jpg" alt="Tabs detached" /></a>
+    <a style="text-decoration: none;" href="https://www.flickr.com/photos/sathyabhat/2828695746/" target="_blank"> <img style="text-decoration: underline;" src="https://farm4.static.flickr.com/3239/2828695746_634554ce1f_m.jpg" alt="Tabs" /> <span style="color: #000000;"> </span></a><a href="https://www.flickr.com/photos/sathyabhat/2827800741/" target="_blank"><img src="https://farm4.static.flickr.com/3150/2827800741_90d9a97c14_m.jpg" alt="Tabs detached" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -178,7 +178,7 @@ tags:
     </ul>
     
     <p style="text-align: center;">
-      <a href="http://www.flickr.com/photos/sathyabhat/2827861905/" target="_blank"><img class="aligncenter" src="http://farm4.static.flickr.com/3211/2827861905_a98af7a6d3_m.jpg" alt="Task Manager" /></a>
+      <a href="https://www.flickr.com/photos/sathyabhat/2827861905/" target="_blank"><img class="aligncenter" src="https://farm4.static.flickr.com/3211/2827861905_a98af7a6d3_m.jpg" alt="Task Manager" /></a>
     </p>
     
     <p style="text-align: left; ">
@@ -205,13 +205,13 @@ tags:
     <div>
       <ul>
         <li>
-          <a href="http://www.mediafire.com/?sharekey=badf528d4394dfa9ab1eab3e9fa335caf986a560f9eddb06" target="_blank">Direct download</a> of the Chrome installer(thanks, <a href="http://aalaap.blogspot.com/" target="_blank"><span><span>Aalaap</span></span></a>)
+          <a href="https://www.mediafire.com/?sharekey=badf528d4394dfa9ab1eab3e9fa335caf986a560f9eddb06" target="_blank">Direct download</a> of the Chrome installer(thanks, <a href="https://aalaap.blogspot.com/" target="_blank"><span><span>Aalaap</span></span></a>)
         </li>
         <li>
-          <span>Keith <span>D&#8217;Souza</span> of Techie-Buzz has a HUGE compilation of </span><a href="http://techie-buzz.com/collections/ultimate-list-of-tips-and-tricks-for-google-chrome.html" target="_blank">Tips and Tricks</a> you might want to check
+          <span>Keith <span>D&#8217;Souza</span> of Techie-Buzz has a HUGE compilation of </span><a href="https://techie-buzz.com/collections/ultimate-list-of-tips-and-tricks-for-google-chrome.html" target="_blank">Tips and Tricks</a> you might want to check
         </li>
         <li>
-          Linux users: <a href="http://www.myscienceisbetter.info/2008/09/install-google-chrome-on-linux-using-wine.html" target="_blank">Get Chrome running on your Linux Box using Wine</a> and A Linux user&#8217;s guide to Chrome: <a href="http://www.itwire.com/content/view/20425/1141/" target="_blank"><span>Keep a sync between <span>Google&#8217;s</span> Linux <span>codebase</span> and the one on your Linux Box</span></a>
+          Linux users: <a href="https://www.myscienceisbetter.info/2008/09/install-google-chrome-on-linux-using-wine.html" target="_blank">Get Chrome running on your Linux Box using Wine</a> and A Linux user&#8217;s guide to Chrome: <a href="https://www.itwire.com/content/view/20425/1141/" target="_blank"><span>Keep a sync between <span>Google&#8217;s</span> Linux <span>codebase</span> and the one on your Linux Box</span></a>
         </li>
       </ul>
     </div>

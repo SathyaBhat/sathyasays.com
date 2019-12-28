@@ -5,14 +5,14 @@ type: post
 date: 2012-02-04T12:28:55+00:00
 url: /2012/02/04/10-minutes-wonly-ya/
 topsy_short_url:
-  - http://u.sbhat.me/ylMR7K
+  - https://u.sbhat.me/ylMR7K
 categories:
   - Programming
 tags:
   - webconference
 
 ---
-Came across <a href="http://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">this article</a> via <a href="http://news.ycombinator.com/item?id=3548445" target="_blank">HN</a> and I&#8217;m pretty sure most who work for Enterprise companies would&#8217;ve come across this at least once. Incredibly detailed post.
+Came across <a href="https://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">this article</a> via <a href="https://news.ycombinator.com/item?id=3548445" target="_blank">HN</a> and I&#8217;m pretty sure most who work for Enterprise companies would&#8217;ve come across this at least once. Incredibly detailed post.
 
 > Boss: Hey Ed, Sue in Detroit says that sometimes, the wrong Invoice Part Number is showing up on the Product History Screen. Can you help us figure this out.
   
@@ -28,9 +28,9 @@ Came across <a href="http://edweissman.com/dear-boss-for-a-programmer-10-minutes
   
 > Boss: Great. Check your Outlook for an invite.
 
-Continue reading the <a href="http://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">full article</a>.
+Continue reading the <a href="https://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">full article</a>.
 
-Talking about web conferences, <a href="http://news.ycombinator.com/item?id=3548736" target="_blank">this comment</a> is eerily familiar.
+Talking about web conferences, <a href="https://news.ycombinator.com/item?id=3548736" target="_blank">this comment</a> is eerily familiar.
 
 > Every conf call I join includes at least two of the following.
 > 
@@ -66,4 +66,4 @@ Talking about web conferences, <a href="http://news.ycombinator.com/item?id=3548
 
 &nbsp;
 
- [1]: http://meta.stackoverflow.com/users/150235/tim-stone
+ [1]: https://meta.stackoverflow.com/users/150235/tim-stone

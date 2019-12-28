@@ -40,15 +40,15 @@ At hand today we have the Sapphire Radeon HD 3650 512MB graphics card as Phoroni
 the first Linux benchmarks for this RV635 GPU.
 
 <p align="center">
-  <img src="http://www.phoronix.net/image.php?id=985&image=sapphire_hd3650_pkg" title="ATI Radeon HD 3650 512MB" />
+  <img src="https://www.phoronix.net/image.php?id=985&image=sapphire_hd3650_pkg" title="ATI Radeon HD 3650 512MB" />
 </p>
 
 <p align="left">
-  The Sapphire Radeon HD 3650 graphics card boasts 512MB of 128-bit GDDR3 video memory running at 1.6GHz, built on 55nm fabrication, 725MHz core clock, and contains 120 stream processors. The HD 3650 supports DirectX 10.1 and OpenGL 2.0. Like the other graphics cards in the Radeon HD 3000 family, the RV635 is PCI Express 2.0 compliant and has other functionality common to the R600 series such as CrossFireX, ATI&#8217;s Unified Video Decoder, and HDMI support with 5.1 surround sound audio. An addition to the Radeon HD 3650 that cannot be found on the Radeon HD 2600 series, which the RV635 replaces, is support for <a href="http://www.phoronix.com/vr.php?view=6401" target="_blank">PowerPlay</a>. PowerPlay is supported by the binary Linux driver (and is expected in the future for xf86-video-radeonhd) for adjusting the core/memory frequencies and voltages in order to conserve power and reduce the heat-output when the graphics card doesn&#8217;t need to be fully utilized.
+  The Sapphire Radeon HD 3650 graphics card boasts 512MB of 128-bit GDDR3 video memory running at 1.6GHz, built on 55nm fabrication, 725MHz core clock, and contains 120 stream processors. The HD 3650 supports DirectX 10.1 and OpenGL 2.0. Like the other graphics cards in the Radeon HD 3000 family, the RV635 is PCI Express 2.0 compliant and has other functionality common to the R600 series such as CrossFireX, ATI&#8217;s Unified Video Decoder, and HDMI support with 5.1 surround sound audio. An addition to the Radeon HD 3650 that cannot be found on the Radeon HD 2600 series, which the RV635 replaces, is support for <a href="https://www.phoronix.com/vr.php?view=6401" target="_blank">PowerPlay</a>. PowerPlay is supported by the binary Linux driver (and is expected in the future for xf86-video-radeonhd) for adjusting the core/memory frequencies and voltages in order to conserve power and reduce the heat-output when the graphics card doesn&#8217;t need to be fully utilized.
 </p>
 
 <p align="center">
-  <img src="http://www.phoronix.net/image.php?id=985&image=sapphire_hd3650_conts" title="ATI Radeon HD 3650 512MB" />
+  <img src="https://www.phoronix.net/image.php?id=985&image=sapphire_hd3650_conts" title="ATI Radeon HD 3650 512MB" />
 </p>
 
 <p align="left">
@@ -56,7 +56,7 @@ the first Linux benchmarks for this RV635 GPU.
 </p>
 
 <p align="left">
-  Continue reading the Review at <a href="http://www.phoronix.com/scan.php?page=article&item=985&num=1">Phoronix</a><br /> <a href="http://www.phoronix.com/scan.php?page=article&item=985&num=1"></a>
+  Continue reading the Review at <a href="https://www.phoronix.com/scan.php?page=article&item=985&num=1">Phoronix</a><br /> <a href="https://www.phoronix.com/scan.php?page=article&item=985&num=1"></a>
 </p>
 
-Technorati Tags: <a href="http://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="http://technorati.com/tag/ATI" class="performancingtags" rel="tag">ATI</a>, <a href="http://technorati.com/tag/Radeon" class="performancingtags" rel="tag">Radeon</a>
+Technorati Tags: <a href="https://technorati.com/tag/Linux" class="performancingtags" rel="tag">Linux</a>, <a href="https://technorati.com/tag/ATI" class="performancingtags" rel="tag">ATI</a>, <a href="https://technorati.com/tag/Radeon" class="performancingtags" rel="tag">Radeon</a>

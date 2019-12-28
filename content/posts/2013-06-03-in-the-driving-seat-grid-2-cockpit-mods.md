@@ -14,11 +14,11 @@ tags:
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
     <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
-      <img src="http://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
+      <img src="https://www.gravatar.com/avatar/1375f202e61682cc4963295f4b0430dc" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://sathyabhat.newsblur.com/story/in-the-driving-seat-/3b9842">shared this story</a><br /> from <img src="http://icons.newsblur.com/1701504.png" style="vertical-align: middle;width:16px;height:16px;" /> Rock, Paper, Shotgun:</b>
+      <b><br /> sathyabhat<br /> <a href="https://sathyabhat.newsblur.com/story/in-the-driving-seat-/3b9842">shared this story</a><br /> from <img src="https://icons.newsblur.com/1701504.png" style="vertical-align: middle;width:16px;height:16px;" /> Rock, Paper, Shotgun:</b>
     </td>
   </tr>
   
@@ -38,15 +38,15 @@ PC people really are clever and dedicated folks. If they&#8217;re not inventing 
 [(more&#8230;)][5]{.more-link}
 
 <div class="feedflare">
-  <a href="http://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:nQ_hWtDbxek"><img border="0" src="http://feeds.feedburner.com/~ff/RockPaperShotgun?d=nQ_hWtDbxek" /></a> <a href="http://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:yIl2AUoC8zA"><img border="0" src="http://feeds.feedburner.com/~ff/RockPaperShotgun?d=yIl2AUoC8zA" /></a>
+  <a href="https://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:nQ_hWtDbxek"><img border="0" src="https://feeds.feedburner.com/~ff/RockPaperShotgun?d=nQ_hWtDbxek" /></a> <a href="https://feeds.feedburner.com/~ff/RockPaperShotgun?a=leQ8aidF8aA:QhGx--XhCvc:yIl2AUoC8zA"><img border="0" src="https://feeds.feedburner.com/~ff/RockPaperShotgun?d=yIl2AUoC8zA" /></a>
 </div>
 
-<img  src="http://feeds.feedburner.com/~r/RockPaperShotgun/~4/leQ8aidF8aA"  />
+<img  src="https://feeds.feedburner.com/~r/RockPaperShotgun/~4/leQ8aidF8aA"  />
 
-via sathyabhat&#8217;s blurblog http://feedproxy.google.com/~r/RockPaperShotgun/~3/leQ8aidF8aA/
+via sathyabhat&#8217;s blurblog https://feedproxy.google.com/~r/RockPaperShotgun/~3/leQ8aidF8aA/
 
- [1]: http://www.rockpapershotgun.com/images/13/jun/gridcockpit.jpg
- [2]: http://www.rockpapershotgun.com/2013/05/29/wot-i-think-grid-2/
- [3]: http://www.gridgame.com/en-gb
- [4]: http://www.racedepartment.com/forum/threads/work-in-progress.69759/
- [5]: http://www.rockpapershotgun.com/2013/06/03/in-the-driving-seat-grid-2-cockpit-mods/#more-155337
+ [1]: https://www.rockpapershotgun.com/images/13/jun/gridcockpit.jpg
+ [2]: https://www.rockpapershotgun.com/2013/05/29/wot-i-think-grid-2/
+ [3]: https://www.gridgame.com/en-gb
+ [4]: https://www.racedepartment.com/forum/threads/work-in-progress.69759/
+ [5]: https://www.rockpapershotgun.com/2013/06/03/in-the-driving-seat-grid-2-cockpit-mods/#more-155337

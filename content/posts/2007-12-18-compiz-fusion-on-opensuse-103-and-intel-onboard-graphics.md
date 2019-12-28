@@ -101,7 +101,7 @@ Also, For GMA X3000/3100/ 965 Chipset users, Find this section
 
 > \# blacklist based on the pci ids
   
-> \# See http://wiki.compiz-fusion.org/Hardware/Blacklist for details
+> \# See https://wiki.compiz-fusion.org/Hardware/Blacklist for details
   
 > T=&#8221; 1002:5954 1002:5854 1002:5955&#8243; # ati rs480
   
@@ -117,7 +117,7 @@ And Change this to
 
 > \# blacklist based on the pci ids
   
-> \# See http://wiki.compiz-fusion.org/Hardware/Blacklist for details
+> \# See https://wiki.compiz-fusion.org/Hardware/Blacklist for details
   
 > T=&#8221; 1002:5954 1002:5854 1002:5955&#8243; # ati rs480
   
@@ -133,6 +133,6 @@ That&#8217;s about enough tweaking! To launch compiz-fusion, at the terminal typ
 
 > compiz-manager
 
- [1]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp
- [2]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp
- [3]: http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-manager.ymp
+ [1]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp
+ [2]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp
+ [3]: https://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-manager.ymp

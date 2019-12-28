@@ -99,9 +99,9 @@ Policy Kit gives you more detailed control with user access on specific administ
 
 So how will Hardy Heron cope up with the hype it&#8217;s been building? Let&#8217;s find out in couple of days time.
 
- [1]: http://sathyasays.com/2007/09/07/new-failsafe-graphics-mode-for-ubuntu/
- [2]: http://sathyasays.com/2008/03/10/ubuntu-804-lts-gets-an-xrandr-gui/
- [3]: http://www.transmissionbt.com/
- [4]: http://www.gnome.org/projects/vinagre/
- [5]: http://www.gnome.org/projects/brasero/
- [6]: http://likewisesoftware.com/products/likewise_open/
+ [1]: https://sathyasays.com/2007/09/07/new-failsafe-graphics-mode-for-ubuntu/
+ [2]: https://sathyasays.com/2008/03/10/ubuntu-804-lts-gets-an-xrandr-gui/
+ [3]: https://www.transmissionbt.com/
+ [4]: https://www.gnome.org/projects/vinagre/
+ [5]: https://www.gnome.org/projects/brasero/
+ [6]: https://likewisesoftware.com/products/likewise_open/

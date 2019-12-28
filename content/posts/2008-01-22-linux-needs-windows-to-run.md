@@ -117,5 +117,5 @@ Note that these are just 2 of the comments from the Comments section of the post
 
 And yeah, thanks to Aditya for the link to the article.
 
- [1]: http://www.zdnet.com/
- [2]: http://education.zdnet.com/?p=908
+ [1]: https://www.zdnet.com/
+ [2]: https://education.zdnet.com/?p=908

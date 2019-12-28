@@ -150,7 +150,7 @@ Linux has come a long way and is spearheading a revolution. The scenario is chan
   
 _Don’t forget to post your comments. Also don’t hesitate to ask for help in our [forums][4]._
 
- [1]: http://sathyasays.com/forums/viewtopic.php?t=4
- [2]: http://sathyasays.com/forums
- [3]: http://www.winehq.com
- [4]: http://www.sathyasays.com/forums
+ [1]: https://sathyasays.com/forums/viewtopic.php?t=4
+ [2]: https://sathyasays.com/forums
+ [3]: https://www.winehq.com
+ [4]: https://www.sathyasays.com/forums

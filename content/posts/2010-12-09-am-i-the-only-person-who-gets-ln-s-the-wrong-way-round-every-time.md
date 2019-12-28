@@ -5,7 +5,7 @@ type: post
 date: 2010-12-08T22:25:06+00:00
 url: /2010/12/09/am-i-the-only-person-who-gets-ln-s-the-wrong-way-round-every-time/
 topsy_short_url:
-  - http://u.sbhat.me/gwboX7
+  - https://u.sbhat.me/gwboX7
 categories:
   - General
 tags:
@@ -27,4 +27,4 @@ Great tip here though:
 
 via [ln -s d1 d2 # Am I the only person who gets this the wrong way round every fucking time? : programming][1].
 
- [1]: http://www.reddit.com/r/programming/comments/1qt0z/ln_s_d1_d2_am_i_the_only_person_who_gets_this_the
+ [1]: https://www.reddit.com/r/programming/comments/1qt0z/ln_s_d1_d2_am_i_the_only_person_who_gets_this_the

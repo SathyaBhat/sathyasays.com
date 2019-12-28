@@ -64,11 +64,11 @@ Add **Compiz-git repository**
 
 Add the following to your /etc/apt/sources.list
 
-> <font color="#008000">#Treviño&#8217;s Ubuntu feisty EyeCandy Repository (GPG key: 81836EBF &#8211; DD800CD9)<br /> <font color="#008000"># Many eyecandy 3D apps like Beryl, Compiz, Fusion and kiba-dock snapshots<br /> <font color="#008000"># built using latest available (working) sources from git/svn/cvs&#8230;</font><br /> <font color="#008000">deb http://download.tuxfamily.org/3v1deb feisty eyecandy</font><br /> <font color="#008000">deb-src http://download.tuxfamily.org/3v1deb feisty eyecandy</font> </font></font>
+> <font color="#008000">#Treviño&#8217;s Ubuntu feisty EyeCandy Repository (GPG key: 81836EBF &#8211; DD800CD9)<br /> <font color="#008000"># Many eyecandy 3D apps like Beryl, Compiz, Fusion and kiba-dock snapshots<br /> <font color="#008000"># built using latest available (working) sources from git/svn/cvs&#8230;</font><br /> <font color="#008000">deb https://download.tuxfamily.org/3v1deb feisty eyecandy</font><br /> <font color="#008000">deb-src https://download.tuxfamily.org/3v1deb feisty eyecandy</font> </font></font>
 
 Add **Keys:**
 
-> <font color="#008000"><font color="#008000"><font color="#008000">sudo wget http://download.tuxfamily.org/3v1deb/DD800CD9.gpg -O- | sudo apt-key add &#8211;</font> </font></font>
+> <font color="#008000"><font color="#008000"><font color="#008000">sudo wget https://download.tuxfamily.org/3v1deb/DD800CD9.gpg -O- | sudo apt-key add &#8211;</font> </font></font>
 
 **Update your system**
 
@@ -97,47 +97,47 @@ To **Install compiz fusion** in Ubuntu: (copy all and paste in a terminal)
 <font color="#000000">First up, the Cube is now transparent by default, and yeah it looks awesome!</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-transparent-cube.jpg" title="Behold the transparent cube"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-transparent-cube.thumbnail.jpg" alt="Behold the transparent cube" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-transparent-cube.jpg" title="Behold the transparent cube"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-transparent-cube.thumbnail.jpg" alt="Behold the transparent cube" /></a></font>
 </p>
 
 <font color="#000000">Another new effect is the &#8220;Cube Reflections&#8221;</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compizfusion-cubereflection.jpg" title="Cube reflections"><img src="http://sathyasays.wordpress.com/files/2007/07/compizfusion-cubereflection.thumbnail.jpg" alt="Cube reflections" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compizfusion-cubereflection.jpg" title="Cube reflections"><img src="https://sathyasays.wordpress.com/files/2007/07/compizfusion-cubereflection.thumbnail.jpg" alt="Cube reflections" /></a></font>
 </p>
 
 <font color="#000000">The Expose effect, now with reflections looks better than ever!</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-expose.jpg" title="Expose!"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-expose.thumbnail.jpg" alt="Expose!" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-expose.jpg" title="Expose!"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-expose.thumbnail.jpg" alt="Expose!" /></a></font>
 </p>
 
 <font color="#000000">Scale plugin functions as ever, tiling up all open Windows neatly, and is one of the best reasons to have Compiz Fusion installed! Sample this desktop, all messed up, and you&#8217;ve to get to a particular app which is open:</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-before.jpg" title="Before Hotspot"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-before.thumbnail.jpg" alt="Before Hotspot" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-before.jpg" title="Before Hotspot"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-before.thumbnail.jpg" alt="Before Hotspot" /></a></font>
 </p>
 
 <font color="#000000">Just move your mouse pointer to the upper right hand corner, watch!</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-after.jpg" title="After Hotspot"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-after.thumbnail.jpg" alt="After Hotspot" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-after.jpg" title="After Hotspot"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-hotspot-after.thumbnail.jpg" alt="After Hotspot" /></a></font>
 </p>
 
 <font color="#000000">The ring task-switcher, water effects and zoom plugins work as ever:</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-ring-task-switcher.jpg" title="compiz-fusion-ring-task-switcher.jpg"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-ring-task-switcher.thumbnail.jpg" alt="compiz-fusion-ring-task-switcher.jpg" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-ring-task-switcher.jpg" title="compiz-fusion-ring-task-switcher.jpg"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-ring-task-switcher.thumbnail.jpg" alt="compiz-fusion-ring-task-switcher.jpg" /></a></font>
 </p>
 
-<font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.jpg" title="After Zooming"> </a></font>
+<font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.jpg" title="After Zooming"> </a></font>
 
 <p align="center">
   <font color="#000000"> Ring Task Switcher</font>
 </p>
 
 <p align="center">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-no-zoom.jpg" title="Before Zoom"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-no-zoom.thumbnail.jpg" alt="Before Zoom" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-no-zoom.jpg" title="Before Zoom"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-no-zoom.thumbnail.jpg" alt="Before Zoom" /></a></font>
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ To **Install compiz fusion** in Ubuntu: (copy all and paste in a terminal)
 </p>
 
 <p align="center">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.jpg" title="After Zooming"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.thumbnail.jpg" alt="After Zooming" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.jpg" title="After Zooming"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-zoom1.thumbnail.jpg" alt="After Zooming" /></a></font>
 </p>
 
 <p align="center">
@@ -155,17 +155,17 @@ To **Install compiz fusion** in Ubuntu: (copy all and paste in a terminal)
 <font color="#000000">Newer plugins include the Window blur plugin, which blurs the windows which are currently out of focus</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-blur-windows.jpg" title="Blur"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-blur-windows.thumbnail.jpg" alt="Blur" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-blur-windows.jpg" title="Blur"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-blur-windows.thumbnail.jpg" alt="Blur" /></a></font>
 </p>
 
 <font color="#000000">And of course, if you wish to play with fire, there&#8217;s the Fire plugin</font>
 
 <p style="text-align:center;">
-  <font color="#000000"><a href="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-fire.jpg" title="Unleash your inner devil!"><img src="http://sathyasays.wordpress.com/files/2007/07/compiz-fusion-fire.thumbnail.jpg" alt="Unleash your inner devil!" /></a></font>
+  <font color="#000000"><a href="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-fire.jpg" title="Unleash your inner devil!"><img src="https://sathyasays.wordpress.com/files/2007/07/compiz-fusion-fire.thumbnail.jpg" alt="Unleash your inner devil!" /></a></font>
 </p>
 
 <font color="#000000">Also new are the Desktop Wall and Desktop plane plugins, which instead of placing the virtual desktop on different sides of cube, places them as a plane. There are also updated Animations(Rizr, Fade, Domino to name a few) for Window effects such as Minimize, Maximise etc.</font>
 
 <font color="#000000">Have fun with Compiz Fusion!</font>
 
- [1]: http://youtube.com/watch?v=E4Fbk52Mk1w
+ [1]: https://youtube.com/watch?v=E4Fbk52Mk1w

@@ -42,7 +42,7 @@ tags:
 ---
 Hakan Bayindir at [Phoronix][1] writes about ATI&#8217;s new drivers, their performance(Non-performance, should I say ?).
 
-It&#8217;s been nearly seven months since I wrote my first article about ATI drivers and how they literally crippled my computer and my daily life. Last month, ATI had finally released their latest drivers which contains the new OpenGL component and AIGLX support (<a href="http://www.phoronix.com/vr.php?view=11287" target="_blank">AMD 8.42 Linux Display Driver</a>). Was this release worth the amount of hype and did it solve everyone&#8217;s problems? For me, simply, no. After seven months of waiting, updating, and struggling, things are not good for me, in every possible feature of the ATI Linux driver I use.
+It&#8217;s been nearly seven months since I wrote my first article about ATI drivers and how they literally crippled my computer and my daily life. Last month, ATI had finally released their latest drivers which contains the new OpenGL component and AIGLX support (<a href="https://www.phoronix.com/vr.php?view=11287" target="_blank">AMD 8.42 Linux Display Driver</a>). Was this release worth the amount of hype and did it solve everyone&#8217;s problems? For me, simply, no. After seven months of waiting, updating, and struggling, things are not good for me, in every possible feature of the ATI Linux driver I use.
 
 <p align="left">
   ATI released six drivers since the first article I wrote at Phoronix and I have installed and used all of them. While some of the drivers showed some improvements over my problems, nothing has fully recovered. I am still having some problems, which can be grouped as follows:
@@ -69,7 +69,7 @@ It&#8217;s been nearly seven months since I wrote my first article about ATI dri
 </p>
 
 <p align="left">
-  Continue Reading the Article at <a href="http://www.phoronix.com/scan.php?page=article&item=914&num=1">Phoronix</a>
+  Continue Reading the Article at <a href="https://www.phoronix.com/scan.php?page=article&item=914&num=1">Phoronix</a>
 </p>
 
- [1]: http://www.phoronix.com
+ [1]: https://www.phoronix.com

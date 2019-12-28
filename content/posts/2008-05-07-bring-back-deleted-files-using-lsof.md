@@ -37,6 +37,6 @@ Found this article while going random browsing, [the original article][1] is fro
 
 Continue reading at [Linuxzone.org][3]
 
- [1]: http://www.linux.com/articles/58142
- [2]: http://www.linux.com/
- [3]: http://www.linuxzone.org/?p=19
+ [1]: https://www.linux.com/articles/58142
+ [2]: https://www.linux.com/
+ [3]: https://www.linuxzone.org/?p=19

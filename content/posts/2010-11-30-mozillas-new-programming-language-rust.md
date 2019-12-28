@@ -5,7 +5,7 @@ type: post
 date: 2010-11-30T05:02:01+00:00
 url: /2010/11/30/mozillas-new-programming-language-rust/
 topsy_short_url:
-  - http://u.sbhat.me/eNme3F
+  - https://u.sbhat.me/eNme3F
 categories:
   - News
 tags:

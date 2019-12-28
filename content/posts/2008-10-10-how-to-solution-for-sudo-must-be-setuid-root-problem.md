@@ -43,5 +43,5 @@ This is how I went about fixing it:-
 
 If anyone of you are still having problems regarding this issue please post it in comments
 
- [1]: http://www.tech-faq.com/sudo.shtml
- [2]: http://linux.about.com/cs/linux101/g/gksu.htm
+ [1]: https://www.tech-faq.com/sudo.shtml
+ [2]: https://linux.about.com/cs/linux101/g/gksu.htm

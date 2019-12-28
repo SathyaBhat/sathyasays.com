@@ -122,5 +122,5 @@ Here are some excerpts from his [Blog:][2]
 
 For those interested, do read his [blog][2], he&#8217;s kept it updated
 
- [1]: http://eeepc.asus.com/
- [2]: http://mysite.verizon.net/vze2j8bn/eeePC-F8.html
+ [1]: https://eeepc.asus.com/
+ [2]: https://mysite.verizon.net/vze2j8bn/eeePC-F8.html

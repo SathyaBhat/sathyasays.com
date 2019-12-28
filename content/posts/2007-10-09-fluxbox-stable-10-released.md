@@ -37,5 +37,5 @@ tags:
 </p>
 
 <p>
-  <a href="http://fluxbox.sourceforge.net/version-0.9.php" target="_blank">More Here</a><br /> </font>
+  <a href="https://fluxbox.sourceforge.net/version-0.9.php" target="_blank">More Here</a><br /> </font>
 </p>

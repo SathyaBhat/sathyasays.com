@@ -59,18 +59,18 @@ tags:
   - xp
 
 ---
-In my **<a href="http://sathyasays.com/wp-admin/sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies" target="_blank">previous post</a>**, I&#8217;d mentioned about Virtualization &#8211; what it is, how useful it is to test new softwares, distros etc. Now while working in your virtual machine, you&#8217;d obviously save some data &#8211; do some wordprocessing, or compatibility testing of your programs, just to name some, all this would mean that the data would be stored in the virtual machine.
+In my **<a href="https://sathyasays.com/wp-admin/sathyasays.com/2008/01/22/virtualization-concepts-and-basics-for-dummies" target="_blank">previous post</a>**, I&#8217;d mentioned about Virtualization &#8211; what it is, how useful it is to test new softwares, distros etc. Now while working in your virtual machine, you&#8217;d obviously save some data &#8211; do some wordprocessing, or compatibility testing of your programs, just to name some, all this would mean that the data would be stored in the virtual machine.
 
 Now you would like to have this data on your physical machine. Or alternatively you may want to transfer data from your physical machine to your VM. Of course, you could always go about using the concept of shared folders, but this would require installation of guest-additions. On a linux-based guest, this would require running scripts, and these scripts most likely require kernel-header or kernel source files. Going by my past experience, in most default installations, the header files would not be installed, or simply be missing in all of Live-CD based distributions, requiring downloading of the packages from the Internet. Is there a simpler way of going about this? Yes! Lets see how. <!--more--> For this post, I&#8217;ve used Sun&#8217;s xVM VirtualBox 1.6, but the steps would be identical, albeit with different terminology, for other VM software like VMWare. The method requires that you share a Windows folder, most likely the folder to which you will transfer the data from the Virtual Machine. To share a folder, just right-click on it, click on Sharing & Security, put a Checkmark against &#8220;Share This Folder on the Network&#8221;, give a suitable name, and also put a Checkmark against &#8220;Allow Network users to change my files&#8221;. This is a critical part, else the shared folder would have read-only access.
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2500356930/" target="_blank"><img src="http://farm4.static.flickr.com/3203/2500356930_fb278c922a_m.jpg" alt="Sharing Properties"   /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2500356930/" target="_blank"><img src="https://farm4.static.flickr.com/3203/2500356930_fb278c922a_m.jpg" alt="Sharing Properties"   /></a>
 </p>
 
 Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of different options, click on Network. At the Host Interfaces tab, click on the &#8220;+&#8221; icon.
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2500323906/" target="_blank"><img src="http://farm3.static.flickr.com/2420/2500323906_06c2a7b7ff_m.jpg" alt="Host Interface 1"   /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2500323906/" target="_blank"><img src="https://farm3.static.flickr.com/2420/2500323906_06c2a7b7ff_m.jpg" alt="Host Interface 1"   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -78,7 +78,7 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2500323908/" target="_blank"><img src="http://farm3.static.flickr.com/2210/2500323908_4af34764cf_m.jpg" alt="Host Interface 2"   /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2500323908/" target="_blank"><img src="https://farm3.static.flickr.com/2210/2500323908_4af34764cf_m.jpg" alt="Host Interface 2"   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -86,7 +86,7 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2500323920" target="_blank"><img src="http://farm3.static.flickr.com/2032/2500323920_578ff398b0_m.jpg" alt="IPConfig"   /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2500323920" target="_blank"><img src="https://farm3.static.flickr.com/2032/2500323920_578ff398b0_m.jpg" alt="IPConfig"   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -94,7 +94,7 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2500323922/" target="_blank"><img src="http://farm3.static.flickr.com/2408/2500323922_e086bd6879_m.jpg" alt="IP Address, Assigned"   /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2500323922/" target="_blank"><img src="https://farm3.static.flickr.com/2408/2500323922_e086bd6879_m.jpg" alt="IP Address, Assigned"   /></a>
 </p>
 
 <p style="text-align: left;">
@@ -102,7 +102,7 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
 </p>
 
 > <p style="text-align: center;">
->   <a href="http://www.flickr.com/photos/sathyabhat/2500356934/" target="_blank"><img src="http://farm3.static.flickr.com/2226/2500356934_5fc8b98572_m.jpg" alt="File Browser"   /></a>
+>   <a href="https://www.flickr.com/photos/sathyabhat/2500356934/" target="_blank"><img src="https://farm3.static.flickr.com/2226/2500356934_5fc8b98572_m.jpg" alt="File Browser"   /></a>
 > </p>
 
 <p style="text-align: left;">
@@ -111,7 +111,7 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
   </p>
   
   <p style="text-align: center;">
-    <a href="http://www.flickr.com/photos/sathyabhat/2500356932/" target="_blank"><img src="http://farm3.static.flickr.com/2075/2500356932_2ab0a0c9bd_m.jpg" alt="File copied"   /></a>
+    <a href="https://www.flickr.com/photos/sathyabhat/2500356932/" target="_blank"><img src="https://farm3.static.flickr.com/2075/2500356932_2ab0a0c9bd_m.jpg" alt="File copied"   /></a>
   </p>
   
   <p style="text-align: left;">
@@ -120,5 +120,5 @@ Next, Launch VirtualBox, click on the VM, then Click on Settings. In the list of
   
   <p style="text-align: left;">
     <p style="text-align: center;">
-      <a href="http://www.flickr.com/photos/sathyabha</p"></a>
+      <a href="https://www.flickr.com/photos/sathyabha</p"></a>
     </p>

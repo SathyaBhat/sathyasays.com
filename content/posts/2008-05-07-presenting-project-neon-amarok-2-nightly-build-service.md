@@ -42,7 +42,7 @@ To install it on Kubuntu Hardy add the following line to your _/etc/apt/sources.
   
 ** 
 
-> _<span><strong>deb http://ppa.launchpad.net/project-neon/ubuntu hardy main</strong></span>
+> _<span><strong>deb https://ppa.launchpad.net/project-neon/ubuntu hardy main</strong></span>
   
 >_ 
 

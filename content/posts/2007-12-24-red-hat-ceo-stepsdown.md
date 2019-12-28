@@ -34,4 +34,4 @@ On a conference call, Szulik said Whitehurst stood &#8220;head and shoulders&#82
 
 Source: [CNET News][1]
 
- [1]: http://www.news.com/underexposed/8301-13580_3-9837018-39.html?tag=nefd.top
+ [1]: https://www.news.com/underexposed/8301-13580_3-9837018-39.html?tag=nefd.top

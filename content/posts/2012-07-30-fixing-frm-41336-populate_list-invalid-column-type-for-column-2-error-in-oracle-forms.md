@@ -5,7 +5,7 @@ type: post
 date: 2012-07-30T12:25:26+00:00
 url: /2012/07/30/fixing-frm-41336-populate_list-invalid-column-type-for-column-2-error-in-oracle-forms/
 topsy_short_url:
-  - http://u.sbhat.me/MWqET8
+  - https://u.sbhat.me/MWqET8
 categories:
   - Programming
 tags:

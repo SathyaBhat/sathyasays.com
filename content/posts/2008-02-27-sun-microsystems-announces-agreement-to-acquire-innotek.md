@@ -50,6 +50,6 @@ According to Sun&#8217;s [Press Release][1]
 
 So what will be the future of VirtualBox? Can we see some innovations in VirtualBox? Let&#8217;s hope so.
 
- [1]: http://www.sun.com/aboutsun/pr/2008-02/sunflash.20080212.1.xml
- [2]: http://www.virtualbox.org/
- [3]: http://www.openxvm.org/
+ [1]: https://www.sun.com/aboutsun/pr/2008-02/sunflash.20080212.1.xml
+ [2]: https://www.virtualbox.org/
+ [3]: https://www.openxvm.org/

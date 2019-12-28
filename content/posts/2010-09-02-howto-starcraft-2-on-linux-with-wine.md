@@ -5,7 +5,7 @@ type: post
 date: 2010-09-02T16:15:07+00:00
 url: /2010/09/02/howto-starcraft-2-on-linux-with-wine/
 topsy_short_url:
-  - http://bit.ly/953X5u
+  - https://bit.ly/953X5u
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -39,6 +39,6 @@ tags:
 
 via [Thoughts on Technology: HOWTO: Starcraft 2 on Linux with Wine][3].
 
- [1]: http://www.winehq.org/
- [2]: http://www.codeweavers.com/
- [3]: http://jeffhoogland.blogspot.com/2010/07/howto-starcraft-2-on-linux-with-wine.html
+ [1]: https://www.winehq.org/
+ [2]: https://www.codeweavers.com/
+ [3]: https://jeffhoogland.blogspot.com/2010/07/howto-starcraft-2-on-linux-with-wine.html

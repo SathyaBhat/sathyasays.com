@@ -5,7 +5,7 @@ type: post
 date: 2010-12-02T06:00:06+00:00
 url: /2010/12/02/state-of-the-linux-kernel-13-million-lines-over-5-patches-per-hour/
 topsy_short_url:
-  - http://u.sbhat.me/dUr1SC
+  - https://u.sbhat.me/dUr1SC
 categories:
   - News
 tags:
@@ -24,4 +24,4 @@ tags:
 
 via [Linux kernel: 13 million lines, over 5 patches per hour][1].
 
- [1]: http://arstechnica.com/open-source/news/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss
+ [1]: https://arstechnica.com/open-source/news/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss

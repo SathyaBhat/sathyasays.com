@@ -97,6 +97,6 @@ Cows, cows everywhere and not a pint of milk to drink.
 
 For more chuckles, read the entire article over at [Free Software Magazine][3]
 
- [1]: http://www.freesoftwaremagazine.com
+ [1]: https://www.freesoftwaremagazine.com
  [2]: https://launchpad.net/ubuntu/+source/apt/+bug/56125
- [3]: http://www.freesoftwaremagazine.com/articles/free_software_easter_eggs/
+ [3]: https://www.freesoftwaremagazine.com/articles/free_software_easter_eggs/

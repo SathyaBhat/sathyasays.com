@@ -59,9 +59,9 @@ The Debian installer supports 58 languages in total. Several languages even have
 
 Source: [PC World][6]
 
- [1]: http://www.pcworld.com/tags/Bhutan.html
- [2]: http://www.pcworld.com/tags/Debian+GNU%2fLinux+OS.html
- [3]: http://www.pcworld.com/tags/Department+of+Information+and+Technology.html
- [4]: http://www.pcworld.com/tags/Adobe+Photoshop.html
- [5]: http://www.pcworld.com/tags/Pema+Geley.html
- [6]: http://www.pcworld.com/article/id,137521-pg,1/article.html
+ [1]: https://www.pcworld.com/tags/Bhutan.html
+ [2]: https://www.pcworld.com/tags/Debian+GNU%2fLinux+OS.html
+ [3]: https://www.pcworld.com/tags/Department+of+Information+and+Technology.html
+ [4]: https://www.pcworld.com/tags/Adobe+Photoshop.html
+ [5]: https://www.pcworld.com/tags/Pema+Geley.html
+ [6]: https://www.pcworld.com/article/id,137521-pg,1/article.html

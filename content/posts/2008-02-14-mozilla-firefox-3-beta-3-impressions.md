@@ -54,7 +54,7 @@ Yesterday, Mozilla announced that the 3rd beta of the next version of their imme
 As seen from the picture, Beta 3 looks lot different from Beta 2(which more or less looked like Firefox 2).
 
 <p align="center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><img src="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.thumbnail.PNG" alt="Firefox3 Beta 3" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><img src="https://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.thumbnail.PNG" alt="Firefox3 Beta 3" /></a>
 </p>
 
 <p align="left">
@@ -70,21 +70,21 @@ As seen from the picture, Beta 3 looks lot different from Beta 2(which more or l
 </p>
 
 <p align="left">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"></a>
 </p>
 
 <p style="text-align: center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"><img src="http://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.thumbnail.PNG" alt="Download Manager" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.PNG" title="Download Manager"><img src="https://sathyasays.com/wp-content/uploads/2008/02/dlmgrpt2.thumbnail.PNG" alt="Download Manager" /></a>
 </p>
 
 The error messages for timeouts have also been tweaked slightly, making it more friendly for newbies.
 
 <p align="left">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"></a>
 </p>
 
 <p style="text-align: center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"><img src="http://sathyasays.com/wp-content/uploads/2008/02/errmsg.thumbnail.png" alt="errmsg.png" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/errmsg.png" title="errmsg.png"><img src="https://sathyasays.com/wp-content/uploads/2008/02/errmsg.thumbnail.png" alt="errmsg.png" /></a>
 </p>
 
 <p align="left">
@@ -96,7 +96,7 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p align="center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/bookmark.PNG" title="bookmark.PNG"><img src="http://sathyasays.com/wp-content/uploads/2008/02/bookmark.thumbnail.PNG" alt="bookmark.PNG" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/bookmark.PNG" title="bookmark.PNG"><img src="https://sathyasays.com/wp-content/uploads/2008/02/bookmark.thumbnail.PNG" alt="bookmark.PNG" /></a>
 </p>
 
 <p align="left">
@@ -108,11 +108,11 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p align="left">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"></a>
 </p>
 
 <p style="text-align: center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"><img src="http://sathyasays.com/wp-content/uploads/2008/02/addons.thumbnail.PNG" alt="addons.PNG" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/addons.PNG" title="addons.PNG"><img src="https://sathyasays.com/wp-content/uploads/2008/02/addons.thumbnail.PNG" alt="addons.PNG" /></a>
 </p>
 
 <p align="left">
@@ -124,7 +124,7 @@ The error messages for timeouts have also been tweaked slightly, making it more 
 </p>
 
 <p align="left">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><br /> </a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/02/firefox-3-b3.PNG" title="Firefox3 Beta 3"><br /> </a>
 </p>
 
- [1]: http://sathyasays.com/2007/12/23/mozilla-firefox-3-beta-2-impressions/
+ [1]: https://sathyasays.com/2007/12/23/mozilla-firefox-3-beta-2-impressions/

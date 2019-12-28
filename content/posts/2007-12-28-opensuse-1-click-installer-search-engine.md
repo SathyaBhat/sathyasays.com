@@ -23,6 +23,6 @@ tags:
 ---
 The recent 10.3 version of openSUSE has a great 1-click installer. But getting those 1-click installer packages can be very hard. Fear not, [Dr. Neville][1] from our [Mangalore Linux Users Group][2] found something very useful: [A search engine][3] for openSUSE 1-click Installer search packages!  This will be very useful. All Credits to Dr. Neville
 
- [1]: http://www.neville.in
- [2]: http://www.linux-mangalore.org
- [3]: http://benjiweber.co.uk:8080/webpin/
+ [1]: https://www.neville.in
+ [2]: https://www.linux-mangalore.org
+ [3]: https://benjiweber.co.uk:8080/webpin/

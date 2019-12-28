@@ -14,11 +14,11 @@ tags:
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">
   <tr>
     <td rowspan="2" style="padding: 6px;width: 36px;white-space:nowrap"  valign="top">
-      <img src="http://ift.tt/1eVbecN" style="width: 36px; height: 36px; border-radius: 4px;" />
+      <img src="https://ift.tt/1eVbecN" style="width: 36px; height: 36px; border-radius: 4px;" />
     </td>
     
     <td width="100%" style="padding-top: 6px;">
-      <b><br /> sathyabhat<br /> <a href="http://ift.tt/1mv4fBg">shared this story</a><br /> from <img src="http://ift.tt/1aejH8B" style="vertical-align: middle;width:16px;height:16px;" /> Coding Horror:</b>
+      <b><br /> sathyabhat<br /> <a href="https://ift.tt/1mv4fBg">shared this story</a><br /> from <img src="https://ift.tt/1aejH8B" style="vertical-align: middle;width:16px;height:16px;" /> Coding Horror:</b>
     </td>
   </tr>
   
@@ -32,19 +32,19 @@ tags:
         <hr style="clear: both; margin: 0 0 24px;" />
         
         <p>
-          If I haven&#8217;t blogged much in the last year, it&#8217;s because we&#8217;ve been busy building that <a href="http://ift.tt/14CiXKw">civilized discourse construction kit thing</a> I talked about.
+          If I haven&#8217;t blogged much in the last year, it&#8217;s because we&#8217;ve been busy building that <a href="https://ift.tt/14CiXKw">civilized discourse construction kit thing</a> I talked about.
         </p>
         
         <p>
-          <a href="http://ift.tt/14CiXKw"><img alt="Civilized-discourse-construction-kit-inc"  src="http://ift.tt/1h0Nozw" title="Civilized-discourse-construction-kit-inc"  /></a>
+          <a href="https://ift.tt/14CiXKw"><img alt="Civilized-discourse-construction-kit-inc"  src="https://ift.tt/1h0Nozw" title="Civilized-discourse-construction-kit-inc"  /></a>
         </p>
         
         <p>
-          (Yes, that&#8217;s actually the name of the company. This is what happens when you put me in charge of naming things. <a href="http://ift.tt/1jNBNsv">Pinball machines</a>, people, what&#8217;s the difference? I&#8217;ve apologized to <a href="http://ift.tt/XGIeSn">Bill Budge</a> already.)
+          (Yes, that&#8217;s actually the name of the company. This is what happens when you put me in charge of naming things. <a href="https://ift.tt/1jNBNsv">Pinball machines</a>, people, what&#8217;s the difference? I&#8217;ve apologized to <a href="https://ift.tt/XGIeSn">Bill Budge</a> already.)
         </p>
         
         <p>
-          So if you, like my investors, are wondering why this process took <a href="http://ift.tt/1dNKFGb">a whole entire year</a>, I should explain <b>how I build things</b>, or at least, how we built Stack Overflow and <a class="zem_slink" href="http://ift.tt/gBCjKc" rel="homepage" target="_blank" title="Stack Exchange Network">Stack Exchange</a> and now <a href="http://ift.tt/XKLo4G">Discourse</a>:
+          So if you, like my investors, are wondering why this process took <a href="https://ift.tt/1dNKFGb">a whole entire year</a>, I should explain <b>how I build things</b>, or at least, how we built Stack Overflow and <a class="zem_slink" href="https://ift.tt/gBCjKc" rel="homepage" target="_blank" title="Stack Exchange Network">Stack Exchange</a> and now <a href="https://ift.tt/XKLo4G">Discourse</a>:
         </p>
         
         <ol>
@@ -61,7 +61,7 @@ tags:
             Launch a brief closed beta and get feedback from your Special Internet Friends™ on what you&#8217;ve built so far. I know what you&#8217;re thinking: <i>Friends! Damn it! I knew those things would be useful to me at some point!</i> Listen to all their feedback with an open mind, no matter how dumb it probably is. Identify and fix everything major that comes up. Your product will still be terrible, but it&#8217;ll be slightly marginally <i>less</i> terrible, and you&#8217;ll now be slightly marginally less screwed than you otherwise would. (This is what we business experts call a &#8220;competitive advantange&#8221;. Look it up.)
           </li>
           <li>
-            Rapidly get to a public launch. <a href="http://ift.tt/Y4Bo5Q">It will suck, but you will ship it anyway.</a> Don&#8217;t screw up the basic logistics of the launch. You know what I&#8217;m talking about because you&#8217;ve seen those sad launches. Don&#8217;t be those companies. Don&#8217;t be those teams. Don&#8217;t worry, you&#8217;ll have ample time to screw everything up royally in the next step.
+            Rapidly get to a public launch. <a href="https://ift.tt/Y4Bo5Q">It will suck, but you will ship it anyway.</a> Don&#8217;t screw up the basic logistics of the launch. You know what I&#8217;m talking about because you&#8217;ve seen those sad launches. Don&#8217;t be those companies. Don&#8217;t be those teams. Don&#8217;t worry, you&#8217;ll have ample time to screw everything up royally in the next step.
           </li>
           <li>
             Hey, remember all those brilliant ideas you had based on all that painstaking, detailed research you did in step 1? Turns out once you put them in front of actual honest-to-god real world users they were <i>all … completely … wrong</i>. Now spend the next year doing nothing but fixing all your idiotic screwups and stupid mistakes.
@@ -75,11 +75,11 @@ tags:
         </ol>
         
         <p>
-          I never said it was a <i>good</i> plan for building software, but hey. Y&#8217;know. <a href="http://ift.tt/13oDjry">It&#8217;s a plan</a>.
+          I never said it was a <i>good</i> plan for building software, but hey. Y&#8217;know. <a href="https://ift.tt/13oDjry">It&#8217;s a plan</a>.
         </p>
         
         <p>
-          <img alt="I-love-it-when-a-plan-comes-wait"  src="http://ift.tt/1h0NoPY" title="I-love-it-when-a-plan-comes-wait"  />
+          <img alt="I-love-it-when-a-plan-comes-wait"  src="https://ift.tt/1h0NoPY" title="I-love-it-when-a-plan-comes-wait"  />
         </p>
         
         <p>
@@ -102,11 +102,11 @@ tags:
         </ul>
         
         <p>
-          Now, we have a bit of an unfair advantage here because <a href="http://ift.tt/12lv9fV">Discourse is discussion software</a>. We host the discussions about all the things that are wrong with Discourse … on Discourse itself. But that&#8217;s also why we built an open source discussion platform in the first place – my deeply held belief that <b>actually listening to your customers should matter to your business</b>.
+          Now, we have a bit of an unfair advantage here because <a href="https://ift.tt/12lv9fV">Discourse is discussion software</a>. We host the discussions about all the things that are wrong with Discourse … on Discourse itself. But that&#8217;s also why we built an open source discussion platform in the first place – my deeply held belief that <b>actually listening to your customers should matter to your business</b>.
         </p>
         
         <p>
-          Provided you&#8217;re equipped to listen to your customers, complaint driven development isn&#8217;t that difficult. Until you get deep into a multi-year design, you&#8217;re dealing with <b>fairly obvious, easy to fix complaints from users</b>. You just have to be out there listening. As Steve Krug says in <a href="http://ift.tt/1h0NoQ0">Don&#8217;t Make Me Think</a>:
+          Provided you&#8217;re equipped to listen to your customers, complaint driven development isn&#8217;t that difficult. Until you get deep into a multi-year design, you&#8217;re dealing with <b>fairly obvious, easy to fix complaints from users</b>. You just have to be out there listening. As Steve Krug says in <a href="https://ift.tt/1h0NoQ0">Don&#8217;t Make Me Think</a>:
         </p>
         
         <blockquote>
@@ -144,7 +144,7 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-1"  src="http://ift.tt/1h0NlDT" title="Discourse-character-count-1"  />
+          <img alt="Discourse-character-count-1"  src="https://ift.tt/1h0NlDT" title="Discourse-character-count-1"  />
         </p>
         
         <p>
@@ -152,11 +152,11 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-2"  src="http://ift.tt/1h0NoQ2" title="Discourse-character-count-2"  />
+          <img alt="Discourse-character-count-2"  src="https://ift.tt/1h0NoQ2" title="Discourse-character-count-2"  />
         </p>
         
         <p>
-          <img alt="Discourse-character-count-3"  src="http://ift.tt/1jNBPk1" title="Discourse-character-count-3"  />
+          <img alt="Discourse-character-count-3"  src="https://ift.tt/1jNBPk1" title="Discourse-character-count-3"  />
         </p>
         
         <p>
@@ -168,7 +168,7 @@ tags:
         </p>
         
         <p>
-          <img alt="Discourse-character-count-4"  src="http://ift.tt/1h0NlDX" title="Discourse-character-count-4"  />
+          <img alt="Discourse-character-count-4"  src="https://ift.tt/1h0NlDX" title="Discourse-character-count-4"  />
         </p>
         
         <p>
@@ -176,21 +176,21 @@ tags:
         </p>
         
         <p>
-          So <i>that&#8217;s</i> the sort of thing we&#8217;ve been doing post launch, each day, every week, for the last year. <b>It took us a full year of complaint driven development to get to software worth using.</b> And even though we are now <a href="http://ift.tt/1aY2nLL">cautiously accepting customers</a>, we&#8217;re still practicing complaint driven development every day, just perhaps weighted a bit more heavily towards the people actually paying us money.
+          So <i>that&#8217;s</i> the sort of thing we&#8217;ve been doing post launch, each day, every week, for the last year. <b>It took us a full year of complaint driven development to get to software worth using.</b> And even though we are now <a href="https://ift.tt/1aY2nLL">cautiously accepting customers</a>, we&#8217;re still practicing complaint driven development every day, just perhaps weighted a bit more heavily towards the people actually paying us money.
         </p>
         
         <p>
-          It&#8217;s true that <a href="http://ift.tt/wStMrE">gathering feedback from your community can be hard work</a>. And 90% of the feedback you&#8217;ll get will be terrible for a whole host of reasons. It&#8217;s a lot easier to imagine some heroic expert swooping in and magically blessing you with the correct answer. Well, <a href="http://ift.tt/XKLo4u">good luck with that fantasy</a>. The only thing I&#8217;ve ever seen work is <b>getting down deep and dirty in the trenches with your users, communicating with them and cultivating relationships</b>. That&#8217;s how you suss out the rare 10% of community feedback that is amazing and transformative. <i>That&#8217;s</i> how you build a community that gives a damn about what you&#8217;re doing &ndash; by caring enough to truly listen to them and making changes they care about.
+          It&#8217;s true that <a href="https://ift.tt/wStMrE">gathering feedback from your community can be hard work</a>. And 90% of the feedback you&#8217;ll get will be terrible for a whole host of reasons. It&#8217;s a lot easier to imagine some heroic expert swooping in and magically blessing you with the correct answer. Well, <a href="https://ift.tt/XKLo4u">good luck with that fantasy</a>. The only thing I&#8217;ve ever seen work is <b>getting down deep and dirty in the trenches with your users, communicating with them and cultivating relationships</b>. That&#8217;s how you suss out the rare 10% of community feedback that is amazing and transformative. <i>That&#8217;s</i> how you build a community that gives a damn about what you&#8217;re doing &ndash; by caring enough to truly listen to them and making changes they care about.
         </p>
         
         <table>
           <tr>
             <td class="welovecodinghorror">
-              [advertisement] <a href="http://ift.tt/i370tl" rel="nofollow">Stack Overflow Careers</a> matches the best developers (you!) with the best employers. You can search our <a href="http://ift.tt/vQpNiV" rel="nofollow">job listings</a> or <a href="http://ift.tt/t6KurI" rel="nofollow">create a profile</a> and even let employers find you.
+              [advertisement] <a href="https://ift.tt/i370tl" rel="nofollow">Stack Overflow Careers</a> matches the best developers (you!) with the best employers. You can search our <a href="https://ift.tt/vQpNiV" rel="nofollow">job listings</a> or <a href="https://ift.tt/t6KurI" rel="nofollow">create a profile</a> and even let employers find you.
             </td>
           </tr>
         </table>
         
         <p>
-          via sathyabhat&#8217;s blurblog http://ift.tt/1h0NtTQ
+          via sathyabhat&#8217;s blurblog https://ift.tt/1h0NtTQ
         </p>

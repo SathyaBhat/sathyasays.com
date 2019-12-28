@@ -43,7 +43,7 @@ Just change the repos to mention 11.2 instead of 11.0/11.1, as shown in the pic:
 
 <!--more-->
 
-[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="http://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg 300w, https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg 300w, https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Once that&#8217;s done, open the terminal, and switch to root
 
@@ -63,10 +63,10 @@ Be sure to disable Factory repo, else like me, you&#8217;ll end up upgradingto 1
 
 Here&#8217;s a pic from my desktop after the upgrade:
 
-<a id="aptureLink_48N5sHAeLS" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="http://apture.s3.amazonaws.com/00000124f6f3ff797b1b4ed9007f000000000001.opensuse%20desky.jpeg"><img style="border: 0px none;" title="opensuse desky" src="http://apture.s3.amazonaws.com/00000124f6f3ff797b1b4ed9007f000000000001.opensuse%20desky.jpeg" alt="" width="622.96px" height="389.35px" /></a>
+<a id="aptureLink_48N5sHAeLS" style="margin: 0pt auto; padding: 0px 6px; text-align: center; display: block;" href="https://apture.s3.amazonaws.com/00000124f6f3ff797b1b4ed9007f000000000001.opensuse%20desky.jpeg"><img style="border: 0px none;" title="opensuse desky" src="https://apture.s3.amazonaws.com/00000124f6f3ff797b1b4ed9007f000000000001.opensuse%20desky.jpeg" alt="" width="622.96px" height="389.35px" /></a>
 
 A word of caution: if you&#8217;re on low bandwidth / low speed connection, it&#8217;s better if you get the download the CD from your friend/LUG and do a fresh install.
 
 And yes, if you have any third party repos, that might break so just be weary of that
 
- [1]: http://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg
+ [1]: https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg

@@ -49,4 +49,4 @@ As an aside, don’t try this if you just want to reboot. A normal reboot, if it
 
 Source & Author: Jacob from [FOSSwire][1]
 
- [1]: http://fosswire.com/2007/09/08/fix-a-frozen-system-with-the-magic-sysrq-keys/
+ [1]: https://fosswire.com/2007/09/08/fix-a-frozen-system-with-the-magic-sysrq-keys/

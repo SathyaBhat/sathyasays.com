@@ -61,4 +61,4 @@ New features and changes in this milestone include:
 
 I will have a review of the Beta 3 soon.
 
- [1]: http://developer.mozilla.org/devnews/index.php/2008/02/12/firefox-3-beta-3-now-available-for-download/
+ [1]: https://developer.mozilla.org/devnews/index.php/2008/02/12/firefox-3-beta-3-now-available-for-download/

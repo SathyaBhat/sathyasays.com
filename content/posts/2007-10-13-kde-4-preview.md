@@ -49,7 +49,7 @@ It’s been a whole month when I’ve investigated the new environment called KD
 ### First glance
 
 <p class="img-center">
-  Right after running the KDE you can tell at once that new wallpaper is far more beautiful than the grey old one and the marvelous contrasting flower is well matched to the bottom bar. Unluckily it does nothing more than displaying the clock. The taskbar despite the fact it was on the bar didn’t display processes and all the effort I made to add there any applet or the Pager was in vain, and ended with a complete crash of the bar. The only thing I succeeded in was to put there the Kickoff menubar.<br /> <a href="http://polishlinux.org/reviews/kde4/pulpit.png"><img src="http://polishlinux.org/reviews/kde4/pulpit_thumb.png" alt="desktop" /></a>
+  Right after running the KDE you can tell at once that new wallpaper is far more beautiful than the grey old one and the marvelous contrasting flower is well matched to the bottom bar. Unluckily it does nothing more than displaying the clock. The taskbar despite the fact it was on the bar didn’t display processes and all the effort I made to add there any applet or the Pager was in vain, and ended with a complete crash of the bar. The only thing I succeeded in was to put there the Kickoff menubar.<br /> <a href="https://polishlinux.org/reviews/kde4/pulpit.png"><img src="https://polishlinux.org/reviews/kde4/pulpit_thumb.png" alt="desktop" /></a>
 </p>
 
 ### Kickoff &#8211; the new KDE menu
@@ -62,4 +62,4 @@ More on [PolishLinux][1]
   &nbsp;
 </p>
 
- [1]: http://polishlinux.org/kde/kde-4-preview-rev-723381/
+ [1]: https://polishlinux.org/kde/kde-4-preview-rev-723381/

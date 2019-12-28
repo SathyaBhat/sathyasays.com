@@ -35,6 +35,6 @@ After logging in however, the user is told that the service is currently down an
 
 [][3]
 
- [1]: http://sathyasays.com/wp-content/uploads/2007/10/ship-it.jpg
- [2]: http://sathyasays.com/wp-content/uploads/2007/10/ship-it.jpg "ShipIt Down For Shipping"
- [3]: http://sathyasays.com/wp-content/uploads/2007/10/ship-it.JPG "Ship It Closed in preparation For Gutsy Gibbon"
+ [1]: https://sathyasays.com/wp-content/uploads/2007/10/ship-it.jpg
+ [2]: https://sathyasays.com/wp-content/uploads/2007/10/ship-it.jpg "ShipIt Down For Shipping"
+ [3]: https://sathyasays.com/wp-content/uploads/2007/10/ship-it.JPG "Ship It Closed in preparation For Gutsy Gibbon"

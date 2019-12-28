@@ -57,7 +57,7 @@ GNOME 2.20 also includes significant improvements to power management. The GNOME
 Evince, the GNOME document viewer, received several performance improvements and finally includes support for interactive PDF form editing. An improved codec management system in Totem, GNOME&#8217;s video player, allows individual Linux distributions to add custom mechanisms for automatic codec installation. The Tomboy note-taking application now has support for network note synchronization using WebDav and SSH. The GEdit text-editing program includes support for syntax highlighting color schemes and newly added syntax highlighting support several additional scripting languages.
 
 <p class="CenteredImage">
-  <a href="http://arstechnica.com/news.media/gnome_220.png" class="Popup"><br /> </a>
+  <a href="https://arstechnica.com/news.media/gnome_220.png" class="Popup"><br /> </a>
 </p>
 
 The GNOME developers have started the process of streamlining the GNOME configuration utilities. In this release, various configuration applets that are used to adjust the fonts and visual appearance of the GNOME environment have been merged into a single utility. Additional configuration utility streamlining will occur in future versions of GNOME.

@@ -31,7 +31,7 @@ Boudewijn Rempt gives us an overview over what&#8217;s happening in the KOffice 
 
 [Continue Reading ][4]
 
- [1]: http://www.koffice.org/
- [2]: http://www.linuxworld.com.au/index.php?id=1596080362&rid=-50
- [3]: http://www.oasis-open.org/
- [4]: http://dot.kde.org/1194021253/
+ [1]: https://www.koffice.org/
+ [2]: https://www.linuxworld.com.au/index.php?id=1596080362&rid=-50
+ [3]: https://www.oasis-open.org/
+ [4]: https://dot.kde.org/1194021253/

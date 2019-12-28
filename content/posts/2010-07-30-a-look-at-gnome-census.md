@@ -5,7 +5,7 @@ type: post
 date: 2010-07-29T21:21:38+00:00
 url: /2010/07/30/a-look-at-gnome-census/
 topsy_short_url:
-  - http://bit.ly/aoUw0o
+  - https://bit.ly/aoUw0o
 categories:
   - News
 tags:
@@ -208,4 +208,4 @@ via [Safe as Milk » Blog Archive » GNOME Census][1].
 
 Notice a missing company ?
 
- [1]: http://blogs.gnome.org/bolsh/2010/07/28/gnome-census/
+ [1]: https://blogs.gnome.org/bolsh/2010/07/28/gnome-census/

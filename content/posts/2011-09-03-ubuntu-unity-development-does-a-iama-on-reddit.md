@@ -5,7 +5,7 @@ type: post
 date: 2011-09-03T07:32:03+00:00
 url: /2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/
 topsy_short_url:
-  - http://u.sbhat.me/rsYERr
+  - https://u.sbhat.me/rsYERr
 categories:
   - General
 tags:
@@ -42,4 +42,4 @@ Pretty sure that&#8217;s never going to happen. More Q&A:
 
 Read more on [IamA &#8211; We are the Ubuntu Unity Development Team.][1]
 
- [1]: http://www.reddit.com/r/IAmA/comments/k2nvl/we_are_the_ubuntu_unity_development_team_we_3/
+ [1]: https://www.reddit.com/r/IAmA/comments/k2nvl/we_are_the_ubuntu_unity_development_team_we_3/

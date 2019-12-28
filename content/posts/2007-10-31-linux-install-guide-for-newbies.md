@@ -199,5 +199,5 @@ The one thing that is different from Windows XP here is that Windows installatio
         </p>
         
         <p>
-          <span style="font-size: 18px; line-height: normal"><span style="color: green"><br /> If you have any queries or are confused, just ask it in the <a href="http://www.sathyasays.com/forums">forums</a></span> </span>
+          <span style="font-size: 18px; line-height: normal"><span style="color: green"><br /> If you have any queries or are confused, just ask it in the <a href="https://www.sathyasays.com/forums">forums</a></span> </span>
         </p>

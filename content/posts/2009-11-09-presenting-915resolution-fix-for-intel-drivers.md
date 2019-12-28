@@ -51,8 +51,8 @@ Thanks to these articles and in case of problems please follow the links:
 
 [Finally got desktop effects working (915resolution + xorg.conf)][5]
 
- [1]: http://www.freshnet.org/debian/hoary/915resolution_0.5-2_i386.deb
- [2]: http://sathyasays.com/2009/11/08/enable-xserver-shortcut-ctrlaltbackspace-in-ubuntu-9-10-karmic-koala
- [3]: http://ubuntuforums.org/showthread.php?p=2113867
- [4]: http://ubuntuforums.org/showthread.php?t=450638
- [5]: http://makingtheswitch.wordpress.com/2007/05/13/finally-got-desktop-effects-working-915resolution-xorgconf/ "Permanent Link to Finally got desktop effects working (915resolution + xorg.conf)"
+ [1]: https://www.freshnet.org/debian/hoary/915resolution_0.5-2_i386.deb
+ [2]: https://sathyasays.com/2009/11/08/enable-xserver-shortcut-ctrlaltbackspace-in-ubuntu-9-10-karmic-koala
+ [3]: https://ubuntuforums.org/showthread.php?p=2113867
+ [4]: https://ubuntuforums.org/showthread.php?t=450638
+ [5]: https://makingtheswitch.wordpress.com/2007/05/13/finally-got-desktop-effects-working-915resolution-xorgconf/ "Permanent Link to Finally got desktop effects working (915resolution + xorg.conf)"

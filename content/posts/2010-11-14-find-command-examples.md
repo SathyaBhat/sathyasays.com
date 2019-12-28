@@ -5,7 +5,7 @@ type: post
 date: 2010-11-14T03:37:52+00:00
 url: /2010/11/14/find-command-examples/
 topsy_short_url:
-  - http://u.sbhat.me/brNgVD
+  - https://u.sbhat.me/brNgVD
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -158,4 +158,4 @@ find . -iname '* 1.m4a' -exec rm {} \;<br />
 
 [Linux/Unix CLI “find” examples. « Useless Posts from Tigard][1].
 
- [1]: http://chuck97224.wordpress.com/2010/11/13/linuxunix-cli-find-examples/
+ [1]: https://chuck97224.wordpress.com/2010/11/13/linuxunix-cli-find-examples/

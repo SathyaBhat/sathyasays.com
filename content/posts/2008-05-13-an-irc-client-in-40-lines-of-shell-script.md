@@ -37,7 +37,7 @@ Continue reading the article and get the shell script in the [mailing list][3]
 
 Edit: Fixed the URL. Thanks to [Aalaap][4] for pointing out the error
 
- [1]: http://indiatwits.canthack.net/
- [2]: http://fatalerror.in/
- [3]: http://lists.canonical.org/pipermail/kragen-hacks/2008-February/000480.html
- [4]: http://aalaap.com/
+ [1]: https://indiatwits.canthack.net/
+ [2]: https://fatalerror.in/
+ [3]: https://lists.canonical.org/pipermail/kragen-hacks/2008-February/000480.html
+ [4]: https://aalaap.com/

@@ -5,7 +5,7 @@ type: post
 date: 2010-11-09T18:07:01+00:00
 url: /2010/11/09/ubuntu-natty-to-skip-changelogs/
 topsy_short_url:
-  - http://u.sbhat.me/97gnBT
+  - https://u.sbhat.me/97gnBT
 categories:
   - General
 tags:

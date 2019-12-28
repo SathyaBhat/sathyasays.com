@@ -39,5 +39,5 @@ Thanks & Keep visiting,
   
 Sathya
 
- [1]: http://forums.sathyasays.com
- [2]: http://sathyasays.com/myworld
+ [1]: https://forums.sathyasays.com
+ [2]: https://sathyasays.com/myworld

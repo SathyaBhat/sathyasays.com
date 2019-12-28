@@ -42,4 +42,4 @@ One of the hardest tasks with enabling Compiz was finding the right set of plugi
 
 Refer to my [previous blog post][1] for more details on these
 
- [1]: http://sathyasays.com/2007/07/01/go-crazy-on-eye-candy-with-compiz-fusion/
+ [1]: https://sathyasays.com/2007/07/01/go-crazy-on-eye-candy-with-compiz-fusion/

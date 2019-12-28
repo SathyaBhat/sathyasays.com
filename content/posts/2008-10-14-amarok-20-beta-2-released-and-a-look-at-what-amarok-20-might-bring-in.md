@@ -55,7 +55,7 @@ tags:
   - xp
 
 ---
-Couple of days ago, the second beta to the second version of the immensely popular and fantastic audio player Amarok was <a href="http://amarok.kde.org/blog/archives/807-Amarok-2-Beta-2-released.html" target="_blank">released</a> by the Amarok team.
+Couple of days ago, the second beta to the second version of the immensely popular and fantastic audio player Amarok was <a href="https://amarok.kde.org/blog/archives/807-Amarok-2-Beta-2-released.html" target="_blank">released</a> by the Amarok team.
 
 The second beta brings in some drastic changes, the main one being SQLite no longer being the default backend, and PostgreSQL support being dropped, in favour of a single backend, that being MySQL-Embedded platform. Other notable changes include improved scripting support, the return of lyric fetching and incremental scanner support.
 
@@ -63,7 +63,7 @@ The second beta brings in some drastic changes, the main one being SQLite no lon
 
 Amarok 2.0 Beta will also not be on the same level, feature-wise, with Amarok 1.4 as the developers are rewriting most of Amarok codebase meaning that most of Amarok 1.4 scripts will not be compatible with Amarok 2.0 ones (and the list of Amarok 1.4 scripts is pretty huge, you might want to have a look at <a href="sathyasays.com/2008/08/03/some-really-cool-and-must-have-amarok-scripts/" target="_blank">Some of the coolest Amarok scripts</a>)
 
-<a href="http://1.bp.blogspot.com/_vlB73cxVKVI/SOr9Xk4OGJI/AAAAAAAAAF8/9eNUkLdG5w4/s1600-h/applet3.png" target="_blank"><img src="http://1.bp.blogspot.com/_vlB73cxVKVI/SOr9Xk4OGJI/AAAAAAAAAF8/9eNUkLdG5w4/s400/applet3.png" /></a> 
+<a href="https://1.bp.blogspot.com/_vlB73cxVKVI/SOr9Xk4OGJI/AAAAAAAAAF8/9eNUkLdG5w4/s1600-h/applet3.png" target="_blank"><img src="https://1.bp.blogspot.com/_vlB73cxVKVI/SOr9Xk4OGJI/AAAAAAAAAF8/9eNUkLdG5w4/s400/applet3.png" /></a> 
 
 (Pic taken from Amarok blog)
 
@@ -85,15 +85,15 @@ In subsequent blog posts [Mark Kretschmann][1] has mentioned, which features Ama
 
 And the following features have been dropped in Amarok 2.0
 
-  * <a href="http://amarok.kde.org/blog/archives/502-Playlist-mockup,-part-deux.html" target="_blank">Old style</a> playlist, "<a href="http://amarok.kde.org/blog/archives/810-The-Old-style-Playlist-Is-Dead,-Long-Live-The-Old-style-Playlist.html" target="_blank">Excel Look</a>"
+  * <a href="https://amarok.kde.org/blog/archives/502-Playlist-mockup,-part-deux.html" target="_blank">Old style</a> playlist, "<a href="https://amarok.kde.org/blog/archives/810-The-Old-style-Playlist-Is-Dead,-Long-Live-The-Old-style-Playlist.html" target="_blank">Excel Look</a>"
   * Support for Amarok 1 scripts
   * Multiple databases (SQLite and PostgreSQL)
   * Player Window 
   * MusicBrainz 
 
-While Player window going missing might seem like a huge WTF, the developers plan to bring it in as a <a href="http://sathyasays.com/tag/plasmoid" target="_blank">Plasmoid</a>.
+While Player window going missing might seem like a huge WTF, the developers plan to bring it in as a <a href="https://sathyasays.com/tag/plasmoid" target="_blank">Plasmoid</a>.
 
-[Jeff Mitchell][2] explains in <a href="http://amarok.kde.org/blog/archives/812-MySQL-in-Amarok-2-The-Reality.html" target="_blank">his blog post</a> as to why SQLite and PostgreSQL was dropped:
+[Jeff Mitchell][2] explains in <a href="https://amarok.kde.org/blog/archives/812-MySQL-in-Amarok-2-The-Reality.html" target="_blank">his blog post</a> as to why SQLite and PostgreSQL was dropped:
 
 > Since I mentioned Nepomuk, it&#8217;s time to discuss another common question/demand/complaint: _KDE has this nice Strigi-Nepomuk thing going on&#8230;why aren&#8217;t we using it for scanning music and storing information?_ There are a couple main reasons. The first is that Strigi and Nepomuk are optional, not required. We can&#8217;t rely on the user installing them, and even if they are installed, we can&#8217;t rely on the user to configure them properly.
 > 
@@ -105,5 +105,5 @@ While Player window going missing might seem like a huge WTF, the developers pla
 
 Amarok 2.0 is shaping up to be an impressive and total overhaul of Amarok, will have a preview of Amarok 2.0 soon.
 
- [1]: http://amarok.kde.org/blog/authors/2-Mark-Kretschmann
- [2]: http://amarok.kde.org/blog/authors/14-Jeff-Mitchell
+ [1]: https://amarok.kde.org/blog/authors/2-Mark-Kretschmann
+ [2]: https://amarok.kde.org/blog/authors/14-Jeff-Mitchell

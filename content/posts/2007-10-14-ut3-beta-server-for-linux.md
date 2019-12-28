@@ -22,6 +22,6 @@ tags:
 ---
 While the UT3 Demo for Windows is available sine a few days, the linux client is not yet ready. Nevertheless a beta version of the linux server is now available as [icculus][1] (Ryan C. Gordon) states in his [blog][2]. The blog also includes the link to a [mailing-list entry][3] with more detailed information about downloading and running the server. Also new mirrors would be welcome.
 
- [1]: http://www.icculus.org/
- [2]: http://icculus.org/news/news.php?id=4084
- [3]: http://icculus.org/cgi-bin/ezmlm/ezmlm-cgi?64:mss:58:ebhpjkcopohfepbmnlkb
+ [1]: https://www.icculus.org/
+ [2]: https://icculus.org/news/news.php?id=4084
+ [3]: https://icculus.org/cgi-bin/ezmlm/ezmlm-cgi?64:mss:58:ebhpjkcopohfepbmnlkb

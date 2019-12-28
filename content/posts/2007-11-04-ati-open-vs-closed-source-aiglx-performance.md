@@ -40,4 +40,4 @@ For those that may have missed it, the ATI/AMD fglrx 8.42 display driver that wa
 
 Compiz 0.6.0 was used with Ubuntu 7.10 &#8220;Gutsy Gibbon&#8221; and the Linux 2.6.22 kernel with X server 1.3. The hardware included a PCI Express x16 based ATI Radeon X800XL with 256MB of video memory, an Intel Pentium D 820 (2.80GHz dual-core) processor, 2GB of DDR3-1333 memory, and an ASUS P5E3 Deluxe (Intel X38 Chipset) motherboard. While these tests are not scientific, we had used the Compiz Benchmark plug-in to measure the frame-rate when different Compiz effects were occurring on the desktop. These test scenarios had included the fire effect, water effect, window hovering, and then just idling within the GNOME 2.20 desktop. Testing was done with the stock &#8220;Radeon&#8221; driver that ships with Ubuntu 7.10 and with the fglrx 8.42.3 binary driver.
 
-<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&item=900&num=1">More Here</a>
+<a target="_blank" href="https://www.phoronix.com/scan.php?page=article&item=900&num=1">More Here</a>

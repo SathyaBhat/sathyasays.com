@@ -68,5 +68,5 @@ And, that&#8217;s about it. Reboot, using the USB flash disk as boot device & vo
 
 Note: I&#8217;ve tried this with the KDE4 LiveCD version, if anyone else has tried the DVD version please drop a comment!
 
- [1]: http://sathyabh.at/
- [2]: http://en.opensuse.org/
+ [1]: https://sathyabh.at/
+ [2]: https://en.opensuse.org/

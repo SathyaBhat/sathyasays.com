@@ -5,7 +5,7 @@ type: post
 date: 2010-04-11T18:02:57+00:00
 url: /2010/04/11/how-to-get-iphone-internet-tethering-working-in-linux/
 topsy_short_url:
-  - http://bit.ly/cWKwK8
+  - https://bit.ly/cWKwK8
 categories:
   - "Tips &amp; How-To's"
 tags:
@@ -34,4 +34,4 @@ tags:
 
 More @ [techie-buzz][1]
 
- [1]: http://techie-buzz.com/linux-tips/getting-iphone-internet-tethering-working-in-linux.html
+ [1]: https://techie-buzz.com/linux-tips/getting-iphone-internet-tethering-working-in-linux.html

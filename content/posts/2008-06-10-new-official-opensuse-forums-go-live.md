@@ -36,5 +36,5 @@ So if you&#8217;re facing any problem with your openSUSE box, or would require h
 
 Via  &#8211; [The Official Announcement][2]
 
- [1]: http://forums.opensuse.org
- [2]: http://lizards.opensuse.org/2008/06/10/welcome-to-the-official-opensuse-forums/
+ [1]: https://forums.opensuse.org
+ [2]: https://lizards.opensuse.org/2008/06/10/welcome-to-the-official-opensuse-forums/

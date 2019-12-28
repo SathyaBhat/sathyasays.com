@@ -54,7 +54,7 @@ I&#8217;ve been a SuSE fan over since I tried out Linux back in well&#8230;. Apr
 It was only a year or so ago that I gave SuSE 10.0 a shot, and I began to realize why I&#8217;d been a SuSE fan for so long. When openSuSE 10.2 was released, I immediately shifted to it and thought to myself, &#8220;hmmm.. Won&#8217;t be needing another distro for sure&#8221;. Even the much fancied Ubuntu didn&#8217;t make much of an impression on me, partly because of GNOME, which I absolutely detest. Recently when Fiesty Fawn was released, I thought I&#8217;ll give Kubuntu a shot(hey, [ShipIT][2] would send it to me, so why not?). And I&#8217;ve to say, &#8220;Wow!&#8221;(Not the Fista &#8220;Wow!&#8221;). I couldn&#8217;t have been more wrong about my thoughts. I was so impressed, that I actually removed openSuSE and I&#8217;ve totally shifted to Kubuntu. In fact, while I&#8217;m writing this, Kubuntu installation is going in the background, as the picture shows:[][3]
 
 <p style="text-align:center;">
-  <a href="http://sathyasays.files.wordpress.com/2007/05/snapshot1.png" title="Kubuntu Installation in Background"><img src="/files/2007/05/snapshot1.thumbnail.png" alt="Kubuntu Installation in Background" /></a>
+  <a href="https://sathyasays.files.wordpress.com/2007/05/snapshot1.png" title="Kubuntu Installation in Background"><img src="/files/2007/05/snapshot1.thumbnail.png" alt="Kubuntu Installation in Background" /></a>
 </p>
 
 The install took about 45 minutes, which isn&#8217;t too bad since my physical RAM amount is less(Just 256MB). After the install I didn&#8217;t like the default wallpaper, so changed it another one. Have a look at my desktop after install. Now that&#8217;s neat!
@@ -62,7 +62,7 @@ The install took about 45 minutes, which isn&#8217;t too bad since my physical R
 [][4]
 
 <p style="text-align:center;">
-  <a href="http://sathyasays.files.wordpress.com/2007/06/desktop.png" title="Desktop"><img src="/files/2007/06/desktop.thumbnail.png" alt="Desktop" /></a>
+  <a href="https://sathyasays.files.wordpress.com/2007/06/desktop.png" title="Desktop"><img src="/files/2007/06/desktop.thumbnail.png" alt="Desktop" /></a>
 </p>
 
 Overall not bad. I&#8217;ll be using this for a while and see how it goes. Now for the bad points:
@@ -77,7 +77,7 @@ Cheers!
 
 ~sathya~
 
- [1]: http://www.chip-india.com
- [2]: http://shipit.kubuntu.com
- [3]: http://sathyasays.files.wordpress.com/2007/05/snapshot1.png "Kubuntu Installation in Background"
- [4]: http://sathyasays.files.wordpress.com/2007/06/desktop.png "Desktop"
+ [1]: https://www.chip-india.com
+ [2]: https://shipit.kubuntu.com
+ [3]: https://sathyasays.files.wordpress.com/2007/05/snapshot1.png "Kubuntu Installation in Background"
+ [4]: https://sathyasays.files.wordpress.com/2007/06/desktop.png "Desktop"

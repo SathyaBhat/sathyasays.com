@@ -30,7 +30,7 @@ And to fetch databag items:
 end
 </pre>
 
-Unfortunately, the data\_bag and data\_bag_item <a href="http://stackoverflow.com/a/37445023/92837" target="_blank" rel="noopener noreferrer">helpers are not accessible from within attributes</a> and it seems as of now, the working way is to use <a href="http://www.rubydoc.info/github/opscode/chef/Chef/DataBagItem#load-class_method" target="_blank" rel="noopener noreferrer">Chef::DataBagItem.load</a> method like so:
+Unfortunately, the data\_bag and data\_bag_item <a href="https://stackoverflow.com/a/37445023/92837" target="_blank" rel="noopener noreferrer">helpers are not accessible from within attributes</a> and it seems as of now, the working way is to use <a href="https://www.rubydoc.info/github/opscode/chef/Chef/DataBagItem#load-class_method" target="_blank" rel="noopener noreferrer">Chef::DataBagItem.load</a> method like so:
 
 <pre>credentials  = Chef::DataBagItem.load('admins','sathya')
 </pre>

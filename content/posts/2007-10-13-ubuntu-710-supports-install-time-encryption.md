@@ -59,19 +59,19 @@ tags:
 </p>
 
 <p align="left">
-  The Ubuntu Wiki states: &#8220;Both the graphical and the alternate installer now support encrypting the hard disk.&#8221; However, using yesterday&#8217;s LiveCD with Ubiquity (v1.6.5) still hadn&#8217;t contained the encryption functionality when doing a manual partition. If the Ubiquity installer doesn&#8217;t support encrypting the hard drive in time for the Gutsy Gibbon release, we imagine it should ready in time for <a href="http://www.phoronix.com/scan.php?page=news_item&px=NjAxNA" target="_blank">Ubuntu 8.04 Hardy Heron</a>, which happens to be an LTS (Long Term Support) release.<!--more-->
+  The Ubuntu Wiki states: &#8220;Both the graphical and the alternate installer now support encrypting the hard disk.&#8221; However, using yesterday&#8217;s LiveCD with Ubiquity (v1.6.5) still hadn&#8217;t contained the encryption functionality when doing a manual partition. If the Ubiquity installer doesn&#8217;t support encrypting the hard drive in time for the Gutsy Gibbon release, we imagine it should ready in time for <a href="https://www.phoronix.com/scan.php?page=news_item&px=NjAxNA" target="_blank">Ubuntu 8.04 Hardy Heron</a>, which happens to be an LTS (Long Term Support) release.<!--more-->
 </p>
 
 <p align="center">
-  <img src="http://www.phoronix.net/image.php?id=873&image=ubuntu_encrypt_1" title="Ubuntu 7.10 Supports Install-Time Encryption" />
+  <img src="https://www.phoronix.net/image.php?id=873&image=ubuntu_encrypt_1" title="Ubuntu 7.10 Supports Install-Time Encryption" />
 </p>
 
 <p align="left">
-  The alternate installer encryption support was recently added and can be found in the Ubuntu 7.10 release candidate due out tomorrow or the final release of Gutsy Gibbon on October 18. The alternate installer (and the Ubiquity installer once supported) depends upon Debian&#8217;s partman and partman-crypto and then dm-crypt is used for handling the encrypted block devices. The rationale behind <a href="https://wiki.ubuntu.com/EncryptedFilesystemsInstaller" target="_blank">Ubuntu&#8217;s encrypted filesystem installer</a> is for supporting encryption whether you are using a notebook, desktop, or <a href="http://www.phoronix.com/scan.php?page=article&item=873&num=1#" id="KonaLink0" target="_top" class="kLink" style="text-decoration: underline ! important; position: static"><font style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static" color="#234865"><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">server</span></font></a> and whatever information needs to be secured.
+  The alternate installer encryption support was recently added and can be found in the Ubuntu 7.10 release candidate due out tomorrow or the final release of Gutsy Gibbon on October 18. The alternate installer (and the Ubiquity installer once supported) depends upon Debian&#8217;s partman and partman-crypto and then dm-crypt is used for handling the encrypted block devices. The rationale behind <a href="https://wiki.ubuntu.com/EncryptedFilesystemsInstaller" target="_blank">Ubuntu&#8217;s encrypted filesystem installer</a> is for supporting encryption whether you are using a notebook, desktop, or <a href="https://www.phoronix.com/scan.php?page=article&item=873&num=1#" id="KonaLink0" target="_top" class="kLink" style="text-decoration: underline ! important; position: static"><font style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static" color="#234865"><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">server</span></font></a> and whatever information needs to be secured.
 </p>
 
 <p align="center">
-  <img src="http://www.phoronix.net/image.php?id=873&image=ubuntu_encrypt_2" title="Ubuntu 7.10 Supports Install-Time Encryption" />
+  <img src="https://www.phoronix.net/image.php?id=873&image=ubuntu_encrypt_2" title="Ubuntu 7.10 Supports Install-Time Encryption" />
 </p>
 
 <p align="left">
@@ -79,9 +79,9 @@ tags:
 </p>
 
 <p align="left">
-  This install-time dm-crypt-powered encryption for Ubuntu is great to see and is certainly needed for those storing sensitive information (especially on laptops). When the Ubiquity installer fully supports encrypted partitions it will be very nice and should be extremely easy to setup even for new <a href="http://www.phoronix.com/scan.php?page=article&item=873&num=1#" id="KonaLink1" target="_top" class="kLink" style="text-decoration: underline ! important; position: static"><font style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static" color="#234865"><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">Linux </span><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">users</span></font></a>. Ubuntu 7.10 &#8220;Gutsy Gibbon&#8221; is certainly shaping up to be an excellent Linux desktop release!
+  This install-time dm-crypt-powered encryption for Ubuntu is great to see and is certainly needed for those storing sensitive information (especially on laptops). When the Ubiquity installer fully supports encrypted partitions it will be very nice and should be extremely easy to setup even for new <a href="https://www.phoronix.com/scan.php?page=article&item=873&num=1#" id="KonaLink1" target="_top" class="kLink" style="text-decoration: underline ! important; position: static"><font style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static" color="#234865"><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">Linux </span><span class="kLink" style="color: #234865 ! important; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; font-size: 12px; position: static">users</span></font></a>. Ubuntu 7.10 &#8220;Gutsy Gibbon&#8221; is certainly shaping up to be an excellent Linux desktop release!
 </p>
 
 <p align="left">
-  Author & Source:Michael Larabel, <a href="http://www.phoronix.com/scan.php?page=article&item=873&num=1">Phoronix</a>
+  Author & Source:Michael Larabel, <a href="https://www.phoronix.com/scan.php?page=article&item=873&num=1">Phoronix</a>
 </p>

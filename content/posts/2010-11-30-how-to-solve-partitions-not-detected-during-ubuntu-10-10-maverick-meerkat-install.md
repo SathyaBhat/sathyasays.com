@@ -5,7 +5,7 @@ type: post
 date: 2010-11-30T04:40:07+00:00
 url: /2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/
 topsy_short_url:
-  - http://u.sbhat.me/gxqC9l
+  - https://u.sbhat.me/gxqC9l
 categories:
   - News
 tags:
@@ -48,13 +48,13 @@ My hard disk is a 60GB one., partitioned into 10, 25 and 25 GBs. My Disk Managem
 
 <!--more-->
 
-<a rel="attachment wp-att-981" href="http://sathyasays.com/2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/sathyasays/"><img class="alignnone size-full wp-image-981" src="http://sathyasays.com/wp-content/uploads/2010/11/sathyasays.bmp" alt="" /></a>
+<a rel="attachment wp-att-981" href="https://sathyasays.com/2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/sathyasays/"><img class="alignnone size-full wp-image-981" src="https://sathyasays.com/wp-content/uploads/2010/11/sathyasays.bmp" alt="" /></a>
 
 Did you see that?? There was a 22.97 GB of Free Space which is not there at all! But otherwise I did not find any problem.
 
-I even posted this problem in <a href="http://ubuntuforums.org/showthread.php?p=10145676" target="_blank">Ubuntu Forums</a>. And one of the users there
+I even posted this problem in <a href="https://ubuntuforums.org/showthread.php?p=10145676" target="_blank">Ubuntu Forums</a>. And one of the users there
   
-(by name Rod Smith) had given me a <a title="Diect Link" href="http://www.rodsbooks.com/missing-parts/index.html" target="_blank">link to his blog</a>, explaining a similar problem with the same symptom as mine and also a few solutions. You can actually take a look there to see how the hard disk gets listed as not partitioned.But, do not try those solutions unless you are pretty sure that, the problem mentioned in the blog, is exactly the same you are facing.
+(by name Rod Smith) had given me a <a title="Diect Link" href="https://www.rodsbooks.com/missing-parts/index.html" target="_blank">link to his blog</a>, explaining a similar problem with the same symptom as mine and also a few solutions. You can actually take a look there to see how the hard disk gets listed as not partitioned.But, do not try those solutions unless you are pretty sure that, the problem mentioned in the blog, is exactly the same you are facing.
 
 None of those helped though, so this is what I did.
 
@@ -62,8 +62,8 @@ I wanted a Windows software that can solve the problem in a click or two. I scep
 
 I took Partition Magic&#8217;s offer. In a second, my partitions in Disk Management looked as they should. And when I booted back to Ubuntu Install, it was &#8211; &#8220;VOILA&#8221; it worked.
 
-But again, there is also <a href="http://ubuntuforums.org/showthread.php?t=1510017" target="_blank">another Ubuntu Forums thread</a> that seems to work for a few others. It says something about deleting GPT data.
+But again, there is also <a href="https://ubuntuforums.org/showthread.php?t=1510017" target="_blank">another Ubuntu Forums thread</a> that seems to work for a few others. It says something about deleting GPT data.
 
 I hope one of the above solutions help. Also. Please comment any other solution that worked for you.
 
- [1]: http://www.soft32.com/Download/free-trial/Partition_Magic/4-151-1.html "Link to Download Page"
+ [1]: https://www.soft32.com/Download/free-trial/Partition_Magic/4-151-1.html "Link to Download Page"

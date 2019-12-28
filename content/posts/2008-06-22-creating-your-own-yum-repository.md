@@ -51,7 +51,7 @@ tags:
   - yum
 
 ---
-This is a guest post by <a href="http://tech-nologic.info/" target="_blank"><strong>Kunal Gautam</strong></a>. This article is aimed at RHEL and Fedora users.
+This is a guest post by <a href="https://tech-nologic.info/" target="_blank"><strong>Kunal Gautam</strong></a>. This article is aimed at RHEL and Fedora users.
 
 If you’ve been using Linux for a while, then you’d know how much of a pain it is to install a software which runs into dependency problems. One way of getting around this is to use a repository.
 
@@ -144,7 +144,7 @@ Next comes baseurl
   
 baseurl supports different protocols like file:// ftp:// httpd:// etc. If you are running repository from local system then give absolute path after file:// .
   
-For ftp give `ftp://server_ip_or_domain/pub_dir_or_accessable_dir` or `http://server_ip_or_domain/dir`
+For ftp give `ftp://server_ip_or_domain/pub_dir_or_accessable_dir` or `https://server_ip_or_domain/dir`
   
 Next line is enabled this specifies if yum should enable that repo server for installation or not 1 is for enable and 0 is for disable
   
@@ -167,5 +167,5 @@ _Note 1:- SElinux or Firewall may conflict sometimes [ for ftp and http service 
 _Note2 :- I have used RHEL server 5 edition . This process is same for RHEL 4, 5 or for Fedora._
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4a3b7185-3a41-47d3-901e-b711508c4443" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="http://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="http://technorati.com/tags/linux">linux</a>,<a rel="tag" href="http://technorati.com/tags/opensource">opensource</a>,<a rel="tag" href="http://technorati.com/tags/RedHat">RedHat</a>,<a rel="tag" href="http://technorati.com/tags/RHEL">RHEL</a>,<a rel="tag" href="http://technorati.com/tags/yum">yum</a>,<a rel="tag" href="http://technorati.com/tags/repo">repo</a>,<a rel="tag" href="http://technorati.com/tags/repository">repository</a>,<a rel="tag" href="http://technorati.com/tags/commands">commands</a>,<a rel="tag" href="http://technorati.com/tags/tips+and+how-tos">tips and how-tos</a>,<a rel="tag" href="http://technorati.com/tags/tutorials">tutorials</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/sathya">sathya</a>,<a rel="tag" href="https://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="https://technorati.com/tags/linux">linux</a>,<a rel="tag" href="https://technorati.com/tags/opensource">opensource</a>,<a rel="tag" href="https://technorati.com/tags/RedHat">RedHat</a>,<a rel="tag" href="https://technorati.com/tags/RHEL">RHEL</a>,<a rel="tag" href="https://technorati.com/tags/yum">yum</a>,<a rel="tag" href="https://technorati.com/tags/repo">repo</a>,<a rel="tag" href="https://technorati.com/tags/repository">repository</a>,<a rel="tag" href="https://technorati.com/tags/commands">commands</a>,<a rel="tag" href="https://technorati.com/tags/tips+and+how-tos">tips and how-tos</a>,<a rel="tag" href="https://technorati.com/tags/tutorials">tutorials</a>
 </div>

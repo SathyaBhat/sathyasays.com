@@ -47,4 +47,4 @@ Your problems meeting members of the opposite sex disappear
 
 Source: Michael J. Jordon at [Linux.org][1]
 
- [1]: http://www.linux.org/news/LO2007/teneffects.html
+ [1]: https://www.linux.org/news/LO2007/teneffects.html

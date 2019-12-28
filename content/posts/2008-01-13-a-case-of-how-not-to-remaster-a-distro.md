@@ -97,8 +97,8 @@ Continue Reading at [OpenSourceLearning][5]
 > 
 >
 
- [1]: http://tuxmachines.org/
- [2]: http://www.mindblowingidea.com/Ultumix
- [3]: http://www.transgaming.com/
- [4]: http://www.linuxquestions.org/reviews/showproduct.php?product=806
- [5]: http://opensourcelearning.info/blog/?p=720
+ [1]: https://tuxmachines.org/
+ [2]: https://www.mindblowingidea.com/Ultumix
+ [3]: https://www.transgaming.com/
+ [4]: https://www.linuxquestions.org/reviews/showproduct.php?product=806
+ [5]: https://opensourcelearning.info/blog/?p=720

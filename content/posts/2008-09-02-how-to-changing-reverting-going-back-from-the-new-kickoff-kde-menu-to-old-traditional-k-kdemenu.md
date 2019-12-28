@@ -45,11 +45,11 @@ So lets see how to get the old traditional K Menu back &#8211; it&#8217;s simple
 <!--more-->
 
 <p style="text-align: center;">
-  First right click on the panel, and choose panel settings.<br /> <a href="http://www.flickr.com/photos/sathyabhat/2821408287/"><img class="aligncenter" src="http://farm4.static.flickr.com/3118/2821408287_c355d2a494_m.jpg" alt="Panel Settings" /></a>
+  First right click on the panel, and choose panel settings.<br /> <a href="https://www.flickr.com/photos/sathyabhat/2821408287/"><img class="aligncenter" src="https://farm4.static.flickr.com/3118/2821408287_c355d2a494_m.jpg" alt="Panel Settings" /></a>
 </p>
 
 <p style="text-align: center;">
-  Now a secondary panel will open.<br /> <a href="http://www.flickr.com/photos/sathyabhat/2821418609/"><img class="aligncenter" src="http://farm4.static.flickr.com/3243/2821418609_0cdb5621a8_m.jpg" alt="Add Widgets" /></a>
+  Now a secondary panel will open.<br /> <a href="https://www.flickr.com/photos/sathyabhat/2821418609/"><img class="aligncenter" src="https://farm4.static.flickr.com/3243/2821418609_0cdb5621a8_m.jpg" alt="Add Widgets" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -57,7 +57,7 @@ So lets see how to get the old traditional K Menu back &#8211; it&#8217;s simple
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2822242478/"><img class="aligncenter" src="http://farm4.static.flickr.com/3024/2822242478_eeaa6ea7e8_m.jpg" alt="Plasmoids" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2822242478/"><img class="aligncenter" src="https://farm4.static.flickr.com/3024/2822242478_eeaa6ea7e8_m.jpg" alt="Plasmoids" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -69,5 +69,5 @@ So lets see how to get the old traditional K Menu back &#8211; it&#8217;s simple
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/2822255118/"><img class="aligncenter" src="http://farm4.static.flickr.com/3124/2822255118_959aebcd99_m.jpg" alt="Traditional KDE menu" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/2822255118/"><img class="aligncenter" src="https://farm4.static.flickr.com/3124/2822255118_959aebcd99_m.jpg" alt="Traditional KDE menu" /></a>
 </p>

@@ -89,7 +89,7 @@ The product of Canonical collaboration with Intel® and the open source communit
 
 ### Just the right stuff
 
-<img src="http://www.ubuntu.com/files/u1/html-small.jpg" alt=" " align="right"   />Ubuntu Mobile just works, and it works just right.
+<img src="https://www.ubuntu.com/files/u1/html-small.jpg" alt=" " align="right"   />Ubuntu Mobile just works, and it works just right.
 
 Just the right applications provide an uncompromised Web 2.0 experience: Web browsing, email, media, camera, VoIP, instant messaging, GPS, blogging, digital TV, games, contacts, dates/calendar, simple software updates&#8230; and lots more.
 
@@ -123,11 +123,11 @@ MIDs typically have the following features and attributes:
 
 ### Clutter User Interface
 
-<img src="http://www.ubuntu.com/files/u1/clutter-small.jpg" alt="Clutter UI"   />
+<img src="https://www.ubuntu.com/files/u1/clutter-small.jpg" alt="Clutter UI"   />
 
 ### Flash User Interface
 
-<img src="http://www.ubuntu.com/files/u1/flash-small.jpg" alt="Flash UI"   />
+<img src="https://www.ubuntu.com/files/u1/flash-small.jpg" alt="Flash UI"   />
 
 Ubuntu Mobile is highly flexible and customizable. It is an ideal platform for the kind of product differentiation that reaches target users and penetrates key markets.
 
@@ -148,8 +148,8 @@ The Ubuntu Mobile community includes many individuals and organizations and alwa
 
 Places to get started:
 
-  * For information about Ubuntu Mobile, see <http://wiki.ubuntu.com/MobileAndEmbedded>
-  * For information about Intel&#8217;s MID Linux Moblin project, see [http://moblin.org][1]
+  * For information about Ubuntu Mobile, see <https://wiki.ubuntu.com/MobileAndEmbedded>
+  * For information about Intel&#8217;s MID Linux Moblin project, see [https://moblin.org][1]
 
 More information
 
@@ -157,5 +157,5 @@ More information
 
 Wow! This can result in a massive change in mentality for people who still think Linux is for geeks. I&#8217;m very impressed by the toouch interface. Do we have something here, which can beat Apple&#8217;s iTouch interface?
 
- [1]: http://moblin.org/
- [2]: http://www.ubuntu.com/files/u1/ubu_mob_edition_A4_aw.pdf
+ [1]: https://moblin.org/
+ [2]: https://www.ubuntu.com/files/u1/ubu_mob_edition_A4_aw.pdf

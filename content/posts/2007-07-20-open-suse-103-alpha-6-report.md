@@ -118,5 +118,5 @@ new libwnck.
 
 All of this, was posted on [TuxMachines][2] and credits to &#8220;<span class="submitted">srlinuxx&#8221;, not me. </span>
 
- [1]: http://www.kdedevelopers.org/node/2896
- [2]: http://www.tuxmachines.org/node/18306
+ [1]: https://www.kdedevelopers.org/node/2896
+ [2]: https://www.tuxmachines.org/node/18306

@@ -23,9 +23,9 @@ tags:
   - X
 
 ---
-KDE commnunity recently launched a dedicated forum over at <a href="http://forum.kde.org" target="_blank">forum.kde.org</a>
+KDE commnunity recently launched a dedicated forum over at <a href="https://forum.kde.org" target="_blank">forum.kde.org</a>
 
-The forum will complement the already existing and pretty exhaustive <a href="http://userbase.kde.org/" target="_blank">KDE User Base</a> for support and other resources. Having a dedicated forum for a desktop environment is a really good thing, it should help users get help right from the horse&#8217;s mouth.
+The forum will complement the already existing and pretty exhaustive <a href="https://userbase.kde.org/" target="_blank">KDE User Base</a> for support and other resources. Having a dedicated forum for a desktop environment is a really good thing, it should help users get help right from the horse&#8217;s mouth.
 
 The forums include sections like News, Tips, How-to&#8217;s, Releases, Commits, Look and Feel, Localization and lot more!.
 

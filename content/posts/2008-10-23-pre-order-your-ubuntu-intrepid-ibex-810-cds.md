@@ -34,4 +34,4 @@ With just few days ago to Ubuntu 8.10 (Intrepid Ibex) ShipIt &#8211; Canonical&#
 
 Although Canonical states delivery can take upto 10 weeks &#8211; I&#8217;ve generally received them here in India with 3 weeks. Although the default request is that of a single CD, by placing a <a href="https://shipit.ubuntu.com/specialrequest" target="_blank">special request</a>, you can order any number of CDs &#8211; though I suggest against this &#8211; instead, <a href="https://shipit.ubuntu.com/myrequest" target="_blank">order a single CD</a>, and make copies of it yourself and distribute it!
 
- [1]: http://farm4.static.flickr.com/3160/2966405521_88f84dccb0.jpg?v=0
+ [1]: https://farm4.static.flickr.com/3160/2966405521_88f84dccb0.jpg?v=0

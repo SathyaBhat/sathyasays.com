@@ -89,4 +89,4 @@ _My thoughts on my picks_
   
 ** **Kubuntu:-** Basically same as Ubuntu, except that Kubuntu uses KDE as it&#8217;s display environment(K+Ubuntu = Kubuntu, smart ain&#8217;t those fellas? ;) ). While I&#8217;ve used this distro for a while, it still doesn&#8217;t measure up to levels of other (primarily KDE based) distros such openSUSE. Still a good choice if you&#8217;re a KDE fan, like me!
 
- [1]: http://sathyasays.com/2007/10/17/dreamlinux-multimedia-fans-dream-come-true/
+ [1]: https://sathyasays.com/2007/10/17/dreamlinux-multimedia-fans-dream-come-true/

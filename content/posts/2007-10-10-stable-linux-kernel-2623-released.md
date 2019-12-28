@@ -55,7 +55,7 @@ tags:
   </p>
   
   <p>
-    I want this to be what people look at for a few days, but expect the x86<br /> merge to go ahead after that. So far, all indications are still that it&#8217;s<br /> going to be all smooth sailing, but hey, those indicators seem to always<br /> say that, and only after the fact do people notice any problems <img src="http://www.tuxmachines.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" />
+    I want this to be what people look at for a few days, but expect the x86<br /> merge to go ahead after that. So far, all indications are still that it&#8217;s<br /> going to be all smooth sailing, but hey, those indicators seem to always<br /> say that, and only after the fact do people notice any problems <img src="https://www.tuxmachines.org/misc/smileys/wink.png" title="Eye-wink" alt="Eye-wink" />
   </p>
   
   <p>
@@ -64,9 +64,9 @@ tags:
 </blockquote>
 
 <p>
-  <a href="http://www.phoronix.com/scan.php?page=home">Phoronix</a> have conducted some <a href="http://www.phoronix.com/scan.php?page=article&item=872&num=1">preliminary benchmarks</a> and report that &#8220;These are just our very initial benchmarks from the Linux 2.6.23 kernel and by no means can any definitive conclusions be drawn. From these common Phoronix benchmarks, the performance difference was minimal with only a very small performance boost in RAMspeed. However, thanks in large part to the new Linux scheduler there are performance improvements in other areas not covered by these benchmarks (especially when multi-tasking). Once we have tested this kernel more thoroughly, we will be back with additional information.&#8221;
+  <a href="https://www.phoronix.com/scan.php?page=home">Phoronix</a> have conducted some <a href="https://www.phoronix.com/scan.php?page=article&item=872&num=1">preliminary benchmarks</a> and report that &#8220;These are just our very initial benchmarks from the Linux 2.6.23 kernel and by no means can any definitive conclusions be drawn. From these common Phoronix benchmarks, the performance difference was minimal with only a very small performance boost in RAMspeed. However, thanks in large part to the new Linux scheduler there are performance improvements in other areas not covered by these benchmarks (especially when multi-tasking). Once we have tested this kernel more thoroughly, we will be back with additional information.&#8221;
 </p>
 
 <p>
-  <a href="http://pcburn.com/article.php?sid=2426" target="_blank">More </a><a href="http://kernelnewbies.org/Linux_2_6_23" target="_blank">here</a></font>
+  <a href="https://pcburn.com/article.php?sid=2426" target="_blank">More </a><a href="https://kernelnewbies.org/Linux_2_6_23" target="_blank">here</a></font>
 </p>

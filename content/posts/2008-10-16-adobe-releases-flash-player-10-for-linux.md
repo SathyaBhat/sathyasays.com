@@ -32,6 +32,6 @@ Download Flash Player 10 for Linux from [here][2].
   
 Instructions on how-to install the Flash Player can be found [here][3]
 
- [1]: http://www.adobe.com/support/documentation/en/flashplayer/releasenotes.html#p10
- [2]: http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P2_Platform=Linux
- [3]: http://www.adobe.com/products/flashplayer/productinfo/instructions/#section-3
+ [1]: https://www.adobe.com/support/documentation/en/flashplayer/releasenotes.html#p10
+ [2]: https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P2_Platform=Linux
+ [3]: https://www.adobe.com/products/flashplayer/productinfo/instructions/#section-3

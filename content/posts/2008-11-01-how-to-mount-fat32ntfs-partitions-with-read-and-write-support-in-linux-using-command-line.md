@@ -48,7 +48,7 @@ tags:
   - X
 
 ---
-Previously I&#8217;d posted on <a href="http://sathyasays.com/2008/10/08/how-to-automount-hard-drive-partitions-everytime-you-login-in-linux/" target="_blank">auto-mounting partitions at startup</a> using pysdm. This post shows how you can do so by making use of mount <a href="http://sathyasays.com/tag/commands" target="_blank">command</a>.
+Previously I&#8217;d posted on <a href="https://sathyasays.com/2008/10/08/how-to-automount-hard-drive-partitions-everytime-you-login-in-linux/" target="_blank">auto-mounting partitions at startup</a> using pysdm. This post shows how you can do so by making use of mount <a href="https://sathyasays.com/tag/commands" target="_blank">command</a>.
 
 Below steps require root priviliges, so switch to root or prefix sudo to the commands.
 

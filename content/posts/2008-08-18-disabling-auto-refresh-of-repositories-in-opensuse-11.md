@@ -44,13 +44,13 @@ One of the more irritating part of YaST is that it auto-refreshes the repositori
 First head over to YaST, click on Software and then Software Repositories.
 
 <p style="text-align: center;">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/08/softrepo1.png"><img class="alignnone size-thumbnail wp-image-337" title="softrepo1" src="http://sathyasays.com/wp-content/uploads/2008/08/softrepo1-150x150.png" alt=""   /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/08/softrepo1.png"><img class="alignnone size-thumbnail wp-image-337" title="softrepo1" src="https://sathyasays.com/wp-content/uploads/2008/08/softrepo1-150x150.png" alt=""   /></a>
 </p>
 
 Next,Select the repo, and ensure that Automatically refresh is disabled. That&#8217;s it!
 
 <p style="text-align: center;">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/08/refresh.png"><img class="aligncenter size-thumbnail wp-image-336" title="refresh" src="http://sathyasays.com/wp-content/uploads/2008/08/refresh-150x150.png" alt=""   /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/08/refresh.png"><img class="aligncenter size-thumbnail wp-image-336" title="refresh" src="https://sathyasays.com/wp-content/uploads/2008/08/refresh-150x150.png" alt=""   /></a>
 </p>
 
 The repos will no longer refresh automatically.

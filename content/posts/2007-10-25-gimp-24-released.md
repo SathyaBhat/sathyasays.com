@@ -27,6 +27,6 @@ tags:
 
 If you want to compile GIMP 2.4 yourself, you can grab the tarball from [ftp.gimp.org][2] or one of its mirrors. Binary packages for the various supported platforms are becoming available as we speak. Our [Downloads][3] section should help you to locate the package for your system.
 
- [1]: http://www.gimp.org/release-notes/gimp-2.4.html
- [2]: http://gimp.org/downloads/#mirrors
- [3]: http://gimp.org/downloads/
+ [1]: https://www.gimp.org/release-notes/gimp-2.4.html
+ [2]: https://gimp.org/downloads/#mirrors
+ [3]: https://gimp.org/downloads/

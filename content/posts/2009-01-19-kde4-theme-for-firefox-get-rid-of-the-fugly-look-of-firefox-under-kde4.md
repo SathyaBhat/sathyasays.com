@@ -35,7 +35,7 @@ Well I upgraded the KDE installation in my Sabayon system to KDE4 (by default, S
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/3208278722/sizes/m/"><img class="aligncenter" src="http://farm4.static.flickr.com/3080/3208278722_aaa9d54a23_m.jpg" alt="fugly firefox" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/3208278722/sizes/m/"><img class="aligncenter" src="https://farm4.static.flickr.com/3080/3208278722_aaa9d54a23_m.jpg" alt="fugly firefox" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -47,7 +47,7 @@ Well I upgraded the KDE installation in my Sabayon system to KDE4 (by default, S
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.flickr.com/photos/sathyabhat/3207432609/sizes/m/"><img class="aligncenter" src="http://farm4.static.flickr.com/3441/3207432609_5be17d2794_m.jpg" alt="better firefox" /></a>
+  <a href="https://www.flickr.com/photos/sathyabhat/3207432609/sizes/m/"><img class="aligncenter" src="https://farm4.static.flickr.com/3441/3207432609_5be17d2794_m.jpg" alt="better firefox" /></a>
 </p>
 
 <p style="text-align: left;">

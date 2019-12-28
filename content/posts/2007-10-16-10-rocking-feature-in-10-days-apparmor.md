@@ -71,6 +71,6 @@ If you want to read more about AppArmor, aside from the Ubuntu Help page, you ca
 
 See you all tomorrow!
 
- [1]: http://fridge.ubuntu.com/node/1175
+ [1]: https://fridge.ubuntu.com/node/1175
  [2]: https://help.ubuntu.com/community/AppArmor
- [3]: http://en.opensuse.org/Apparmor
+ [3]: https://en.opensuse.org/Apparmor

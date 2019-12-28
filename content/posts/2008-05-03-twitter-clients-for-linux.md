@@ -54,7 +54,7 @@ tags:
   - X
 
 ---
-Ever since being introduced to <a rel="nofollow" href="http://www.twitter.com/" target="_blank">Twitter</a> by <a rel="nofollow" href="http://preshit.net/" target="_blank">Preshit</a>, I&#8217;ve been addicted to twitter. While I prefer tweeting via IM or Twitter&#8217;s homepage, Few of you would love to use a twitter client. Here&#8217;s a list of some twitter clients for Linux
+Ever since being introduced to <a rel="nofollow" href="https://www.twitter.com/" target="_blank">Twitter</a> by <a rel="nofollow" href="https://preshit.net/" target="_blank">Preshit</a>, I&#8217;ve been addicted to twitter. While I prefer tweeting via IM or Twitter&#8217;s homepage, Few of you would love to use a twitter client. Here&#8217;s a list of some twitter clients for Linux
 
 <!--more-->
 
@@ -73,19 +73,19 @@ Ever since being introduced to <a rel="nofollow" href="http://www.twitter.com/" 
   * [**jTwitt**][12] &#8211; Java-based client
   * [**twitterl**][13] &#8211; which puts a Java wrapper around the Twitter API
   * [**Pwytter**][14], a cross-platform client written in Python.
-  * <a rel="nofollow" href="http://code.google.com/p/phpitter" target="_blank"><strong>phpitter</strong></a>: A very young, about two weeks old client, But is very active and coming along nicely
-  * <a rel="nofollow" href="http://anojrs.blogspot.com/2008/03/twittering-from-command-line.html" target="_blank">Anoj Ramaswamy Sundar</a> mentions an easy way to <a rel="nofollow" href="http://anojrs.blogspot.com/2008/03/twittering-from-command-line.html" target="_blank"><strong>tweet from the command line</strong></a>.
+  * <a rel="nofollow" href="https://code.google.com/p/phpitter" target="_blank"><strong>phpitter</strong></a>: A very young, about two weeks old client, But is very active and coming along nicely
+  * <a rel="nofollow" href="https://anojrs.blogspot.com/2008/03/twittering-from-command-line.html" target="_blank">Anoj Ramaswamy Sundar</a> mentions an easy way to <a rel="nofollow" href="https://anojrs.blogspot.com/2008/03/twittering-from-command-line.html" target="_blank"><strong>tweet from the command line</strong></a>.
 
 Clients Based on Air which work well &#8211;
 
   * [**Spaz**][15] &#8211; supports multiple themes, event sounds, and user-defined CSS overrides. With Spaz, you can delete Tweets you&#8217;ve sent, Favorite your friends&#8217; Tweets, and send direct messages or replies to any Twitter user. Spaz keeps track of who you follow as well as who follows you, and auto-refreshes to keep you on top of all incoming direct or timeline messages.
   * [**twhirl**][16] &#8212; A multi-account Twitter desktop client based on AIR and Flex. Compact UI, keyboard shortcuts, many features like auto-connect, auto-refreshing tweets, sending updates, replies, direct messages and more
-  * [**Snitter**][17] &#8212; lots of features with a great UI make this Twitter client stand out from the crowd. <a href="http://www.twitter.com/vimalg2" target="_blank">Vimal</a> reports that as of now <a rel="nofollow" href="http://twitter.com/vimalg2/statuses/802471716">its unusable</a> with High CPU usage
+  * [**Snitter**][17] &#8212; lots of features with a great UI make this Twitter client stand out from the crowd. <a href="https://www.twitter.com/vimalg2" target="_blank">Vimal</a> reports that as of now <a rel="nofollow" href="https://twitter.com/vimalg2/statuses/802471716">its unusable</a> with High CPU usage
 
-Complied from <a rel="nofollow" href="http://www.linux.com/feature/133001" target="_blank">Linux.com</a>, <a rel="nofollow" href="http://twitter.pbwiki.com/Apps#Linux" target="_blank">Twitter Wiki Fan Apps</a> and <a rel="nofollow" href="http://www.fsckin.com/2008/03/31/twitter-clients-for-linux/" target="_blank">fsckin w/ linux</a>
+Complied from <a rel="nofollow" href="https://www.linux.com/feature/133001" target="_blank">Linux.com</a>, <a rel="nofollow" href="https://twitter.pbwiki.com/Apps#Linux" target="_blank">Twitter Wiki Fan Apps</a> and <a rel="nofollow" href="https://www.fsckin.com/2008/03/31/twitter-clients-for-linux/" target="_blank">fsckin w/ linux</a>
 
 <div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2210801b-be5b-49ae-926a-5b83cf1d2849" class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  Technorati Tags: <a rel="tag" href="http://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="http://technorati.com/tags/linux">linux</a>,<a rel="tag" href="http://technorati.com/tags/twitter">twitter</a>,<a rel="tag" href="http://technorati.com/tags/clients">clients</a>,<a rel="tag" href="http://technorati.com/tags/AIR">AIR</a>
+  Technorati Tags: <a rel="tag" href="https://technorati.com/tags/sathyasays.com">sathyasays.com</a>,<a rel="tag" href="https://technorati.com/tags/linux">linux</a>,<a rel="tag" href="https://technorati.com/tags/twitter">twitter</a>,<a rel="tag" href="https://technorati.com/tags/clients">clients</a>,<a rel="tag" href="https://technorati.com/tags/AIR">AIR</a>
 </div>
 
 <div class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
@@ -95,23 +95,23 @@ Complied from <a rel="nofollow" href="http://www.linux.com/feature/133001" targe
 </div>
 
 <div class="wlWriterSmartContent" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-  And yes you can <a href="http://www.twitter.com/sathyabhat">follow </a>me on twitter.
+  And yes you can <a href="https://www.twitter.com/sathyabhat">follow </a>me on twitter.
 </div>
 
- [1]: http://www.kde-apps.org/content/show.php/show.php?content=65012
- [2]: http://www.chimeric.de/projects/zentwitter
- [3]: http://code.google.com/p/gtwitter/
- [4]: http://mattn.kaoriya.net/software/twitter/
- [5]: http://live.gnome.org/DanielMorales/Twitux
- [6]: http://philwilson.org/blog/2007/03/post-to-twitter-from-ubuntu-deskbar.html
- [7]: http://tapsellferrier.hapispace.com/nicferrier/200710115T225511.hapi
- [8]: http://www.emacswiki.org/cgi-bin/emacs/twit.el
- [9]: http://www.vim.org/scripts/script.php?script_id=1853
- [10]: http://code.google.com/p/mitter/
- [11]: http://marnanel.org/projects/blt/
- [12]: http://sourceforge.net/projects/jtwitt/
- [13]: http://sourceforge.net/projects/twitter-api/
- [14]: http://sourceforge.net/projects/pwytter/
- [15]: http://funkatron.com/spaz
- [16]: http://www.twhirl.org
- [17]: http://snook.ca/snitter/
+ [1]: https://www.kde-apps.org/content/show.php/show.php?content=65012
+ [2]: https://www.chimeric.de/projects/zentwitter
+ [3]: https://code.google.com/p/gtwitter/
+ [4]: https://mattn.kaoriya.net/software/twitter/
+ [5]: https://live.gnome.org/DanielMorales/Twitux
+ [6]: https://philwilson.org/blog/2007/03/post-to-twitter-from-ubuntu-deskbar.html
+ [7]: https://tapsellferrier.hapispace.com/nicferrier/200710115T225511.hapi
+ [8]: https://www.emacswiki.org/cgi-bin/emacs/twit.el
+ [9]: https://www.vim.org/scripts/script.php?script_id=1853
+ [10]: https://code.google.com/p/mitter/
+ [11]: https://marnanel.org/projects/blt/
+ [12]: https://sourceforge.net/projects/jtwitt/
+ [13]: https://sourceforge.net/projects/twitter-api/
+ [14]: https://sourceforge.net/projects/pwytter/
+ [15]: https://funkatron.com/spaz
+ [16]: https://www.twhirl.org
+ [17]: https://snook.ca/snitter/

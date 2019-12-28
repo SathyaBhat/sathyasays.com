@@ -38,7 +38,7 @@ Given that ATi users generally have had problems under Linux due to ATi&#8217;s 
 
 Source: [Joel Hruska][3] from [Ars Technica][4]
 
- [1]: http://www.x.org/docs/AMD
- [2]: http://news.opensuse.org/?p=265
- [3]: http://arstechnica.com/authors.ars/DpuTiger
- [4]: http://arstechnica.com/journals/linux.ars/2007/09/21/amdati-release-register-specifications-novell-follows-with-alpha-driver
+ [1]: https://www.x.org/docs/AMD
+ [2]: https://news.opensuse.org/?p=265
+ [3]: https://arstechnica.com/authors.ars/DpuTiger
+ [4]: https://arstechnica.com/journals/linux.ars/2007/09/21/amdati-release-register-specifications-novell-follows-with-alpha-driver

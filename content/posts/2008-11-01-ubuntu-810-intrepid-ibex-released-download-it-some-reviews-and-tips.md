@@ -59,14 +59,14 @@ tags:
 Bang of the release schedule, the next version of Ubuntu, Ubuntu 8.10 dubbed the Intrepid Ibex was released on October 30th.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://1.bp.blogspot.com/_hoL9qH83NDM/SO-REbqeEsI/AAAAAAAAAHc/IUixQk8c6LA/s320/warty-final-ubuntu.png" alt="" />
+  <img class="aligncenter" src="https://1.bp.blogspot.com/_hoL9qH83NDM/SO-REbqeEsI/AAAAAAAAAHc/IUixQk8c6LA/s320/warty-final-ubuntu.png" alt="" />
 </p>
 
 Ubuntu Intrepix Ibex brings in some new features like
 
 <!--more-->
 
-  * DKMS &#8211; <a rel="wikipedia" href="http://en.wikipedia.org/wiki/Dynamic_Kernel_Module_Support">Dynamic Kernel Module Support</a>, DKMS means it’s very easy to rebuild modules (such as drivers) as you upgrade kernels.
+  * DKMS &#8211; <a rel="wikipedia" href="https://en.wikipedia.org/wiki/Dynamic_Kernel_Module_Support">Dynamic Kernel Module Support</a>, DKMS means it’s very easy to rebuild modules (such as drivers) as you upgrade kernels.
   * USB installation support for converting ISO CD image files into USB-live compatible files.
   * X.Org 7.4 brings in hot-plug support for multi-monitor setup &#8211; plugin the external monitor and resolution etc are automatically detected and set.
   * GNOME 2.24 brings in some bug fixes and gives Nautilus tab support &#8211; which has been in Koqnueror and Dolphin since ages
@@ -79,33 +79,33 @@ You can download Ubuntu Intrepid Ibex from the links given below:
 
 Torrents:
 
-  * <a href="http://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-desktop-i386.iso.torrent" target="_blank">Ubuntu 32-bit Desktop</a>
-  * <a href="http://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-desktop-amd64.iso.torrent" target="_blank">Ubuntu 64-bit Desktop</a>
-  * <a href="http://torrent.ubuntu.com/kubuntu/simple/intrepid/desktop/kubuntu-8.10-desktop-i386.iso.torrent" target="_blank">Kubuntu 32-bit Desktop</a>
-  * <a href="http://torrent.ubuntu.com/kubuntu/simple/intrepid/desktop/kubuntu-8.10-desktop-amd64.iso.torrent" target="_blank">Kubuntu 64bit Desktop</a>
+  * <a href="https://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-desktop-i386.iso.torrent" target="_blank">Ubuntu 32-bit Desktop</a>
+  * <a href="https://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-desktop-amd64.iso.torrent" target="_blank">Ubuntu 64-bit Desktop</a>
+  * <a href="https://torrent.ubuntu.com/kubuntu/simple/intrepid/desktop/kubuntu-8.10-desktop-i386.iso.torrent" target="_blank">Kubuntu 32-bit Desktop</a>
+  * <a href="https://torrent.ubuntu.com/kubuntu/simple/intrepid/desktop/kubuntu-8.10-desktop-amd64.iso.torrent" target="_blank">Kubuntu 64bit Desktop</a>
 
 Direct Downloads:
 
-  * <a href="http://releases.ubuntu.com/intrepid/ubuntu-8.10-desktop-i386.iso" target="_blank">Ubuntu 32-bit Desktop</a>
-  * <a href="http://releases.ubuntu.com/intrepid/ubuntu-8.10-desktop-amd64.iso" target="_blank">Ubuntu 64-bit Desktop</a>
+  * <a href="https://releases.ubuntu.com/intrepid/ubuntu-8.10-desktop-i386.iso" target="_blank">Ubuntu 32-bit Desktop</a>
+  * <a href="https://releases.ubuntu.com/intrepid/ubuntu-8.10-desktop-amd64.iso" target="_blank">Ubuntu 64-bit Desktop</a>
   * [Kubuntu 32-bit Desktop][1]
   * [Kubuntu 64-bit Desktop][2]
 
   * <a href="https://shipit.ubuntu.com/" target="_blank">Request your FREE CD</a>
-  * <a href="http://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-mid-lpia.img" target="_blank">MID USB Edition (for EEEPC et al)</a>
+  * <a href="https://releases.ubuntu.com/releases/intrepid/ubuntu-8.10-mid-lpia.img" target="_blank">MID USB Edition (for EEEPC et al)</a>
 
 Some Reviews:
 
-  * <a href="http://bin-false.org/?p=45" target="_blank">Big Story: ubuntu Intrepid Ibex Released and Reviewed</a>
-  * <a href="http://polishlinux.org/linux/ubuntu/ubuntu-810-a-positive-evolution/" target="_blank">Ubuntu 8.10 &#8211; A positive Evolution</a>
+  * <a href="https://bin-false.org/?p=45" target="_blank">Big Story: ubuntu Intrepid Ibex Released and Reviewed</a>
+  * <a href="https://polishlinux.org/linux/ubuntu/ubuntu-810-a-positive-evolution/" target="_blank">Ubuntu 8.10 &#8211; A positive Evolution</a>
 
 Some Tips:
 
-  * <a href="http://www.ubuntu.com/getubuntu/upgrading" target="_blank">Upgrading your existing Ubuntu installation to Intrepid Ibex</a>
-  * <a href="http://www.ubuntugeek.com/common-problems-and-solutions-for-nvidia-restricted-drivers-after-ubuntu-810-intrepid-ibex-upgrade.html" target="_blank">Solutions for Nvidia restricted drivers after Ubuntu 8.10 Upgrade</a>
-  * <a href="http://davestechsupport.com/blog/2008/10/31/10-things-to-do-after-you-install-ubuntu-linux/" target="_blank">10 Things to Do After you Install Ubuntu</a>
+  * <a href="https://www.ubuntu.com/getubuntu/upgrading" target="_blank">Upgrading your existing Ubuntu installation to Intrepid Ibex</a>
+  * <a href="https://www.ubuntugeek.com/common-problems-and-solutions-for-nvidia-restricted-drivers-after-ubuntu-810-intrepid-ibex-upgrade.html" target="_blank">Solutions for Nvidia restricted drivers after Ubuntu 8.10 Upgrade</a>
+  * <a href="https://davestechsupport.com/blog/2008/10/31/10-things-to-do-after-you-install-ubuntu-linux/" target="_blank">10 Things to Do After you Install Ubuntu</a>
 
 Have you upgraded to Intrepid Ibex? What&#8217;re your thoughts? How do you like it? Do drop a comment!
 
- [1]: http://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-i386.iso
- [2]: http://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-amd64.iso
+ [1]: https://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-i386.iso
+ [2]: https://releases.ubuntu.com/kubuntu/8.10/kubuntu-8.10-desktop-amd64.iso

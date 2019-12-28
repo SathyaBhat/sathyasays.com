@@ -45,7 +45,7 @@ Max Spevack, Fedora&#8217;s Project Leader speaks about the release of Fedora 8
   
 ][1] 
 
-On Thursday November 8th (about 3:00 PM GMT), Fedora 8 will go live to the world, and you will be able to download it at [http://fedoraproject.org][2]
+On Thursday November 8th (about 3:00 PM GMT), Fedora 8 will go live to the world, and you will be able to download it at [https://fedoraproject.org][2]
 
 The bits are all finalized, the mirrors are synced, and the torrents are primed. But until we flip the switch, you will have to tide yourself over with this &#8212; my personal Fedora 8 release announcement.
 
@@ -77,7 +77,7 @@ And finally, for those of you who can&#8217;t get enough and want to know what i
   
 * [read about it here][4]
 
- [1]: http://lwn.net/Articles/257644/
- [2]: http://fedoraproject.org/
- [3]: http://fedoraproject.org/wiki/Releases/8/ReleaseSummary
- [4]: http://fedoraproject.org/wiki/Releases/9/FeatureList
+ [1]: https://lwn.net/Articles/257644/
+ [2]: https://fedoraproject.org/
+ [3]: https://fedoraproject.org/wiki/Releases/8/ReleaseSummary
+ [4]: https://fedoraproject.org/wiki/Releases/9/FeatureList

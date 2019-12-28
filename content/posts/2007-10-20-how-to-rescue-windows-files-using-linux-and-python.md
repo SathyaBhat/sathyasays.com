@@ -44,5 +44,5 @@ tags:
 </p>
 
 <p>
-   Source: <a href="http://junauza.blogspot.com/2007/10/how-to-rescue-windows-files-using-linux.html">Tech Source From Bohol</a>
+   Source: <a href="https://junauza.blogspot.com/2007/10/how-to-rescue-windows-files-using-linux.html">Tech Source From Bohol</a>
 </p>

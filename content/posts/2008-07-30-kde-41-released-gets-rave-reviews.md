@@ -66,7 +66,7 @@ For those who want to try KDE4.1, openSUSE KDE4.1 Live CD is available, download
   
 If you&#8217;re already using openSUSE 11, upgrade to KDE4.1 using the [1-click installer][4].
 
- [1]: http://www.linux.com/feature/142661
- [2]: http://www.tuxmachines.org/taxonomy/term/108
- [3]: http://home.kde.org/~binner/kde-four-live
- [4]: http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-DEFAULT.ymp
+ [1]: https://www.linux.com/feature/142661
+ [2]: https://www.tuxmachines.org/taxonomy/term/108
+ [3]: https://home.kde.org/~binner/kde-four-live
+ [4]: https://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-DEFAULT.ymp

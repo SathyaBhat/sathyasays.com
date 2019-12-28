@@ -85,19 +85,19 @@ For Windows, you have
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Workstation(commercial, with 30 day trial)
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Workstation(commercial, with 30 day trial)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server(free, but no sound/USB support)
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server(free, but no sound/USB support)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox (free, openSource, very light on system)
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox (free, openSource, very light on system)
 
 
   
@@ -107,53 +107,53 @@ Other Virtualization software include
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server & Workstation
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Server & Workstation
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VirtualBox
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> KEMU
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> KEMU
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> QEMU
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> QEMU
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Bochs
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Bochs
 
 Mac users also have virtualization options, in form of
 
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Apple&#8217;s BootCamp(now built into Leopard)
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Apple&#8217;s BootCamp(now built into Leopard)
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Parallels Desktop
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> Parallels Desktop
 
 
   
 <!-- s:arrow: -->
 
-<img title="Arrow" src="http://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Fusion
+<img title="Arrow" src="https://www.tech2.com/forums/images/smilies/icon_arrow.gif" border="0" alt="Arrow" /><!-- s:arrow: --> VMWare Fusion
 
 Here are couple of screentshots showing what a good system is capable of. I prefer Linux for Virtualization, because of it&#8217;s superior memory management.
   
-<a class="postlink" href="http://img221.imageshack.us/my.php?image=virtualization1ye2.jpg" target="_blank"><img src="http://img221.imageshack.us/img221/2751/virtualization1ye2.th.jpg" alt="Image" /></a>
+<a class="postlink" href="https://img221.imageshack.us/my.php?image=virtualization1ye2.jpg" target="_blank"><img src="https://img221.imageshack.us/img221/2751/virtualization1ye2.th.jpg" alt="Image" /></a>
   
 The above picture shows my Linux desktop on a 3d Cube(Compiz Fusion ROCKS!! FTW!)
   
@@ -161,7 +161,7 @@ On the left side of the cube you can see openSUSE booting, while on the right si
 
 The next screenshot will make it even clearer.
   
-<a class="postlink" href="http://img218.imageshack.us/my.php?image=virtualization2bo3.jpg" target="_blank"><img src="http://img218.imageshack.us/img218/9574/virtualization2bo3.th.jpg" alt="Image" /></a>
+<a class="postlink" href="https://img218.imageshack.us/my.php?image=virtualization2bo3.jpg" target="_blank"><img src="https://img218.imageshack.us/img218/9574/virtualization2bo3.th.jpg" alt="Image" /></a>
 
 As seen from the screen, my 3d Desktop is folded out and on my single system, I&#8217;m running total of 4 OS&#8217;s simultaneously &#8211; (from left to right), PC BSD, KDE Four Live(on openSUSE), Windows XP and of course, openSUSE my host system.
   

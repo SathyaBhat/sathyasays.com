@@ -35,7 +35,7 @@ Now, Sun Microsystems joins the list of vendors offering free media. Head over t
   
 Thanks, [Arun aka mixdev][4]
 
- [1]: http://sathyasays.com/2008/05/19/oracle-offers-free-linux-dvds-oracle-unbreakable-linux/
- [2]: http://sathyasays.com/2008/05/14/fedora-free-media-program/
+ [1]: https://sathyasays.com/2008/05/19/oracle-offers-free-linux-dvds-oracle-unbreakable-linux/
+ [2]: https://sathyasays.com/2008/05/14/fedora-free-media-program/
  [3]: https://www2.sun.de/dct/forms/reg_us_2307_228_0.jsp
- [4]: http://twitter.com/mixdev/statuses/931491570
+ [4]: https://twitter.com/mixdev/statuses/931491570

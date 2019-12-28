@@ -65,4 +65,4 @@ next up is to install a native mscoree.dll and streamci.dll into /system32 from 
 
 You will need to set a large number of dlls to native for the install to work properly. Here is the full list of dlls that needs to be set.[Continue reading at Wine Review][1]
 
- [1]: http://wine-review.blogspot.com/2007/11/directx-90c-on-linux-with-wine.html
+ [1]: https://wine-review.blogspot.com/2007/11/directx-90c-on-linux-with-wine.html

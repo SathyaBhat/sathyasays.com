@@ -52,4 +52,4 @@ When you update your Linux system, you’re not just updating the operating syst
 
  [Continue Reading][1]
 
- [1]: http://rudd-o.com/archives/2007/10/22/the-myth-of-the-thousand-updates-for-linux-debunked/
+ [1]: https://rudd-o.com/archives/2007/10/22/the-myth-of-the-thousand-updates-for-linux-debunked/

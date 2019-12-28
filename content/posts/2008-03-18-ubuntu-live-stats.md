@@ -28,4 +28,4 @@ After few months of server downtime, [Ubuntu Live Stats][1] is operational again
   
 The site claims that they&#8217;re still in Beta, and as usual, bugs can be reported to Launchpad. Must visit site for every Ubuntu user.
 
- [1]: http://www.ubuntustats.com/
+ [1]: https://www.ubuntustats.com/

@@ -62,7 +62,7 @@ Continue the wizard and restart X-server by pressing ctrl+alt+backspace.
 
  _Now let&#8217;s get some themes_
   
-First GNOME& Xfce users go to <http://gnome-look.org> and KDE users to [kde-look.org.][2]
+First GNOME& Xfce users go to <https://gnome-look.org> and KDE users to [kde-look.org.][2]
 
 Now in gnome-look.org
   
@@ -78,5 +78,5 @@ Go to synaptic and search for gcursor. Install it. Restart X. Go to gnome-look.o
   
 That&#8217;s about it for now. More tutorials soon!
 
- [1]: http://ati.amd.com/support/drivers/linux/linux-radeon.html
- [2]: http://kde-look.org
+ [1]: https://ati.amd.com/support/drivers/linux/linux-radeon.html
+ [2]: https://kde-look.org

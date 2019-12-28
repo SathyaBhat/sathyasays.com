@@ -58,9 +58,9 @@ Amarok 2.1 brings in a lot of improvements &#8211; and the most obvious one is t
 
 Amarok 2.1 fixes this by adding buttons which bring up the respective applets making it easy to remove the exisitng applets, add new ones or simply re-arrange them.
 
-[<img class="aligncenter size-medium wp-image-744" title="amarok-21" src="http://sathyasays.com/wp-content/uploads/2009/06/amarok-21-300x187.png" alt="amarok-21"   srcset="https://sathyasays.com/wp-content/uploads/2009/06/amarok-21-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/06/amarok-21-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/06/amarok-21.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][2]Another nice feature introduced is &#8220;bookmarking&#8221; &#8211; any track with a length greater than 10minutes and Amarok will save the last listened position, so when you return to playing the track, it resumes from the last bookmarked place. There are other improvements too &#8211; only I couldn&#8217;t figure it because the damned player wouldn&#8217;t play anything :|
+[<img class="aligncenter size-medium wp-image-744" title="amarok-21" src="https://sathyasays.com/wp-content/uploads/2009/06/amarok-21-300x187.png" alt="amarok-21"   srcset="https://sathyasays.com/wp-content/uploads/2009/06/amarok-21-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/06/amarok-21-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/06/amarok-21.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][2]Another nice feature introduced is &#8220;bookmarking&#8221; &#8211; any track with a length greater than 10minutes and Amarok will save the last listened position, so when you return to playing the track, it resumes from the last bookmarked place. There are other improvements too &#8211; only I couldn&#8217;t figure it because the damned player wouldn&#8217;t play anything :|
 
-<del datetime="2009-06-13T17:04:43+00:00">I&#8217;ve put my query in Ubuntu forums over <a id="aptureLink_QNbmnzqO6M" href="http://ubuntuforums.org/showthread.php?t=1180175">here</a> &#8211; my problem is that Amarok just refuses to play any local files. If any of my readers can help me figure this out, it&#8217;ll be great, just drop a comment.</del>
+<del datetime="2009-06-13T17:04:43+00:00">I&#8217;ve put my query in Ubuntu forums over <a id="aptureLink_QNbmnzqO6M" href="https://ubuntuforums.org/showthread.php?t=1180175">here</a> &#8211; my problem is that Amarok just refuses to play any local files. If any of my readers can help me figure this out, it&#8217;ll be great, just drop a comment.</del>
 
 Edit: Fixed the problem .
 
@@ -68,11 +68,11 @@ As for installing Amarok, its straightforward, Goto System -> Administration ->
 
 Click on third party sources, click on Add, enter the below line.
   
-`deb http://ppa.launchpad.net/kubuntu-ppa/backports/ubuntu jaunty main`
+`deb https://ppa.launchpad.net/kubuntu-ppa/backports/ubuntu jaunty main`
   
 Save, update. Launch Synaptic, search for amarok and mark for install.
   
 That&#8217;s it, Amarok 2.1 is ready to rock. Were you able to get Amarok successful run on your system ? Do drop a comment.
 
- [1]: http://amarok.kde.org/en/releases/2.1
- [2]: http://sathyasays.com/wp-content/uploads/2009/06/amarok-21.png
+ [1]: https://amarok.kde.org/en/releases/2.1
+ [2]: https://sathyasays.com/wp-content/uploads/2009/06/amarok-21.png

@@ -36,6 +36,6 @@ Read on [developer.skype.com][2] for more technical information about this relea
 
 Source: [Skype blog][3]
 
- [1]: http://www.skype.com/go/downloading-beta
- [2]: http://developer.skype.com
- [3]: http://share.skype.com/sites/linux/2007/11/skype_20_beta_for_linux_with_video.html
+ [1]: https://www.skype.com/go/downloading-beta
+ [2]: https://developer.skype.com
+ [3]: https://share.skype.com/sites/linux/2007/11/skype_20_beta_for_linux_with_video.html

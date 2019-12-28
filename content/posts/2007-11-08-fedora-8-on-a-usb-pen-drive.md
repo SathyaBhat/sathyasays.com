@@ -76,8 +76,8 @@ Fedora’s Project Leader writes on the steps for installing Fedora 8 onto a USB
 
 [Continue Reading][5]
 
- [1]: http://fedoraproject.org/wiki/Releases/8/ReleaseSummary
- [2]: http://fedoraproject.org/wiki/Releases/Names
- [3]: http://fedoraproject.org/get-fedora
- [4]: http://www.redhatmagazine.com/2007/05/31/remixing-fedora-7/
- [5]: http://www.redhatmagazine.com/2007/11/07/i-am-fedora-and-so-can-you/
+ [1]: https://fedoraproject.org/wiki/Releases/8/ReleaseSummary
+ [2]: https://fedoraproject.org/wiki/Releases/Names
+ [3]: https://fedoraproject.org/get-fedora
+ [4]: https://www.redhatmagazine.com/2007/05/31/remixing-fedora-7/
+ [5]: https://www.redhatmagazine.com/2007/11/07/i-am-fedora-and-so-can-you/

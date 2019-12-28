@@ -80,6 +80,6 @@ If you skipped installing VLC, then fear not! Install VLC via the 1-Click instal
 
 That&#8217;s it!
 
- [1]: http://opensuse-community.org/codecs-kde.ymp
- [2]: http://opensuse-community.org/codecs-gnome.ymp
- [3]: http://download.videolan.org/pub/vlc/SuSE/10.3/vlc.ymp
+ [1]: https://opensuse-community.org/codecs-kde.ymp
+ [2]: https://opensuse-community.org/codecs-gnome.ymp
+ [3]: https://download.videolan.org/pub/vlc/SuSE/10.3/vlc.ymp

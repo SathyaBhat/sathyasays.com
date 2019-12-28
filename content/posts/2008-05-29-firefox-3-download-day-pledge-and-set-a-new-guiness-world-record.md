@@ -32,6 +32,6 @@ tags:
 >   </p>
 >   
 >   <p>
->     By the way, the official date for the launch of Firefox 3 will be posted soon &#8211; so check back! Join this effort by <strong><a href="http://www.spreadfirefox.com/en-US/worldrecord/pledge#pledge_form" target="_blank">pledging today.</a></strong>
+>     By the way, the official date for the launch of Firefox 3 will be posted soon &#8211; so check back! Join this effort by <strong><a href="https://www.spreadfirefox.com/en-US/worldrecord/pledge#pledge_form" target="_blank">pledging today.</a></strong>
 >   </p>
 > </div>

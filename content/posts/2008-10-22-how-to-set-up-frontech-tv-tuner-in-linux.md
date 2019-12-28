@@ -49,6 +49,6 @@ Solutions tried
   1. From internet and using the commands dmesg and lspci -v, i was able to figure out that it is <span style="#990000;">saa7130</span> chip based card.
   2. The thing to do here is to figure out the card type and tuner number by yourself and load the modules But in fedora there are 108 cards with different tuner number number. The last tuner number I tried was 71 and the list was more than 71 I think. So I sticked to card number 3 and tried different variations of tuner number from 1 to 71.
 
-Continue Reading over at <a href="http://mann-linuxproject.blogspot.com/2007/06/problem3.html" target="_blank">Mann&#8217;s blog</a>
+Continue Reading over at <a href="https://mann-linuxproject.blogspot.com/2007/06/problem3.html" target="_blank">Mann&#8217;s blog</a>
 
- [1]: http://mann-linuxproject.blogspot.com/2007/06/problem3.html
+ [1]: https://mann-linuxproject.blogspot.com/2007/06/problem3.html

@@ -58,4 +58,4 @@ This Blog Entry by François Bancilhon on [Mandriva Blog][1] left me dumb founde
 > 
 > PS: a message to our friends in Nigeria: it’s still time to do the right thing and make the right choice, you will get lots of support for it and excellent services!
 
- [1]: http://blog.mandriva.com/2007/10/31/an-open-letter-to-steve-ballmer/
+ [1]: https://blog.mandriva.com/2007/10/31/an-open-letter-to-steve-ballmer/

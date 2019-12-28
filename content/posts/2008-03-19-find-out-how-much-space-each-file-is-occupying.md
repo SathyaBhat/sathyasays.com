@@ -58,7 +58,7 @@ But this isn&#8217;t sufficient, and neither is it very elegant. You want to kno
 Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which allows you to do just that. And the neat thing is that this works for all mounted partitons. To open this view, open Konqueror. Right click, choose Preview in and select &#8220;File Size View&#8221;
 
 <p align="center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview.jpg" title="File Size View"><img src="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview.thumbnail.jpg" alt="File Size View" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/03/filesizwview.jpg" title="File Size View"><img src="https://sathyasays.com/wp-content/uploads/2008/03/filesizwview.thumbnail.jpg" alt="File Size View" /></a>
 </p>
 
 <p align="left">
@@ -66,7 +66,7 @@ Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which a
 </p>
 
 <p align="center">
-  <a href="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.jpg" title="File Size View, After Scanning is Complete"><img src="http://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.thumbnail.jpg" alt="File Size View, After Scanning is Complete" /></a>
+  <a href="https://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.jpg" title="File Size View, After Scanning is Complete"><img src="https://sathyasays.com/wp-content/uploads/2008/03/filesizwview1.thumbnail.jpg" alt="File Size View, After Scanning is Complete" /></a>
 </p>
 
 <p align="left">
@@ -79,4 +79,4 @@ Not really! Konqueror comes with an inbuilt &#8220;File Size View&#8221; which a
 
 PPS: If you&#8217;re using KDE 4.x , then as of now, Dolphin doesn&#8217;t have the File Size view, so you can&#8217;t check this. There&#8217;s another program, [KDirStat][1], which can perform the same utility, but I haven&#8217;t tested this. Any comment on this would be much appreciated as well!
 
- [1]: http://kdirstat.sourceforge.net/ "KDirStat"
+ [1]: https://kdirstat.sourceforge.net/ "KDirStat"

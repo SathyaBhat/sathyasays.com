@@ -5,7 +5,7 @@ type: post
 date: 2011-05-14T05:03:59+00:00
 url: /2011/05/14/faulty-by-design/
 topsy_short_url:
-  - http://u.sbhat.me/kYagCD
+  - https://u.sbhat.me/kYagCD
 categories:
   - Programming
 tags:
@@ -21,4 +21,4 @@ via [The Daily WTF:Faulty by Design][1].
 
 Brilliant.
 
- [1]: http://u.sbhat.me/k3RQmO
+ [1]: https://u.sbhat.me/k3RQmO

@@ -33,4 +33,4 @@ The folks behind openSUSE have released the next version of the extremely popula
 
 openSUSE 11.1 comes with KDE 4.1.3, GNOME 2.24.1, and for those who (still) don&#8217;t want to shift to KDE 4, yes openSUSE 11.1 comes with KDE 3.5.10
 
-You can download openSUSE via HTTP, FTP or via BitTorrent, just head over <a href="http://software.opensuse.org/" target="_blank">here</a>.
+You can download openSUSE via HTTP, FTP or via BitTorrent, just head over <a href="https://software.opensuse.org/" target="_blank">here</a>.

@@ -21,4 +21,4 @@ Google has secret plans to put out its own open source software license, accordi
   
 More on the podcast at [The Register][1]
 
- [1]: http://www.theregister.co.uk/2007/09/27/open_season_episode_3/
+ [1]: https://www.theregister.co.uk/2007/09/27/open_season_episode_3/

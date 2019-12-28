@@ -83,4 +83,4 @@ I think this tool is really good, especially for small developers &#8211; with j
 
 &nbsp;
 
-PS: I will be speaking about Container Security at <a href="http://konfhub.com/cloudnativemeetup.html" target="_blank" rel="noopener">Cloud Native Meetup: Containers & Serverless Deepdive</a>. Do join if interested!
+PS: I will be speaking about Container Security at <a href="https://konfhub.com/cloudnativemeetup.html" target="_blank" rel="noopener">Cloud Native Meetup: Containers & Serverless Deepdive</a>. Do join if interested!

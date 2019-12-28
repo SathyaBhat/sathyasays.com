@@ -57,7 +57,7 @@ tags:
 <font size="2"></p> 
 
 <p class="content">
-  Corey Burger writes in <a href="http://fridge.ubuntu.com/node/1154">The Fridge</a>:
+  Corey Burger writes in <a href="https://fridge.ubuntu.com/node/1154">The Fridge</a>:
 </p>
 
 <p>
@@ -70,7 +70,7 @@ tags:
 
 <ul>
   <li>
-    Starting today, desktop search via <a href="http://www.gnome.org/projects/tracker/">Tracker</a> and <a href="http://raphael.slinckx.net/deskbar/">Deskbar</a>
+    Starting today, desktop search via <a href="https://www.gnome.org/projects/tracker/">Tracker</a> and <a href="https://raphael.slinckx.net/deskbar/">Deskbar</a>
   </li>
   <li>
     Improved usability for configuring the graphic environment, with features such as Bulletproof-X and Graphical X configuration
@@ -105,7 +105,7 @@ tags:
   </p>
   
   <p>
-    <img src="http://raphael.slinckx.net/deskbar/images/deskbar-applet.png" alt="Deskbar Logo" /><img src="http://www.gnome.org/projects/tracker/images/meta_tracker_logo.png" alt="Tracker Logo" />
+    <img src="https://raphael.slinckx.net/deskbar/images/deskbar-applet.png" alt="Deskbar Logo" /><img src="https://www.gnome.org/projects/tracker/images/meta_tracker_logo.png" alt="Tracker Logo" />
   </p>
   
   <p>
@@ -133,7 +133,7 @@ tags:
   </p>
   
   <p>
-    Search is not the only thing Deskbar can do. You can also launch applications be searching either on the application name or the actual executable name, look up a word in the dictionary, and if you configure it correctly, search your bookmarks, history, Google or Yahoo. And if that isn’t enough for you and you have a bit of programming skill, you can always extend Deskbar with your own plugin (to find out more about this, <a href="http://live.gnome.org/DeskbarApplet/Extending">check out Deskbar’s page on live.gnome.org</a>).
+    Search is not the only thing Deskbar can do. You can also launch applications be searching either on the application name or the actual executable name, look up a word in the dictionary, and if you configure it correctly, search your bookmarks, history, Google or Yahoo. And if that isn’t enough for you and you have a bit of programming skill, you can always extend Deskbar with your own plugin (to find out more about this, <a href="https://live.gnome.org/DeskbarApplet/Extending">check out Deskbar’s page on live.gnome.org</a>).
   </p>
   
   <p>

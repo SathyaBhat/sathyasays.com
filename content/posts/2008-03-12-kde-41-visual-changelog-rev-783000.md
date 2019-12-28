@@ -43,6 +43,6 @@ tags:
 
 Watch the screenshots over at [polishlinux][3]
 
- [1]: http://jarzebski.pl/
- [2]: http://polishlinux.org/
- [3]: http://polishlinux.org/kde/kde-41-visual-changelog-rev-783000/
+ [1]: https://jarzebski.pl/
+ [2]: https://polishlinux.org/
+ [3]: https://polishlinux.org/kde/kde-41-visual-changelog-rev-783000/

@@ -47,5 +47,5 @@ A quick excerpt
 
 Continue Reading the article over at [Dumpyard &#8211; ACPI in depth][2]
 
- [1]: http://dumpyard.tumblr.com/
- [2]: http://dumpyard.tumblr.com/post/32511294/acpi-in-depth
+ [1]: https://dumpyard.tumblr.com/
+ [2]: https://dumpyard.tumblr.com/post/32511294/acpi-in-depth

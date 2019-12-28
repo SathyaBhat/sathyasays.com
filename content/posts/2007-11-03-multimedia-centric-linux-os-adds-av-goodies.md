@@ -35,8 +35,8 @@ StartCom has updated its multimedia-oriented Linux desktop with new features tar
 
 The updated offering, codenamed &#8220;Kessem,&#8221; features 3D OpenGL, a TV/video/file streaming server and client, Cinelerra, Rosegarden, Audacity, and an assortment of sound manipulating effect tools, synthesizers, samplers, and sequencers, the company said on its website.
 
-New in the update is VideoLAN&#8217;s cross-platform media player, <a href="http://www.videolan.org/vlc/" target="new"><u>VLC Media Player</u></a>. According to VideoLAN, VLC Media Player supports a large number of multimedia formats, without the need for additional codecs. It can also be used as a streaming server, with extended features like video on demand (VoD) and on-the-fly transcoding.
+New in the update is VideoLAN&#8217;s cross-platform media player, <a href="https://www.videolan.org/vlc/" target="new"><u>VLC Media Player</u></a>. According to VideoLAN, VLC Media Player supports a large number of multimedia formats, without the need for additional codecs. It can also be used as a streaming server, with extended features like video on demand (VoD) and on-the-fly transcoding.
 
 [Continue Reading][1]
 
- [1]: http://www.desktoplinux.com/news/NS4868362836.html
+ [1]: https://www.desktoplinux.com/news/NS4868362836.html

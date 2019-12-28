@@ -32,4 +32,4 @@ Fedora is often described as a GNU/Linux distribution &#8220;for enthusiasts and
 
 Watch these videos and read the article at [Linux.com][1]
 
- [1]: http://www.linux.com/feature/121387
+ [1]: https://www.linux.com/feature/121387

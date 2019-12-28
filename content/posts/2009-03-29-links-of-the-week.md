@@ -60,15 +60,15 @@ Rather having no updates at all, decided to post some links which I found intere
   9. [Simple ways to Optimize Gnome for Netbook displays][11]{#aptureLink_YwYhsrasSi} &#8211; Jun Auza writes on simple ways of making your Gnome desktop look better.
  10. Finally, [Ubuntu Jaunty Jackalope hits beta.][12]{#aptureLink_E1fZNdiaLX} 
 
- [1]: http://linustorvaldsfacts.com/english.html
- [2]: http://www.junauza.com/2009/03/25-mythical-and-humorous-facts-about.html
- [3]: http://debaday.debian.net/2009/03/15/fwbuilder-manage-firewalls-professionally/
- [4]: http://polishlinux.org/reviews/the-world-beyond-microsoft/
- [5]: http://www.linuxscrew.com/2009/03/17/the-fastest-way-to-disable-pc-speaker-in-ubuntu/
- [6]: http://lindesk.com/2009/03/customizing-the-terminal-the-prompt/
- [7]: http://lindesk.com/2009/03/customizing-the-terminal-create-useful-aliases/
- [8]: http://dev.compiz-fusion.org/~cyberorg/2009/03/14/iphone-touch-remote-control-and-streaming-media-on-opensuse/
- [9]: http://www.somgnu.org/shell-find-it-some-examples-of-the-find-command-line-tool/
- [10]: http://feedproxy.google.com/~r/bin-blog/~3/37RVNNfeHwY/
- [11]: http://feedproxy.google.com/~r/SimplyJun/~3/hUYTghnhWXc/simple-and-useful-ways-to-optimize.html
- [12]: http://news.cnet.com/8301-1001_3-10205896-92.html
+ [1]: https://linustorvaldsfacts.com/english.html
+ [2]: https://www.junauza.com/2009/03/25-mythical-and-humorous-facts-about.html
+ [3]: https://debaday.debian.net/2009/03/15/fwbuilder-manage-firewalls-professionally/
+ [4]: https://polishlinux.org/reviews/the-world-beyond-microsoft/
+ [5]: https://www.linuxscrew.com/2009/03/17/the-fastest-way-to-disable-pc-speaker-in-ubuntu/
+ [6]: https://lindesk.com/2009/03/customizing-the-terminal-the-prompt/
+ [7]: https://lindesk.com/2009/03/customizing-the-terminal-create-useful-aliases/
+ [8]: https://dev.compiz-fusion.org/~cyberorg/2009/03/14/iphone-touch-remote-control-and-streaming-media-on-opensuse/
+ [9]: https://www.somgnu.org/shell-find-it-some-examples-of-the-find-command-line-tool/
+ [10]: https://feedproxy.google.com/~r/bin-blog/~3/37RVNNfeHwY/
+ [11]: https://feedproxy.google.com/~r/SimplyJun/~3/hUYTghnhWXc/simple-and-useful-ways-to-optimize.html
+ [12]: https://news.cnet.com/8301-1001_3-10205896-92.html

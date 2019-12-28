@@ -39,12 +39,12 @@ I&#8217;ve been using [Dropbox][1]{#aptureLink_bv4dsrVQ0J} pretty extensively ev
   3. Create a private shared folder in Dropbox.
   4. Now lets configure Transmission. Launch Transmission. Click on Edit -> Preferences. Ensure that &#8220;Automatically add torrents from:&#8221; checkbox is checked, and point it to your Dropbox folder. Also ensure that Start when added is checked, Display options checkbox is unchecked and point the destination to a suitable folder.<figure id="attachment_740" aria-describedby="caption-attachment-740" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-740" title="transmission-options" src="http://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png" alt="transmission-options"   srcset="https://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/05/transmission-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/05/transmission.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][5]<figcaption id="caption-attachment-740" class="wp-caption-text">transmission-options</figcaption></figure> 
+[<img class="size-medium wp-image-740" title="transmission-options" src="https://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png" alt="transmission-options"   srcset="https://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/05/transmission-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/05/transmission.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][5]<figcaption id="caption-attachment-740" class="wp-caption-text">transmission-options</figcaption></figure> 
 
 That&#8217;s it. Next time, whenever your upload a torrent file to the chosen Dropbox folder, the Dropbox client ensures that the torrent file gets pushed to your chosen folder, and Transmission will automatically start the download. Simple, isn&#8217;t it ?
 
- [1]: http://en.wikipedia.org/wiki/Dropbox%20%28storage%20provider%29
- [2]: http://en.wikipedia.org/wiki/Transmission%20%28BitTorrent%20client%29
+ [1]: https://en.wikipedia.org/wiki/Dropbox%20%28storage%20provider%29
+ [2]: https://en.wikipedia.org/wiki/Transmission%20%28BitTorrent%20client%29
  [3]: https://www.getdropbox.com/referrals/NTMzNTM5
  [4]: https://www.getdropbox.com/install
- [5]: http://sathyasays.com/wp-content/uploads/2009/05/transmission.png
+ [5]: https://sathyasays.com/wp-content/uploads/2009/05/transmission.png
