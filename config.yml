@@ -1,6 +1,6 @@
 baseURL: https://sathyasays.com/
 theme: pure
-title: Pure theme for Hugo
+title: sathyasays.com
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: false
@@ -92,16 +92,17 @@ params:
     gravatar: sathya@sathyasays.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Sathyajith Bhat
     author_title: Author, AWS Community Hero and DevOps Specialist
-    author_description: Author, AWS Community Hero and DevOps Specialist
+    author_description: 
     location: Bucharest, Romania
-    follow: https://github.com/xiaoheiAh
+    follow: https://github.com/sathyabhat
     # Social Links
     social:
       links:
         github: https://github.com/sathyabhat
         # weibo: http://weibo.com/{yourid}
         twitter: https://twitter.com/sathyabhat
-        # facebook: /
+        facebook: https://facebook.com/sathyabhat
+        linkedin: https://linkedin.com/in/sathyabhat
         rss: /index.xml
       link_tooltip: true # enable the social link tooltip, options: true, false
   # Site
@@ -111,7 +112,7 @@ params:
       width: 40
       height: 40
       url: favicon.ico
-    title: Hugo # 页面title
+    title: Sathya Says # 页面title
     favicon: favicon.ico
     board: <p>enjoy~</p> # 公告牌
 
@@ -124,7 +125,7 @@ params:
 
   # Comment
   comment:
-    type:  disqus # type disqus/gitalk/valine 启用哪种评论系统
+    type: disqus # type disqus/gitalk/valine 启用哪种评论系统
     disqus: sathyasays # enter disqus shortname here
     gitalk: # gitalk. https://gitalk.github.io/
       owner: #必须. GitHub repository 所有者，可以是个人或者组织。
@@ -172,7 +173,7 @@ params:
 
   # config
   config:
-    skin: # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true
