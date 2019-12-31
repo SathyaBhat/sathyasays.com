@@ -7,37 +7,15 @@ url: /2008/10/17/create-a-fedora-bootable-usb-penflash-drive-easily-using-liveus
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - bootable pendrive
-  - creaing bootable pen drive
-  - distro
-  - Fedora
-  - file
-  - flash
-  - flash drive
-  - HAL
-  - iso
   - linux
-  - LiveCD
-  - liveusb
-  - open source
-  - pen drive
-  - Qt
-  - rpm
-  - software
   - terminal
-  - "tips-and-howto's"
-  - tutorials
-  - USB drive
-  - USB pen drive
-  - windows
-  - yum
 
 ---
 LiveCDs are a great way to try out (new) Linux distros on your system. [<img class="alignright size-medium wp-image-475" title="fedorausb" src="https://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png" alt=""   />][1]
 
 Unfortunately CDs get scratched pretty easily, and can turn into a coaster pretty soon.
 
-With prices of USB pen drives at rock bottom, they&#8217;re probably the best way to try out LiveCDs. Generally its not that easy to make a bootable LiveCD using USB pen/flash drives. If you&#8217;re a Fedora lover then here&#8217;s a very easy way to create a bootable USB pen drive.
+With prices of USB pen drives at rock bottom, they're probably the best way to try out LiveCDs. Generally its not that easy to make a bootable LiveCD using USB pen/flash drives. If you're a Fedora lover then here's a very easy way to create a bootable USB pen drive.
 
 <!--more-->liveusb-creator is software which allows you to create bootable USB drives from Fedora iso. Its got some really features like
 
@@ -66,7 +44,7 @@ liveusb-creator is authored by [Luke Macken][5] and [Kushal Das][6]
 
 Thanks for the tip [Ashish][7].
 
-**Update:** Narayanan <a href="https://www.techspikes.com/2008/10/install-linux-pendrive-usb/" target="_blank">mentions</a> UNetBootin which is a much better tool than liveusb-creator but doesn&#8217;t have the option to create a Persisten overlay like liveusb-creator does.
+**Update:** Narayanan <a href="https://www.techspikes.com/2008/10/install-linux-pendrive-usb/" target="_blank">mentions</a> UNetBootin which is a much better tool than liveusb-creator but doesn't have the option to create a Persisten overlay like liveusb-creator does.
 
  [1]: https://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png
  [2]: https://fedorahosted.org/releases/l/i/liveusb-creator/liveusb-creator-2.7.zip

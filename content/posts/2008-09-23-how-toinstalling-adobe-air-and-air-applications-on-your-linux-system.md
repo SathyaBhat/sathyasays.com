@@ -7,21 +7,8 @@ url: /2008/09/23/how-toinstalling-adobe-air-and-air-applications-on-your-linux-s
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - Adobe
-  - AIR
-  - applicates
-  - applications
-  - apps
-  - bin
-  - exe
-  - file
-  - Home
+  - adobe
   - linux
-  - RIA
-  - rich internet applications
-  - show
-  - terminal
-  - xp
 
 ---
 Recently, Adobe had released the beta version of Adobe Integrated Runtime, more commonly known as AIR, for Linux. While this is indeed good news, unfortunately it isn’t available via repositories, meaning you’ll have to download the binaries, set the permissions and install it by launching via command prompt. While this seems pretty complicated, its not really.

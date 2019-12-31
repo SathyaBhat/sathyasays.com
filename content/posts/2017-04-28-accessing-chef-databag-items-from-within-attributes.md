@@ -16,7 +16,7 @@ In Chef parlance, <a href="https://docs.chef.io/data_bags.html" target="_blank" 
 
 Chef provides an easy way to search and fetch databag and databag items from within a recipe:
 
-For ex to fetch a databag called admins, it&#8217;s as easy as:
+For ex to fetch a databag called admins, it's as easy as:
 
 <pre>admins = data_bag('admins')</pre>
 

@@ -17,7 +17,7 @@ tags:
   - videos
 
 ---
-Richard M Stallman was in Bombay [recently][1]{#aptureLink_ezdj5ZajHB}, as I found when [Aditya Sengupta][2]{#aptureLink_G3xUyHaQjg} tweeted [if anyone had questions][3]{#aptureLink_ISHBjxViqn} for him. I asked Sengupta if there any plans to record the sessions and upload them, Sengupta said he&#8217;d have to check and come back. Few days after the event, Sengupta sent me an @reply saying that the videos had been uploaded, so thought I&#8217;ll post it here for easy reference.
+Richard M Stallman was in Bombay [recently][1]{#aptureLink_ezdj5ZajHB}, as I found when [Aditya Sengupta][2]{#aptureLink_G3xUyHaQjg} tweeted [if anyone had questions][3]{#aptureLink_ISHBjxViqn} for him. I asked Sengupta if there any plans to record the sessions and upload them, Sengupta said he'd have to check and come back. Few days after the event, Sengupta sent me an @reply saying that the videos had been uploaded, so thought I'll post it here for easy reference.
 
 <!--more-->
 

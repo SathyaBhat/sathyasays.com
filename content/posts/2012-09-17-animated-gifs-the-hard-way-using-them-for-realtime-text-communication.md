@@ -17,11 +17,11 @@ tags:
 
 via [Animated GIFs the Hard Way][1].
 
-If you think that&#8217;s crazy, check [gifsockets][2]
+If you think that's crazy, check [gifsockets][2]
 
 > This library demoes how to achieve realtime text communication using GIF images as transport. The idea is pretty simple.
 > 
-> We use Animated Gif images to stream data in real time to the browser. Since a gif image doesn&#8217;t specify how many frames it has, once the browser opens it, it will keep waiting for new frames&#8230;
+> We use Animated Gif images to stream data in real time to the browser. Since a gif image doesn't specify how many frames it has, once the browser opens it, it will keep waiting for new frames&#8230;
 
 Amazingly, both work on IE6, according to the devs.
 

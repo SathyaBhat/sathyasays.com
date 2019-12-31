@@ -42,20 +42,20 @@ As a result, nvidia-settings is not able to save the settings and every time I l
 
 1. Press Crtl+Alt+F1 to go to tty1. (Crtl+Alt+F2 takes you to tty2 and so on. available till tty6).
 
-2. You&#8217;ll be taken to a terminal. Press Crtl+Alt+F7 to return to the GUI screen. Now you need to kill Xserver from there. Type &#8216;/etc/init.d/gdm stop&#8217; (use kdm in KDE).
+2. You'll be taken to a terminal. Press Crtl+Alt+F7 to return to the GUI screen. Now you need to kill Xserver from there. Type &#8216;/etc/init.d/gdm stop' (use kdm in KDE).
 
-3. If you are reading this and simultaneously following, you&#8217;ll lose this screen in this step. Now, type
+3. If you are reading this and simultaneously following, you'll lose this screen in this step. Now, type
 
 > sudo Xorg -configure
 
 4. This gives an xorg.conf in your home directory. It would be named &#8220;xorg.conf.new&#8221;.
 
-5. Take this file to &#8220;/etc/X11&#8221; and rename it &#8216;xorg.conf&#8217;.
+5. Take this file to &#8220;/etc/X11&#8221; and rename it &#8216;xorg.conf'.
 
 6. Now click &#8220;Save to X configuration file&#8221; in nvidia-settings. Note that you need root permissions to do this.
 
 7. Now your settings will be saved. Make a copy of that file back in your home directory, if needed, and rename it to &#8220;xorg.conf.new&#8221; (replacing the original).
 
-8. You&#8217;re Done. Try logging off and back in.
+8. You're Done. Try logging off and back in.
 
  [1]: https://ubuntuforums.org/showthread.php?t=1260518

@@ -21,7 +21,7 @@ tags:
   - WINE
 
 ---
-> Starcraft 2 [runs] under my Linux install with no issues. Since the game&#8217;s official release a few days ago I have been getting a good bit of traffic on those two pages &#8211; so I figured I would put together a quick HOWTO for getting Starcraft 2 working on your Linux distro of choice. The game runs under [Wine][1] 1.2 and/or [Crossover][2]Games 9.1.
+> Starcraft 2 [runs] under my Linux install with no issues. Since the game's official release a few days ago I have been getting a good bit of traffic on those two pages &#8211; so I figured I would put together a quick HOWTO for getting Starcraft 2 working on your Linux distro of choice. The game runs under [Wine][1] 1.2 and/or [Crossover][2]Games 9.1.
 > 
 > Crossover 9.1 Starcraft 2 is listed as &#8220;officially support&#8221; and as such you will find that it has an entry in the automated games installer. The only issue is that after the game has actually finished installing the StarCraft 2 process hangs around &#8211; meaning Crossover never actually knows that the game has finished installing and thusly never creates menu entries for it. Thank fully there is a simple fix for this &#8211; after Starcraft 2 has finished installing, open up your system monitor and look for any rogue Starcraft 2 processes and kill them off. After you have done this the CXGames installer will know that it has finished installing and will create the menu entries as it should.
 > 

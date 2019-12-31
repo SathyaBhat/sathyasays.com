@@ -14,7 +14,7 @@ I noticed this few days ago on the dev build:
 
 <blockquote class="twitter-tweet">
   <p>
-    case ya&#8217;ll haven&#8217;t noticed, the Chrome&#8217;s wrench icon is no longer there :( <a title="https://i.imgur.com/rkbMh.png" href="https://t.co/jw2gky5V">i.imgur.com/rkbMh.png</a>
+    case ya'll haven't noticed, the Chrome's wrench icon is no longer there :( <a title="https://i.imgur.com/rkbMh.png" href="https://t.co/jw2gky5V">i.imgur.com/rkbMh.png</a>
   </p>
   
   <p>
@@ -22,7 +22,7 @@ I noticed this few days ago on the dev build:
   </p>
 </blockquote>
 
-It&#8217;s been replaced with what I can only call.. &#8220;Three horizontal lines&#8221; which is really weird way of calling it :\
+It's been replaced with what I can only call.. &#8220;Three horizontal lines&#8221; which is really weird way of calling it :\
 
 [<img class="alignnone" title="Chrome's Wrench Icon is no more" src="https://i.imgur.com/rkbMh.png" alt="Chrome's Wrench Icon is no more"   />][1]
   

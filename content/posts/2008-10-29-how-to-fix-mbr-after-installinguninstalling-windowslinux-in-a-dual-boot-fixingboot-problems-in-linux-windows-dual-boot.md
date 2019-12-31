@@ -7,34 +7,10 @@ url: /2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-d
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - AIR
-  - bootrec
-  - commands
-  - dual
-  - DVD
-  - easybcd
-  - find
-  - fixboot
-  - fixmbr
-  - grub
-  - guide
+  
   - linux
-  - LiveCD
-  - MBR
-  - menu
-  - Opera
-  - partition
-  - record
-  - root
-  - show
-  - software
-  - sudo
   - terminal
-  - "tips-and-howto's"
   - tutorials
-  - Vista
-  - windows
-  - xp
 
 ---
 Many, who do a dual boot with any Linux and Windows will face the problem of Master Boot Record (MBR). In easier words, one of them (Windows or Linux) wont boot after installing/uninstalling the other. This is a small guide I hope many would find it useful.
@@ -45,7 +21,7 @@ Many, who do a dual boot with any Linux and Windows will face the problem of Mas
 
 
   
-**For Windows XP:** Boot the installation CD and select repair. Enter your windows installation drive number (shown there) and enter Administrative Password. Now run these two commands there one after the other  &#8212; &#8220;fixmbr&#8221; and &#8220;fixboot&#8221;. Optionally some people also run &#8220;bootcfg /rebuild&#8221;. You&#8217;re Done.
+**For Windows XP:** Boot the installation CD and select repair. Enter your windows installation drive number (shown there) and enter Administrative Password. Now run these two commands there one after the other  &#8212; &#8220;fixmbr&#8221; and &#8220;fixboot&#8221;. Optionally some people also run &#8220;bootcfg /rebuild&#8221;. You're Done.
 
 **For Windows Vista:** Boot from the installation CD/DVD and enter &#8220;Repair Windows&#8221; link at the left hand bottom of the dialog. Then go to command prompt . There run &#8220;bootrec /fixmbr&#8221; and &#8220;bootrec /fixboot&#8221; commands one after the other. That does it.
 
@@ -61,7 +37,7 @@ Many, who do a dual boot with any Linux and Windows will face the problem of Mas
 
 5. After this, say `setup (hd0)`. Replace hd0 with your hard drive.
 
-Now your GRUB should be installed fine. However, your windows&#8217; boot entry may not be in GRUB. You may choose to restore it while still being in your LiveCD or after booting into your hard-drive installed Linux.
+Now your GRUB should be installed fine. However, your windows' boot entry may not be in GRUB. You may choose to restore it while still being in your LiveCD or after booting into your hard-drive installed Linux.
 
 To restore it:
 
@@ -78,8 +54,8 @@ chainloader+1`
 
 **EDIT:**
 
-**ADDING WINDOWS XP (AND OLDER) OPTIONS TO VISTA&#8217;S BOOT LOADER**
+**ADDING WINDOWS XP (AND OLDER) OPTIONS TO VISTA'S BOOT LOADER**
 
-After installing Windows XP after Windows Vista and after restoring Vista&#8217;s bootloader one may find that xp or older windows&#8217; options will not be there. For this please make use of a software called [EasyBCD.][1] The installation and operation are self-explainatory. Just click on Add/Remove Entries and add your OS entry. You may also add your linux and mac entries to it. Also there is an option for having a common bootloader using NeoGrub.
+After installing Windows XP after Windows Vista and after restoring Vista's bootloader one may find that xp or older windows' options will not be there. For this please make use of a software called [EasyBCD.][1] The installation and operation are self-explainatory. Just click on Add/Remove Entries and add your OS entry. You may also add your linux and mac entries to it. Also there is an option for having a common bootloader using NeoGrub.
 
  [1]: https://neosmart.net/dl.php?id=1

@@ -37,7 +37,7 @@ Then, desktop effects wont enable. No matter what. An irritating piece of  thin
 
 But it was so queer that when rhythmbox (may be others too; i dont know) starts playing (not just open but playing) videos work! But i dont think video players should be dependent on music players.
 
-So what worked for me was I rolledback to intrepid&#8217;s version (2.4) version of xserver-xorg-video-intel. Now no problems videos play and compiz is enabled.
+So what worked for me was I rolledback to intrepid's version (2.4) version of xserver-xorg-video-intel. Now no problems videos play and compiz is enabled.
 
 [Click here][1] to find out how to revert to the 2.4 version.
 

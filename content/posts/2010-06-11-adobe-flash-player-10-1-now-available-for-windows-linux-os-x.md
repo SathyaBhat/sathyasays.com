@@ -28,7 +28,7 @@ tags:
 ---
 From [Adobe Flash Team Player blog][1]:
 
-> I&#8217;m thrilled to announce that Adobe Flash Player 10.1 is now available for Windows, Mac, and Linux operating systems. You can get it [now][2].
+> I'm thrilled to announce that Adobe Flash Player 10.1 is now available for Windows, Mac, and Linux operating systems. You can get it [now][2].
 
 Some nice features:
 

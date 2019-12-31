@@ -8,9 +8,9 @@ categories:
   - Programming
 
 ---
-I probably top the ranks of lazy arses who procrastinate like there&#8217;s no tomorrow &#8211; and then there&#8217;s Fabrice Bellard
+I probably top the ranks of lazy arses who procrastinate like there's no tomorrow &#8211; and then there's Fabrice Bellard
 
-> Amongst others, he&#8217;s created/led
+> Amongst others, he's created/led
 > 
 >   * [A 4G LTE base station][1] running entirely in software on a standard PC.
 >   * [A new ASN1 compiler][2] generating small and efficient C code.

@@ -21,7 +21,7 @@ tags:
   - web
 
 ---
-I&#8217;ve been using [Dropbox][1]{#aptureLink_bv4dsrVQ0J} pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface &#8211; just upload a file and boom, the file you uploaded gets sync&#8217;d across all your computers. This coupled with [Transmission][2]{#aptureLink_qW0FfjT1X1}&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
+I've been using [Dropbox][1] pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface &#8211; just upload a file and boom, the file you uploaded gets sync'd across all your computers. This coupled with [Transmission][2]{#aptureLink_qW0FfjT1X1}&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ I&#8217;ve been using [Dropbox][1]{#aptureLink_bv4dsrVQ0J} pretty extensively ev
 
 [<img class="size-medium wp-image-740" title="transmission-options" src="https://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png" alt="transmission-options"   srcset="https://sathyasays.com/wp-content/uploads/2009/05/transmission-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2009/05/transmission-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2009/05/transmission.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][5]<figcaption id="caption-attachment-740" class="wp-caption-text">transmission-options</figcaption></figure> 
 
-That&#8217;s it. Next time, whenever your upload a torrent file to the chosen Dropbox folder, the Dropbox client ensures that the torrent file gets pushed to your chosen folder, and Transmission will automatically start the download. Simple, isn&#8217;t it ?
+That's it. Next time, whenever your upload a torrent file to the chosen Dropbox folder, the Dropbox client ensures that the torrent file gets pushed to your chosen folder, and Transmission will automatically start the download. Simple, isn't it ?
 
  [1]: https://en.wikipedia.org/wiki/Dropbox%20%28storage%20provider%29
  [2]: https://en.wikipedia.org/wiki/Transmission%20%28BitTorrent%20client%29

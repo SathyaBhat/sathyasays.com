@@ -10,20 +10,13 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - commands
-  - delete
-  - file
-  - filesystem
   - linux
-  - moving
-  - Super
-  - "tips-and-howto's"
   - tutorials
-  - UNIX
 
 ---
-> I did something crazy at some point that created a file called &#8220;-rf&#8221; on my filesystem. Now I can&#8217;t figure out how to delete it.
+> I did something crazy at some point that created a file called &#8220;-rf&#8221; on my filesystem. Now I can't figure out how to delete it.
 > 
-> I&#8217;ve tried:
+> I've tried:
 > 
 > <pre>rm "-rf"
 rm \-rf</pre>
@@ -32,7 +25,7 @@ rm \-rf</pre>
 > 
 > Anyone know how to remove this file? Preferably without accidentally cleaning out my whole folder.
 
-heh. What&#8217;re the odds, eh?
+heh. What're the odds, eh?
 
 via [Removing &#8220;-rf&#8221; file in Unix &#8211; Super User][1].
 

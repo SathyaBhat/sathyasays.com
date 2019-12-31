@@ -26,6 +26,6 @@ tags:
 
 via [Spotify for Linux &#8211; Spotify][1].
 
-Nice! Now if only they&#8217;d allow us poor mortals(read: those living outside Europe) to use Spotify :(
+Nice! Now if only they'd allow us poor mortals(read: those living outside Europe) to use Spotify :(
 
  [1]: https://www.spotify.com/int/blog/archives/2010/07/12/linux/

@@ -7,17 +7,9 @@ url: /2008/12/28/how-to-enabling-font-anti-aliasing-aka-cleartype-in-kde/
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - antialiasing
-  - ClearType
-  - jaggies
-  - KDE
-  - kubuntu
-  - openSuSE
-  - SUSE
-  - "tips-and-howto's"
   - tutorials
-  - Ubuntu
-  - windows
+  - kde
+
 
 ---
 While going through some of KDE settings I found this simple way to enable Anti Aliasing for Fonts (also known as ClearType in Windows). This will definitely make your fonts more pleasing to look at.

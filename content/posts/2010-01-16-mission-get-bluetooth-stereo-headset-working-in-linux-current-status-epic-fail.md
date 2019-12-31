@@ -29,15 +29,15 @@ tags:
   - xp
 
 ---
-I&#8217;ve owned a Sony Ericsson HBH-DS970 for [nearly 2 years now][1]{#aptureLink_GW9kUit5Kx}, and I use it pretty often with my previous phone ( the [Sony Ericsson P1i][2]{#aptureLink_Szc3RZREO3} ), and my current iPhone 3G. I also use it occasionally on my laptop. It has worked fine in Windows XP, Vista & Windows 7. Getting it to work with Linux, however has been an EPIC FAIL. The last time I tried it was probably a year ago, and I just gave up in frustration and continued to use my EP-630 as the earphone.
+I've owned a Sony Ericsson HBH-DS970 for [nearly 2 years now][1]{#aptureLink_GW9kUit5Kx}, and I use it pretty often with my previous phone ( the [Sony Ericsson P1i][2]{#aptureLink_Szc3RZREO3} ), and my current iPhone 3G. I also use it occasionally on my laptop. It has worked fine in Windows XP, Vista & Windows 7. Getting it to work with Linux, however has been an EPIC FAIL. The last time I tried it was probably a year ago, and I just gave up in frustration and continued to use my EP-630 as the earphone.
 
 <!--more-->
 
-The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3]{#aptureLink_NSxWrq0F8x} in office &#8211; since I don&#8217;t have any other headset, I got all &#8220;enthu&#8221; about trying to get this ting working. And now all that enthusiasm has gone, and I&#8217;m on the verge of giving up again. So let me point as to what steps I \*have\* tried.
+The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3]{#aptureLink_NSxWrq0F8x} in office &#8211; since I don't have any other headset, I got all &#8220;enthu&#8221; about trying to get this ting working. And now all that enthusiasm has gone, and I'm on the verge of giving up again. So let me point as to what steps I \*have\* tried.
 
   * [bluetooth-alsa on SourceForge][4]
 
-Result: FAIL. Couldn&#8217;t build the required files, couldn&#8217;t get the required development files &#8211; packages do not exist as they have been obsoleted, and the method itself obsoleted.
+Result: FAIL. Couldn't build the required files, couldn't get the required development files &#8211; packages do not exist as they have been obsoleted, and the method itself obsoleted.
 
   * [bluez wiki][5]
 
@@ -80,9 +80,9 @@ Slick.
 
   * [IT Toolbox: Mission Impossble? Connect Bluetooth Headset to Linux][8]
 
-Result: Didn&#8217;t bother. Same as attempt #2.
+Result: Didn't bother. Same as attempt #2.
 
-I&#8217;ve just about given up trying to get this damn thing working. If you have any suggestions/advice, do drop a comment. FYI: I&#8217;m on openSUSE, my headset is a Sony Ericsson HBH DS970.
+I've just about given up trying to get this damn thing working. If you have any suggestions/advice, do drop a comment. FYI: I'm on openSUSE, my headset is a Sony Ericsson HBH DS970.
 
  [1]: https://sathyabh.at/2008/05/22/my-bt-headset-is-here/
  [2]: https://sathyabh.at/2008/03/30/sony-ericsson-p1i-review/

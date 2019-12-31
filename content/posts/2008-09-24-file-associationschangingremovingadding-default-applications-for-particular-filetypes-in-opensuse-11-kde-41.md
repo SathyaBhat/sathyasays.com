@@ -7,28 +7,8 @@ url: /2008/09/24/file-associationschangingremovingadding-default-applications-fo
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - Apple
   - applications
-  - Arch
-  - associations
-  - file
-  - file associations
-  - images
-  - KDE
-  - kde 4.1
-  - KDE
-  - KDE4.1
   - linux
-  - menu
-  - moving
-  - open source
-  - openSuSE
-  - openSUSE 11
-  - show
-  - SUSE
-  - terminal
-  - "tips-and-howto's"
-  - tutorials
 
 ---
 Consider this situation. You have multiple programs installed for a particular file type. Now double clicking it opens an application, but you want it to open in another application.

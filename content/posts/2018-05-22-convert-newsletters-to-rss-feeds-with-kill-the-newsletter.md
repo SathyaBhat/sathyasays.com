@@ -14,7 +14,7 @@ tags:
   - RSS
 
 ---
-Long time, no write! Newsletters have become all the rage these days and I guess for good reason &#8211;  they&#8217;re curated, come in (usually) once a week and typically offer a respite from the deluge of news that comes in why typical RSS Feeds or via Twitter. Naturally I subscribed to few initially and then the list of newsletters increased &#8211; and now I am stuck with a newsletter bomb in my Inbox
+Long time, no write! Newsletters have become all the rage these days and I guess for good reason &#8211;  they're curated, come in (usually) once a week and typically offer a respite from the deluge of news that comes in why typical RSS Feeds or via Twitter. Naturally I subscribed to few initially and then the list of newsletters increased &#8211; and now I am stuck with a newsletter bomb in my Inbox
 
 <!--more--><figure id="attachment_1593" aria-describedby="caption-attachment-1593" style="width: 346px" class="wp-caption aligncenter">
 
@@ -22,7 +22,7 @@ Long time, no write! Newsletters have become all the rage these days and I guess
 
 &nbsp;
 
-Filters was nice for classification, archiving them meant they would just languish in the filtered view, not to be looked at. I thought I&#8217;d be nice to somehow have them come to my RSS feed instead of cluttering up my Inbox and with a quick search I found <a href="https://www.kill-the-newsletter.com/" target="_blank" rel="noopener">Kill-The-Newsletter</a>. This handy little web app creates a random email id for you to provide in the subscription mailbox and converts the incoming mails to RSS (well, to be specific, Atom) feeds. Kill-The-Newsletter is open source, so you can even self-host the app on your own servers.
+Filters was nice for classification, archiving them meant they would just languish in the filtered view, not to be looked at. I thought I'd be nice to somehow have them come to my RSS feed instead of cluttering up my Inbox and with a quick search I found <a href="https://www.kill-the-newsletter.com/" target="_blank" rel="noopener">Kill-The-Newsletter</a>. This handy little web app creates a random email id for you to provide in the subscription mailbox and converts the incoming mails to RSS (well, to be specific, Atom) feeds. Kill-The-Newsletter is open source, so you can even self-host the app on your own servers.
 
 &nbsp;
 

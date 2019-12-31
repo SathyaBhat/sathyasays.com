@@ -13,7 +13,7 @@ tags:
   - gmail
 
 ---
-I have no idea why, but for some reason the Gmail app on Android doesn&#8217;t allow you to save files. How stupid is that? Recently, I needed to send a document from my Google Apps account to my work account.
+I have no idea why, but for some reason the Gmail app on Android doesn't allow you to save files. How stupid is that? Recently, I needed to send a document from my Google Apps account to my work account.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ The e-mail filter at my (<a href="https://u.sbhat.me/ePAVaF" target="_blank">now
   * Check the mail & download the document to my phone
   * Reattach & send the document from my phone(under my work email account)
 
-Imagine my surprise when I couldn&#8217;t find the option to save the attachment. As a workaround, I had to open the browser, load my Google Apps page, switch to basic HTML view & then proceed to save it. Yeesh. What a pain.  Below tip works well.
+Imagine my surprise when I couldn't find the option to save the attachment. As a workaround, I had to open the browser, load my Google Apps page, switch to basic HTML view & then proceed to save it. Yeesh. What a pain.  Below tip works well.
 
 > [How To Save Gmail Attachments in Android | Pallab dot Net][1]. Save my Attach [&#8230;] a tiny app that requires zero-configuration, and works beautifully. After you have installed this app, just tap the preview button as usual. A dialogue box will pop up asking you to choose an app to preview the file with. Select Save my Attach from the list, and you will be able to download the attachment.
 

@@ -13,9 +13,9 @@ tags:
   - sendmail
 
 ---
-With the next <a href="https://barcampbangalore.org/" target="_blank">Barcamp Bangalore</a> looming round the corner, I&#8217;d pitched in to help with some of the website tasks. I installed the traditional WAMP stack with <a href="https://www.wampserver.com/en/" target="_blank">WAMP Server for Windows</a> and started working with WordPress. Needed to get the email notifications working, saw that it wasn&#8217;t. Bit of research & found that I&#8217;d need a SMTP server or an equivalent of sendmail.
+With the next <a href="https://barcampbangalore.org/" target="_blank">Barcamp Bangalore</a> looming round the corner, I'd pitched in to help with some of the website tasks. I installed the traditional WAMP stack with <a href="https://www.wampserver.com/en/" target="_blank">WAMP Server for Windows</a> and started working with WordPress. Needed to get the email notifications working, saw that it wasn't. Bit of research & found that I'd need a SMTP server or an equivalent of sendmail.
 
-All the cool kids seem to be using <a href="https://glob.com.au/sendmail/" target="_blank">Fake sendmail</a> &#8211; I tried it to use with Gmail&#8217;s SMTP servers which uses authentication & TLS. Fake sendmail either would crash repeatedly or give a Socket Error # 10060 Connection timed out error.
+All the cool kids seem to be using <a href="https://glob.com.au/sendmail/" target="_blank">Fake sendmail</a> &#8211; I tried it to use with Gmail's SMTP servers which uses authentication & TLS. Fake sendmail either would crash repeatedly or give a Socket Error # 10060 Connection timed out error.
 
 Finally, after much trawling the Intarwebz, going through many forums & Stack Overflow posts, finally found <a href="https://yogeshchaugule.com/blog/2013/configure-sendmail-wamp" target="_blank">this blog post</a> which recommends using stunnel.
 

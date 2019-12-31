@@ -8,24 +8,17 @@ categories:
   - "Tips &amp; How-To's"
 tags:
   - commands
-  - Fedora
-  - internet
   - linux
-  - login
-  - sudo
-  - terminal
-  - "tips-and-howto's"
   - tutorials
-  - windows
+
 
 ---
-This is yet another of the posts was lying in my drafts, decided to dust it off and publish it!
 
-Remember that all these assumes that your router is connected to the LAN port, if it&#8217;s connected to the USB port, then disconnect it and connect to the LAN port. If you dont have a LAN card, then consider getting one. It&#8217;s cheap, costs around Rs. 200. 
+Remember that all these assumes that your router is connected to the LAN port, if it's connected to the USB port, then disconnect it and connect to the LAN port. If you dont have a LAN card, then consider getting one. It's cheap, costs around Rs. 200. 
 
-Next, it&#8217;s best to have the router configured in pppoe mode. In this case you just have to switch on the router, the router and DHCP will take care of the rest. 
+Next, it's best to have the router configured in pppoe mode. In this case you just have to switch on the router, the router and DHCP will take care of the rest. 
 
-If you&#8217;re unsure whether your router is in PPPoE more or bridge mode, If you have used a dialer in Windows, then your router is in bridge mode. In this case, open the terminal and type 
+If you're unsure whether your router is in PPPoE more or bridge mode, If you have used a dialer in Windows, then your router is in bridge mode. In this case, open the terminal and type 
 
 > `sudo pppoeconf`
 
@@ -43,7 +36,7 @@ To terminate the connection type 
 
 Please note that I still recommend configuring your router to PPPoE mode for hassle-free net connection under Linux. if anyone else has or uses a different method, then do please mention them in the comments.
 
-If you don&#8217;t want to use the terminal for connecting/disconnecting then, follow the below steps:.
+If you don't want to use the terminal for connecting/disconnecting then, follow the below steps:.
   
 Note that the one-time setup has to be done as mentioned above. Once this is done, to create an icon for launching the connection, 
   
@@ -89,7 +82,7 @@ just press enter 
 
 Next it will ask 
 
-> Please enter the IP address of your ISP&#8217;s primary DNS server
+> Please enter the IP address of your ISP's primary DNS server
 
 Just type `server`
   

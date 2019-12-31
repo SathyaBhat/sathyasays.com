@@ -9,45 +9,27 @@ topsy_short_url:
 categories:
   - "Tips &amp; How-To's"
 tags:
-  - Arch
   - commands
-  - dl
-  - file
-  - find
-  - GNOME
-  - gvfs
-  - KDE
-  - Launchpad
   - linux
-  - LTS
-  - Meta
-  - metadata
   - Nautilus
-  - notes
-  - open source
-  - partition
-  - Super
-  - "tips-and-howto's"
   - tutorials
-  - Ubuntu
-  - windows
 
 ---
-I spend quite a lot of time on Super User( [my][1]{#aptureLink_qMmmNb2Xqv} [rep][2]{#aptureLink_vjHLLfl9NA} is a testament to that I guess ;) ) &#8211; both on the site as well as the mindblowingly awesome [chat][3]{#aptureLink_yMJtbXi2I1} (if you haven&#8217;t been here, you \*must\* drop by).
+I spend quite a lot of time on Super User( [my][1] [rep][2]is a testament to that I guess ;) ) &#8211; both on the site as well as the mindblowingly awesome [chat][3] (if you haven't been here, you \*must\* drop by).
 
-Today a user dropped by and asked a very nice question &#8211; [which went like][4]{#aptureLink_SWcGTMa5Gf} &#8211;
+Today a user dropped by and asked a very nice question &#8211; [which went like][4] &#8211;
 
 > I have some files that have some text in the notes fields(the tab where you put notes in the properties dialog box)&#8230; so can I output those texts with using the ls command.
 
 <!--more-->
 
-Now me being a [KDE][5]{#aptureLink_pvKmoAGRb6} user I had noticed this but never paid much attention. This piqued my interest, and I fired a quick search on &#8220;[notes in gnome file properties][6]&#8221; &#8211; this returned few results, all of them corroborating that the meta data is stored in an XML file in ~/.nautilus/metafiles. So I told him about the location. He replies stating that the path does not exist and ~/.nautilus is empty. Now that prompted me to get off my Windows partition and boot into Gnome ( probably the second time that I&#8217;ve booted into it after installing Ubuntu &#8211; as I said above I&#8217;m more of a KDE guy :-) ) and find out for myself where this is.
+Now me being a [KDE][5] user I had noticed this but never paid much attention. This piqued my interest, and I fired a quick search on &#8220;[notes in gnome file properties][6]&#8221; &#8211; this returned few results, all of them corroborating that the meta data is stored in an XML file in ~/.nautilus/metafiles. So I told him about the location. He replies stating that the path does not exist and ~/.nautilus is empty. Now that prompted me to get off my Windows partition and boot into Gnome ( probably the second time that I've booted into it after installing Ubuntu &#8211; as I said above I'm more of a KDE guy :-) ) and find out for myself where this is.
 
 First thing I did run a system wide find for metafiles folder:
 
 `find / -iname metafiles`
 
-That didn&#8217;t return anything, so I went back to the big G and searched deeper, to find [this launchpad answer][7]{#aptureLink_T6LEzmUe3M} :
+That didn't return anything, so I went back to the big G and searched deeper, to find [this launchpad answer][7]{#aptureLink_T6LEzmUe3M} :
 
 > This is handled in gvfs now, and the information is stored in ~/.local/shared/gvfs-metadata
 
@@ -55,7 +37,7 @@ And indeed, it was
 
 <img class="aligncenter" title="Notes" src="https://i.imgur.com/CWYMH.png" alt=""   />
 
-Unfortunately, given the data stored against it, I don&#8217;t think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
+Unfortunately, given the data stored against it, I don't think it would be possible to parse out the Notes data (The note I had saved was &#8220;where will this note be saved?&#8221;).
 
 Just another thing you learn every day :)
 

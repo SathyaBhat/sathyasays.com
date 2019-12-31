@@ -12,7 +12,7 @@ tags:
   - oracle
 
 ---
-Was writing this for <a href="https://stackoverflow.com" target="_blank">Stack Overflow</a>&#8216;s tag wiki on <a href="https://stackoverflow.com/tags/ora-01017/info" target="_blank">ORA-01017</a>, thought I&#8217;ll post it here as well.
+Was writing this for <a href="https://stackoverflow.com" target="_blank">Stack Overflow</a>&#8216;s tag wiki on <a href="https://stackoverflow.com/tags/ora-01017/info" target="_blank">ORA-01017</a>, thought I'll post it here as well.
 
 ORA-01017 is the error code shown my Oracle when a login attempt to the database was not successful.
 

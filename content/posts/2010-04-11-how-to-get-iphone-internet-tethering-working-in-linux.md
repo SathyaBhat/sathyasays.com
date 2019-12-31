@@ -21,9 +21,9 @@ tags:
   - windows
 
 ---
-> I&#8217;ve owned couple of mobile phones now, all in increasing number of features. But the one thing that remained common amongst all of them, was the ability to use a tethered Internet connection in both Windows and Linux. Until I got the iPhone, that is. With the iPhone, I could no longer use the iPhone as a modem in Linux. Not anymore.
+> I've owned couple of mobile phones now, all in increasing number of features. But the one thing that remained common amongst all of them, was the ability to use a tethered Internet connection in both Windows and Linux. Until I got the iPhone, that is. With the iPhone, I could no longer use the iPhone as a modem in Linux. Not anymore.
 > 
-> I was recently researching about claims that Ubuntu could sync with the iPhone, even the non-jailbroken ones. I was a little skeptical about this. What I found was libimobiledevice, and the iPhone Ethernet driver for Linux. I&#8217;ll write on libimobiledevice at a later day.
+> I was recently researching about claims that Ubuntu could sync with the iPhone, even the non-jailbroken ones. I was a little skeptical about this. What I found was libimobiledevice, and the iPhone Ethernet driver for Linux. I'll write on libimobiledevice at a later day.
 
 More @ [techie-buzz][1]
 

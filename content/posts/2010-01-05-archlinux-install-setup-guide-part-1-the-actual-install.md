@@ -48,7 +48,7 @@ tags:
   - xp
 
 ---
-Been a while since I posted ;) For some strange reason, recently I got an urge to try out [ArchLinux][1]{#aptureLink_BWSwiwROlt}. After much deliberation finally decided to try out ArchLinux again, [in VirtualBox][2]{#aptureLink_YQu9cIpVYm}. My little install guide I compiled as I was reading through the [Official ArchLinux Install Guide][3]{#aptureLink_OrVThoOrTI} + [Beginner&#8217;s Guide][4]{#aptureLink_AMQvvRytbx}.
+Been a while since I posted ;) For some strange reason, recently I got an urge to try out [ArchLinux][1]{#aptureLink_BWSwiwROlt}. After much deliberation finally decided to try out ArchLinux again, [in VirtualBox][2]{#aptureLink_YQu9cIpVYm}. My little install guide I compiled as I was reading through the [Official ArchLinux Install Guide][3]{#aptureLink_OrVThoOrTI} + [Beginner's Guide][4]{#aptureLink_AMQvvRytbx}.
 
 Please note: This is highly customized according to \*my\* requirements and nowhere as thorough /generalized as the official guides. Still, it might help you. Here we go &#8211;
   
@@ -72,7 +72,7 @@ ArchLinux setup starts
 
 Arch comes with a fairly comprehensive install guide &#8211; check it at @ https://wiki.archlinux.org/index.php/Official\_Arch\_Linux\_Install\_Guide
 
-Or if you&#8217;re stuck without an Internet connection, the install guide is available on the CD, just hit Alt-F6 to spawn a new terminal, and type
+Or if you're stuck without an Internet connection, the install guide is available on the CD, just hit Alt-F6 to spawn a new terminal, and type
 
 <pre>less /arch/docs/official_installation_guide_en</pre>
 
@@ -88,13 +88,13 @@ For now, lets get on with the Install. Hit Alt-F1 to go back to install screen. 
 
 ![uploadb.jpg][8]
 
-We&#8217;ll start with Option 1- Select Source which allows you to choose CD as source or the &#8216;net. If you&#8217;ve chosen the CD install image, choose CD,else if you&#8217;ve downloaded net install image, choose the second option
+We'll start with Option 1- Select Source which allows you to choose CD as source or the &#8216;net. If you've chosen the CD install image, choose CD,else if you've downloaded net install image, choose the second option
 
 ![uploado.jpg][9]
 
 Next, we move onto Option 2: Set Clock!
 
-Select the region and timezone. We&#8217;ll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying &#8220;Linux can&#8217;t set my time!&#8221;
+Select the region and timezone. We'll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying &#8220;Linux can't set my time!&#8221;
 
 Linux expects the Hardware clock ( your BIOS/Real Time Clock (RTC)) to be set in UTC time and applies timezone offsets according to Region, while Windows expects time to be set at localime. Anyways, for now select localtime
 
@@ -104,7 +104,7 @@ Confirm the time and correct it, if it is not correct. For now, the time is corr
 
 ![uploado.jpg][11]
 
-Next comes, what is probably the toughest part of most OS installs, hard disk preparation. Most people are used to Windows style partitions of C:\, D:\ drives, while \*nix OS don&#8217;t follow that architecture. \*nix treats all devices as files, and so your c:\, D:\ drive gets mapped as funky names like /dev/sda1 /dev/sda2 and so on. While it seems confusing at first, in reality, its not that hard.
+Next comes, what is probably the toughest part of most OS installs, hard disk preparation. Most people are used to Windows style partitions of C:\, D:\ drives, while \*nix OS don't follow that architecture. \*nix treats all devices as files, and so your c:\, D:\ drive gets mapped as funky names like /dev/sda1 /dev/sda2 and so on. While it seems confusing at first, in reality, its not that hard.
 
 / &#8211; refers to &#8220;root&#8221; or the topmost structure in the hierarchy.
 
@@ -122,11 +122,11 @@ So lets select Hard disk preparation choice. You get another menu
 
 ![uploadmo.jpg][12]
 
-Option 1 &#8211; Is probably best if you want to dedicate an entire hard disk to Arch ( in my case, since I&#8217;m using a VM anyway). In the context of this guide, this isn&#8217;t the best option
+Option 1 &#8211; Is probably best if you want to dedicate an entire hard disk to Arch ( in my case, since I'm using a VM anyway). In the context of this guide, this isn't the best option
 
 Option 3- Puts you in the nitty-gritty of partitioning. Lets not get into here either.
 
-We&#8217;ll jump into Option 2- Manually Partition Hard Disks. Selecting that will launch cfdisk &#8211; and it should show you available hard disks:
+We'll jump into Option 2- Manually Partition Hard Disks. Selecting that will launch cfdisk &#8211; and it should show you available hard disks:
 
 ![uploadt.jpg][13]
 
@@ -134,15 +134,15 @@ Confirm the hard disk that you want to partition
 
 ![uploadz.jpg][14]
 
-So once cfdisk is up, you&#8217;ll be treated to a barebones interface. Yes, I mean /barebones/.
+So once cfdisk is up, you'll be treated to a barebones interface. Yes, I mean /barebones/.
 
 ![uploadx.jpg][15]
 
-Since I don&#8217;t have any existing partitions, I&#8217;ll just create one by selecting New -> Prirmary
+Since I don't have any existing partitions, I'll just create one by selecting New -> Prirmary
 
 ![uploado.jpg][16]
 
-I&#8217;ll create a swap partition first ,so I&#8217;ll allocate 1GB to it
+I'll create a swap partition first ,so I'll allocate 1GB to it
 
 ![uploadab.jpg][17]
 
@@ -150,7 +150,7 @@ Add partition to beginning of the drive
 
 ![uploadjy.jpg][18]
 
-We&#8217;ll create another partition &#8211; and allocate all remaining space to it
+We'll create another partition &#8211; and allocate all remaining space to it
 
 ![uploadu.jpg][19]
 
@@ -158,7 +158,7 @@ Next, mark the type of the partitions &#8211; first is the swap
 
 ![uploadq.jpg][20]
 
-On selecting type, you&#8217;ll get a huge list of values
+On selecting type, you'll get a huge list of values
 
 ![uploadif.jpg][21]
 
@@ -166,25 +166,25 @@ Hit enter, and type 82 to choose swap
 
 ![uploadxa.jpg][22]
 
-Now,do the same for the other partition, except that you&#8217;ll have to enter 83 for filesystem type.. So once you&#8217;re done with partitioning, it should look something like this:
+Now,do the same for the other partition, except that you'll have to enter 83 for filesystem type.. So once you're done with partitioning, it should look something like this:
 
 ![uploadwv.jpg][23]
 
-Before we&#8217;re done, we&#8217;ll have to mark the Linux partition as bootable, so that it handles booting.
+Before we're done, we'll have to mark the Linux partition as bootable, so that it handles booting.
 
 ![uploadcm.jpg][24]
 
 Finally, choose Write to write all changes to the drive ( so far, nothing has been written, so you can always back out) and then exit.
 
-Now that the partitions have been created, we&#8217;ll have to assign mount points.
+Now that the partitions have been created, we'll have to assign mount points.
 
 ![uploadj.jpg][25]
 
-You&#8217;ll get a Warning message, just click no and move ahead
+You'll get a Warning message, just click no and move ahead
 
 ![uploadn.jpg][26]
 
-Earlier, I&#8217;d mentioned that sda1 is chosen for swap, so lets select swap as the type:
+Earlier, I'd mentioned that sda1 is chosen for swap, so lets select swap as the type:
 
 ![uploadhv.jpg][27]
 
@@ -196,19 +196,19 @@ Now, lets move on to 4th option, select pakages where you get to choose which pa
 
 ![uploadt.jpg][29]
 
-Just hit OK, wait for a bit, and then you&#8217;ll be taken back to the main menu. Proceed with installing the packages.
+Just hit OK, wait for a bit, and then you'll be taken back to the main menu. Proceed with installing the packages.
 
-Once install is done, we&#8217;ll move ahead with configuring the system.Select nano as the editor. Proceed with editing the files only if you know what you&#8217;re doing!
+Once install is done, we'll move ahead with configuring the system.Select nano as the editor. Proceed with editing the files only if you know what you're doing!
 
 Otherwise just leave them as it is.
 
-I&#8217;ll start with editing /etc/rc.conf since I want to change my hostname ( name of my computer)
+I'll start with editing /etc/rc.conf since I want to change my hostname ( name of my computer)
 
 ![uploadr.jpg][30]
 
-Remember: If it doesn&#8217;t make sense, don&#8217;t touch it! Hit Ctrl-X and type Y and hit Enter to save changes, else type no.
+Remember: If it doesn't make sense, don't touch it! Hit Ctrl-X and type Y and hit Enter to save changes, else type no.
 
-Before you leave this screen, don&#8217;t forget to enter a new root password, &#8211; and remember Do NOT forget this password!
+Before you leave this screen, don't forget to enter a new root password, &#8211; and remember Do NOT forget this password!
 
 Choose done to return to the main menu.
 
@@ -216,9 +216,9 @@ Now for the last step &#8211; to install bootloader. Just select grub ( or none,
 
 nano will open with menu.lst, where you can do any changes, if needed. Hit Ctrl+X and save, if needed
 
-And that&#8217;s it! Install is completed, choose exit, and type reboot to start your newly installed ArchLinux !
+And that's it! Install is completed, choose exit, and type reboot to start your newly installed ArchLinux !
 
-On rebooting you&#8217;ll be prompted to login. Bear in mean there are no users created yet, except for the root user. So login with username as root and password you entered above.
+On rebooting you'll be prompted to login. Bear in mean there are no users created yet, except for the root user. So login with username as root and password you entered above.
 
 Part II: Creating a new user, setting up GUI &#8211; coming soon ;)
 
