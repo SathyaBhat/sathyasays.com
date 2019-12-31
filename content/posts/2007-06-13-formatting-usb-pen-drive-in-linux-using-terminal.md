@@ -5,7 +5,7 @@ type: post
 date: 2007-06-13T16:38:57+00:00
 url: /2007/06/13/formatting-usb-pen-drive-in-linux-using-terminal/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - ext3
@@ -31,9 +31,9 @@ tags:
 ---
 Insert your USB pen drive. Let it get detected and mounted. Open Terminal. Type The Following commands
   
-1. <span style="font-weight:bold;">dmesg |tail</span> &#8211;> here the &#8216;|&#8217; key is the pipe, ie, the key before the backspace key(the upper one, so press shift)
+1. <span style="font-weight:bold;">dmesg |tail</span> &#8211;> here the &#8216;|' key is the pipe, ie, the key before the backspace key(the upper one, so press shift)
   
-You&#8217;ll get something like
+You'll get something like
 
 sathya@shaman:~$ dmesg |tail
   
@@ -65,11 +65,11 @@ Note the terms in <span style="font-weight:bold;">bold. </span>In your system it
 
 3. use the mkfs.vfat command to format to FAT32 filesystem, or mkfs.ext3 to format to ext3 filesystem
   
-<span style="font-weight:bold;">sudo mkfs.vfat -n &#8216;Label&#8217; -I /dev/sda </span>Replace Label with the name you want the pen drive to have.
+<span style="font-weight:bold;">sudo mkfs.vfat -n &#8216;Label' -I /dev/sda </span>Replace Label with the name you want the pen drive to have.
 
-4. That&#8217;s it! When done formatting, you&#8217;ll be returned to the prompt
+4. That's it! When done formatting, you'll be returned to the prompt
   
-sathya@shaman:~$ mkfs.vfat -n &#8216;sathya&#8217; -I /dev/sda
+sathya@shaman:~$ mkfs.vfat -n &#8216;sathya' -I /dev/sda
   
 mkfs.vfat 2.11 (12 Mar 2005)
   

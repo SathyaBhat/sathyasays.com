@@ -5,7 +5,7 @@ type: post
 date: 2019-03-12T06:16:24+00:00
 url: /2019/03/12/setting-up-a-secure-docker-image-scanning-solution-with-anchore-and-drone-ci/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Anchore
   - container security
@@ -13,7 +13,7 @@ tags:
   - Docker
 
 ---
-A while back I had done a round up of a few <a rel="noopener noreferrer" href="https://sathyasays.com/2018/09/02/on-securing-containers-and-open-source-tools-for-scanning-vulnerabilities-in-docker-images/" target="_blank">container scanning solutions</a> and had mentioned I wanted to take another look at Anchore. The past few days, I&#8217;ve been playing a bit with Anchore &#8211; this time, integrating it with <a rel="noopener noreferrer" href="https://drone.io/" target="_blank">Drone CI</a>.
+A while back I had done a round up of a few <a rel="noopener noreferrer" href="https://sathyasays.com/2018/09/02/on-securing-containers-and-open-source-tools-for-scanning-vulnerabilities-in-docker-images/" target="_blank">container scanning solutions</a> and had mentioned I wanted to take another look at Anchore. The past few days, I've been playing a bit with Anchore &#8211; this time, integrating it with <a rel="noopener noreferrer" href="https://drone.io/" target="_blank">Drone CI</a>.
 
 Drone is a &#8220;Container-Native, Continuous Delivery Platform&#8221; built using Go. It makes use of a YAML file, .drone.yml to define and execute the pipeline.
 
@@ -23,7 +23,7 @@ For this project, we will be integrating Drone and Anchore. With the setup compl
 
 ### Setting up Drone
 
-[Follow](https://docs.drone.io/installation/github/) the instruction listed on Drone&#8217;s Installation Guide to set up Drone. A sample Drone server configuration and the command to start Drone is listed below. Make sure to substitute the client id and secret with the one generated from the setup
+[Follow](https://docs.drone.io/installation/github/) the instruction listed on Drone's Installation Guide to set up Drone. A sample Drone server configuration and the command to start Drone is listed below. Make sure to substitute the client id and secret with the one generated from the setup
 
 {{< gist SathyaBhat 2f6b628135586d030b6f3405d2ab8d3b >}}
 
@@ -36,7 +36,7 @@ Once Drone server is up and running, head over to the Drone UI and click on &#82
 
 ### Setting up Anchore Engine
 
-Follow the instructions on Anchore&#8217;s <a href="https://anchore.freshdesk.com/support/solutions/articles/36000020729-install-with-docker-compose" target="_blank" rel="noopener noreferrer">website to install and run Anchore</a>. Once Anchore is up and running, we can use anchore-cli&nbsp;to interact with the image. Specifically, to scan the image, we need to:
+Follow the instructions on Anchore's <a href="https://anchore.freshdesk.com/support/solutions/articles/36000020729-install-with-docker-compose" target="_blank" rel="noopener noreferrer">website to install and run Anchore</a>. Once Anchore is up and running, we can use anchore-cli&nbsp;to interact with the image. Specifically, to scan the image, we need to:
 
   * Submit the image to Anchore Engine for analysis
   * Wait till the Analysis Engine is complete
@@ -50,7 +50,7 @@ anchore-cli image wait <image name>
 anchore-cli evaluate check <image name>
 {{< /highlight >}}
 
-Combining these commands with Drone&#8217;s pipeline we get this for the<a rel="noopener noreferrer" href="https://github.com/sathya-demo/subreddit-fetcher/blob/83fe5d0d31d4e225202d7d8694a8885ba818e57d/.drone.yml" target="_blank">.drone.yml file</a><figure class="wp-block-embed">
+Combining these commands with Drone's pipeline we get this for the<a rel="noopener noreferrer" href="https://github.com/sathya-demo/subreddit-fetcher/blob/83fe5d0d31d4e225202d7d8694a8885ba818e57d/.drone.yml" target="_blank">.drone.yml file</a><figure class="wp-block-embed">
 
 {{< gist SathyaBhat 0412331d117026807e34a647fa148998 >}}
 
@@ -65,10 +65,10 @@ Navigating to the Drone UI will show the pipeline stages and result of each pipe
 
 Comparing against the .drone.yml file, you can see that Drone created a new pipeline(boringly titled &#8220;default&#8221; consisting of 5 stages:
 
-  * clone stage for cloning the repo. Although this isn&#8217;t listed in the .drone.yml file, Drone by default supports git and automatically adds the clone stage as the first stage
+  * clone stage for cloning the repo. Although this isn't listed in the .drone.yml file, Drone by default supports git and automatically adds the clone stage as the first stage
   * Build stage for building the Docker image and tagging it with the SHA of the commit.
   * Analyze stage for submitting the built Docker image to Anchore for image and vulnerability analysis
-  * Policy Check stage for evaluating the Docker image and validating whether the image is good to deploy or not. In my earlier post I&#8217;d mentioned that creating and editing policies is a pain &#8211; but recently, Anchore has released a <a href="https://anchore.com/blog/introducing-anchore-policy-hub/" target="_blank" rel="noopener noreferrer">centralized repository of policies</a> that can be downloaded and installed.
+  * Policy Check stage for evaluating the Docker image and validating whether the image is good to deploy or not. In my earlier post I'd mentioned that creating and editing policies is a pain &#8211; but recently, Anchore has released a <a href="https://anchore.com/blog/introducing-anchore-policy-hub/" target="_blank" rel="noopener noreferrer">centralized repository of policies</a> that can be downloaded and installed.
 
 If the policy check (or any stage) fails, the pipeline ends and does not trigger subsequent stages.
 
@@ -80,4 +80,4 @@ You can extend the pipeline further, adding steps to retag the Docker Image and 
 
 What Next?
 
-You can take a look at Drone&#8217;s <a href="https://docs.drone.io/user-guide/pipeline/conditions/" target="_blank" rel="noopener noreferrer">Conditions</a> and <a href="https://docs.drone.io/user-guide/pipeline/triggers/" target="_blank" rel="noopener noreferrer">Triggers</a> which lets you define and limit pipeline execution based on specific events/branches. Combined with writing your plugins, Drone can let you set up a complete, secure CI/CD platform for your Docker images.
+You can take a look at Drone's <a href="https://docs.drone.io/user-guide/pipeline/conditions/" target="_blank" rel="noopener noreferrer">Conditions</a> and <a href="https://docs.drone.io/user-guide/pipeline/triggers/" target="_blank" rel="noopener noreferrer">Triggers</a> which lets you define and limit pipeline execution based on specific events/branches. Combined with writing your plugins, Drone can let you set up a complete, secure CI/CD platform for your Docker images.

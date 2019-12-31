@@ -24,13 +24,13 @@ tags:
   - xp
 
 ---
-I wasn&#8217;t aware of this tiny little thing  &#8211; the filesystem in the  file created by a Wubi install can be easily mounted as a loop device.
+I wasn't aware of this tiny little thing  &#8211; the filesystem in the  file created by a Wubi install can be easily mounted as a loop device.
 
 <!--more-->To do so, just open the Terminal and type the below:
 
 > mount <path-to-wubi-root-disk> <path-to-where-it-should-be-mounted> -o loop
 
-This will make the kernel auto detect the filesystem type and try to mount it. Alternatively, if you&#8217;re sure of the filesystem type, mention it explicitly
+This will make the kernel auto detect the filesystem type and try to mount it. Alternatively, if you're sure of the filesystem type, mention it explicitly
 
 > mount -t <fs-type> <path-to-wubi-root-disk> <path-to-where-it-should-be-mounted> -o loop
 

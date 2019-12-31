@@ -5,7 +5,7 @@ type: post
 date: 2007-06-13T07:25:38+00:00
 url: /2007/06/13/5-must-know-commands-every-linux-newbie-should-know/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - tips
@@ -15,7 +15,7 @@ tags:
 ---
 Although Linux had progressed far from being a command-line only OS to a full fledged totally GUI based one, sometimes, the command line is the best way to get something done. Here are 5 of the must-know commands. These commands can b quite useful and handy.
 
-1: **mount**: Used for mounting Windows/Other partitions, just in case it isn&#8217;t automatically mounted.
+1: **mount**: Used for mounting Windows/Other partitions, just in case it isn't automatically mounted.
 
 Usage:
 
@@ -35,7 +35,7 @@ Eg: If you wish to mount the Windows C partition to a /windows/C the command wil
 
 For SATA drives, the &#8220;hdx&#8221; will be replaced by &#8220;sdx&#8221; ie, instead of /dev/hda1
 
-it&#8217;ll be /dev/sda1
+it'll be /dev/sda1
 
 2: **tar/bzip2/bunzip2**: For extracting archives, this command is useful for extracting to directories other than the home directory, where root privileges are required
 
@@ -63,7 +63,7 @@ Eg: If the archive is some-file.tar.bz2 then first unzip it using
 
 bunzip some-file.tar.bz2
 
-You&#8217;ll get the file some-file.tar. Next untar it using
+You'll get the file some-file.tar. Next untar it using
 
 tar xvf some-file.tar
 
@@ -89,7 +89,7 @@ Usage:
 > 
 >  **dpkg -r <package-name>** 
 
-Note that these commands are suited for individual commands, whose dependencies are met. For complex packages, having many dependencies it&#8217;s better to use apt-get/smart.
+Note that these commands are suited for individual commands, whose dependencies are met. For complex packages, having many dependencies it's better to use apt-get/smart.
 
 For smart: **smart install <package-name>**
 

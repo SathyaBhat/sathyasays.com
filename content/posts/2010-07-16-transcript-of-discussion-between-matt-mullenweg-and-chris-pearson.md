@@ -107,11 +107,11 @@ Chris, on the otherhand disagrees with this. The full transcript of their discus
 > 
 > **Chris: I’ve explained it so many times. No.**
 
-I&#8217;m not a lawyer, neither do I know enough about WordPress, Thesis or the GPL to comment on this.
+I'm not a lawyer, neither do I know enough about WordPress, Thesis or the GPL to comment on this.
 
 Do read the full transcript &#8211;  [Would WordPress Sue The Maker Of Thesis, A Leading WordPress Theme? – with Chris Pearson and Matt Mullenweg][3].
 
-Update: Drew Blas has a post, analysing the GPL&#8217;d code in Thesis. His thoughts:
+Update: Drew Blas has a post, analysing the GPL'd code in Thesis. His thoughts:
 
 > The problem is then simply one of analysis: Does Thesis contain code from from WordPress? I wrote a quick script to find out. Here are the basics:
 > 
@@ -132,7 +132,7 @@ Update: Drew Blas has a post, analysing the GPL&#8217;d code in Thesis. His thou
 > 
 > And you can see a comparison of the exact matching lines: <a href="https://gist.github.com/477051" target="_blank">https://gist.github.com/477051</a>
 
-Read the full post over [at Drew&#8217;s blog][4].
+Read the full post over [at Drew's blog][4].
 
  [1]: https://en.wikipedia.org/wiki/GNU%20General%20Public%20License
  [2]: https://en.wikipedia.org/wiki//wiki/index.php?title=Copyleft "Copyleft"

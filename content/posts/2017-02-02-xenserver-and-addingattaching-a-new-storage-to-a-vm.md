@@ -5,7 +5,7 @@ type: post
 date: 2017-02-02T05:59:25+00:00
 url: /2017/02/02/xenserver-and-addingattaching-a-new-storage-to-a-vm/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - LVM
   - partitioning
@@ -20,9 +20,9 @@ This time I tried a different approach:
   * rather than increasing the space of the attached disk, I created a new disk and attach it to the VM from Xenserver Management Console
   * Since the VM is configured with LVM, I decided to add the new disk as a Physical Volume(PV) and then extend the Logical Volume(LV) & Volume Group(VG)
 
-Creating a new disk and attaching it to the VM from Xenserver management Console is fairly straightforward. First make note of the device to which the new disk is attached to. In this case, it is assumed to be xvdc. I&#8217;m also assuming that the volume group mesa-nl-vg exists and /dev/mapper/mesa&#8211;nl&#8211;vg&#8211;root is the logical volume path
+Creating a new disk and attaching it to the VM from Xenserver management Console is fairly straightforward. First make note of the device to which the new disk is attached to. In this case, it is assumed to be xvdc. I'm also assuming that the volume group mesa-nl-vg exists and /dev/mapper/mesa&#8211;nl&#8211;vg&#8211;root is the logical volume path
 
-Here&#8217;s the steps ahead
+Here's the steps ahead
 
 `<br />
 — Create new partition<br />

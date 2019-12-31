@@ -4,24 +4,12 @@ author: Bharath
 type: post
 date: 2010-11-30T04:40:07+00:00
 url: /2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/
-topsy_short_url:
-  - https://u.sbhat.me/gxqC9l
 categories:
-  - News
+  - "Tips & How-To's"
 tags:
-  - fdisk
-  - find
-  - forums
-  - hard disk
-  - LiveCD
-  - LV
-  - partition
   - partitioning
-  - software
   - terminal
-  - Ubuntu
-  -  windows
-  - xp
+  - linux
 
 ---
 It has been quite a while since I wrote here. Did not find time nor issues to write about.
@@ -44,7 +32,7 @@ None of those helped though, so this is what I did.
 
 I wanted a Windows software that can solve the problem in a click or two. I sceptically downloaded [Partition Magic 8.0][1].  Installed, and opened it. It was no later than I opened, when it said it has found overlapping partitions in hard disk. It also offered me to fix it. It was now when I had slight feeling of deja vu. My output from &#8220;fdisk -lu&#8221; command from Ubuntu LiveCD terminal said the same thing. I suggest even you do it as the first step to check the condition of your partition table.
 
-I took Partition Magic&#8217;s offer. In a second, my partitions in Disk Management looked as they should. And when I booted back to Ubuntu Install, it was &#8211; &#8220;VOILA&#8221; it worked.
+I took Partition Magic's offer. In a second, my partitions in Disk Management looked as they should. And when I booted back to Ubuntu Install, it was &#8211; &#8220;VOILA&#8221; it worked.
 
 But again, there is also <a href="https://ubuntuforums.org/showthread.php?t=1510017" target="_blank">another Ubuntu Forums thread</a> that seems to work for a few others. It says something about deleting GPT data.
 

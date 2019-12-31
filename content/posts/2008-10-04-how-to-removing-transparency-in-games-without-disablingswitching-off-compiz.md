@@ -5,32 +5,15 @@ type: post
 date: 2008-10-04T07:21:23+00:00
 url: /2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
-  - Arch
-  - ccsm
-  - compiz
-  - compiz fusion
-  - forums
-  - fusion
-  - games
-  - Google
-  - internet
   - linux
-  - LV
-  - menu
-  - moving
-  - opacity
-  - switching
-  - "tips-and-howto's"
-  - transparency
   - tutorials
-  - Ubuntu
-  - xp
+
 
 ---
 <div>
-  <em>Admin&#8217;s Note: This solution was emailed to me by Bharath, as he was facing this problem and found a solution to this. If you want to drop a tip or a hack, just send me an email via the contact-me form and I might just publish it</em>
+  <em>Admin's Note: This solution was emailed to me by Bharath, as he was facing this problem and found a solution to this. If you want to drop a tip or a hack, just send me an email via the contact-me form and I might just publish it</em>
 </div>
 
 <div>
@@ -45,7 +28,7 @@ tags:
   Once I searched the options of compizconfig-settings-manager (ccsm) and tried the following procedure to solve the problem, and this seems to work.
 </div>
 
-### Here&#8217;s how to go about in fixing the problem:
+### Here's how to go about in fixing the problem:
 
 <div>
   <ol>
@@ -68,7 +51,7 @@ tags:
     
     <li>
       There will be transparency settings for different GUI components like Menu | Window | Dialog <div>
-        Double click it and locate among them an entry called DropDownMenu and remove it. You&#8217;re done.
+        Double click it and locate among them an entry called DropDownMenu and remove it. You're done.
       </div>
       
       <p style="text-align: center;">
@@ -76,7 +59,7 @@ tags:
       </p>
       
       <div>
-        DropDownMenus may appear opaque but otherwise there shouldn&#8217;t be any problems. Games will be full opaque now. Please let me know if this solution works for you or if you are having other problems.
+        DropDownMenus may appear opaque but otherwise there shouldn't be any problems. Games will be full opaque now. Please let me know if this solution works for you or if you are having other problems.
       </div>
     </li>
   </ol>

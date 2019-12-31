@@ -6,7 +6,7 @@ date: 2013-02-25T16:52:13+00:00
 url: /2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/
 categories:
   - News
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - cr48
   - linux
@@ -14,9 +14,9 @@ tags:
   - windows
 
 ---
-Couple of months ago, just about a month before <a href="https://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that&#8217;s really unusual because the Envy&#8217;s cooling system is probably one of the best that I&#8217;ve seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
+Couple of months ago, just about a month before <a href="https://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that's really unusual because the Envy's cooling system is probably one of the best that I've seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
 
-And soon enough, HP&#8217;s diagnostics started informing me that my system fan&#8217;s dead during bootup. To figure out which one&#8217;s the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop &#8211; and was kinda surprised that the laptop was still able to run at all.
+And soon enough, HP's diagnostics started informing me that my system fan's dead during bootup. To figure out which one's the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop &#8211; and was kinda surprised that the laptop was still able to run at all.
 
 <blockquote class="twitter-tweet" data->
   <p lang="en" dir="ltr">
@@ -72,22 +72,22 @@ And this was really torturing my system
 
 So now, while I experimenting with switching off/on to see if I can &#8220;jump&#8221; start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new &#8220;enhancements&#8221; F8-mashing would not result in the start up menu being shown up.
 
-I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8&#8217;s Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo &#8211; BSOD Boot Loop.
+I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8's Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo &#8211; BSOD Boot Loop.
 
-Generally I keep a bootable Live USB with me, but this time I didn&#8217;t have that either, neither did I have any bootable DVDs. So my situation now:
+Generally I keep a bootable Live USB with me, but this time I didn't have that either, neither did I have any bootable DVDs. So my situation now:
 
   * Windows is stuck on a BSOD boot loop
   * No bootable USB or DVDs present
   * No other laptops/desktops available except&#8230;&#8230;
   * &#8230;. Except for the Cr48.
 
-Yep, the Cr48 turned to be my savior. So, the Cr48 comes with ChromeOS. With the developer switch turned on, however, you get to do things. Like get access to a real shell. or install a distro like Ubuntu. I didn&#8217;t want to install Ubuntu on it, so I tried to gain access shell.
+Yep, the Cr48 turned to be my savior. So, the Cr48 comes with ChromeOS. With the developer switch turned on, however, you get to do things. Like get access to a real shell. or install a distro like Ubuntu. I didn't want to install Ubuntu on it, so I tried to gain access shell.
 
 Booting into Cr48 after enabling the developer mode, I found that hitting Ctrl+Alt+T brought up a shell. Within Chrome, as a tab(!). However, this was the crosh shell,which is limited. I found out that typing in &#8220;shell&#8221; gives you access to bash & full range of *nix utilities. So with that, I first grabbed Linux Mint iso using wget. With the ISO downloaded, I made the USB bootable using dd.
 
 dd if=/path/to/mint.iso of=/dev/sdb
 
-Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux Mint on my Envy. So now, my Envy is alive. So how do I get this to boot/reinstall Windows? I had Windows 7 ISO, I have Linux Mint & can install VirtualBox. So yup &#8211; that&#8217;s what I did.
+Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux Mint on my Envy. So now, my Envy is alive. So how do I get this to boot/reinstall Windows? I had Windows 7 ISO, I have Linux Mint & can install VirtualBox. So yup &#8211; that's what I did.
 
   * Installed VirtualBox
   * Created a new VM, installed Windows 7 to the VM

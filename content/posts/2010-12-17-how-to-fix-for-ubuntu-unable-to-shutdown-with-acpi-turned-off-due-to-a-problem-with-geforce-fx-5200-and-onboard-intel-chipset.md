@@ -7,7 +7,7 @@ url: /2010/12/17/how-to-fix-for-ubuntu-unable-to-shutdown-with-acpi-turned-off-d
 topsy_short_url:
   - https://u.sbhat.me/dQsmAE
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - acpi
   - commands

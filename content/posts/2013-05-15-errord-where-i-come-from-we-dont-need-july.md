@@ -32,7 +32,7 @@ tags:
         <hr style="clear: both; margin: 0 0 24px;" />
         
         <p>
-          &#8220;Someone FINALLY got it right!!&#8221; <strong>Farz</strong> wrote, &#8220;In my native language, we don&#8217;t have translations for seven months out of the year. Way to go Windows Live!!&#8221;
+          &#8220;Someone FINALLY got it right!!&#8221; <strong>Farz</strong> wrote, &#8220;In my native language, we don't have translations for seven months out of the year. Way to go Windows Live!!&#8221;
         </p>
         
         <blockquote>
@@ -46,7 +46,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;I know Dell is supposed to be going private, but I didn&#8217;t know that it would be up to me to keep them afloat!&#8221; writes <strong>James Helms</strong>.
+          &#8220;I know Dell is supposed to be going private, but I didn't know that it would be up to me to keep them afloat!&#8221; writes <strong>James Helms</strong>.
         </p>
         
         <blockquote>
@@ -74,7 +74,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;Developer&#8217;s excuse for screwing up #439: <i>Sorry, I was eating a milky way, so I forgot to fix any issues with the feed.</i>&#8221; wrote <strong>Chris M.</strong>
+          &#8220;Developer's excuse for screwing up #439: <i>Sorry, I was eating a milky way, so I forgot to fix any issues with the feed.</i>&#8221; wrote <strong>Chris M.</strong>
         </p>
         
         <blockquote>
@@ -88,7 +88,7 @@ tags:
         </blockquote>
         
         <p>
-          <strong>Wilt</strong> writes, &#8220;I know the budget is tight, But even if it wasn&#8217;t, I don&#8217;t think I could justify NVIDIA at that price.&#8221;
+          <strong>Wilt</strong> writes, &#8220;I know the budget is tight, But even if it wasn't, I don't think I could justify NVIDIA at that price.&#8221;
         </p>
         
         <blockquote>
@@ -102,7 +102,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;I&#8217;m fine that Thirstin Howl&#8217;s track <i>Spit Boxer</i> isn&#8217;t on Spotify,&#8221; writes <strong>Nick</strong>, &#8220;but their suggestion wasn&#8217;t quite what I was expecting.&#8221;
+          &#8220;I'm fine that Thirstin Howl's track <i>Spit Boxer</i> isn't on Spotify,&#8221; writes <strong>Nick</strong>, &#8220;but their suggestion wasn't quite what I was expecting.&#8221;
         </p>
         
         <blockquote>
@@ -116,7 +116,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;Things aren&#8217;t looking so good for being able to read &#8216;Fine Cooking&#8217; on my iPad,&#8221; wrote <strong>Jeff</strong>.
+          &#8220;Things aren't looking so good for being able to read &#8216;Fine Cooking' on my iPad,&#8221; wrote <strong>Jeff</strong>.
         </p>
         
         <blockquote>
@@ -147,5 +147,5 @@ tags:
         </p>
         
         <p>
-          via sathyabhat&#8217;s blurblog https://thedailywtf.com/Articles/Where-I-Come-From,-We-Dont-Need-July.aspx
+          via sathyabhat's blurblog https://thedailywtf.com/Articles/Where-I-Come-From,-We-Dont-Need-July.aspx
         </p>

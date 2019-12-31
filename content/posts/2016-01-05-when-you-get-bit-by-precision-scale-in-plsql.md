@@ -28,4 +28,4 @@ The variable holding the age had a precision applied. The documentation mentions
 > 
 > &nbsp;
 
-With no scale mentioned, the number would get a &#8216;free&#8217; rounding off and store an incorrect value. The small things that bite..
+With no scale mentioned, the number would get a &#8216;free' rounding off and store an incorrect value. The small things that bite..

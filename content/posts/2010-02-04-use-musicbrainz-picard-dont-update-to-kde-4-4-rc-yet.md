@@ -28,7 +28,7 @@ And the icing on the cake &#8211; its FOSS & cross platform. And it was working 
   
 <!--more-->
 
-Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later on I got a bunch of music files from Ankit, and I set to tag &#8217;em correctly. Double clicked Picard. Bouncy icon starts, and then &#8211; nothing. Uh-oh. Rinse, repeat, no change. Wondering what could&#8217;ve happened, I launched Konsole and passed the command And &#8211; boom.
+Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later on I got a bunch of music files from Ankit, and I set to tag 'em correctly. Double clicked Picard. Bouncy icon starts, and then &#8211; nothing. Uh-oh. Rinse, repeat, no change. Wondering what could've happened, I launched Konsole and passed the command And &#8211; boom.
 
 > sathya@shaman:~> picard
   
@@ -36,7 +36,7 @@ Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later
   
 > File &#8220;/usr/bin/picard&#8221;, line 2, in
   
-> from picard.tagger import main; main(&#8216;/usr/share/locale&#8217;, True)
+> from picard.tagger import main; main(&#8216;/usr/share/locale', True)
   
 > File &#8220;/usr/lib/python2.6/site-packages/picard/tagger.py&#8221;, line 21, in
   

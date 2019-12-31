@@ -21,7 +21,7 @@ Unfortunately that day is here. Just received an email stating that as of today,
 This is what they have to say about the export
 
 > <p style="margin: 0px 0px 20px; font-size: 16px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">
->   The export is a CSV file containing the following columns: application name, subcategory, category, the number of seconds you&#8217;ve used the application in the hour, the hour you&#8217;ve used the application in, the date of the usage, the operating system and your user id.
+>   The export is a CSV file containing the following columns: application name, subcategory, category, the number of seconds you've used the application in the hour, the hour you've used the application in, the date of the usage, the operating system and your user id.
 > </p>
 > 
 > <p style="margin: 0px 0px 20px; font-size: 16px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">
@@ -32,4 +32,4 @@ This is what they have to say about the export
 >   This would mean: the user with ID=12345 used the Windows version Skype (which is an Internet > Messengers & Chat software) for 10 seconds on 31st of May 2012 between 20:00 &#8211; 21:00.
 > </p>
 
-Too bad Wakoopa&#8217;s no longer going to be around. Wakoopa would be the first software I&#8217;d install &#8211; even before installing the drivers. There was something analysing the data about what software you use for how long, and which software did I use the most in the background. Now, I&#8217;m not really sure what to do with the data. I don&#8217;t think Rescue Time supports importing Wakoopa data &#8211; it&#8217;d be sweet if they did. Maybe see if I can stuff if into <a title="procrastitracker" href="https://procrastitracker.com/" target="_blank">ProcrastiTracker</a>?
+Too bad Wakoopa's no longer going to be around. Wakoopa would be the first software I'd install &#8211; even before installing the drivers. There was something analysing the data about what software you use for how long, and which software did I use the most in the background. Now, I'm not really sure what to do with the data. I don't think Rescue Time supports importing Wakoopa data &#8211; it'd be sweet if they did. Maybe see if I can stuff if into <a title="procrastitracker" href="https://procrastitracker.com/" target="_blank">ProcrastiTracker</a>?

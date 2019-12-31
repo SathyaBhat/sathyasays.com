@@ -18,11 +18,11 @@ tags:
 > 
 >   * Steam
 >   * Adobe (all their stuff)
->   * Autodesk (all their stuff we don&#8217;t have)
+>   * Autodesk (all their stuff we don't have)
 
 > We also are going to need to increase the buy in from hardware vendors. Nvidia/AMD/Intel all need to care about 2x what they do right now about.
 
-Pretty sure that&#8217;s never going to happen. More Q&A:
+Pretty sure that's never going to happen. More Q&A:
 
 > **Q:** Will you please never drop Ubuntu Classic? We cannot stand seeing Ubuntu turning into an Apple Product.
 
@@ -30,15 +30,15 @@ Pretty sure that&#8217;s never going to happen. More Q&A:
 
 > **Q:** I appreciate all the work you guys have done to make Unity better. But I have three really big questions:
 
->   1. Why have Unity at all? I&#8217;m thinking of GNOME 3 here.
+>   1. Why have Unity at all? I'm thinking of GNOME 3 here.
 >   2. Why is Unity (and other canonical-pushed projects) allowed to be put into Ubuntu repositories after so little testing and oversight compared other projects? Many other projects go through way more extensive testing and bug fixing before being pushed into the repos&#8211;especially main.
->   3. Why have so many settings been removed in Unity or do not exist? I&#8217;m thinking of UI theming primarily.
+>   3. Why have so many settings been removed in Unity or do not exist? I'm thinking of UI theming primarily.
 
 > **A:** 
 
->   1. We didn&#8217;t like GNOME 3, we didn&#8217;t like the technology it is based on. I think GNOME 3 is an excellent project and great competition.
+>   1. We didn't like GNOME 3, we didn't like the technology it is based on. I think GNOME 3 is an excellent project and great competition.
 >   2. We go through heavy testing and oversight too. Some things can fall through the cracks and there is a lot of focus on fixing that once and for all.
->   3. I can&#8217;t say for sure. Personally I would love to have them, but it&#8217;s not my decision and never been entirely clear to me
+>   3. I can't say for sure. Personally I would love to have them, but it's not my decision and never been entirely clear to me
 
 Read more on [IamA &#8211; We are the Ubuntu Unity Development Team.][1]
 

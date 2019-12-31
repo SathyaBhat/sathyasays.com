@@ -5,36 +5,16 @@ type: post
 date: 2008-09-10T18:05:51+00:00
 url: /2008/09/10/a-handy-wallpaper-displaying-most-common-linux-commands/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
-  - eye-candy
-  - guide
   - linux
-  - "tips-and-howto's"
-  - tutorials
-  - UNIX
-  - wallpaper
-  - xp
+
 
 ---
-In the past I&#8217;ve done [couple][1] of posts explaining few of the common commands. A handy one-glance reference guide is always nice, and that&#8217;s exactly what Sindhu has [posted][2].
+In the past I've done [couple][1] of posts explaining few of the common commands. A handy one-glance reference guide is always nice, and found [this](https://www.reddit.com/r/programming/comments/ddaak/linux_commands_wallpaper_hires/) on Reddit.
 
-<p style="text-align: center;">
-  Have a look:<br /> <a href="https://www.gnome-look.org/content/preview.php?preview=1&id=88383&file1=88383-1.png&file2=&file3=&name=Linux-Unix+command+guide"><img class="aligncenter" src="https://media.tumblr.com/ZT0iUtZ88djwg2puAMtjzoe9_400.png" alt="Linux Commands - Wallpaper" /></a>
-</p>
+![][3]
 
-<p style="text-align: left;">
-  Thanks, <a href="https://sindhu.tumblr.com">Sindhu</a>
-</p>
-
-<p style="text-align: left;">
-  Update: <a id="aptureLink_crqbeQTl1A" href="https://www.osstek.com/">Andre</a> was kind enough to forward me a copy he had created specifically for netbooks. Thanks dude, you rock!
-</p>
-
-<p style="text-align: left;">
-  <a href="https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png"><img class="aligncenter size-medium wp-image-756" title="clicommandsquickreference" src="https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png" alt="clicommandsquickreference"   srcset="https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference-300x175.png 300w, https://sathyasays.com/wp-content/uploads/2008/09/1024x600clicommandsquickreference.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</p>
-
- [1]: https://sathyasays.com/tag/commands/
- [2]: https://sindhu.tumblr.com/post/49007102/wallpaper-linux-unix-command-guide
+ [1]: https://sathyasays.com/tags/commands/
+ [3]: https://i.imgur.com/CJkR9.png

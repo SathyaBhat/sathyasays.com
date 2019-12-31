@@ -5,42 +5,15 @@ type: post
 date: 2008-10-26T04:30:46+00:00
 url: /2008/10/26/how-to-tackle-screen-resolution-problems-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
-  - 8.10
-  - bin
-  - distro
-  - dl
-  - driver
-  - drivers
-  - dual
-  - EDID
-  - file
-  - find
-  - GNOME
-  - Ibex
-  - intrepid
-  - Intrepid Ibex
+
   - linux
-  - login
-  - LV
-  - menu
-  - NVIDIA
-  - Nvidia Drivers
-  - Resolution
-  - root
-  - Screen Resolution
-  - sudo
-  - sync
-  - Sync. Out of Range
-  - terminal
-  - "tips-and-howto's"
   - tutorials
-  - Ubuntu
-  - xorg
+
 
 ---
-Many of us may feel screen resolution as the biggest pest in any OS. If we don&#8217;t get the screen resolution we want we get real fed up with the UI (dont we?). Personally, I very much hate if screen resolution gets screwed up and also have faced a lot of problems on that.
+Many of us may feel screen resolution as the biggest pest in any OS. If we don't get the screen resolution we want we get real fed up with the UI (dont we?). Personally, I very much hate if screen resolution gets screwed up and also have faced a lot of problems on that.
 
 So I thought I would make a post on the common problems I faced in ubuntu and I hope it would be useful for other distros too.
 
@@ -52,11 +25,11 @@ This happened for me with Gusty install. Just press Ctrl +alt+f2 and you should 
 
 **NVIDIA DRIVERS**
 
-NVIDIA Proprietary Drivers when installed through repositories, can cause problems with the screen resolution. This really test the patience of an individual. So for people who don&#8217;t know please install &#8220;nvidia-settings&#8221; first from the repositories(mostly, should be available there). There in the &#8216;Display Configuration&#8217; you should be having the screen resolution you need. Set it and if you want this resolution everytime you login then, click &#8220;Save to XConfiguration File&#8221; button. You SHOULD be root/ use &#8216;gksu&#8217; to do this.
+NVIDIA Proprietary Drivers when installed through repositories, can cause problems with the screen resolution. This really test the patience of an individual. So for people who don't know please install &#8220;nvidia-settings&#8221; first from the repositories(mostly, should be available there). There in the &#8216;Display Configuration' you should be having the screen resolution you need. Set it and if you want this resolution everytime you login then, click &#8220;Save to XConfiguration File&#8221; button. You SHOULD be root/ use &#8216;gksu' to do this.
 
 Secondly, the problem could be that you may not be having the desired resolution in the drop-down menu. In that case, click on the &#8220;Advanced&#8221; button and add your desired but compatible resolution there. If it asks that it is unaviable and whether it should do what is possible say &#8220;Apply what is possible&#8221;. I think that should the trick.
 
-Thirdly, sometimes a bug is there where the set resolution may not become permanent even after saving it to the Xconfig file i.e. /etc/X11/xorg.conf . There is a way to fix this, however. Only by editing &#8216;edid.bin&#8217; using hex editor. Thats the best that could be done.
+Thirdly, sometimes a bug is there where the set resolution may not become permanent even after saving it to the Xconfig file i.e. /etc/X11/xorg.conf . There is a way to fix this, however. Only by editing &#8216;edid.bin' using hex editor. Thats the best that could be done.
 
 **PROCEDURE:**
 
@@ -88,17 +61,17 @@ Your edid data is set wrong here. Time to edit edid.bin
 
 (viii) Open edid.bin in ghex and also open scientific caluculator ready at hand
 
-(ix) Click decimal and enter &#8216;979&#8217;, change to hexadecimal and see the value to be &#8216;3C9&#8217;
+(ix) Click decimal and enter &#8216;979', change to hexadecimal and see the value to be &#8216;3C9'
 
-(x) You will have to split it as &#8216;C9&#8217; and &#8216;3&#8217;. And, in your hex editor it should be something like this
+(x) You will have to split it as &#8216;C9' and &#8216;3'. And, in your hex editor it should be something like this
 
 “`01 01 01 64 19` **C9** `77` **3**`1 00 26 30 4F 88 36 00 42 FF` ”
 
 notice the positions of C9 and 3.
 
-(xi) Again in your gnome caluculator input 1024 in dec mode and see in hex mode. The value should be &#8216;400&#8217;. Again split it as &#8217;00&#8217; and &#8216;4&#8217; and enter them in places of   &#8216;C9&#8217; and &#8216;3&#8217; respectively. `01 01 01 64 19` **00** `77` **4**`1 00 26 30 4F 88 36 00 42 FF` ”
+(xi) Again in your gnome caluculator input 1024 in dec mode and see in hex mode. The value should be &#8216;400'. Again split it as '00' and &#8216;4' and enter them in places of   &#8216;C9' and &#8216;3' respectively. `01 01 01 64 19` **00** `77` **4**`1 00 26 30 4F 88 36 00 42 FF` ”
 
-(xii) If you want to change the Y resolution also i.e. &#8216;768&#8217; then follow the same procedure as that of above.
+(xii) If you want to change the Y resolution also i.e. &#8216;768' then follow the same procedure as that of above.
 
 (xiii) Save your edid.bin under ghex and quit. Close scientific caluculator. Re-run parse-edid. You should be finding your desired resolution. `parse-edid: parse-edid version 1.4.1<br />
 parse-edid: EDID checksum failed - data is corrupt. Continuing anyway.<br />
@@ -118,7 +91,7 @@ replace the display device name (DFP-0) with your own that would be mentioned in
 
 **LINUX KERNEL UPDATE**
 
-After each kernel update, you will have to reinstall Nvidia&#8217;s proprietary drivers. This should change with the DKMS (Dynamic Kernel Module Support) present in Linux Kernel 2.6.27 and Ubuntu Intrepid Ibex 8.10
+After each kernel update, you will have to reinstall Nvidia's proprietary drivers. This should change with the DKMS (Dynamic Kernel Module Support) present in Linux Kernel 2.6.27 and Ubuntu Intrepid Ibex 8.10
 
 **CONCLUSION**
 

@@ -15,7 +15,7 @@ tags:
 ---
 > `ln -s d1 d2 # Am I the only person who gets this the wrong way round every fucking time?`
 
-Similar to most people who have posted there &#8211; I <span style="text-decoration: line-through;">used to</span> still get it wrong every time. It&#8217;s become a habit for me to do a man ln or ln &#8211;help before I execute this command :\
+Similar to most people who have posted there &#8211; I <span style="text-decoration: line-through;">used to</span> still get it wrong every time. It's become a habit for me to do a man ln or ln &#8211;help before I execute this command :\
 
 Great tip here though:
 

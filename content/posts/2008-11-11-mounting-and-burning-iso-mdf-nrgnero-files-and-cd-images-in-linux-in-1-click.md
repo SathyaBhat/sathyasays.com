@@ -5,34 +5,14 @@ type: post
 date: 2008-11-11T04:30:47+00:00
 url: /2008/11/11/mounting-and-burning-iso-mdf-nrgnero-files-and-cd-images-in-linux-in-1-click/
 categories:
-  - Reviews
+  - "Tips & How-To's"
 tags:
-  - bin
-  - Brasero
   - commands
-  - Debian
-  - file
-  - Home
-  - images
-  - iso
   - linux
-  - mdf
-  - mds
-  - mounting
-  - mounting images
-  - mounting iso images
-  - Nautilus
-  -   - open source
-  - openSuSE
-  - show
-  - software
-  - SUSE
-  - "tips-and-howto's"
-  - Ubuntu
-  - Unity
+
 
 ---
-A while ago, I&#8217;d written a post on [howto mount CD images][1], such as .iso, .mdf files etc via the command prompt using the mount command. In the post, among the comments, Sumeet had asked if there was a way to do all of this without having to type lengthy commands. Well yes there is! And it can&#8217;t get simpler than this!
+A while ago, I'd written a post on [howto mount CD images][1], such as .iso, .mdf files etc via the command prompt using the mount command. In the post, among the comments, Sumeet had asked if there was a way to do all of this without having to type lengthy commands. Well yes there is! And it can't get simpler than this!
 
 <p style="text-align: center;">
   <!--more-->Furious ISO Mount Tool is a an amazing little application, taking only about 256KB, and gives you a neat little interface to mount all your iso, mdf(ie, made by Alcohol 120), nrg(created using Nero) images using 1 click!

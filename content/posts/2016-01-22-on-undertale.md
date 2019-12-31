@@ -14,11 +14,11 @@ tags:
   - undertale
 
 ---
-<a href="https://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that&#8217;s been getting rave reviews from quite a few people &#8211; <a href="https://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
+<a href="https://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that's been getting rave reviews from quite a few people &#8211; <a href="https://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
 
 <a href="https://www.ign.com/articles/2016/01/13/undertale-review" target="_blank">IGN</a>:
 
-> It&#8217;s hard to express just how much I adore Undertale without spoiling anything significant, but that&#8217;s what I love about it. It tells its story in such a dynamic way, and with such a great understanding of the RPG player’s mindset, that it couldn’t have been told in any other way. It&#8217;s a masterfully crafted experience that I won&#8217;t forget any time soon
+> It's hard to express just how much I adore Undertale without spoiling anything significant, but that's what I love about it. It tells its story in such a dynamic way, and with such a great understanding of the RPG player’s mindset, that it couldn’t have been told in any other way. It's a masterfully crafted experience that I won't forget any time soon
 
 <a href="https://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/" target="_blank">Jimquistion</a>
 
@@ -38,7 +38,7 @@ inspired by this and egged on by Rishi
 
 
 
-And so I did play. Or tried to anyway. But I failed. It was during my conversation with Rishi about <a href="https://gadgets.ndtv.com/games/reviews/undertale-review-791303" target="_blank">his review</a> that I was able to elaborate what exactly I didn&#8217;t like about Undertale:
+And so I did play. Or tried to anyway. But I failed. It was during my conversation with Rishi about <a href="https://gadgets.ndtv.com/games/reviews/undertale-review-791303" target="_blank">his review</a> that I was able to elaborate what exactly I didn't like about Undertale:
 
 > Sathya: that game is broken at the start
   
@@ -56,22 +56,22 @@ And so I did play. Or tried to anyway. But I failed. It was during my conversati
   
 > Rishi: :joy:
 > 
-> Sathya: honestly if it wasn&#8217;t for your recommendation long back I&#8217;d have never touched it. The music is charming but the repeatitiveness gets on your nerves. Bear in mind these are all impressions from the first hour
+> Sathya: honestly if it wasn't for your recommendation long back I'd have never touched it. The music is charming but the repeatitiveness gets on your nerves. Bear in mind these are all impressions from the first hour
   
-> Rishi: You&#8217;re spot on
+> Rishi: You're spot on
 > 
 > _(I later found that the repetition is actually a style of music called <a href="https://en.wikipedia.org/wiki/Leitmotif" target="_blank">Leitmotifs</a>). _
 > 
 > Sathya: yes I know how good it is supposed to be and all
   
-> Sathya: But &#8216;m fraid with a start like this, they&#8217;ve effectively driven away lot of folks. Hear about it => launch => nice music => charming => wtf? ==> wtf am I doing? ==> why the fuck do I keep falling???!!?? => argh that damn music SHUT UP already => rage quit
+> Sathya: But &#8216;m fraid with a start like this, they've effectively driven away lot of folks. Hear about it => launch => nice music => charming => wtf? ==> wtf am I doing? ==> why the fuck do I keep falling???!!?? => argh that damn music SHUT UP already => rage quit
   
 > _(side note; yes, I know about the sign boards. But these are something that I tend to gloss over and observe much later)_
   
 > These were the first impressions when I first played
 > 
-> Rishi: Yup. It&#8217;s exclusionary. You have to have loved old RPGs from Japan to like it
+> Rishi: Yup. It's exclusionary. You have to have loved old RPGs from Japan to like it
   
 > Sathya: I see.
 
-Undertale does have enough charm to it that I&#8217;ll get back to playing it soon, but every item I think of launching it, I&#8217;m reminded of my first hour playthrough experience and I question myself &#8211; do I really need to experience that all over again? Well..
+Undertale does have enough charm to it that I'll get back to playing it soon, but every item I think of launching it, I'm reminded of my first hour playthrough experience and I question myself &#8211; do I really need to experience that all over again? Well..

@@ -7,28 +7,14 @@ url: /2009/03/30/writing-an-iso-file-to-a-cd-rdvd-r-from-linux-terminal/
 categories:
   - News
 tags:
-  - Brasero
   - commands
-  - DVD
-  - file
-  - iso
-  - linux
-  - open source
-  - record
-  - root
-  - script
-  - shell
-  - shell script
   - terminal
-  - "tips-and-howto's"
   - tutorials
 
 ---
-Ever wondered if there&#8217;s a quick and easy way to write an iso file to a CD-R/DVD-R ? Don&#8217;t want to open K3B or Brasero ? Here&#8217;s a handy way of writing the iso file.
+Ever wondered if there's a quick and easy way to write an iso file to a CD-R/DVD-R ? Don't want to open K3B or Brasero ? Here's a handy way of writing the iso file.
 
 <!--more-->
-
-
   
 First, switch to root using su
   
@@ -38,7 +24,7 @@ Next, type
   
 `cdrecord -scanbus`
 
-You&#8217;ll get something like this:
+You'll get something like this:
 
 > `scsibus0:<br />
 0,0,0      0) 'TSSTcorp' 'DVD+-RW TS-L632H' 'D200' Removable CD-ROM<br />

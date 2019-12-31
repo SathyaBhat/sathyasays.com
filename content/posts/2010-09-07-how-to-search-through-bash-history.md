@@ -7,7 +7,7 @@ url: /2010/09/07/how-to-search-through-bash-history/
 topsy_short_url:
   - https://bit.ly/aCfruU
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Arch
   - bash
@@ -18,7 +18,7 @@ tags:
   - tutorials
 
 ---
-Quick tip &#8211; if you use the Terminal as much as I do, ever been in a situation where you&#8217;ve written a particularly long command, and then want to issue that command again but can&#8217;t recall it ? Use the history command, and pipe it to grep to search it!
+Quick tip &#8211; if you use the Terminal as much as I do, ever been in a situation where you've written a particularly long command, and then want to issue that command again but can't recall it ? Use the history command, and pipe it to grep to search it!
 
 > `history | grep -i <search-term>`
 

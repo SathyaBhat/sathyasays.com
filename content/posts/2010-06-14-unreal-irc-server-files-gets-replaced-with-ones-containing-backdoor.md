@@ -27,7 +27,7 @@ tags:
   
 > This backdoor allows a person to execute ANY command with the privileges of the user running the ircd. The backdoor can be executed regardless of any user
   
-> restrictions (so even if you have passworded server or hub that doesn&#8217;t allow any users in).
+> restrictions (so even if you have passworded server or hub that doesn't allow any users in).
 > 
 > It appears the replacement of the .tar.gz occurred in November 2009 (at least on some mirrors). It seems nobody noticed it until now.
 

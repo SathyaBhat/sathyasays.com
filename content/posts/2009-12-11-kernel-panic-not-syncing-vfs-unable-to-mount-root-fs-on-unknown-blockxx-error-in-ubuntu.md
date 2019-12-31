@@ -5,7 +5,7 @@ type: post
 date: 2009-12-11T09:01:56+00:00
 url: /2009/12/11/kernel-panic-not-syncing-vfs-unable-to-mount-root-fs-on-unknown-blockxx-error-in-ubuntu/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - 9.10
   - file

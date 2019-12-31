@@ -5,7 +5,7 @@ type: post
 date: 2018-05-28T18:10:16+00:00
 url: /2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Aqua
   - Clair
@@ -20,7 +20,7 @@ Containers are slowly becoming the standardized units of deployment. As containe
 
 <!--more-->
 
-I found recently that Aqua has introduced a free-to-use tool called <a href="https://github.com/aquasecurity/microscanner" target="_blank" rel="noopener">Aqua MicroScanner</a> for scanning container images for package vulnerabilities. What makes this even more attractive and easy-to-use is that it doesn&#8217;t need any elaborate or predefined server setups &#8211; and all that is needed to use this is:
+I found recently that Aqua has introduced a free-to-use tool called <a href="https://github.com/aquasecurity/microscanner" target="_blank" rel="noopener">Aqua MicroScanner</a> for scanning container images for package vulnerabilities. What makes this even more attractive and easy-to-use is that it doesn't need any elaborate or predefined server setups &#8211; and all that is needed to use this is:
 
   * Get a token from Aqua
   * Add the scanner and run it as part of the container build process
@@ -79,7 +79,7 @@ The summary would be like so:
 
 Aqua will stop the build if it finds any vulnerabilities of severity &#8220;High&#8221; &#8211; however, we can pass  `--continue-on-failure` flag to ignore the High severity issues and continue the build.
 
-I think this tool is really good, especially for small developers &#8211; with just few lines of Dockerfile instructions, the developer is able add vulnerability scanning of the images &#8211; and combined with CI like that of <a href="https://about.gitlab.com/features/gitlab-ci-cd/" target="_blank" rel="noopener">Gitlab CI/CD Pipelines</a>, it&#8217;s a good way of building vulnerability-free container images.
+I think this tool is really good, especially for small developers &#8211; with just few lines of Dockerfile instructions, the developer is able add vulnerability scanning of the images &#8211; and combined with CI like that of <a href="https://about.gitlab.com/features/gitlab-ci-cd/" target="_blank" rel="noopener">Gitlab CI/CD Pipelines</a>, it's a good way of building vulnerability-free container images.
 
 &nbsp;
 

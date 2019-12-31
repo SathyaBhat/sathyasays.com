@@ -5,7 +5,7 @@ type: post
 date: 2009-12-13T05:17:03+00:00
 url: /2009/12/13/fixing-ubuntu-9-10-karmic-koala-boot-drops-to-grub-shell-without-showing-boot-options/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - 9.10
   - AIR

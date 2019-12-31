@@ -30,4 +30,4 @@ In Karmic the restart Xserver shortcut is disabled by default. Enable it thus:
 
 3. Expand &#8220;Key sequence to kill  the X server&#8221;. Check &#8220;Ctrl+Alt+Backspace&#8221;
 
-4. You&#8217;re Done.
+4. You're Done.

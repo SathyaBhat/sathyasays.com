@@ -15,7 +15,7 @@ tags:
   - Google Chrome
 
 ---
-I&#8217;m a huge fan of Chrome & pretty much loved whatever changes Chrome team have done to the browser since it&#8217;s inception. This change, however, is probably the first annoying thing that I&#8217;ve run into.
+I'm a huge fan of Chrome & pretty much loved whatever changes Chrome team have done to the browser since it's inception. This change, however, is probably the first annoying thing that I've run into.
 
 Few days ago, after the latest dev channel update, all the extension icons on went missing. I initially thought all my extensions got wiped out. However, after heading over to <a href="chrome://extensions" target="_blank">chrome://extensions</a> I realized that the update had a new &#8220;Show button&#8221; feature next to the extensions list and they had been set to hide all :|
 
@@ -23,11 +23,11 @@ Few days ago, after the latest dev channel update, all the extension icons on we
 
 <!--more-->
 
-Why was it set so, I don&#8217;t know. Even more annoying is that the favicons of all active extensions on a page will now be placed in the Omnibox. As a result? My omnibox looks like this:<figure style="width: 600px" class="wp-caption alignnone">
+Why was it set so, I don't know. Even more annoying is that the favicons of all active extensions on a page will now be placed in the Omnibox. As a result? My omnibox looks like this:<figure style="width: 600px" class="wp-caption alignnone">
 
 [<img class=" " title="Chrome Extension Omnibox" src="https://i.imgur.com/x8hGz.png" alt="Chrome Extension Omnibox"  />][2]<figcaption class="wp-caption-text">Click to view in full</figcaption></figure> 
 
-Talk about useless clutter. I have filed a <a href="https://code.google.com/p/chromium/issues/detail?id=131006" target="_blank">bug for the second behaviour</a>, since I couldn&#8217;t find an existing bug which talks about this behaviour. Here&#8217;s a summary of the bug report:
+Talk about useless clutter. I have filed a <a href="https://code.google.com/p/chromium/issues/detail?id=131006" target="_blank">bug for the second behaviour</a>, since I couldn't find an existing bug which talks about this behaviour. Here's a summary of the bug report:
 
 > Chrome Version : 21.0.1155.2
   
@@ -63,7 +63,7 @@ Talk about useless clutter. I have filed a <a href="https://code.google.com/p/ch
   
 > **possible.**
 > 
-> IMO active omnibox icons do not offer much to a user; I don&#8217;t see why that&#8217;s required. Especially on sites where lots of extensions are installed.
+> IMO active omnibox icons do not offer much to a user; I don't see why that's required. Especially on sites where lots of extensions are installed.
   
 > Add to the mix the fact that userscripts with generic icons are also shown add to the clutter while adding no functionality.
 > 

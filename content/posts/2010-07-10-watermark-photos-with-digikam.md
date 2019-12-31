@@ -7,7 +7,7 @@ url: /2010/07/10/watermark-photos-with-digikam/
 topsy_short_url:
   - https://bit.ly/9uDNZx
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - digikam
   - images

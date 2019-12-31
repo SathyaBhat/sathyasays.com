@@ -5,39 +5,17 @@ type: post
 date: 2008-11-01T04:30:00+00:00
 url: /2008/11/01/how-to-display-a-list-of-all-partitions-device-info-and-filesystem-type-in-linux/
 categories:
-  - News
+  - "Tips & How-To's"
 tags:
   - commands
-  - cover
-  - Cylinder
-  - device info
-  - distro
-  - fdisk
-  - file
-  - filesystem
-  - find
-  - fstab
-  - indic
   - linux
-  - LV
-  - LVM
-  - mounting
-  - NTFS
-  - partition
-  - root
-  - show
-  - sudo
-  - terminal
-  - "tips-and-howto's"
   - tutorials
-  - Ubuntu
-  - vm
-  - windows
+
 
 ---
-In my previous posts I&#8217;d written on <a href="https://sathyasays.com/2008/11/01/how-to-mount-fat32ntfs-partitions-with-read-and-write-support-in-linux-using-command-line/" target="_blank">how to mount your partitions using the mount</a> command. In the post I&#8217;d mentioned that you&#8217;d have to mention the partition that you want to mount by specifying /dev/device_name as part of the command. The question that would come to your mind is, How do I know which of my partition is on what device? So let me show how to find out which partition is on what device! <!--more--> Like quite a lot of my posts, this involves the Command prompt &#8211; my preferred way of doing. Open the Terminal. Switch to root user by typing 
+In my previous posts I'd written on <a href="https://sathyasays.com/2008/11/01/how-to-mount-fat32ntfs-partitions-with-read-and-write-support-in-linux-using-command-line/" target="_blank">how to mount your partitions using the mount</a> command. In the post I'd mentioned that you'd have to mention the partition that you want to mount by specifying /dev/device_name as part of the command. The question that would come to your mind is, How do I know which of my partition is on what device? So let me show how to find out which partition is on what device! <!--more--> Like quite a lot of my posts, this involves the Command prompt &#8211; my preferred way of doing. Open the Terminal. Switch to root user by typing 
 
-`su root`. For those distros whose root accounts are disabled(Like Ubuntu) just prefix sudo. Type `fdisk -l` This is what you&#8217;ll get
+`su root`. For those distros whose root accounts are disabled(Like Ubuntu) just prefix sudo. Type `fdisk -l` This is what you'll get
 
 >  `[root@shaman]# fdisk -l`
 > 
@@ -59,7 +37,7 @@ In my previous posts I&#8217;d written on <a href="https://sathyasays.com/2008/1
   
 > /dev/sda3           15091       17455    18991317   8e  Linux LVM
   
-> /dev/sda4           17456       19456    16073032+   f  W95 Ext&#8217;d (LBA)
+> /dev/sda4           17456       19456    16073032+   f  W95 Ext'd (LBA)
   
 > /dev/sda5           17456       19456    16073001    7  HPFS/NTFS
 

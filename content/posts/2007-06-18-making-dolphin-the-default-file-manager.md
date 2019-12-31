@@ -11,11 +11,11 @@ tags:
 
 
 ---
-Dolphin&#8217;s fast loading times and clean interface made me consider to have a second look at Dolphin. So here&#8217;s a way to make Dolphin the default file manager.
+Dolphin's fast loading times and clean interface made me consider to have a second look at Dolphin. So here's a way to make Dolphin the default file manager.
 
-If you haven&#8217;t installed Dolphin yet, install it via apt-get or Adept. More info about that in my [previous post][1].
+If you haven't installed Dolphin yet, install it via apt-get or Adept. More info about that in my [previous post][1].
 
-Then, Click on K Menu -> Run Command and type &#8216;kcontrol&#8217; (without the quotes, of course).
+Then, Click on K Menu -> Run Command and type &#8216;kcontrol' (without the quotes, of course).
 
 Then Click on KDE Components -> File Associations. Expand the inode section.</p> 
 

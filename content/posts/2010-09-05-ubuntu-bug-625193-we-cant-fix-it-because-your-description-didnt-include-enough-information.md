@@ -33,11 +33,11 @@ They say a picture is worth a thousand words. [This picture][1]{#aptureLink_ZLu
 
 <!--more-->
 
-&#8220;Vish&#8221; [says][2]{#aptureLink_zxC8tVMWB3} &#8220;the description didn&#8217;t include enough information&#8221;.
+&#8220;Vish&#8221; [says][2]{#aptureLink_zxC8tVMWB3} &#8220;the description didn't include enough information&#8221;.
 
 > > Thank you for taking the time to report this bug and helping to make Ubuntu better. Unfortunately, we cant fix it because your description didnt include enough information.
 
-Uh-huh. Riiight. Maybe he didn&#8217;t look at the image.
+Uh-huh. Riiight. Maybe he didn't look at the image.
 
 Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, courtesy [Matthieu][4]{#aptureLink_8svxK8IXJc}. Hilarious.
 
@@ -55,7 +55,7 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > 
 > Actual Results:
 > 
-> &#8211; My eyes ! They&#8217;re melting !
+> &#8211; My eyes ! They're melting !
   
 > &#8211; The 10 is not perfect with this wallpaper
   
@@ -63,7 +63,7 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
   
 > &#8211; Does not inspire awe
   
-> &#8211; No one likes it, I haven&#8217;t found any positive feedback on this wallpaper
+> &#8211; No one likes it, I haven't found any positive feedback on this wallpaper
 > 
 > Build Date & Platform:
 > 

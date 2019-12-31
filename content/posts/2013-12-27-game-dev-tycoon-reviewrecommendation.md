@@ -15,13 +15,13 @@ tags:
   - review
 
 ---
-Mini review/recommendation I&#8217;d written <a href="https://steamcommunity.com/id/sathyabhat/recommended/239820/" target="_blank">about Game Dev Tycoon on Steam</a>:
+Mini review/recommendation I'd written <a href="https://steamcommunity.com/id/sathyabhat/recommended/239820/" target="_blank">about Game Dev Tycoon on Steam</a>:
 
 You start off as a single game dev operating out of your garage, and then slowly expand as you move to bigger office, hire more people and just grow.
   
 The game starts off in the distant past, and contains homages to major consoles & other gaming device, albeit with similar names, no doubt to avoid legal wrangles.
 
-Gameplay wise, this game will have you hooked. From researching new topics to new technologies for your custom game engine to training yourself & staff to generating reports on your past games to figuring out what game/topic/genre/system combo works well to delivering that blockbuster game &#8211; you&#8217;ll be doing all these tasks at once, but with none of the micromanagement.
+Gameplay wise, this game will have you hooked. From researching new topics to new technologies for your custom game engine to training yourself & staff to generating reports on your past games to figuring out what game/topic/genre/system combo works well to delivering that blockbuster game &#8211; you'll be doing all these tasks at once, but with none of the micromanagement.
 
 Sounds are nice, but it is the gameplay which will have you on playing for a while &#8211; trying to squeeze that one game with hopes that it will get a perfect score.
 

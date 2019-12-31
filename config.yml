@@ -67,7 +67,7 @@ params:
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: false
   # the directory under content folder that you want to render
-  mainSections: ["posts"]
+  mainSections: ["post"]
   # Enable/Disable menu icons
   # Icon Reference: http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   enableMathJax: false #Enable mathjax support, to use mathematical notations

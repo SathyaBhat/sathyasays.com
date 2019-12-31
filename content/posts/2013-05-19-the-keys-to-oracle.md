@@ -36,11 +36,11 @@ tags:
 > </div>
 > 
 > <div class="MsoNormal">
->   If you are still wet behind the ears – or even just damp – then the definitive place to start is the <a href="https://www.oracle.com/pls/db112/to_toc?pathname=server.112/e25789/toc.htm">Oracle Server Concepts Guide</a>. Not only is this free &#8211; but it is your guide to understanding how the database works. If you understand something &#8211; you can use that thing. If you don&#8217;t, well, simply put &#8211; you won&#8217;t be able to effectively use it. Getting a solid knowledge of how a transaction is done, what locking and concurrency controls are and how they work, how the database makes the data durable on disk (redo, undo management) &#8211; all of it is key to effectively using the database.
+>   If you are still wet behind the ears – or even just damp – then the definitive place to start is the <a href="https://www.oracle.com/pls/db112/to_toc?pathname=server.112/e25789/toc.htm">Oracle Server Concepts Guide</a>. Not only is this free &#8211; but it is your guide to understanding how the database works. If you understand something &#8211; you can use that thing. If you don't, well, simply put &#8211; you won't be able to effectively use it. Getting a solid knowledge of how a transaction is done, what locking and concurrency controls are and how they work, how the database makes the data durable on disk (redo, undo management) &#8211; all of it is key to effectively using the database.
 > </div>
 
 <div class="blogger-post-footer">
   <del><img src="https://blogger.googleusercontent.com/tracker/11839365-8410462515596862592?l=tkyte.blogspot.com" alt=""   /></del>
 </div>
 
-via sathyabhat&#8217;s blurblog. More at <a href="https://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html" target="_blank">https://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html</a>
+via sathyabhat's blurblog. More at <a href="https://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html" target="_blank">https://tkyte.blogspot.com/2012/08/the-keys-to-oracle.html</a>

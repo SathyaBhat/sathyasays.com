@@ -5,36 +5,13 @@ type: post
 date: 2008-10-12T10:01:21+00:00
 url: /2008/10/12/how-to-display-exe-icons-in-gnome/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
-  - applications
-  - Arch
-  - desktop environment
-  - diplay exe icons in gnome
-  - display exe icons
-  - display windows game icons
-  - dl
-  - exe
-  - exe icons
-  - exe icons in gnome
-  - Fedora
-  - file
-  - find
-  - games
-  - GNOME
-  - icons
-  - KDE
   - linux
-  - openSuSE
-  - show
-  - software
-  - softwares
-  - Ubuntu
-  - windows
-  - WINE
+ 
 
 ---
-Many people would like to use windows&#8217; softwares in linux and would also like to run games in linux using wine. Many softwares and games work pretty well and are fully functional using wine. However, people may find it difficult to digest the fact that exe icons do not get displayed. If the exe icons could be made visible, then it will reduce the need to search for the exe file and will make linux and wine more user friendly.
+Many people would like to use windows' softwares in linux and would also like to run games in linux using wine. Many softwares and games work pretty well and are fully functional using wine. However, people may find it difficult to digest the fact that exe icons do not get displayed. If the exe icons could be made visible, then it will reduce the need to search for the exe file and will make linux and wine more user friendly.
 
 This idea is possible in gnome desktop environment. I seriously dont know about how to accomplish this task in KDE. Please visit [here][1] and [here][2] for complete details
 

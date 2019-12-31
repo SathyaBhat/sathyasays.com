@@ -5,30 +5,15 @@ type: post
 date: 2008-09-21T18:36:25+00:00
 url: /2008/09/22/how-to-fix-nautilus-file-manager-bar-disappearing-when-emerald-is-enabled/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
-  - applications
-  - Emerald
-  - file
-  - find
-  - gconf
-  - gtk
   - linux
-  - Meta
-  - Nautilus
-  - open source
-  - Resolution
-  - Screen Resolution
-  - terminal
-  - "tips-and-howto's"
-  - window-decorator
-  - windows
-  - xp
+  - nautilus
 
 ---
-Most of the how-to&#8217;s and fixes posted here, are generally my experiences and I post them on how I went about fixing it. This particular how-to was mentioned to me by my very good friend, Bharath, who had this annoying problem of the title bars of every window crashing and disappearing when Emerald is chosen as the decorator.
+Most of the how-to's and fixes posted here, are generally my experiences and I post them on how I went about fixing it. This particular how-to was mentioned to me by my very good friend, Bharath, who had this annoying problem of the title bars of every window crashing and disappearing when Emerald is chosen as the decorator.
 
-Generally, I&#8217;d recommend running `gtk-window-decorator --replace` or `metacity --replace` in terminal &#8211; that generally does reinitialize the window decorators. However for Bharath, this particular solution didn&#8217;t help and he kept facing the same problem
+Generally, I'd recommend running `gtk-window-decorator --replace` or `metacity --replace` in terminal &#8211; that generally does reinitialize the window decorators. However for Bharath, this particular solution didn't help and he kept facing the same problem
 
 <!--more-->
 
@@ -45,9 +30,5 @@ Despite typing the above, the title bars would still keep crashing. After some p
 </div>
 
 <div>
-  Thanks for the tip, Bharath, I&#8217;m sure many people will find this tip useful.
-</div>
-
-<div>
-  If you have a tip to share, then please use the Contact Me form and get in touch with me, I will post the tip&#8230;
+  Thanks for the tip, Bharath, I'm sure many people will find this tip useful.
 </div>
