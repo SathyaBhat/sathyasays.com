@@ -5,7 +5,7 @@ type: post
 date: 2008-11-01T04:30:00+00:00
 url: /2008/11/01/how-to-display-a-list-of-all-partitions-device-info-and-filesystem-type-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

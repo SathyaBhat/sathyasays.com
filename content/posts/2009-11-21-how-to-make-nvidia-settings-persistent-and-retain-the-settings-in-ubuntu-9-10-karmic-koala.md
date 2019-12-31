@@ -5,7 +5,7 @@ type: post
 date: 2009-11-21T01:15:08+00:00
 url: /2009/11/21/how-to-make-nvidia-settings-persistent-and-retain-the-settings-in-ubuntu-9-10-karmic-koala/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - 9.10
   - commands

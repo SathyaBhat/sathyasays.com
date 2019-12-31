@@ -5,7 +5,7 @@ type: post
 date: 2008-09-24T04:30:00+00:00
 url: /2008/09/24/file-associationschangingremovingadding-default-applications-for-particular-filetypes-in-opensuse-11-kde-41/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - applications
   - linux

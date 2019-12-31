@@ -5,7 +5,7 @@ type: post
 date: 2008-10-26T04:30:46+00:00
 url: /2008/10/26/how-to-tackle-screen-resolution-problems-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
 
   - linux

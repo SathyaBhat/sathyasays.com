@@ -5,7 +5,7 @@ type: post
 date: 2008-05-27T04:30:35+00:00
 url: /2008/05/27/enabling-and-disabling-root-account-in-debianubuntu/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Debian
   - linux

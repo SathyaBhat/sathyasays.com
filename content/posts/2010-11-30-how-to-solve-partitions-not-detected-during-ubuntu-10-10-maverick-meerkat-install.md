@@ -5,7 +5,7 @@ type: post
 date: 2010-11-30T04:40:07+00:00
 url: /2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - partitioning
   - terminal

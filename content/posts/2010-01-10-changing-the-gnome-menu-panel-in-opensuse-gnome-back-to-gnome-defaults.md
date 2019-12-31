@@ -5,7 +5,7 @@ type: post
 date: 2010-01-10T15:39:34+00:00
 url: /2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-defaults/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - applications
   - Arch

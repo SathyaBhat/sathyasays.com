@@ -5,7 +5,7 @@ type: post
 date: 2008-12-08T06:16:31+00:00
 url: /2008/12/08/make-use-of-peerguardian-2s-ip-filter-in-ktorrent/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
 
   - linux

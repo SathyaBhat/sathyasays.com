@@ -7,7 +7,7 @@ url: /2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from
 bfa_virtual_template:
   - hierarchy
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Barcamp Bangalore
   - Gmail Actions

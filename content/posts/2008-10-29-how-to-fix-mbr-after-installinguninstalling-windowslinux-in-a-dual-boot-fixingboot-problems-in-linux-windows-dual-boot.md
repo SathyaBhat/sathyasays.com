@@ -5,7 +5,7 @@ type: post
 date: 2008-10-29T04:30:08+00:00
 url: /2008/10/29/how-to-fix-mbr-after-installinguninstalling-windowslinux-in-a-dual-boot-fixingboot-problems-in-linux-windows-dual-boot/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   
   - linux

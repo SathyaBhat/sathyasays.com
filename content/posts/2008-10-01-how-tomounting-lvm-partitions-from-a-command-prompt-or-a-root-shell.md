@@ -5,7 +5,7 @@ type: post
 date: 2008-10-01T11:47:45+00:00
 url: /2008/10/01/how-tomounting-lvm-partitions-from-a-command-prompt-or-a-root-shell/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

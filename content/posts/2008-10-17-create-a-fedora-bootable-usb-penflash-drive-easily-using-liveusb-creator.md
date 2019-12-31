@@ -5,7 +5,7 @@ type: post
 date: 2008-10-16T18:56:33+00:00
 url: /2008/10/17/create-a-fedora-bootable-usb-penflash-drive-easily-using-liveusb-creator/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - linux
   - terminal

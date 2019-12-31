@@ -6,7 +6,7 @@ date: 2013-02-25T16:52:13+00:00
 url: /2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/
 categories:
   - News
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - cr48
   - linux

@@ -5,7 +5,7 @@ type: post
 date: 2008-10-09T18:47:19+00:00
 url: /2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

@@ -7,7 +7,7 @@ url: /2010/09/02/howto-starcraft-2-on-linux-with-wine/
 topsy_short_url:
   - https://bit.ly/953X5u
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - CrossOver
   - distro

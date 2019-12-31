@@ -5,7 +5,7 @@ type: post
 date: 2008-11-11T04:30:47+00:00
 url: /2008/11/11/mounting-and-burning-iso-mdf-nrgnero-files-and-cd-images-in-linux-in-1-click/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

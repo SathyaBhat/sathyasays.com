@@ -5,7 +5,7 @@ type: post
 date: 2018-05-22T04:32:22+00:00
 url: /2018/05/22/convert-newsletters-to-rss-feeds-with-kill-the-newsletter/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Atom
   - feeds

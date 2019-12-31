@@ -5,7 +5,7 @@ type: post
 date: 2008-12-15T03:31:27+00:00
 url: /2008/12/15/mounting-accessing-windows-shared-folders-on-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
 
   - linux

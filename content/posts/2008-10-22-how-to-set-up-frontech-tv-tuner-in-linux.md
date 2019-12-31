@@ -5,7 +5,7 @@ type: post
 date: 2008-10-22T04:30:22+00:00
 url: /2008/10/22/how-to-set-up-frontech-tv-tuner-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - driver

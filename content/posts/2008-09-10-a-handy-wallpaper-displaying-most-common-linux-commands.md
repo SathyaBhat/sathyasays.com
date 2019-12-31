@@ -5,7 +5,7 @@ type: post
 date: 2008-09-10T18:05:51+00:00
 url: /2008/09/10/a-handy-wallpaper-displaying-most-common-linux-commands/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux
@@ -17,5 +17,4 @@ In the past I've done [couple][1] of posts explaining few of the common commands
 ![][3]
 
  [1]: https://sathyasays.com/tags/commands/
- [2]: https://sindhu.tumblr.com/post/49007102/wallpaper-linux-unix-command-guide
- [3]: http://i.imgur.com/CJkR9.png
+ [3]: https://i.imgur.com/CJkR9.png

@@ -5,7 +5,7 @@ type: post
 date: 2016-10-31T13:55:00+00:00
 url: /2016/10/31/chef-zero-cookbooks-and-databag-locations/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - chef
   - chef-zero

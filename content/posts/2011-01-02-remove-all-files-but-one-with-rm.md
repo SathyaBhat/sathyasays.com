@@ -7,7 +7,7 @@ url: /2011/01/02/remove-all-files-but-one-with-rm/
 topsy_short_url:
   - https://u.sbhat.me/fyeh4g
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - terminal
   - "tips-and-howto's"

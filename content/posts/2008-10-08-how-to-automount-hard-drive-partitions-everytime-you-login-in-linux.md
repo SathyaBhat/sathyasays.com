@@ -5,7 +5,7 @@ type: post
 date: 2008-10-08T06:32:30+00:00
 url: /2008/10/08/how-to-automount-hard-drive-partitions-everytime-you-login-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
 
   - linux

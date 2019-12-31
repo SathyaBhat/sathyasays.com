@@ -5,7 +5,7 @@ type: post
 date: 2009-11-08T11:41:22+00:00
 url: /2009/11/08/how-to-fix-e-unable-to-parse-package-file-varlibaptextended_states-1-error-in-synaptic-or-apt-get/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - apt-get
   - sudo

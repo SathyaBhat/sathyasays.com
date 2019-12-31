@@ -7,7 +7,7 @@ url: /2010/10/06/removing-file-named-rf-in-unix/
 topsy_short_url:
   - https://bit.ly/cq3NaS
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

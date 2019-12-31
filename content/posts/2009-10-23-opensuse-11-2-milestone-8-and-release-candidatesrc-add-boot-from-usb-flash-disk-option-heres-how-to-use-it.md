@@ -5,7 +5,7 @@ type: post
 date: 2009-10-22T19:24:28+00:00
 url: /2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-from-usb-flash-disk-option-heres-how-to-use-it/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - DVD

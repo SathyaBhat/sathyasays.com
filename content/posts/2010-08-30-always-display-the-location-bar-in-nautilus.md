@@ -7,7 +7,7 @@ url: /2010/08/30/always-display-the-location-bar-in-nautilus/
 topsy_short_url:
   - https://bit.ly/90bWfZ
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - apps
   - commands

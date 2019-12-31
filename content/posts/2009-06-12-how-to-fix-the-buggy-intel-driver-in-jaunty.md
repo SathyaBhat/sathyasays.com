@@ -5,7 +5,7 @@ type: post
 date: 2009-06-12T15:49:40+00:00
 url: /2009/06/12/how-to-fix-the-buggy-intel-driver-in-jaunty/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - codecs
   - commands

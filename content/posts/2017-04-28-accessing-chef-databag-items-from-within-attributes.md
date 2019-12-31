@@ -5,7 +5,7 @@ type: post
 date: 2017-04-28T10:08:00+00:00
 url: /2017/04/28/accessing-chef-databag-items-from-within-attributes/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - chef
   - configuration management

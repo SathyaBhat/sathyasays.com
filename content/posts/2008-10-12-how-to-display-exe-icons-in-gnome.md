@@ -5,7 +5,7 @@ type: post
 date: 2008-10-12T10:01:21+00:00
 url: /2008/10/12/how-to-display-exe-icons-in-gnome/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - linux
  

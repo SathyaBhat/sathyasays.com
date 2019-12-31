@@ -7,7 +7,7 @@ url: /2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-serv
 evolve_slider_type:
   - no
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - PHP
   - sendmail

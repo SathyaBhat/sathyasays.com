@@ -5,7 +5,7 @@ type: post
 date: 2008-10-08T09:52:29+00:00
 url: /2008/10/08/how-to-opening-and-reading-chm-compiled-html-files-in-linux/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - linux
   - tutorials

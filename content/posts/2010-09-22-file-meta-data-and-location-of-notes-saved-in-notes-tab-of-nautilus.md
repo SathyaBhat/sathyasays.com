@@ -7,7 +7,7 @@ url: /2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-naut
 topsy_short_url:
   - https://bit.ly/cVWzgN
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - linux

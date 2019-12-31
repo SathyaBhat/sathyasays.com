@@ -7,7 +7,7 @@ url: /2010/07/03/changing-file-associations-and-default-applications-in-opensuse
 topsy_short_url:
   - https://bit.ly/bYlOij
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - applications
   - Arch

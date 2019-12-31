@@ -7,7 +7,7 @@ url: /2010/09/07/how-to-search-through-bash-history/
 topsy_short_url:
   - https://bit.ly/aCfruU
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Arch
   - bash

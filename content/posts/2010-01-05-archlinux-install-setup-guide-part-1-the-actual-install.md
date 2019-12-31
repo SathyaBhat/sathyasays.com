@@ -5,7 +5,7 @@ type: post
 date: 2010-01-04T20:39:54+00:00
 url: /2010/01/05/archlinux-install-setup-guide-part-1-the-actual-install/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - '*nix'
   - AIR

@@ -7,7 +7,7 @@ url: /2010/04/11/how-to-get-iphone-internet-tethering-working-in-linux/
 topsy_short_url:
   - https://bit.ly/cWKwK8
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - Arch
   - Debian

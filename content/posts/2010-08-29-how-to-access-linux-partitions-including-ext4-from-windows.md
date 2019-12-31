@@ -7,7 +7,7 @@ url: /2010/08/29/how-to-access-linux-partitions-including-ext4-from-windows/
 topsy_short_url:
   - https://bit.ly/cjVwm5
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - ext2
   - ext3

@@ -5,7 +5,7 @@ type: post
 date: 2009-01-07T01:30:01+00:00
 url: /2009/01/07/if-amarok-20-doesnt-add-any-songs-to-your-playlist-or-collection/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - amarok
   - tutorials

@@ -5,7 +5,7 @@ type: post
 date: 2017-02-02T05:59:25+00:00
 url: /2017/02/02/xenserver-and-addingattaching-a-new-storage-to-a-vm/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - LVM
   - partitioning

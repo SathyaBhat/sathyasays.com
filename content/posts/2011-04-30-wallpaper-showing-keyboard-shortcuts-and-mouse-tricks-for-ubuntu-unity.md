@@ -7,7 +7,7 @@ url: /2011/04/30/wallpaper-showing-keyboard-shortcuts-and-mouse-tricks-for-ubunt
 topsy_short_url:
   - https://u.sbhat.me/mNnBVl
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - keyboard shorcuts
   - Natty

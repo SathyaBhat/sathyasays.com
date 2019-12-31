@@ -7,7 +7,7 @@ url: /2010/11/14/find-command-examples/
 topsy_short_url:
   - https://u.sbhat.me/brNgVD
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - applications
   - bin

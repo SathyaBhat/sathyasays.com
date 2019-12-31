@@ -7,7 +7,7 @@ url: /2012/02/01/ssh-into-your-servers-from-unity-using-unity-sshsearch-lens/
 topsy_short_url:
   - https://u.sbhat.me/y7zALG
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - lens
   - ssh

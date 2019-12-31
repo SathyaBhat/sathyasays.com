@@ -5,7 +5,7 @@ type: post
 date: 2008-10-10T17:05:07+00:00
 url: /2008/10/10/how-to-solution-for-sudo-must-be-setuid-root-problem/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   
   - commands

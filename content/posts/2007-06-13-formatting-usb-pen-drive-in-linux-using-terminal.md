@@ -5,7 +5,7 @@ type: post
 date: 2007-06-13T16:38:57+00:00
 url: /2007/06/13/formatting-usb-pen-drive-in-linux-using-terminal/
 categories:
-  - "Tips &amp; How-To's"
+  - "Tips & How-To's"
 tags:
   - commands
   - ext3
