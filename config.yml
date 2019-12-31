@@ -125,24 +125,8 @@ params:
 
   # Comment
   comment:
-    type: disqus # type disqus/gitalk/valine 启用哪种评论系统
-    disqus: sathyasays # enter disqus shortname here
-    gitalk: # gitalk. https://gitalk.github.io/
-      owner: #必须. GitHub repository 所有者，可以是个人或者组织。
-      admin: #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
-      repo:  #必须. GitHub repository.
-      ClientID: #必须. GitHub Application Client ID.
-      ClientSecret: #必须. GitHub Application Client Secret.
-    valine: # Valine. https://valine.js.org
-      appid: # your leancloud application appid
-      appkey: # your leancloud application appkey
-      notify: # mail notifier , https://github.com/xCss/Valine/wiki
-      verify: # Verification code
-      placeholder: enjoy~ # comment box placeholder
-      avatar: mm # gravatar style
-      meta: nick,mail # custom comment header
-      pageSize: 10 # pagination size
-      visitor: false # Article reading statistic https://valine.js.org/visitor.html
+    type: disqus
+    disqus: sathyasays
 
   # Donate
   donate:
