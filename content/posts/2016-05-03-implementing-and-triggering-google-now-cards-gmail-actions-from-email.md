@@ -71,36 +71,35 @@ Tips for getting whitelisted:
 ### Markup from Barcamp Bangalore
 
 This was the markup that I finally used.
+ 
+  {
+      "@context":https://schema.org",
+      "@type":EventReservation",
+      "reservationNumber":30042016017",
+      "reservationStatus":https://schema.org/Confirmed",
+      "underName":{
+          "@type":Person",
+          "name":"[FIRST_NAME]"
+      },
+      "reservationFor":{
+          "@type":Event",
+          "name":Barcamp Bangalore Spring 2016",
+          "startDate":2016-04-30T08:00:00+05:30",
+          "location":{
+              "@type":Place",
+                  "name":CMR Institute of Technology",
+                  "address":{
+                      "@type":PostalAddress",
+                      "streetAddress":No. 132, AECS Layout, ITPL Main Road, Kundalahalli",
+                      "addressLocality":Bangalore",
+                      "addressRegion":Karnataka",
+                      "postalCode":560037",
+                      "addressCountry":in"
+                  }
+              }
+          }
+  }
 
-> <pre><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">"application/ld+json"</span><span class="o">&gt;</span>
-    <span class="p">{</span>
-        <span class="s2">"@context"</span><span class="o">:</span>                     <span class="s2">"https://schema.org"</span><span class="p">,</span>
-        <span class="s2">"@type"</span><span class="o">:</span>                        <span class="s2">"EventReservation"</span><span class="p">,</span>
-        <span class="s2">"reservationNumber"</span><span class="o">:</span>            <span class="s2">"30042016017"</span><span class="p">,</span>
-        <span class="s2">"reservationStatus"</span><span class="o">:</span>            <span class="s2">"https://schema.org/Confirmed"</span><span class="p">,</span>
-        <span class="s2">"underName"</span><span class="o">:</span> <span class="p">{</span>
-            <span class="s2">"@type"</span><span class="o">:</span>                    <span class="s2">"Person"</span><span class="p">,</span>
-            <span class="s2">"name"</span><span class="o">:</span>                     <span class="s2">"[FIRST_NAME]"</span>
-        <span class="p">},</span>
-        <span class="s2">"reservationFor"</span><span class="o">:</span> <span class="p">{</span>
-            <span class="s2">"@type"</span><span class="o">:</span>                    <span class="s2">"Event"</span><span class="p">,</span>
-            <span class="s2">"name"</span><span class="o">:</span>                     <span class="s2">"Barcamp Bangalore Spring 2016"</span><span class="p">,</span>
-            <span class="s2">"startDate"</span><span class="o">:</span>                <span class="s2">"2016-04-30T08:00:00+05:30"</span><span class="p">,</span>
-            <span class="s2">"location"</span><span class="o">:</span> <span class="p">{</span>
-                <span class="s2">"@type"</span><span class="o">:</span> <span class="s2">"Place"</span><span class="p">,</span>
-                    <span class="s2">"name"</span><span class="o">:</span> <span class="s2">"CMR Institute of Technology"</span><span class="p">,</span>
-                    <span class="s2">"address"</span><span class="o">:</span> <span class="p">{</span>
-                        <span class="s2">"@type"</span><span class="o">:</span>                <span class="s2">"PostalAddress"</span><span class="p">,</span>
-                        <span class="s2">"streetAddress"</span><span class="o">:</span>        <span class="s2">"No. 132, AECS Layout, ITPL Main Road, Kundalahalli"</span><span class="p">,</span>
-                        <span class="s2">"addressLocality"</span><span class="o">:</span>      <span class="s2">"Bangalore"</span><span class="p">,</span>
-                        <span class="s2">"addressRegion"</span><span class="o">:</span>        <span class="s2">"Karnataka"</span><span class="p">,</span>
-                        <span class="s2">"postalCode"</span><span class="o">:</span>           <span class="s2">"560037"</span><span class="p">,</span>
-                        <span class="s2">"addressCountry"</span><span class="o">:</span>       <span class="s2">"in"</span>
-                    <span class="p">}</span>
-                 <span class="p">}</span>
-            <span class="p">}</span>
-        <span class="p">}</span>
-    <span class="o">&lt;</span><span class="err">/script&gt;</span></pre>
 
 ### How long till production?
 
