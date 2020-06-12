@@ -8,6 +8,12 @@ date: 2008-01-01T00:00:00+00:00
 
 I've been organizing events on small large scale since 2012. Besides organizing events, I also love talking in meetups and conferences. Below are a collection of some of my previous talks.
 
+#### Securing workloads on Azure 
+
+Presented at the Highway to 100 Unicorns webinar, this talk at looks at some of the guidelines to be followed when improving the security of your workloads
+
+{{< speakerdeck bc2ed4d9f85f468884ed51c4b9bb8be6 >}}
+
 
 #### DVC15: AWS Fargate instead of Amazon EC2 instances for one-off tasks
 
