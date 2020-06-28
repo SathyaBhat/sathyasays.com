@@ -72,7 +72,6 @@ Tips for getting whitelisted:
 
 This was the markup that I finally used.
  
-
 {{< highlight json "linenos=table" >}}
   {
       "@context":https://schema.org",
