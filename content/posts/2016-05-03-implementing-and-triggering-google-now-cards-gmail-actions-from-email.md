@@ -72,6 +72,7 @@ Tips for getting whitelisted:
 
 This was the markup that I finally used.
  
+{{< highlight json "linenos=table" >}}
   {
       "@context":https://schema.org",
       "@type":EventReservation",
@@ -100,6 +101,7 @@ This was the markup that I finally used.
           }
   }
 
+{{< / highlight >}}
 
 ### How long till production?
 
