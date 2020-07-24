@@ -1,3 +1,5 @@
 [build.environment]
 HUGO_VERSION = "0.62.0"
 
+[[plugins]]
+package = "netlify-plugin-hugo-cache-resources"
