@@ -71,12 +71,11 @@ Comparing against the `.drone.yml` file, you can see that Drone created a new pi
 
 If the policy check (or any stage) fails, the pipeline ends and does not trigger subsequent stages.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png" alt="" class="wp-image-1738" srcset="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png 608w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-768x381.png 768w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-800x397.png 800w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-840x417.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
-</div>
+{{< figure src="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation.png" title="Drone Failed Policy Evaluation" >}}
+
 
 You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> - and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.
 
 What Next?
 
-You can take a look at Drone's <a href="https://docs.drone.io/user-guide/pipeline/conditions/" target="_blank" rel="noopener noreferrer">Conditions</a> and <a href="https://docs.drone.io/user-guide/pipeline/triggers/" target="_blank" rel="noopener noreferrer">Triggers</a> which lets you define and limit pipeline execution based on specific events/branches. Combined with writing your plugins, Drone can let you set up a complete, secure CI/CD platform for your Docker images.
+You can take a look at [Drone's Conditions](https://docs.drone.io/user-guide/pipeline/conditions/) and [Triggers](https://docs.drone.io/user-guide/pipeline/triggers/) which lets you define and limit pipeline execution based on specific events/branches. Combined with writing your plugins, Drone can let you set up a complete, secure CI/CD platform for your Docker images.
