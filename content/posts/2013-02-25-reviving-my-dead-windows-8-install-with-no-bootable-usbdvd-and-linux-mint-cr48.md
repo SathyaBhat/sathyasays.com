@@ -14,9 +14,9 @@ tags:
   - windows
 
 ---
-Couple of months ago, just about a month before <a href="https://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds &#8211; the engagement</a> my Envy 14 laptop started showing signs of dying &#8211; weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot &#8211; and that's really unusual because the Envy's cooling system is probably one of the best that I've seen in a laptop. Soon enough, it became clear that a fan was not working &#8211; my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
+Couple of months ago, just about a month before <a href="https://sathyabh.at/2012/12/28/how-cpgweds-came-about-the-engagement/" target="_blank">#cpgweds - the engagement</a> my Envy 14 laptop started showing signs of dying - weird noises coming from the vents, system freezing arbitrarily, system getting incredibly hot - and that's really unusual because the Envy's cooling system is probably one of the best that I've seen in a laptop. Soon enough, it became clear that a fan was not working - my idle temperatures hit 85 degrees C, and start any game or even xbmc, and the temperatures would hit 95-100 and shutdown sooner or later.
 
-And soon enough, HP's diagnostics started informing me that my system fan's dead during bootup. To figure out which one's the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop &#8211; and was kinda surprised that the laptop was still able to run at all.
+And soon enough, HP's diagnostics started informing me that my system fan's dead during bootup. To figure out which one's the dead one, I dismantled the Envy(I was out of warranty anyway) and switched on the laptop - and was kinda surprised that the laptop was still able to run at all.
 
 <blockquote class="twitter-tweet" data->
   <p lang="en" dir="ltr">
@@ -70,9 +70,9 @@ And this was really torturing my system
 
 [<img class="alignnone" title="temperatures" src="https://i.imgur.com/NguB4AP.png" alt="temperatures"   />][1]
 
-So now, while I experimenting with switching off/on to see if I can "jump" start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new "enhancements" F8-mashing would not result in the start up menu being shown up.
+So now, while I experimenting with switching off/on to see if I can "jump" start the fan, I ended up screwing up my Windows 8 install - and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new "enhancements" F8-mashing would not result in the start up menu being shown up.
 
-I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8's Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo &#8211; BSOD Boot Loop.
+I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8's Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo - BSOD Boot Loop.
 
 Generally I keep a bootable Live USB with me, but this time I didn't have that either, neither did I have any bootable DVDs. So my situation now:
 
@@ -87,7 +87,7 @@ Booting into Cr48 after enabling the developer mode, I found that hitting Ctrl+A
 
 dd if=/path/to/mint.iso of=/dev/sdb
 
-Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux Mint on my Envy. So now, my Envy is alive. So how do I get this to boot/reinstall Windows? I had Windows 7 ISO, I have Linux Mint & can install VirtualBox. So yup &#8211; that's what I did.
+Now, I had a bootable USB. Next step, I used the bootable USB to boot into Linux Mint on my Envy. So now, my Envy is alive. So how do I get this to boot/reinstall Windows? I had Windows 7 ISO, I have Linux Mint & can install VirtualBox. So yup - that's what I did.
 
   * Installed VirtualBox
   * Created a new VM, installed Windows 7 to the VM

@@ -24,7 +24,7 @@ I've become mesmerized by Linus' speeches. I'm currently scoping out on the spee
 
 
   
-1. Linus talks about origin of Linux &#8211; via Computer History Museum
+1. Linus talks about origin of Linux - via Computer History Museum
   
 
 

@@ -22,9 +22,9 @@ tags:
   - updating
 
 ---
-Well it's no secret that I'm a music fan and love to keep my music organized, and neatly tagged. ( Well, if you didn't &#8211; now you do ). I'd posted quite sometime ago on how to keep your music [well tagged and organized][1]{#aptureLink_3xJl5k39gE}, so there's pretty much no way that my files wouldn't be tagged.
+Well it's no secret that I'm a music fan and love to keep my music organized, and neatly tagged. ( Well, if you didn't - now you do ). I'd posted quite sometime ago on how to keep your music [well tagged and organized][1]{#aptureLink_3xJl5k39gE}, so there's pretty much no way that my files wouldn't be tagged.
 
-Of course, there exceptions here and there but majority are tagged. So I was rather surpised today when Amarok , during playback wasn't showing any metadata. To verify &#8211; I installed id3v2, a CLI tool to view/edit ID3 tags for mp3 files using zypper and &#8211; guess what- it showed the meta data correctly.
+Of course, there exceptions here and there but majority are tagged. So I was rather surpised today when Amarok , during playback wasn't showing any metadata. To verify - I installed id3v2, a CLI tool to view/edit ID3 tags for mp3 files using zypper and - guess what- it showed the meta data correctly.
   
 <!--more-->
 
@@ -42,7 +42,7 @@ Of course, there exceptions here and there but majority are tagged. So I was rat
   </blockquote>
   
   <p>
-    On checking, &#8211; the tracks had mysteriously disappeared from my collection. I rescanned the collection, still it showed nothing. Quit Amarok, restarted, and lo, it was there :|<br /> So the bug &#8211; if the tracks aren't in collection, then the meta data for them is not read / skipped. Why ? I don't know. Perhaps the developersthought,
+    On checking, - the tracks had mysteriously disappeared from my collection. I rescanned the collection, still it showed nothing. Quit Amarok, restarted, and lo, it was there :|<br /> So the bug - if the tracks aren't in collection, then the meta data for them is not read / skipped. Why ? I don't know. Perhaps the developersthought,
   </p>
   
   <blockquote>

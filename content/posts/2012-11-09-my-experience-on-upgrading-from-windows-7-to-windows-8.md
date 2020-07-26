@@ -11,7 +11,7 @@ tags:
   - windows 8
 
 ---
-So after much thought, I upgraded my Windows 7 Ultimate install to Windows 8. I didn't plan to upgrade so soon, I wanted to wait for few more months before doing the upgrade &#8211; the main reason for holding back the upgrade was lack of drivers. However with <a href="https://superuser.com" target="_blank">Super User</a>&#8216;s [Windows 8 Challenge][1] around, I could no longer use the RP for posting answers.
+So after much thought, I upgraded my Windows 7 Ultimate install to Windows 8. I didn't plan to upgrade so soon, I wanted to wait for few more months before doing the upgrade - the main reason for holding back the upgrade was lack of drivers. However with <a href="https://superuser.com" target="_blank">Super User</a>&#8216;s [Windows 8 Challenge][1] around, I could no longer use the RP for posting answers.
 
 And since the RP was working fine, including the GPU drivers which I had to install in Windows 7 compatibility mode, I decided to complete the upgrade. Now my Windows 7 install is a culmination of several years of crap, including lots and lots of software, context menu entries, personalized superbar and to add to the mix, some exotic software  Here's what I had installed/present on Windows 7
 
@@ -29,7 +29,7 @@ And since the RP was working fine, including the GPU drivers which I had to inst
   * Media players like xbmc, Media Player Classic: Home Cinema & VLC
   * SublimeText 2
   * IrfanView
-  * foobar 2000 (including some plugins &#8211; such as <a href="https://techie-buzz.com/how-to/convert-your-iphoneipod-touch-or-any-wifi-enabled-gadget-to-foobar2000-remote.html" target="_blank">this plugin which makes it possible</a> to control foobar from anywhere)
+  * foobar 2000 (including some plugins - such as <a href="https://techie-buzz.com/how-to/convert-your-iphoneipod-touch-or-any-wifi-enabled-gadget-to-foobar2000-remote.html" target="_blank">this plugin which makes it possible</a> to control foobar from anywhere)
   * Bunch of scheduled tasks which run <a href="https://www.microsoft.com/en-in/download/details.aspx?id=15155" target="_blank">SyncToy</a> & <a href="https://www.gamesave-manager.com/" target="_blank">GameSaveManager</a> and ensure I have automated daily backups
   * Gaming platforms & tools like <a title="Steam Profile" href="https://steamcommunity.com/id/sathyabhat" target="_blank">Steam</a>, Origin, Raptr and <a href="https://raptr.com/sathyabhat/games" target="_blank">loads of games</a>
   * Dropbox
@@ -40,11 +40,11 @@ And since the RP was working fine, including the GPU drivers which I had to inst
   * Teracopy
   * <a title="System Mechanic Review" href="https://techie-buzz.com/reviews/system-mechanic-10-8-review.html" target="_blank">SystemMechanic</a>
 
-And these are just some apps that I use regularly &#8211; there's loads of more such apps that I won't get into details right now.
+And these are just some apps that I use regularly - there's loads of more such apps that I won't get into details right now.
 
 Much like a lot of people, I grabbed the Windows 8 upgrade assistant, and left it overnight to complete the download. The Upgrade assistant has a <s>funny</s> stupid behaviour where if <a href="https://superuser.com/q/495537/4377" target="_blank">you quit the upgrade assistant before you hit the pause button</a>, it conveniently decides to delete whatever it's downloaded till that point.
 
-So if you've grabbed 99.9% of the file and if you quit the assistant before you hit the Pause button &#8211; well then shit, all that download is gone. So moral of the story: Pause before you quit.
+So if you've grabbed 99.9% of the file and if you quit the assistant before you hit the Pause button - well then shit, all that download is gone. So moral of the story: Pause before you quit.
 
 That hiccup aside, I left the Upgrade assistant overnight to complete the download. Next morning, I started the upgrade and left for work. Back from work, I see that Windows 8 is ready for me, asking me for some details ("which colour do you want?") and prompted me to create an account(though I already had an account from the Windows 7 install). Thankfully, it proceeded to merge things with the existing account.
 
@@ -56,7 +56,7 @@ Post Windows 8 upgrade, I noticed that both the IGP as well as the GPU had been 
 
 [<img class="aligncenter" src="https://i.stack.imgur.com/jiQdJ.png" alt=""   />][2]
 
-I tried to use the previous Windows 7 drivers, running them under Windows 7 compatibility mode, but the install would silently fail. Taking a look at the logs, I see that the install failed because the installer kept throwing <a href="https://chat.stackexchange.com/transcript/118?m=6771791#6771791" target="_blank">ACCESS_VIOLATION errors in the MFC dlls</a>. With a little rubber-duck debugging help from Root Access, some VS 2005 runtime uninstalls, and a <a href="https://archive.msdn.microsoft.com/KB961894/Release/ProjectReleases.aspx?ReleaseId=2067" target="_blank">hotfix install</a> I managed to get the install running. The drivers still managed to fail installation &#8211; the drivers were dated back to 2010 and Windows refused to install the older drivers.
+I tried to use the previous Windows 7 drivers, running them under Windows 7 compatibility mode, but the install would silently fail. Taking a look at the logs, I see that the install failed because the installer kept throwing <a href="https://chat.stackexchange.com/transcript/118?m=6771791#6771791" target="_blank">ACCESS_VIOLATION errors in the MFC dlls</a>. With a little rubber-duck debugging help from Root Access, some VS 2005 runtime uninstalls, and a <a href="https://archive.msdn.microsoft.com/KB961894/Release/ProjectReleases.aspx?ReleaseId=2067" target="_blank">hotfix install</a> I managed to get the install running. The drivers still managed to fail installation - the drivers were dated back to 2010 and Windows refused to install the older drivers.
 
 Finally after a lot of wrangling around, I downloaded AMD's beta drivers(which don't seem to have the check for "supported chipsets", as opposed to the stable drivers and managed to get it installed. (thanks to <a href="https://twitter.com/TheRomit/status/265496483422429184" target="_blank">Romit for the tip</a>).
 
@@ -70,7 +70,7 @@ From a software point of view, Raptr reports that they have disabled in-game and
 
 ### Thoughts on Windows 8
 
-Still too early to judge Windows 8 for now &#8211; I do like the Modern UI & how Microsoft has conceptualized it, but ultimately, Modern UI apps are bit too restrictive for my taste, especially when I have multiple programs running simultaneously  and each app dedicated it's own space on my monitor(via WinSplitRevolution) &#8211; the Modern UI doesn't allow for this and I keep having to go back to desktop mode more often than not.
+Still too early to judge Windows 8 for now - I do like the Modern UI & how Microsoft has conceptualized it, but ultimately, Modern UI apps are bit too restrictive for my taste, especially when I have multiple programs running simultaneously  and each app dedicated it's own space on my monitor(via WinSplitRevolution) - the Modern UI doesn't allow for this and I keep having to go back to desktop mode more often than not.
 
 As for Modern UI apps, I haven't tried too many. I like the People hub/app. Youtube RT is pretty nifty, esp for having it on the small screen, with a twitter or the messaging app in the snapped view. Things like this is where Modern UI really shines.
 

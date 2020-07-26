@@ -31,7 +31,7 @@ tags:
 ---
 Insert your USB pen drive. Let it get detected and mounted. Open Terminal. Type The Following commands
   
-1. <span style="font-weight:bold;">dmesg |tail</span> &#8211;> here the &#8216;|' key is the pipe, ie, the key before the backspace key(the upper one, so press shift)
+1. <span style="font-weight:bold;">dmesg |tail</span> -> here the &#8216;|' key is the pipe, ie, the key before the backspace key(the upper one, so press shift)
   
 You'll get something like
 

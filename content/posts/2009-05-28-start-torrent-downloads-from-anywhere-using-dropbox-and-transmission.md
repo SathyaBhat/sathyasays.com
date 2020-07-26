@@ -21,7 +21,7 @@ tags:
   - web
 
 ---
-I've been using [Dropbox][1] pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface &#8211; just upload a file and boom, the file you uploaded gets sync'd across all your computers. This coupled with [Transmission][2]{#aptureLink_qW0FfjT1X1}&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
+I've been using [Dropbox][1] pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface - just upload a file and boom, the file you uploaded gets sync'd across all your computers. This coupled with [Transmission][2]{#aptureLink_qW0FfjT1X1}&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
 
 <!--more-->
 

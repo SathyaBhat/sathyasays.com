@@ -21,7 +21,7 @@ With prices of USB pen drives at rock bottom, they're probably the best way to t
 
   * Downloading of the latest Fedora release and previous ones
   * Automatic detection of external drives
-  * Support for persistent layout &#8211; all your work done in the liveCD can be saved :D
+  * Support for persistent layout - all your work done in the liveCD can be saved :D
   * Auto calculation of checksums to ensure download is correct
   * Works in Linux AND Windows!
 

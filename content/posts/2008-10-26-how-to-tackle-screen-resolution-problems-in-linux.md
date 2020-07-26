@@ -39,7 +39,7 @@ Lets assume your screen resolution keeps changing to 979&#215;768 and you want 1
 
 (ii)Go to: “System -> Administration -> NVIDIA X Server Setting”
 
-(iii) From the left hand list choose: “DFP-0 &#8211; (Nvidia Default Flat Panel)” (or whatever is your default panel)
+(iii) From the left hand list choose: “DFP-0 - (Nvidia Default Flat Panel)” (or whatever is your default panel)
 
 (iv) Click the “Aquire EDID” button.
 

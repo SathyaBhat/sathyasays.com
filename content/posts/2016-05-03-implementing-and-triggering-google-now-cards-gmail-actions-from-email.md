@@ -32,9 +32,9 @@ The good thing is that a single markup is enough to power the various places the
   * Google Now cards
   * <a href="https://developers.google.com/gmail/markup/google-calendar#an-event-booking" target="_blank">Calendar event based on Gmail</a>
 
-Google has a clear demarcation between Actions and Highlights &#8211; Actions are when you need to do something(for example: Confirm/cancel reservations) which Highlights are what you will see on Inbox by Gmail and the Google Now cards.
+Google has a clear demarcation between Actions and Highlights - Actions are when you need to do something(for example: Confirm/cancel reservations) which Highlights are what you will see on Inbox by Gmail and the Google Now cards.
 
-Furthermore, actions can be <a href="https://developers.google.com/gmail/markup/actions/actions-overview#in-app_actions" target="_blank">InApp actions</a> &#8211; the most common example is how you can opt to unsubscribe from mailing list without having to go to the site, enter your email and again confirm these). Using the provided markup, you can define how these actions can be handled. Google has extensive documentation on how to handle these, I'd recommend reading these to give <a href="https://developers.google.com/gmail/markup/actions/handling-action-requests" target="_blank">you an idea of how to proceed</a>.
+Furthermore, actions can be <a href="https://developers.google.com/gmail/markup/actions/actions-overview#in-app_actions" target="_blank">InApp actions</a> - the most common example is how you can opt to unsubscribe from mailing list without having to go to the site, enter your email and again confirm these). Using the provided markup, you can define how these actions can be handled. Google has extensive documentation on how to handle these, I'd recommend reading these to give <a href="https://developers.google.com/gmail/markup/actions/handling-action-requests" target="_blank">you an idea of how to proceed</a>.
 
 ### Writing the Markup
 
@@ -65,7 +65,7 @@ Well, not quite. Google needs to whitelist your email address before these act
 Tips for getting whitelisted:
 
   * Make sure you meet all <a href="https://developers.google.com/gmail/markup/registering-with-google#registration_guidelines" target="_blank">guidelines listed</a>, especially that your email address is authenticated with SPF check/DKIM signatures. See <a href="https://support.google.com/mail/answer/180707?hl=en" target="_blank">this guide</a> for more info. Don't even bother if SPF/DKIM is not set.
-  * Google mentions "Consistent history of sending a high volume of mail from your domain (order of hundred emails a day minimum to Gmail) for a few weeks at least" &#8211; though we send thousands of mails, especially when a new event is announced, I don't think this is that high of a requirement.
+  * Google mentions "Consistent history of sending a high volume of mail from your domain (order of hundred emails a day minimum to Gmail) for a few weeks at least" - though we send thousands of mails, especially when a new event is announced, I don't think this is that high of a requirement.
   * All that matters that your sending quality should be high, zero(or minimal) complaints and <a href="https://support.google.com/mail/bin/answer.py?hl=en&answer=81126" target="_blank">Bulk Sender Guidelines adhered to</a>.
 
 ### Markup from Barcamp Bangalore
@@ -105,7 +105,7 @@ This was the markup that I finally used.
 
 ### How long till production?
 
-Google took about 7 days to respond to my application, and I had given up hope that I could get the whitelisting done on time &#8211; only to be pleasantly surprised and see that it was ready when the mailers were sent.
+Google took about 7 days to respond to my application, and I had given up hope that I could get the whitelisting done on time - only to be pleasantly surprised and see that it was ready when the mailers were sent.
 
 ### So how did it look like?
 

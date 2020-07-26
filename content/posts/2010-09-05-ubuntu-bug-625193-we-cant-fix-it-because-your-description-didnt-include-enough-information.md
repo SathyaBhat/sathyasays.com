@@ -55,15 +55,15 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > 
 > Actual Results:
 > 
-> &#8211; My eyes ! They're melting !
+> - My eyes ! They're melting !
   
-> &#8211; The 10 is not perfect with this wallpaper
+> - The 10 is not perfect with this wallpaper
   
-> &#8211; MacOS X "Snow Leopard" and Windows 7 have better default wallpapers
+> - MacOS X "Snow Leopard" and Windows 7 have better default wallpapers
   
-> &#8211; Does not inspire awe
+> - Does not inspire awe
   
-> &#8211; No one likes it, I haven't found any positive feedback on this wallpaper
+> - No one likes it, I haven't found any positive feedback on this wallpaper
 > 
 > Build Date & Platform:
 > 
@@ -71,9 +71,9 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > 
 > Additional Information:
 > 
-> &#8211; Slows down the work of the Ubuntu Manual team
+> - Slows down the work of the Ubuntu Manual team
   
-> &#8211; Was listening to "Metallica &#8211; The thing that should not be" while writing this comment
+> - Was listening to "Metallica - The thing that should not be" while writing this comment
 
 via [Bug #625193 is not in Ubuntu: “Official 10.10 wallpaper is unappealing”][5].
 

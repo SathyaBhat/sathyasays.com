@@ -19,25 +19,25 @@ Transistor is the second game made by <a href="https://www.supergiantgames.com/"
 
 ### Story
 
-Transistor follows the story of Red, a singer in a city called Cloudbank who gets nearly killed. She manages to escape and acquires the Transistor &#8211; a sword-like weapon. From here on, the story takes a weird turn where the Transistor can talk to you because it captured the trace of the person whom it ended up assassinating(and thereby, becomes the narrator of the game) while Red remains silent throughout the game. More than the story, it's the way in which it's delivered is something that I didn't like &#8211; till almost the end of the game, you're moving on jumping from place to place for some reason why you have no idea. While many liked this, Transistor failed to captivate my attention with this approach and if it wasn't for the many glowing recommendations about the game, I would have given up on the game long back. Sure, keeping your audience in &#8216;mystery' might seem nice but when you're through 3/4th the game wondering what exactly is happening, it doesn't really go well(at least for me). I guess the aim was to get people to continue playing it to find what happens but to me at least, it's not really a compelling reason to play through it. Nevertheless the story does deliver at the end and you don't have to wait long for it.
+Transistor follows the story of Red, a singer in a city called Cloudbank who gets nearly killed. She manages to escape and acquires the Transistor - a sword-like weapon. From here on, the story takes a weird turn where the Transistor can talk to you because it captured the trace of the person whom it ended up assassinating(and thereby, becomes the narrator of the game) while Red remains silent throughout the game. More than the story, it's the way in which it's delivered is something that I didn't like - till almost the end of the game, you're moving on jumping from place to place for some reason why you have no idea. While many liked this, Transistor failed to captivate my attention with this approach and if it wasn't for the many glowing recommendations about the game, I would have given up on the game long back. Sure, keeping your audience in &#8216;mystery' might seem nice but when you're through 3/4th the game wondering what exactly is happening, it doesn't really go well(at least for me). I guess the aim was to get people to continue playing it to find what happens but to me at least, it's not really a compelling reason to play through it. Nevertheless the story does deliver at the end and you don't have to wait long for it.
 
 &nbsp;
 
 ### Gameplay
 
-Transistor plays like a hybrid real-time/turn based role-playing game. You can plan our your moves and attacks during the Turn() phase. The Turn() pauses the game and allows you to plan each attack/movement &#8211; which drains the action bar. The action bar gets refilled when the game is unfrozen, rendering you unable to attack during the execution of the Turn() phase(with the exception of few skills).
+Transistor plays like a hybrid real-time/turn based role-playing game. You can plan our your moves and attacks during the Turn() phase. The Turn() pauses the game and allows you to plan each attack/movement - which drains the action bar. The action bar gets refilled when the game is unfrozen, rendering you unable to attack during the execution of the Turn() phase(with the exception of few skills).
 
-Skills are known as functions &#8211; you have different functions for melee/ranged/buffs/debuffs. The skill system gains a bit of complexity when you realize the same function behaves differently when placed in an upgrade(which upgrades an existing function) or passive(which gives a boost always) slot. Each function consumes some memory space and you have a finite set of memory(though this can be increased with level up) adding an extra dimension of what-if tactics.
+Skills are known as functions - you have different functions for melee/ranged/buffs/debuffs. The skill system gains a bit of complexity when you realize the same function behaves differently when placed in an upgrade(which upgrades an existing function) or passive(which gives a boost always) slot. Each function consumes some memory space and you have a finite set of memory(though this can be increased with level up) adding an extra dimension of what-if tactics.
 
 [<img class="aligncenter size-full wp-image-1443" src="https://images.sbhat.me/ss/2016/07/20160629182528_1.jpg" alt="Transistor - Turn()"   />][1]
 
-The use of functions as skills is definitely an appeal to programmers. What I didn't like about functions was that I couldn't read the skill descriptions and effects when placed in main/upgrades/passive at any point except at designated access points. This is especially frustrating when you want to read up on the background of the traces but they are locked away until you use it and guess what &#8211; can't change it at any point. Feels like an artificial way of increasing the time required to play through it.
+The use of functions as skills is definitely an appeal to programmers. What I didn't like about functions was that I couldn't read the skill descriptions and effects when placed in main/upgrades/passive at any point except at designated access points. This is especially frustrating when you want to read up on the background of the traces but they are locked away until you use it and guess what - can't change it at any point. Feels like an artificial way of increasing the time required to play through it.
 
 [<img class="aligncenter size-full wp-image-1444" src="https://images.sbhat.me/ss/2016/07/20160630235158_1.jpg" alt="Transistor - Turn()"   />][2]
 
 Further to skills that buff you, there are also debuff skills called Limiters which basically offers handicap to the enemies, allowing for a tougher experience trading off for more XP. I tried Limiters early on but found them annoying, so I just went about not selecting them.
 
-Transistor handles death in a unique fashion &#8211; rather than reducing your lives or what not, when your health bar goes to zero, a function gets overloaded and you cannot use it again till you comes across a number of access points. This continues till you lose all functions, in which case you'll have to retry from the last save point.
+Transistor handles death in a unique fashion - rather than reducing your lives or what not, when your health bar goes to zero, a function gets overloaded and you cannot use it again till you comes across a number of access points. This continues till you lose all functions, in which case you'll have to retry from the last save point.
 
 ### Graphics and Sound
 
@@ -57,11 +57,11 @@ Despite some of the drawbacks, Transistor is a very enjoyable game, especially 
 
 ### What does work:
 
-&#8211; The music & the songs, especially in backdoor area when you can replay them
+- The music & the songs, especially in backdoor area when you can replay them
   
-&#8211; The artwork
+- The artwork
   
-&#8211; Voice acting, especially that of Royce Bracket.
+- Voice acting, especially that of Royce Bracket.
 
 Overall short but sweet game.
 

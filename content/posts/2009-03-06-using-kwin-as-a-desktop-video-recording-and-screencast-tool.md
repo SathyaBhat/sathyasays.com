@@ -11,7 +11,7 @@ tags:
   - tutorials
 
 ---
-Not many know of this, but as of KDE 4.2, Kwin, the window manager has a nifty little feature &#8211; it can grab videos of desktop much like a screencasting tool such as Camtasia. This functionality requires Kwin's composition mode to be enabled (ie, you must be using Kwin's desktop effects).
+Not many know of this, but as of KDE 4.2, Kwin, the window manager has a nifty little feature - it can grab videos of desktop much like a screencasting tool such as Camtasia. This functionality requires Kwin's composition mode to be enabled (ie, you must be using Kwin's desktop effects).
 
 <span>Below video shows where and how you can enable the video recording feature. Note this video was recorded using <span>KWin</span>.</span>
   

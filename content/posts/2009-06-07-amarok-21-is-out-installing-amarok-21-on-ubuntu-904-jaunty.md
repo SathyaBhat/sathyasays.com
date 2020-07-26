@@ -30,21 +30,21 @@ tags:
   - Ubuntu
   - Ubuntu
 ---
-I was catching up on some feeds yesterday, and this piece of news caught my eye &#8211;[Amarok 2.1 released][1]{#aptureLink_chgCx0N0sk}. Being a long time Amarok fan ( heck Amarok itself was catalyst to make me use my SUSE 10.0 use full) time &#8211; I read the article with great interest.
+I was catching up on some feeds yesterday, and this piece of news caught my eye -[Amarok 2.1 released][1]{#aptureLink_chgCx0N0sk}. Being a long time Amarok fan ( heck Amarok itself was catalyst to make me use my SUSE 10.0 use full) time - I read the article with great interest.
 
-Amarok 2 users would know that Amarok 2 series is a shadow of its old Amarok 1.4("Amarok Classic" self) &#8211; and quite a few people still prefer Amarok classic to Amarok 2 &#8211; primararily because of Amarok's missing support for visualizations, equalizer amongst others. I don't use equalizers &#8211; and as for visualization &#8211; well don't use that either.
+Amarok 2 users would know that Amarok 2 series is a shadow of its old Amarok 1.4("Amarok Classic" self) - and quite a few people still prefer Amarok classic to Amarok 2 - primararily because of Amarok's missing support for visualizations, equalizer amongst others. I don't use equalizers - and as for visualization - well don't use that either.
 
 <!--more-->
 
-Coming back to the point &#8211; Amarok 2.0 release was somewhat like a KDE 4.0 release &#8211; more of a framework release, basic building blocks in place, but just about. I terribly missed queuing support, and promptly stopped using Amarok (and on a different note, switched to Gnome &#8211; Rhythmbox is sweet!).
+Coming back to the point - Amarok 2.0 release was somewhat like a KDE 4.0 release - more of a framework release, basic building blocks in place, but just about. I terribly missed queuing support, and promptly stopped using Amarok (and on a different note, switched to Gnome - Rhythmbox is sweet!).
 
-Amarok 2.1 brings in a lot of improvements &#8211; and the most obvious one is the improvements to the playlist and main play window area. With Amarok 2.0 &#8211; the playlist area was a bit of a hit and a miss the lyrics, Wikipedia info was there but wasn't obvious, you had to "Add the plasma" and once you added multiple plasma("applets") you had no idea how many were there without "zooming out" and overlooking it. And with the zoom effect not at its  slickest best it was a big chore.
+Amarok 2.1 brings in a lot of improvements - and the most obvious one is the improvements to the playlist and main play window area. With Amarok 2.0 - the playlist area was a bit of a hit and a miss the lyrics, Wikipedia info was there but wasn't obvious, you had to "Add the plasma" and once you added multiple plasma("applets") you had no idea how many were there without "zooming out" and overlooking it. And with the zoom effect not at its  slickest best it was a big chore.
 
 Amarok 2.1 fixes this by adding buttons which bring up the respective applets making it easy to remove the exisitng applets, add new ones or simply re-arrange them.
 
-[<img class="aligncenter size-medium wp-image-744" title="amarok-21" src="https://images.sbhat.me/ss/2009/06/amarok-21-300x187.png" alt="amarok-21"   srcset="https://images.sbhat.me/ss/2009/06/amarok-21-300x187.png 300w, https://images.sbhat.me/ss/2009/06/amarok-21-1024x640.png 1024w, https://images.sbhat.me/ss/2009/06/amarok-21.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][2]Another nice feature introduced is "bookmarking" &#8211; any track with a length greater than 10minutes and Amarok will save the last listened position, so when you return to playing the track, it resumes from the last bookmarked place. There are other improvements too &#8211; only I couldn't figure it because the damned player wouldn't play anything :|
+[<img class="aligncenter size-medium wp-image-744" title="amarok-21" src="https://images.sbhat.me/ss/2009/06/amarok-21-300x187.png" alt="amarok-21"   srcset="https://images.sbhat.me/ss/2009/06/amarok-21-300x187.png 300w, https://images.sbhat.me/ss/2009/06/amarok-21-1024x640.png 1024w, https://images.sbhat.me/ss/2009/06/amarok-21.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />][2]Another nice feature introduced is "bookmarking" - any track with a length greater than 10minutes and Amarok will save the last listened position, so when you return to playing the track, it resumes from the last bookmarked place. There are other improvements too - only I couldn't figure it because the damned player wouldn't play anything :|
 
-<del datetime="2009-06-13T17:04:43+00:00">I've put my query in Ubuntu forums over <a id="aptureLink_QNbmnzqO6M" href="https://ubuntuforums.org/showthread.php?t=1180175">here</a> &#8211; my problem is that Amarok just refuses to play any local files. If any of my readers can help me figure this out, it'll be great, just drop a comment.</del>
+<del datetime="2009-06-13T17:04:43+00:00">I've put my query in Ubuntu forums over <a id="aptureLink_QNbmnzqO6M" href="https://ubuntuforums.org/showthread.php?t=1180175">here</a> - my problem is that Amarok just refuses to play any local files. If any of my readers can help me figure this out, it'll be great, just drop a comment.</del>
 
 Edit: Fixed the problem .
 

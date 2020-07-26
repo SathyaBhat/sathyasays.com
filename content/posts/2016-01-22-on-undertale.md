@@ -14,7 +14,7 @@ tags:
   - undertale
 
 ---
-<a href="https://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that's been getting rave reviews from quite a few people &#8211; <a href="https://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
+<a href="https://store.steampowered.com/app/391540/" target="_blank">Undertale</a> is a game that's been getting rave reviews from quite a few people - <a href="https://www.metacritic.com/game/pc/undertale" target="_blank">critics or otherwise</a>. Some choice comments
 
 <a href="https://www.ign.com/articles/2016/01/13/undertale-review" target="_blank">IGN</a>:
 
@@ -74,4 +74,4 @@ And so I did play. Or tried to anyway. But I failed. It was during my conversati
   
 > Sathya: I see.
 
-Undertale does have enough charm to it that I'll get back to playing it soon, but every item I think of launching it, I'm reminded of my first hour playthrough experience and I question myself &#8211; do I really need to experience that all over again? Well..
+Undertale does have enough charm to it that I'll get back to playing it soon, but every item I think of launching it, I'm reminded of my first hour playthrough experience and I question myself - do I really need to experience that all over again? Well..

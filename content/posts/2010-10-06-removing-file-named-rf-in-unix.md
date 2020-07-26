@@ -27,6 +27,6 @@ rm \-rf</pre>
 
 heh. What're the odds, eh?
 
-via [Removing "-rf" file in Unix &#8211; Super User][1].
+via [Removing "-rf" file in Unix - Super User][1].
 
  [1]: https://superuser.com/q/196236/4377

@@ -33,11 +33,11 @@ I've owned a Sony Ericsson HBH-DS970 for [nearly 2 years now][1]{#aptureLink_GW9
 
 <!--more-->
 
-The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3]{#aptureLink_NSxWrq0F8x} in office &#8211; since I don't have any other headset, I got all "enthu" about trying to get this ting working. And now all that enthusiasm has gone, and I'm on the verge of giving up again. So let me point as to what steps I \*have\* tried.
+The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3]{#aptureLink_NSxWrq0F8x} in office - since I don't have any other headset, I got all "enthu" about trying to get this ting working. And now all that enthusiasm has gone, and I'm on the verge of giving up again. So let me point as to what steps I \*have\* tried.
 
   * [bluetooth-alsa on SourceForge][4]
 
-Result: FAIL. Couldn't build the required files, couldn't get the required development files &#8211; packages do not exist as they have been obsoleted, and the method itself obsoleted.
+Result: FAIL. Couldn't build the required files, couldn't get the required development files - packages do not exist as they have been obsoleted, and the method itself obsoleted.
 
   * [bluez wiki][5]
 

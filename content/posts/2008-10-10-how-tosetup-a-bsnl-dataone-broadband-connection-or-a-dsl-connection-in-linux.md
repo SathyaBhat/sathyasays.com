@@ -72,7 +72,7 @@ Type
 
 > `/dev/eth0`
 
-<&#8211; note it is eth0(ie, the number 0, not the letter o) 
+<- note it is eth0(ie, the number 0, not the letter o) 
 
 Next when prompted for 
 

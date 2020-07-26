@@ -21,9 +21,9 @@ You start off as a single game dev operating out of your garage, and then slowly
   
 The game starts off in the distant past, and contains homages to major consoles & other gaming device, albeit with similar names, no doubt to avoid legal wrangles.
 
-Gameplay wise, this game will have you hooked. From researching new topics to new technologies for your custom game engine to training yourself & staff to generating reports on your past games to figuring out what game/topic/genre/system combo works well to delivering that blockbuster game &#8211; you'll be doing all these tasks at once, but with none of the micromanagement.
+Gameplay wise, this game will have you hooked. From researching new topics to new technologies for your custom game engine to training yourself & staff to generating reports on your past games to figuring out what game/topic/genre/system combo works well to delivering that blockbuster game - you'll be doing all these tasks at once, but with none of the micromanagement.
 
-Sounds are nice, but it is the gameplay which will have you on playing for a while &#8211; trying to squeeze that one game with hopes that it will get a perfect score.
+Sounds are nice, but it is the gameplay which will have you on playing for a while - trying to squeeze that one game with hopes that it will get a perfect score.
 
 Highly recommended.  And yes, this is the same game where the game devs released a cracked version to BitTorrent. <a href="https://sathyasays.com/2013/04/29/pirates-play-a-gamedev-simulator-go-bankrupt-because-of-piracy/" target="_blank">Wonder what happens when you play a cracked version?</a>
 

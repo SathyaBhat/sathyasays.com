@@ -13,13 +13,13 @@ tags:
   - Docker
 
 ---
-A while back I had done a round up of a few [container scanning solutions](https://sathyasays.com/2018/09/02/on-securing-containers-and-open-source-tools-for-scanning-vulnerabilities-in-docker-images/) and had mentioned I wanted to take another look at Anchore. The past few days, I've been playing a bit with Anchore &#8211; this time, integrating it with [Drone CI](https://drone.io/).
+A while back I had done a round up of a few [container scanning solutions](https://sathyasays.com/2018/09/02/on-securing-containers-and-open-source-tools-for-scanning-vulnerabilities-in-docker-images/) and had mentioned I wanted to take another look at Anchore. The past few days, I've been playing a bit with Anchore - this time, integrating it with [Drone CI](https://drone.io/).
 
 Drone is a "Container-Native, Continuous Delivery Platform" built using Go. It makes use of a YAML file, .drone.yml to define and execute the pipeline.
 
 ### End Goal
 
-For this project, we will be integrating Drone and Anchore. With the setup complete, every push to the remote repository will trigger the Docker image to be built. The built Docker image will then be added to Anchore Engine for analysis and scanning. Drone integrates with most popular SCM tools &#8211; and for this project, we will integrate with Github.
+For this project, we will be integrating Drone and Anchore. With the setup complete, every push to the remote repository will trigger the Docker image to be built. The built Docker image will then be added to Anchore Engine for analysis and scanning. Drone integrates with most popular SCM tools - and for this project, we will integrate with Github.
 
 ### Setting up Drone
 
@@ -62,16 +62,12 @@ Navigating to the Drone UI will show the pipeline stages and result of each pipe
 
 {{< figure src="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--840x500.png" title="Drone Pipeline UI" >}}
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--608x362.png" alt="Drone Pipeline UI" class="wp-image-1737" srcset="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--608x362.png 608w, https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--768x457.png 768w, https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--800x476.png 800w,  840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
-</div>
-
 Comparing against the `.drone.yml` file, you can see that Drone created a new pipeline(boringly titled "default" consisting of 5 stages:
 
   * clone stage for cloning the repo. Although this isn't listed in the .drone.yml file, Drone by default supports git and automatically adds the clone stage as the first stage
   * Build stage for building the Docker image and tagging it with the SHA of the commit.
   * Analyze stage for submitting the built Docker image to Anchore for image and vulnerability analysis
-  * Policy Check stage for evaluating the Docker image and validating whether the image is good to deploy or not. In my earlier post I'd mentioned that creating and editing policies is a pain &#8211; but recently, Anchore has released a [centralized repository of policies](https://anchore.com/blog/introducing-anchore-policy-hub/) that can be downloaded and installed.
+  * Policy Check stage for evaluating the Docker image and validating whether the image is good to deploy or not. In my earlier post I'd mentioned that creating and editing policies is a pain - but recently, Anchore has released a [centralized repository of policies](https://anchore.com/blog/introducing-anchore-policy-hub/) that can be downloaded and installed.
 
 If the policy check (or any stage) fails, the pipeline ends and does not trigger subsequent stages.
 
@@ -79,7 +75,7 @@ If the policy check (or any stage) fails, the pipeline ends and does not trigger
   <figure class="aligncenter"><img src="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png" alt="" class="wp-image-1738" srcset="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png 608w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-768x381.png 768w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-800x397.png 800w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-840x417.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
 </div>
 
-You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> &#8211; and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.
+You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> - and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.
 
 What Next?
 

@@ -14,7 +14,7 @@ tags:
 ---
 While going through some of KDE settings I found this simple way to enable Anti Aliasing for Fonts (also known as ClearType in Windows). This will definitely make your fonts more pleasing to look at.
 
-For this, just launch KDE settings &#8211; this is generally known as Configure Desktop in openSUSE or System Settings in Kubuntu.
+For this, just launch KDE settings - this is generally known as Configure Desktop in openSUSE or System Settings in Kubuntu.
 
 <!--more-->
 
