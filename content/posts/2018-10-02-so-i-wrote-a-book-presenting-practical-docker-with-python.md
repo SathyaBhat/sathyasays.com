@@ -12,14 +12,13 @@ tags:
   - publishing
 
 ---
-<img class="aligncenter size-full wp-image-1653" src="https://images.sbhat.me/ss/2018/10/practical-docker-with-python.jpg" alt=""   />
 
-So yeah that actually happened! I've always wanted to publish a book and thanks to Apress publishing - that is a reality now. The book is titled "<a href="https://u.sbhat.me/practical-docker" target="_blank" rel="noopener">Practical Docker With Python: Build, Release and Distribute your Python App with Docker</a>" and is targeted at people who are new to Docker and want to containerize their application (with an example Python chat bot). The book starts with a brief introduction to containers and Docker, guides you on how to get started with Docker before diving into deeper topics such as Docker Networks, Volumes and Compose.
+{{< figure src="https://images.sbhat.me/ss/2018/10/practical-docker-with-python.jpg" title="With a copy of the cover!" >}}
 
-You can buy the book on <a href="https://u.sbhat.me/practical-docker" target="_blank" rel="noopener">Apress.com</a> or Amazon either as an <a href="https://u.sbhat.me/practical-docker-amzn" target="_blank" rel="noopener">Kindle eBook</a> or a <a href="https://u.sbhat.me/practical-docker-book" target="_blank" rel="noopener">paperback</a> (if you buy both I will be very happy :P) or if you have a Safari Online subscription, you can <a href="https://www.safaribooksonline.com/library/view/Practical+Docker+with+Python:+Build,+Release+and+Distribute+your+Python+App+with+Docker/9781484237847/" target="_blank" rel="noopener">read the book using the Safari Online app</a> or the website for free.
+So yeah that actually happened! I've always wanted to publish a book and thanks to Apress publishing - that is a reality now. The book is titled "[Practical Docker With Python: Build, Release and Distribute your Python App with Docker](https://u.sbhat.me/practical-docker)" and is targeted at people who are new to Docker and want to containerize their application (with an example Python chat bot). The book starts with a brief introduction to containers and Docker, guides you on how to get started with Docker before diving into deeper topics such as Docker Networks, Volumes and Compose.
+
+You can buy the book on [Apress.com](https://u.sbhat.me/practical-docker) or Amazon either as an [Kindle eBook](https://u.sbhat.me/practical-docker-amzn) or a [paperback](https://u.sbhat.me/practical-docker-book) (if you buy both I will be very happy :P) or if you have a O'Reilly Learning (previously known as Safari Books Online) Online subscription, you can [read the book](https://www.oreilly.com/library/view/practical-docker-with/9781484237847/) on the website or the App for free.
 
 I've spent a lot of time working on the book and I'd really appreciate feedback - whether as reviews on Amazon, Goodreads or as email - please do feel free to send me any feedback - I'd love to improve upon what I have started.
 
 Round of thanks to my Adobe I/O colleagues(especially Sangeetha) for making a poster of the book cover and gifting me this as a poster - will treasure it forever!
-
-&nbsp;
