@@ -111,15 +111,15 @@ Google took about 7 days to respond to my application, and I had given up hope t
 
 This is how it ended up looking like across devices:<figure id="attachment_1401" aria-describedby="caption-attachment-1401" style="width: 720px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-1401" src="https://sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png" alt="Inbox Web app"   />][2]<figcaption id="caption-attachment-1401" class="wp-caption-text">**Inbox Web app**</figcaption></figure> <figure id="attachment_1402" aria-describedby="caption-attachment-1402" style="width: 720px" class="wp-caption aligncenter">[<img class=" wp-image-1402" src="https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png" alt="Inbox Android App"   />][3]<figcaption id="caption-attachment-1402" class="wp-caption-text">**Inbox Android App**</figcaption></figure> 
+[<img class=" wp-image-1401" src="https://images.sbhat.me/ss/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png" alt="Inbox Web app"   />][2]<figcaption id="caption-attachment-1401" class="wp-caption-text">**Inbox Web app**</figcaption></figure> <figure id="attachment_1402" aria-describedby="caption-attachment-1402" style="width: 720px" class="wp-caption aligncenter">[<img class=" wp-image-1402" src="https://images.sbhat.me/ss/2016/05/Screenshot_20160429-165708.png" alt="Inbox Android App"   />][3]<figcaption id="caption-attachment-1402" class="wp-caption-text">**Inbox Android App**</figcaption></figure> 
 
 &nbsp;<figure id="attachment_1403" aria-describedby="caption-attachment-1403" style="width: 720px" class="wp-caption aligncenter">
 
-[<img class=" wp-image-1403" src="https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png" alt="Google Now Card"   />][4]<figcaption id="caption-attachment-1403" class="wp-caption-text">**Google Now Card**</figcaption></figure> 
+[<img class=" wp-image-1403" src="https://images.sbhat.me/ss/2016/05/Screenshot_20160430-060054.png" alt="Google Now Card"   />][4]<figcaption id="caption-attachment-1403" class="wp-caption-text">**Google Now Card**</figcaption></figure> 
 
 Overall, I was pretty happy with this. I know there aren't too many Inbox by Gmail users, but for the few folks that do use, this looks pretty good and is quite handy
 
  [1]: https://developers.google.com/gmail/markup/actions/actions-overview
- [2]: https://sathyasays.com/wp-content/uploads/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png
- [3]: https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160429-165708.png
- [4]: https://sathyasays.com/wp-content/uploads/2016/05/Screenshot_20160430-060054.png
+ [2]: https://images.sbhat.me/ss/2016/05/Pasted-image-at-2016_04_29-03_26-PM.png
+ [3]: https://images.sbhat.me/ss/2016/05/Screenshot_20160429-165708.png
+ [4]: https://images.sbhat.me/ss/2016/05/Screenshot_20160430-060054.png

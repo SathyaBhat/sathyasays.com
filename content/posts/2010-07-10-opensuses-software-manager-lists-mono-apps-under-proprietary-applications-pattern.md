@@ -22,7 +22,7 @@ tags:
   - Unity
 
 ---
-<img class="aligncenter size-medium wp-image-874" title="Mono Apps" src="https://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png" alt=""   srcset="https://sathyasays.com/wp-content/uploads/2010/07/mono-608x422.png 608w, https://sathyasays.com/wp-content/uploads/2010/07/mono-800x555.png 800w, https://sathyasays.com/wp-content/uploads/2010/07/mono.png 903w" sizes="(max-width: 608px) 100vw, 608px" />I've been using openSUSE for quite some time now, but this is definitely the first time that I've noticed this ( though probably because I tend to use zypper or the 1-click install rather than entering YaST).
+<img class="aligncenter size-medium wp-image-874" title="Mono Apps" src="https://images.sbhat.me/ss/2010/07/mono-608x422.png" alt=""   srcset="https://images.sbhat.me/ss/2010/07/mono-608x422.png 608w, https://images.sbhat.me/ss/2010/07/mono-800x555.png 800w, https://images.sbhat.me/ss/2010/07/mono.png 903w" sizes="(max-width: 608px) 100vw, 608px" />I've been using openSUSE for quite some time now, but this is definitely the first time that I've noticed this ( though probably because I tend to use zypper or the 1-click install rather than entering YaST).
 
 Edit:
   

@@ -60,7 +60,7 @@ Commit the .drone.yml file and push the changes to the repository. This results 
 Navigating to the Drone UI will show the pipeline stages and result of each pipeline stage. An example screenshot is shown below
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://sathyasays.com/wp-content/uploads/2019/03/drone-pipeline-UI--608x362.png" alt="Drone Pipeline UI" class="wp-image-1737" srcset="https://sathyasays.com/wp-content/uploads/2019/03/drone-pipeline-UI--608x362.png 608w, https://sathyasays.com/wp-content/uploads/2019/03/drone-pipeline-UI--768x457.png 768w, https://sathyasays.com/wp-content/uploads/2019/03/drone-pipeline-UI--800x476.png 800w, https://sathyasays.com/wp-content/uploads/2019/03/drone-pipeline-UI--840x500.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
+  <figure class="aligncenter"><img src="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--608x362.png" alt="Drone Pipeline UI" class="wp-image-1737" srcset="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--608x362.png 608w, https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--768x457.png 768w, https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--800x476.png 800w, https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--840x500.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
 </div>
 
 Comparing against the .drone.yml file, you can see that Drone created a new pipeline(boringly titled &#8220;default&#8221; consisting of 5 stages:
@@ -73,7 +73,7 @@ Comparing against the .drone.yml file, you can see that Drone created a new pipe
 If the policy check (or any stage) fails, the pipeline ends and does not trigger subsequent stages.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-608x302.png" alt="" class="wp-image-1738" srcset="https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-608x302.png 608w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-768x381.png 768w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-800x397.png 800w, https://sathyasays.com/wp-content/uploads/2019/03/drone-failed-policy-evaluation-840x417.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
+  <figure class="aligncenter"><img src="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png" alt="" class="wp-image-1738" srcset="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-608x302.png 608w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-768x381.png 768w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-800x397.png 800w, https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation-840x417.png 840w" sizes="(max-width: 608px) 100vw, 608px" /></figure>
 </div>
 
 You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> &#8211; and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.

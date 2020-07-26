@@ -39,10 +39,10 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/opensuse.jpg" title="opensuse.jpg"></p> 
+  <a href="https://images.sbhat.me/ss/2007/12/opensuse.jpg" title="opensuse.jpg"></p> 
   
   <p style="text-align: center">
-    <img src="https://sathyasays.com/wp-content/uploads/2007/12/opensuse.thumbnail.jpg" alt="opensuse.jpg" />
+    <img src="https://images.sbhat.me/ss/2007/12/opensuse.thumbnail.jpg" alt="opensuse.jpg" />
   </p>
   
   <p>

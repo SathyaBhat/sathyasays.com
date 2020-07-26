@@ -54,7 +54,7 @@ The last argument is the path to which directory the media must be mounted.
 The image below shows an example.
 
 <p align="center">
-  <a href="https://sathyasays.com/wp-content/uploads/2007/12/mount.jpg" title="mount.jpg"><img src="https://sathyasays.com/wp-content/uploads/2007/12/mount.thumbnail.jpg" alt="mount.jpg" /></a>
+  <a href="https://images.sbhat.me/ss/2007/12/mount.jpg" title="mount.jpg"><img src="https://images.sbhat.me/ss/2007/12/mount.thumbnail.jpg" alt="mount.jpg" /></a>
 </p>
 
 <p align="left">

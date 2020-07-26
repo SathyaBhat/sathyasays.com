@@ -12,7 +12,7 @@ tags:
   - publishing
 
 ---
-<img class="aligncenter size-full wp-image-1653" src="https://sathyasays.com/wp-content/uploads/2018/10/practical-docker-with-python.jpg" alt=""   />
+<img class="aligncenter size-full wp-image-1653" src="https://images.sbhat.me/ss/2018/10/practical-docker-with-python.jpg" alt=""   />
 
 So yeah that actually happened! I've always wanted to publish a book and thanks to Apress publishing &#8211; that is a reality now. The book is titled &#8220;<a href="https://u.sbhat.me/practical-docker" target="_blank" rel="noopener">Practical Docker With Python: Build, Release and Distribute your Python App with Docker</a>&#8221; and is targeted at people who are new to Docker and want to containerize their application (with an example Python chat bot). The book starts with a brief introduction to containers and Docker, guides you on how to get started with Docker before diving into deeper topics such as Docker Networks, Volumes and Compose.
 

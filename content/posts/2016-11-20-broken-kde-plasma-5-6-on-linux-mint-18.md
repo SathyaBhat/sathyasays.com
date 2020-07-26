@@ -22,7 +22,7 @@ I decided to check out KDE 5.6 &#8211; and installed after adding the PPA backpo
 
 That should have been it.. and mostly was. Except when I logged out and logged in, I see that my multi-monitor setup is now in mirrored screen mode. A 1080p screen being set to 1366&#215;768 resolution is just plain ugly. There seemed to be no way to change this &#8211; I couldn't find a way to reconfigure the screens. Then I realized the application for configuring monitors was not installed &#8211; why? I don't know. After bit of fumbling and not knowing which application to install(it's been awhile since I looked at KDE), **I had to launch Synaptic, click on KDE and basically read through description of most applications before realizing it's kscreen which handles multi-monitor setups.** With this installed, finally I was able to set the proper resolution and I spent some more time digging through the settings, setting up shortcuts and stepped away for lunch, When I came back, I was greeted with this screen.
 
-[<img class="aligncenter size-full wp-image-1476" src="https://sathyasays.com/wp-content/uploads/2016/10/loginctl-unlock-sessions.jpg" alt="loginctl-unlock-sessions"   />][1]
+[<img class="aligncenter size-full wp-image-1476" src="https://images.sbhat.me/ss/2016/10/loginctl-unlock-sessions.jpg" alt="loginctl-unlock-sessions"   />][1]
 
 Flabbergasted, I did as it said, and yep it unlocked fine. After wasting a lot of time going through innumerable posts, I still haven't managed to fix this. I cannot believe this is in a release. Sheesh. This isn't the only instance where KDE Plasma crapped out &#8211; multi-monitor is an incredibly unreliable state. From the earlier situation of the multi-manager package not installed to Plasma forgetting your carefully configured desktop settings &#8211; it's just big mess.
 
@@ -34,4 +34,4 @@ _<sup>*inb4 your an idiot for using backports, yadda, yadda</sup>_
 
 &nbsp;
 
- [1]: https://sathyasays.com/wp-content/uploads/2016/10/loginctl-unlock-sessions.jpg
+ [1]: https://images.sbhat.me/ss/2016/10/loginctl-unlock-sessions.jpg

@@ -4,7 +4,7 @@ author: Sathya
 type: post
 date: 2016-07-12T08:30:11+00:00
 url: /2016/07/12/review-of-supergiant-games-transistor/
-featured_image: https://sathyasays.com/wp-content/uploads/2016/07/20160711150744_1.jpg
+featured_image: https://images.sbhat.me/ss/2016/07/20160711150744_1.jpg
 categories:
   - Gaming
 tags:
@@ -29,11 +29,11 @@ Transistor plays like a hybrid real-time/turn based role-playing game. You can p
 
 Skills are known as functions &#8211; you have different functions for melee/ranged/buffs/debuffs. The skill system gains a bit of complexity when you realize the same function behaves differently when placed in an upgrade(which upgrades an existing function) or passive(which gives a boost always) slot. Each function consumes some memory space and you have a finite set of memory(though this can be increased with level up) adding an extra dimension of what-if tactics.
 
-[<img class="aligncenter size-full wp-image-1443" src="https://sathyasays.com/wp-content/uploads/2016/07/20160629182528_1.jpg" alt="Transistor - Turn()"   />][1]
+[<img class="aligncenter size-full wp-image-1443" src="https://images.sbhat.me/ss/2016/07/20160629182528_1.jpg" alt="Transistor - Turn()"   />][1]
 
 The use of functions as skills is definitely an appeal to programmers. What I didn't like about functions was that I couldn't read the skill descriptions and effects when placed in main/upgrades/passive at any point except at designated access points. This is especially frustrating when you want to read up on the background of the traces but they are locked away until you use it and guess what &#8211; can't change it at any point. Feels like an artificial way of increasing the time required to play through it.
 
-[<img class="aligncenter size-full wp-image-1444" src="https://sathyasays.com/wp-content/uploads/2016/07/20160630235158_1.jpg" alt="Transistor - Turn()"   />][2]
+[<img class="aligncenter size-full wp-image-1444" src="https://images.sbhat.me/ss/2016/07/20160630235158_1.jpg" alt="Transistor - Turn()"   />][2]
 
 Further to skills that buff you, there are also debuff skills called Limiters which basically offers handicap to the enemies, allowing for a tougher experience trading off for more XP. I tried Limiters early on but found them annoying, so I just went about not selecting them.
 
@@ -43,13 +43,13 @@ Transistor handles death in a unique fashion &#8211; rather than reducing your l
 
 [Supergiant Games][3] were lauded for their music and artwork in Bastion and Transistor follows this tradition. One of the most loved aspects of Transistor is indeed its artwork and the awesome music. With a mix of some great instrumental and vocal tracks, if nothing the music will definitely draw you more into the game. Every song, every track fits the mood perfectly well and it's not hard to believe that you'll evoke an emotional response to the combination of the incredible artwork and music.
 
-[<img class="aligncenter size-full wp-image-1445" src="https://sathyasays.com/wp-content/uploads/2016/07/20160711161828_1.jpg" alt="20160711161828_1"   />][4]
+[<img class="aligncenter size-full wp-image-1445" src="https://images.sbhat.me/ss/2016/07/20160711161828_1.jpg" alt="20160711161828_1"   />][4]
 
-[<img class="aligncenter size-full wp-image-1446" src="https://sathyasays.com/wp-content/uploads/2016/07/20160711150744_1.jpg" alt="20160711150744_1"   />][5]
+[<img class="aligncenter size-full wp-image-1446" src="https://images.sbhat.me/ss/2016/07/20160711150744_1.jpg" alt="20160711150744_1"   />][5]
 
 As for the graphics, well while not pushing tons of polygons like Crysis, the sheer colour palette and art style is enough to make you forget about everything else. Little touches such as Transistor's glow during speech, even during cut-scenes, the flavour text under the enemies are certainly things that you will appreciate and enjoy.
 
-[<img class="aligncenter size-full wp-image-1447" src="https://sathyasays.com/wp-content/uploads/2016/07/20160629182337_1.jpg" alt="20160629182337_1"   />][6]
+[<img class="aligncenter size-full wp-image-1447" src="https://images.sbhat.me/ss/2016/07/20160629182337_1.jpg" alt="20160629182337_1"   />][6]
 
 ### Conclusion
 
@@ -65,9 +65,9 @@ Despite some of the drawbacks, Transistor is a very enjoyable game, especially 
 
 Overall short but sweet game.
 
- [1]: https://sathyasays.com/wp-content/uploads/2016/07/20160629182528_1.jpg
- [2]: https://sathyasays.com/wp-content/uploads/2016/07/20160630235158_1.jpg
+ [1]: https://images.sbhat.me/ss/2016/07/20160629182528_1.jpg
+ [2]: https://images.sbhat.me/ss/2016/07/20160630235158_1.jpg
  [3]: https://www.supergiantgames.com/
- [4]: https://sathyasays.com/wp-content/uploads/2016/07/20160711161828_1.jpg
- [5]: https://sathyasays.com/wp-content/uploads/2016/07/20160711150744_1.jpg
- [6]: https://sathyasays.com/wp-content/uploads/2016/07/20160629182337_1.jpg
+ [4]: https://images.sbhat.me/ss/2016/07/20160711161828_1.jpg
+ [5]: https://images.sbhat.me/ss/2016/07/20160711150744_1.jpg
+ [6]: https://images.sbhat.me/ss/2016/07/20160629182337_1.jpg

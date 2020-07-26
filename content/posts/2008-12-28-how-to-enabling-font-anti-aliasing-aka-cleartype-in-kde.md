@@ -19,13 +19,13 @@ For this, just launch KDE settings &#8211; this is generally known as Configure 
 <!--more-->
 
 <p style="text-align: center">
-  <a href="https://sathyasays.com/wp-content/uploads/2008/12/desktopsettings.png"><img class="size-medium wp-image-639 aligncenter" title="Desktop Settings" src="https://sathyasays.com/wp-content/uploads/2008/12/desktopsettings-300x187.png" alt="Desktop Settings"   srcset="https://sathyasays.com/wp-content/uploads/2008/12/desktopsettings-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2008/12/desktopsettings-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2008/12/desktopsettings.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://images.sbhat.me/ss/2008/12/desktopsettings.png"><img class="size-medium wp-image-639 aligncenter" title="Desktop Settings" src="https://images.sbhat.me/ss/2008/12/desktopsettings-300x187.png" alt="Desktop Settings"   srcset="https://images.sbhat.me/ss/2008/12/desktopsettings-300x187.png 300w, https://images.sbhat.me/ss/2008/12/desktopsettings-1024x640.png 1024w, https://images.sbhat.me/ss/2008/12/desktopsettings.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 From there, Under Look & Feel, Click on Appearance. Navigate to Fonts, and under use Anti-Aliasing, choose Enabled from Dropdown box
 
 <p style="text-align: center">
-  <a href="https://sathyasays.com/wp-content/uploads/2008/12/enable-aa.png"><img class="size-medium wp-image-640 aligncenter" title="Enable AntiAliasing" src="https://sathyasays.com/wp-content/uploads/2008/12/enable-aa-300x187.png" alt="Enable AntiAliasing"   srcset="https://sathyasays.com/wp-content/uploads/2008/12/enable-aa-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2008/12/enable-aa-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2008/12/enable-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://images.sbhat.me/ss/2008/12/enable-aa.png"><img class="size-medium wp-image-640 aligncenter" title="Enable AntiAliasing" src="https://images.sbhat.me/ss/2008/12/enable-aa-300x187.png" alt="Enable AntiAliasing"   srcset="https://images.sbhat.me/ss/2008/12/enable-aa-300x187.png 300w, https://images.sbhat.me/ss/2008/12/enable-aa-1024x640.png 1024w, https://images.sbhat.me/ss/2008/12/enable-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 So you might be asking, is it really that big-of-a-deal? Does it matter? The answer is YES! Do check out the pictures below, that taken with and without Anti-aliasing! The differences are pretty obvious.
@@ -35,9 +35,9 @@ So you might be asking, is it really that big-of-a-deal? Does it matter? The ans
 </p>
 
 <p style="text-align: center">
-  <a href="https://sathyasays.com/wp-content/uploads/2008/12/without-aa.png"><img class="size-medium wp-image-641 aligncenter" title="Without AntiAliasing" src="https://sathyasays.com/wp-content/uploads/2008/12/without-aa-300x187.png" alt="Without AntiAliasing"   srcset="https://sathyasays.com/wp-content/uploads/2008/12/without-aa-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2008/12/without-aa-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2008/12/without-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://images.sbhat.me/ss/2008/12/without-aa.png"><img class="size-medium wp-image-641 aligncenter" title="Without AntiAliasing" src="https://images.sbhat.me/ss/2008/12/without-aa-300x187.png" alt="Without AntiAliasing"   srcset="https://images.sbhat.me/ss/2008/12/without-aa-300x187.png 300w, https://images.sbhat.me/ss/2008/12/without-aa-1024x640.png 1024w, https://images.sbhat.me/ss/2008/12/without-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong>With Anti Aliasing</strong><br /> <a href="https://sathyasays.com/wp-content/uploads/2008/12/with-aa.png"><img class="size-medium wp-image-642 aligncenter" title="With Anti Aliasing" src="https://sathyasays.com/wp-content/uploads/2008/12/with-aa-300x187.png" alt="With Anti Aliasing"   srcset="https://sathyasays.com/wp-content/uploads/2008/12/with-aa-300x187.png 300w, https://sathyasays.com/wp-content/uploads/2008/12/with-aa-1024x640.png 1024w, https://sathyasays.com/wp-content/uploads/2008/12/with-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> Pretty awesome eh?
+  <strong>With Anti Aliasing</strong><br /> <a href="https://images.sbhat.me/ss/2008/12/with-aa.png"><img class="size-medium wp-image-642 aligncenter" title="With Anti Aliasing" src="https://images.sbhat.me/ss/2008/12/with-aa-300x187.png" alt="With Anti Aliasing"   srcset="https://images.sbhat.me/ss/2008/12/with-aa-300x187.png 300w, https://images.sbhat.me/ss/2008/12/with-aa-1024x640.png 1024w, https://images.sbhat.me/ss/2008/12/with-aa.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> Pretty awesome eh?
 </p>

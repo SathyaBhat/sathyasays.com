@@ -11,7 +11,7 @@ tags:
   - terminal
 
 ---
-LiveCDs are a great way to try out (new) Linux distros on your system. [<img class="alignright size-medium wp-image-475" title="fedorausb" src="https://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png" alt=""   />][1]
+LiveCDs are a great way to try out (new) Linux distros on your system. [<img class="alignright size-medium wp-image-475" title="fedorausb" src="https://images.sbhat.me/ss/2008/10/fedorausb.png" alt=""   />][1]
 
 Unfortunately CDs get scratched pretty easily, and can turn into a coaster pretty soon.
 
@@ -46,7 +46,7 @@ Thanks for the tip [Ashish][7].
 
 **Update:** Narayanan <a href="https://www.techspikes.com/2008/10/install-linux-pendrive-usb/" target="_blank">mentions</a> UNetBootin which is a much better tool than liveusb-creator but doesn't have the option to create a Persisten overlay like liveusb-creator does.
 
- [1]: https://sathyasays.com/wp-content/uploads/2008/10/fedorausb.png
+ [1]: https://images.sbhat.me/ss/2008/10/fedorausb.png
  [2]: https://fedorahosted.org/releases/l/i/liveusb-creator/liveusb-creator-2.7.zip
  [3]: https://fedorahosted.org/releases/l/i/liveusb-creator/liveusb-creator-linux-2.7.tar.gz
  [4]: https://kushal.fedorapeople.org/packages/liveusb-creator-2.7-1.fc9.noarch.rpm
