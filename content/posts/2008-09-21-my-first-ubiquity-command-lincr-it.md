@@ -14,7 +14,7 @@ tags:
 By now, you must've heard of Ubiquity. If not, well read on! 
 
 <link rel="commands" href="https://sathyasays.com/wp-content/lincr.js" name="Lincr It!" />
-Ubiquity is an add-on to Mozilla's extremely popular Firefox browser. Ubiquity allows you to do things &#8211; say search for something, get the latest weather updates,  book reviews, so on and so forth, just by typing the commands into the Ubiquity input box &#8211; rather than by going over to address bar, typing the URL for each individual site, etc. Now most people fear by the word &#8211; &#8220;commands&#8221; &#8211; OHHH! will it be cryptic, confusing? Well, NO! Rather than me explaining, just have a look at video above
+Ubiquity is an add-on to Mozilla's extremely popular Firefox browser. Ubiquity allows you to do things &#8211; say search for something, get the latest weather updates,  book reviews, so on and so forth, just by typing the commands into the Ubiquity input box &#8211; rather than by going over to address bar, typing the URL for each individual site, etc. Now most people fear by the word &#8211; "commands" &#8211; OHHH! will it be cryptic, confusing? Well, NO! Rather than me explaining, just have a look at video above
 
  
 

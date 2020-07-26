@@ -32,7 +32,7 @@ tags:
         <hr style="clear: both; margin: 0 0 24px;" />
         
         <p>
-          &#8220;Someone FINALLY got it right!!&#8221; <strong>Farz</strong> wrote, &#8220;In my native language, we don't have translations for seven months out of the year. Way to go Windows Live!!&#8221;
+          "Someone FINALLY got it right!!" <strong>Farz</strong> wrote, "In my native language, we don't have translations for seven months out of the year. Way to go Windows Live!!"
         </p>
         
         <blockquote>
@@ -46,7 +46,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;I know Dell is supposed to be going private, but I didn't know that it would be up to me to keep them afloat!&#8221; writes <strong>James Helms</strong>.
+          "I know Dell is supposed to be going private, but I didn't know that it would be up to me to keep them afloat!" writes <strong>James Helms</strong>.
         </p>
         
         <blockquote>
@@ -74,7 +74,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;Developer's excuse for screwing up #439: <i>Sorry, I was eating a milky way, so I forgot to fix any issues with the feed.</i>&#8221; wrote <strong>Chris M.</strong>
+          "Developer's excuse for screwing up #439: <i>Sorry, I was eating a milky way, so I forgot to fix any issues with the feed.</i>" wrote <strong>Chris M.</strong>
         </p>
         
         <blockquote>
@@ -88,7 +88,7 @@ tags:
         </blockquote>
         
         <p>
-          <strong>Wilt</strong> writes, &#8220;I know the budget is tight, But even if it wasn't, I don't think I could justify NVIDIA at that price.&#8221;
+          <strong>Wilt</strong> writes, "I know the budget is tight, But even if it wasn't, I don't think I could justify NVIDIA at that price."
         </p>
         
         <blockquote>
@@ -102,7 +102,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;I'm fine that Thirstin Howl's track <i>Spit Boxer</i> isn't on Spotify,&#8221; writes <strong>Nick</strong>, &#8220;but their suggestion wasn't quite what I was expecting.&#8221;
+          "I'm fine that Thirstin Howl's track <i>Spit Boxer</i> isn't on Spotify," writes <strong>Nick</strong>, "but their suggestion wasn't quite what I was expecting."
         </p>
         
         <blockquote>
@@ -116,7 +116,7 @@ tags:
         </blockquote>
         
         <p>
-          &#8220;Things aren't looking so good for being able to read &#8216;Fine Cooking' on my iPad,&#8221; wrote <strong>Jeff</strong>.
+          "Things aren't looking so good for being able to read &#8216;Fine Cooking' on my iPad," wrote <strong>Jeff</strong>.
         </p>
         
         <blockquote>

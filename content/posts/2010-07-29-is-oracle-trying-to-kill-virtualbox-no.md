@@ -39,6 +39,6 @@ via [Is Oracle trying to kill VirtualBox? | Muktware][1].
 
 The article is either a bunch of baloney or the test system as got some serious hardware/software compatibility problems. Oracle VirtualBox 3.2 has been absolutely rock solid, smoother than ever before. Seamless mode is awesome, and I managed to resurrect my dead Windows installation by installing a Windows 7 VM using Oracle VirtualBox and then making a bootable Windows 7 USB pen drive (long story worth a blog post, will do soon!). The article doesn't mention how many test systems were used to test the software &#8211; if its a single box then drawing a conclusion that Oracle is killing VirtualBox based in just one system is pretty stupid.
 
-And heh, the author calls himself &#8220;_BaloneyGeek_&#8220;. Go figure.
+And heh, the author calls himself "_BaloneyGeek_". Go figure.
 
  [1]: https://www.muktware.com/news/26/2010/249

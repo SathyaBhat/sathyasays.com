@@ -33,7 +33,7 @@ sudo mount <device> <mount-point>
 
 Eg: If you wish to mount the Windows C partition to a /windows/C the command will be,sudo mount /dev/hda1 /windows/C
 
-For SATA drives, the &#8220;hdx&#8221; will be replaced by &#8220;sdx&#8221; ie, instead of /dev/hda1
+For SATA drives, the "hdx" will be replaced by "sdx" ie, instead of /dev/hda1
 
 it'll be /dev/sda1
 

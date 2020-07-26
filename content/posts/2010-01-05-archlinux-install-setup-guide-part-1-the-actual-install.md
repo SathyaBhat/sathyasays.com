@@ -94,7 +94,7 @@ We'll start with Option 1- Select Source which allows you to choose CD as source
 
 Next, we move onto Option 2: Set Clock!
 
-Select the region and timezone. We'll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying &#8220;Linux can't set my time!&#8221;
+Select the region and timezone. We'll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying "Linux can't set my time!"
 
 Linux expects the Hardware clock ( your BIOS/Real Time Clock (RTC)) to be set in UTC time and applies timezone offsets according to Region, while Windows expects time to be set at localime. Anyways, for now select localtime
 
@@ -106,7 +106,7 @@ Confirm the time and correct it, if it is not correct. For now, the time is corr
 
 Next comes, what is probably the toughest part of most OS installs, hard disk preparation. Most people are used to Windows style partitions of C:\, D:\ drives, while \*nix OS don't follow that architecture. \*nix treats all devices as files, and so your c:\, D:\ drive gets mapped as funky names like /dev/sda1 /dev/sda2 and so on. While it seems confusing at first, in reality, its not that hard.
 
-/ &#8211; refers to &#8220;root&#8221; or the topmost structure in the hierarchy.
+/ &#8211; refers to "root" or the topmost structure in the hierarchy.
 
 &#8211; &#8211; dev &#8211; refers to special devices such as hard disks, CD drives, USB devices and what not.
 
@@ -190,7 +190,7 @@ Earlier, I'd mentioned that sda1 is chosen for swap, so lets select swap as the 
 
 ![uploadde.jpg][28]
 
-Do the same for other partition, selection ext3 as the type. When asked for the mount point select &#8220;/&#8221;
+Do the same for other partition, selection ext3 as the type. When asked for the mount point select "/"
 
 Now, lets move on to 4th option, select pakages where you get to choose which packages to install.Arch follows the policy of install bare minimum first, whatever you want later, so for now you get only a barebones console package. Do select base-develop if you wish to do further tinkering
 

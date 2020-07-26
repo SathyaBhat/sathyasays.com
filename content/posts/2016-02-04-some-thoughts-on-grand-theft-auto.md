@@ -15,7 +15,7 @@ tags:
 ---
 I've always loved the Grand Theft Auto series, but more so as a sandbox/stress-buster than as a story line game. The first GTA game that I played was <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_2" target="_blank">GTA II</a>, but that was quite some time back. I don't remember much about it &#8211; all that I recall was it it was a top down game taking a car rushing through the streets and that's about it. I got annoyed with it and didn't touch it.
 
-Few years on, I got my hands on <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City" target="_blank">Grand Theft Auto: Vice City</a> and that was the GTA game that I liked. Wheeling down the roads of Ocean Beach at night with the neon lights brightening up the roads and listening to &#8220;<a href="https://gta.wikia.com/Oliver_Biscuit" target="_blank">Ladykiller</a>&#8221; on <a href="https://www.youtube.com/watch?v=nJ0zRUbiCtA" target="_blank">Fever 105 FM</a> is a sublime experience that still hasn't been matched.
+Few years on, I got my hands on <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City" target="_blank">Grand Theft Auto: Vice City</a> and that was the GTA game that I liked. Wheeling down the roads of Ocean Beach at night with the neon lights brightening up the roads and listening to "<a href="https://gta.wikia.com/Oliver_Biscuit" target="_blank">Ladykiller</a>" on <a href="https://www.youtube.com/watch?v=nJ0zRUbiCtA" target="_blank">Fever 105 FM</a> is a sublime experience that still hasn't been matched.
 
 <img class=" aligncenter" src="https://img.gtavicecity.fr/ville/vcville1.jpg" alt=""   />
 

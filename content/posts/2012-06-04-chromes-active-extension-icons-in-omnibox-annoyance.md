@@ -17,7 +17,7 @@ tags:
 ---
 I'm a huge fan of Chrome & pretty much loved whatever changes Chrome team have done to the browser since it's inception. This change, however, is probably the first annoying thing that I've run into.
 
-Few days ago, after the latest dev channel update, all the extension icons on went missing. I initially thought all my extensions got wiped out. However, after heading over to <a href="chrome://extensions" target="_blank">chrome://extensions</a> I realized that the update had a new &#8220;Show button&#8221; feature next to the extensions list and they had been set to hide all :|
+Few days ago, after the latest dev channel update, all the extension icons on went missing. I initially thought all my extensions got wiped out. However, after heading over to <a href="chrome://extensions" target="_blank">chrome://extensions</a> I realized that the update had a new "Show button" feature next to the extensions list and they had been set to hide all :|
 
 [<img class="alignnone" title="Chrome Extension SHow Button" src="https://i.imgur.com/MBF1a.png" alt="Chrome Extension SHow Button"   />][1]
 
@@ -71,7 +71,7 @@ Talk about useless clutter. I have filed a <a href="https://code.google.com/p/ch
 > 
 > My request is to remove the icons being shown in Omnibox. If not, have
   
-> a feature where I can hide the active extension icons; much like how &#8220;Show button&#8221; feature is present for extensions
+> a feature where I can hide the active extension icons; much like how "Show button" feature is present for extensions
 > 
 > <a href="https://i.imgur.com/MBF1a.png" rel="nofollow">https://i.imgur.com/MBF1a.png</a>
 > 

@@ -21,7 +21,7 @@ For every Barcamp event that comes and goes by, I try to think of what new thing
 
 I noticed that Meetup does the same. So I thought to myself, why not implement this for the mailer we send out to folks who have RSVP'd for the event? We do sent a short &#8216;here's what you should look forward to' email, it'd be cool to add the event details so that people using Google Now would get notification and the Now card as well.
 
-The biggest problem when I started looking out was that I didn't even know what they were known as! After bit of searching with various keywords (&#8220;triggering Google now cards&#8221;, &#8220;Inbox cards&#8221;, &#8220;Inbox mail preview&#8221;) I found that the actual term is &#8220;[Gmail actions][1]&#8220;. Gmail actions use markup from <a href="https://schema.org" target="_blank">schema.org</a> for powering these snippets.
+The biggest problem when I started looking out was that I didn't even know what they were known as! After bit of searching with various keywords ("triggering Google now cards", "Inbox cards", "Inbox mail preview") I found that the actual term is "[Gmail actions][1]". Gmail actions use markup from <a href="https://schema.org" target="_blank">schema.org</a> for powering these snippets.
 
 <!--more-->
 
@@ -65,7 +65,7 @@ Well, not quite. Google needs to whitelist your email address before these act
 Tips for getting whitelisted:
 
   * Make sure you meet all <a href="https://developers.google.com/gmail/markup/registering-with-google#registration_guidelines" target="_blank">guidelines listed</a>, especially that your email address is authenticated with SPF check/DKIM signatures. See <a href="https://support.google.com/mail/answer/180707?hl=en" target="_blank">this guide</a> for more info. Don't even bother if SPF/DKIM is not set.
-  * Google mentions &#8220;Consistent history of sending a high volume of mail from your domain (order of hundred emails a day minimum to Gmail) for a few weeks at least&#8221; &#8211; though we send thousands of mails, especially when a new event is announced, I don't think this is that high of a requirement.
+  * Google mentions "Consistent history of sending a high volume of mail from your domain (order of hundred emails a day minimum to Gmail) for a few weeks at least" &#8211; though we send thousands of mails, especially when a new event is announced, I don't think this is that high of a requirement.
   * All that matters that your sending quality should be high, zero(or minimal) complaints and <a href="https://support.google.com/mail/bin/answer.py?hl=en&answer=81126" target="_blank">Bulk Sender Guidelines adhered to</a>.
 
 ### Markup from Barcamp Bangalore

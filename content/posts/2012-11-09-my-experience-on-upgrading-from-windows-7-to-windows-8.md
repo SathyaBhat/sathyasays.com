@@ -46,7 +46,7 @@ Much like a lot of people, I grabbed the Windows 8 upgrade assistant, and left i
 
 So if you've grabbed 99.9% of the file and if you quit the assistant before you hit the Pause button &#8211; well then shit, all that download is gone. So moral of the story: Pause before you quit.
 
-That hiccup aside, I left the Upgrade assistant overnight to complete the download. Next morning, I started the upgrade and left for work. Back from work, I see that Windows 8 is ready for me, asking me for some details (&#8220;which colour do you want?&#8221;) and prompted me to create an account(though I already had an account from the Windows 7 install). Thankfully, it proceeded to merge things with the existing account.
+That hiccup aside, I left the Upgrade assistant overnight to complete the download. Next morning, I started the upgrade and left for work. Back from work, I see that Windows 8 is ready for me, asking me for some details ("which colour do you want?") and prompted me to create an account(though I already had an account from the Windows 7 install). Thankfully, it proceeded to merge things with the existing account.
 
 So how did my system look after the upgrade? **Amazingly, for all the crap I had on my system, the upgrade went exceedingly well. No broken programs, no broken links, for that matter all my scheduled tasks, context menu entries, startup items, superbar entries all were preserved.**
 
@@ -58,13 +58,13 @@ Post Windows 8 upgrade, I noticed that both the IGP as well as the GPU had been 
 
 I tried to use the previous Windows 7 drivers, running them under Windows 7 compatibility mode, but the install would silently fail. Taking a look at the logs, I see that the install failed because the installer kept throwing <a href="https://chat.stackexchange.com/transcript/118?m=6771791#6771791" target="_blank">ACCESS_VIOLATION errors in the MFC dlls</a>. With a little rubber-duck debugging help from Root Access, some VS 2005 runtime uninstalls, and a <a href="https://archive.msdn.microsoft.com/KB961894/Release/ProjectReleases.aspx?ReleaseId=2067" target="_blank">hotfix install</a> I managed to get the install running. The drivers still managed to fail installation &#8211; the drivers were dated back to 2010 and Windows refused to install the older drivers.
 
-Finally after a lot of wrangling around, I downloaded AMD's beta drivers(which don't seem to have the check for &#8220;supported chipsets&#8221;, as opposed to the stable drivers and managed to get it installed. (thanks to <a href="https://twitter.com/TheRomit/status/265496483422429184" target="_blank">Romit for the tip</a>).
+Finally after a lot of wrangling around, I downloaded AMD's beta drivers(which don't seem to have the check for "supported chipsets", as opposed to the stable drivers and managed to get it installed. (thanks to <a href="https://twitter.com/TheRomit/status/265496483422429184" target="_blank">Romit for the tip</a>).
 
 Now I do have my extended desktop running, but being the beta drivers that they are, I've run into several driver crashes(thankfully since Vista or so, GPU driver crash no longer brings about a BSOD). And worst of all, my system believes there are 3 monitors
 
 [<img class="alignnone" src="https://i.stack.imgur.com/OVi9F.png" alt=""   />][3]
 
-This is a pain because I use Actual Multiple Monitors which adds 1-click move to next monitor and with the third &#8220;phantom&#8221; monitor, the move to next monitor workflow goes for a toss.
+This is a pain because I use Actual Multiple Monitors which adds 1-click move to next monitor and with the third "phantom" monitor, the move to next monitor workflow goes for a toss.
 
 From a software point of view, Raptr reports that they have disabled in-game and tracking features. AMD's beta drivers mean that the switchable graphics doesn't work. I don't think I've run into other problems
 
@@ -94,7 +94,7 @@ For powerusers, Win+C & Win+X and the desktop mode should keep you entertained.
 
 <blockquote class="twitter-tweet">
   <p>
-    &#8220;prior to October 1st , 2011, HP has not tested or developed drivers.upgrade of your computer may be difficult or impossible.&#8221; <a href="https://twitter.com/search/%23scumbagHP">#scumbagHP</a>
+    "prior to October 1st , 2011, HP has not tested or developed drivers.upgrade of your computer may be difficult or impossible." <a href="https://twitter.com/search/%23scumbagHP">#scumbagHP</a>
   </p>
   
   <p>

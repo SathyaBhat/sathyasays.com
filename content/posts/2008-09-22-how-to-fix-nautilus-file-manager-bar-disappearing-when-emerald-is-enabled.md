@@ -23,7 +23,7 @@ Despite typing the above, the title bars would still keep crashing. After some p
 
   1. Open Gconf-editor
   2. Head to Applications -> Nautilus -> Preferences
-  3. Modify key &#8220;navigation\_windows\_saved_geometry&#8221; to a resolution, that is lesser than the current screen resolution.
+  3. Modify key "navigation\_windows\_saved_geometry" to a resolution, that is lesser than the current screen resolution.
 
 <div>
   Do note that you should ideally do this with none of the Nautilus windows open. Save Gconf editor, and launch Nautilus, the title bars should be back now.

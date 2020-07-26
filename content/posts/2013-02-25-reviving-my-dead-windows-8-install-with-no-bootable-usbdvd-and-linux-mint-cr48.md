@@ -70,7 +70,7 @@ And this was really torturing my system
 
 [<img class="alignnone" title="temperatures" src="https://i.imgur.com/NguB4AP.png" alt="temperatures"   />][1]
 
-So now, while I experimenting with switching off/on to see if I can &#8220;jump&#8221; start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new &#8220;enhancements&#8221; F8-mashing would not result in the start up menu being shown up.
+So now, while I experimenting with switching off/on to see if I can "jump" start the fan, I ended up screwing up my Windows 8 install &#8211; and ended up with a BSOD( bad\_system\_config_info) boot loop. No amount of reboots could help and I was stuck there. Also, thanks to the new "enhancements" F8-mashing would not result in the start up menu being shown up.
 
 I had to resort to switching off in middle of a boot process to bring up the start up menu so that I could try our Windows 8's Reset/Refresh. Unfortunately, both Reset and Refresh failed for some reason. I tried to refresh but somehow my custom recovery image got wiped out.. with no backup of it. Reset failed to work as well and I was back to status quo &#8211; BSOD Boot Loop.
 
@@ -83,7 +83,7 @@ Generally I keep a bootable Live USB with me, but this time I didn't have that e
 
 Yep, the Cr48 turned to be my savior. So, the Cr48 comes with ChromeOS. With the developer switch turned on, however, you get to do things. Like get access to a real shell. or install a distro like Ubuntu. I didn't want to install Ubuntu on it, so I tried to gain access shell.
 
-Booting into Cr48 after enabling the developer mode, I found that hitting Ctrl+Alt+T brought up a shell. Within Chrome, as a tab(!). However, this was the crosh shell,which is limited. I found out that typing in &#8220;shell&#8221; gives you access to bash & full range of *nix utilities. So with that, I first grabbed Linux Mint iso using wget. With the ISO downloaded, I made the USB bootable using dd.
+Booting into Cr48 after enabling the developer mode, I found that hitting Ctrl+Alt+T brought up a shell. Within Chrome, as a tab(!). However, this was the crosh shell,which is limited. I found out that typing in "shell" gives you access to bash & full range of *nix utilities. So with that, I first grabbed Linux Mint iso using wget. With the ISO downloaded, I made the USB bootable using dd.
 
 dd if=/path/to/mint.iso of=/dev/sdb
 

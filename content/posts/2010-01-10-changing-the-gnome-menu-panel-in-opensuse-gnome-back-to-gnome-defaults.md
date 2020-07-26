@@ -33,7 +33,7 @@ You can go back to the default Applications / Places / System panel pretty easil
 
   * Right click the bottom panel and choose add a panel
   * Now right click the top panel and choose Add to Panel
-  * In the search input box type &#8220;menu&#8221;, and you will see about six entries, one of which is &#8220;Traditional main Menu&#8221;
-  * Add the menu to the panel, move it to where you like, and delete the &#8220;original&#8221; menu.
+  * In the search input box type "menu", and you will see about six entries, one of which is "Traditional main Menu"
+  * Add the menu to the panel, move it to where you like, and delete the "original" menu.
 
 And, you're done!

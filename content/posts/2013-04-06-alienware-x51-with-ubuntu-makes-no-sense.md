@@ -39,7 +39,7 @@ Why? I'll go back to a rant I had stored when Steam for Linux was announced
 > 
 > I'll repeat what I said when Steam for Linux and Steam for Mac was announced: Steam is a platform. Build a new bus stand on a deserted place with no buses, you won't get hundreds of people at the bus stand.
 > 
-> Is it great that Steam has arrived? Sure. Does it mean that &#8220;age of Linux gaming&#8221; is coming? No. All we have right now is one functioning SteamWorks game. Even if we consider all of Valve's games, that's not more than 10.
+> Is it great that Steam has arrived? Sure. Does it mean that "age of Linux gaming" is coming? No. All we have right now is one functioning SteamWorks game. Even if we consider all of Valve's games, that's not more than 10.
 
 And Mac's market share is roughly what, 10x the Linux desktop base? Hell, even on the X51's highlights page you have this
 

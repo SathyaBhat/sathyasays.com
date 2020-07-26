@@ -34,11 +34,11 @@ Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later
   
 > Traceback (most recent call last):
   
-> File &#8220;/usr/bin/picard&#8221;, line 2, in
+> File "/usr/bin/picard", line 2, in
   
 > from picard.tagger import main; main(&#8216;/usr/share/locale', True)
   
-> File &#8220;/usr/lib/python2.6/site-packages/picard/tagger.py&#8221;, line 21, in
+> File "/usr/lib/python2.6/site-packages/picard/tagger.py", line 21, in
   
 > from PyQt4 import QtGui, QtCore
   

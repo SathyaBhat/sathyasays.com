@@ -34,7 +34,7 @@ tags:
   - xorg
 
 ---
-Nvidia Proprietary Drivers need nvidia-settings to set screen resolution and change other settings. In previous versions of Ubuntu and in other distros to make them permanent (used in every session) you click the &#8220;Save to X configuration file&#8221;. From Karmic on there is no xorg.conf by default!
+Nvidia Proprietary Drivers need nvidia-settings to set screen resolution and change other settings. In previous versions of Ubuntu and in other distros to make them permanent (used in every session) you click the "Save to X configuration file". From Karmic on there is no xorg.conf by default!
 
 As a result, nvidia-settings is not able to save the settings and every time I logged in I had  to change the resolution (Phew!!!). Then Sathya helped me. He gave me a [link from Ubuntu Forums][1]{#aptureLink_MZsWFB9Cv4}. Then I did the following to fix the problem:
 
@@ -48,13 +48,13 @@ As a result, nvidia-settings is not able to save the settings and every time I l
 
 > sudo Xorg -configure
 
-4. This gives an xorg.conf in your home directory. It would be named &#8220;xorg.conf.new&#8221;.
+4. This gives an xorg.conf in your home directory. It would be named "xorg.conf.new".
 
-5. Take this file to &#8220;/etc/X11&#8221; and rename it &#8216;xorg.conf'.
+5. Take this file to "/etc/X11" and rename it &#8216;xorg.conf'.
 
-6. Now click &#8220;Save to X configuration file&#8221; in nvidia-settings. Note that you need root permissions to do this.
+6. Now click "Save to X configuration file" in nvidia-settings. Note that you need root permissions to do this.
 
-7. Now your settings will be saved. Make a copy of that file back in your home directory, if needed, and rename it to &#8220;xorg.conf.new&#8221; (replacing the original).
+7. Now your settings will be saved. Make a copy of that file back in your home directory, if needed, and rename it to "xorg.conf.new" (replacing the original).
 
 8. You're Done. Try logging off and back in.
 

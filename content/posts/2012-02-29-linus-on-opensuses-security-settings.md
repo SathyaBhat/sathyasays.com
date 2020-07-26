@@ -18,7 +18,7 @@ tags:
   
 > I think the wireless network thing finally did get fixed, but the timezone never did &#8211; it still asks for the admin password.
 > 
-> So here's a plea: if you have anything to do with security in a distro, and think that my kids (replace &#8220;my kids&#8221; with &#8220;sales people on the road&#8221; if you think your main customers are businesses) need to have the root password to access some wireless network, or to be able to print out a paper, or to change the date-and-time settings, please just kill yourself now.
+> So here's a plea: if you have anything to do with security in a distro, and think that my kids (replace "my kids" with "sales people on the road" if you think your main customers are businesses) need to have the root password to access some wireless network, or to be able to print out a paper, or to change the date-and-time settings, please just kill yourself now.
 
 via [Linus Torvalds &#8211; Google+][1], as spotted on [HN][2].
 

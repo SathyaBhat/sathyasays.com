@@ -59,9 +59,9 @@ The Oculus Rift Touch bundle comes with 2 Touch controllers, 2x sensors, couple 
 
 ### Software Setup and First Launch
 
-Once you have the Rift hardware setup properly, Oculus will start the first time setup. This involves things like entering your height(to calibrate the ground height), touch sensor calibration, mapping out the play area, setting up the Guarding system(which is basically a wireframe &#8220;wall&#8221; indicating you're about to exit the safe area). This doesn't take too long and is a one-time thing, even if you have multiple people using the headset.
+Once you have the Rift hardware setup properly, Oculus will start the first time setup. This involves things like entering your height(to calibrate the ground height), touch sensor calibration, mapping out the play area, setting up the Guarding system(which is basically a wireframe "wall" indicating you're about to exit the safe area). This doesn't take too long and is a one-time thing, even if you have multiple people using the headset.
 
-Where Oculus has nailed the VR experience is their first launch app, called &#8220;<a href="https://www.oculus.com/experiences/rift/1217155751659625/" target="_blank" rel="noopener">First Contact</a>&#8220;. It's basically set in a spaceship(or a room?) with a robot where the robot keeps giving you “programs” in a floppy that you “grab” it and push it into a 3D printer and then pick it up. It sounds like no big deal, but the detailing and the way the robot is done is incredibly awesome and will evoke a great response from all.
+Where Oculus has nailed the VR experience is their first launch app, called "<a href="https://www.oculus.com/experiences/rift/1217155751659625/" target="_blank" rel="noopener">First Contact</a>". It's basically set in a spaceship(or a room?) with a robot where the robot keeps giving you “programs” in a floppy that you “grab” it and push it into a 3D printer and then pick it up. It sounds like no big deal, but the detailing and the way the robot is done is incredibly awesome and will evoke a great response from all.
 
 ### Comfort
 

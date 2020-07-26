@@ -14,7 +14,7 @@ tags:
   - wakoopa
 
 ---
-About 2 weeks ago, Wakoopa announced that they will be shutting down their <a title="Wakoopa is dead" href="https://techie-buzz.com/tech-news/wakoopa-service-made-software-social-comes-end.html" target="_blank">social network soon</a> & focusing on &#8220;Corporate Research&#8221;.
+About 2 weeks ago, Wakoopa announced that they will be shutting down their <a title="Wakoopa is dead" href="https://techie-buzz.com/tech-news/wakoopa-service-made-software-social-comes-end.html" target="_blank">social network soon</a> & focusing on "Corporate Research".
 
 Unfortunately that day is here. Just received an email stating that as of today, you can grab an <a href="https://social.wakoopa.com/" target="_blank">export of your data</a>.
 

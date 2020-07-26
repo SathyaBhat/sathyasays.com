@@ -24,7 +24,7 @@ tags:
   
   <tr>
     <td>
-      &#8220;What do I have to do to become expert, where is the list of key things I need to do with regards to Oracle&#8221;
+      "What do I have to do to become expert, where is the list of key things I need to do with regards to Oracle"
     </td>
   </tr>
 </table>
