@@ -37,7 +37,7 @@ Adding these options to /etc/fstab file will result auto mounting of your drives
 
 _Editor's note: I don't suggest touching the /etc/fstab unless its really necessary, as fuse takes care of mounting drives perfectly_
   
-PS: If someone knows how to mount ext3 drives with read and write support and other commonly used filesystems please post it as a comment. Adding &#8220;user&#8221; to the options didn't work for me.
+PS: If someone knows how to mount ext3 drives with read and write support and other commonly used filesystems please post it as a comment. Adding "user" to the options didn't work for me.
   
 __
 

@@ -24,7 +24,7 @@ tags:
   - xp
 
 ---
-I wasn't aware of this tiny little thing  &#8211; the filesystem in the  file created by a Wubi install can be easily mounted as a loop device.
+I wasn't aware of this tiny little thing  - the filesystem in the  file created by a Wubi install can be easily mounted as a loop device.
 
 <!--more-->To do so, just open the Terminal and type the below:
 

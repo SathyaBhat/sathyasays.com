@@ -24,7 +24,7 @@ tags:
 > 
 > Built by our brilliant developers during hack days and late nights, it shares most of the same features as our Windows and Mac OS X desktop applications. Unfortunately, there are issues regarding decoding of local music on the Linux platform so we haven’t included support for local files in this version.
 
-via [Spotify for Linux &#8211; Spotify][1].
+via [Spotify for Linux - Spotify][1].
 
 Nice! Now if only they'd allow us poor mortals(read: those living outside Europe) to use Spotify :(
 

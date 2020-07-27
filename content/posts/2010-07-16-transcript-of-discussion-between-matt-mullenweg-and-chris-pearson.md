@@ -39,7 +39,7 @@ tags:
   - xp
 
 ---
-Couple of days ago, there was a huge debate (argument ?)  between Matt Mullenweg  &#8211; developer of WordPress and Chris Pearson &#8211; developer of Thesis premium theme over twitter which then extended to Mixergy.
+Couple of days ago, there was a huge debate (argument ?)  between Matt Mullenweg  - developer of WordPress and Chris Pearson - developer of Thesis premium theme over twitter which then extended to Mixergy.
 
 Crux of the argument is the disagreement amognst the two over the licensing terms. Matt believes that Thesis should adopt [GPL][1]{#aptureLink_Q1kNtLltNY} which as Wikipedia states:
 
@@ -109,7 +109,7 @@ Chris, on the otherhand disagrees with this. The full transcript of their discus
 
 I'm not a lawyer, neither do I know enough about WordPress, Thesis or the GPL to comment on this.
 
-Do read the full transcript &#8211;  [Would WordPress Sue The Maker Of Thesis, A Leading WordPress Theme? – with Chris Pearson and Matt Mullenweg][3].
+Do read the full transcript -  [Would WordPress Sue The Maker Of Thesis, A Leading WordPress Theme? – with Chris Pearson and Matt Mullenweg][3].
 
 Update: Drew Blas has a post, analysing the GPL'd code in Thesis. His thoughts:
 

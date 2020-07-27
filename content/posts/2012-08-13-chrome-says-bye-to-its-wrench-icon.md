@@ -22,10 +22,10 @@ I noticed this few days ago on the dev build:
   </p>
 </blockquote>
 
-It's been replaced with what I can only call.. &#8220;Three horizontal lines&#8221; which is really weird way of calling it :\
+It's been replaced with what I can only call.. "Three horizontal lines" which is really weird way of calling it :\
 
 [<img class="alignnone" title="Chrome's Wrench Icon is no more" src="https://i.imgur.com/rkbMh.png" alt="Chrome's Wrench Icon is no more"   />][1]
   
-Having the wrench icon was so much better &#8211; have referred bringing up the menu quite a <a href="https://superuser.com/search?q=user%3Ame+wrench" target="_blank">few times as</a> &#8220;Click on the wrench&#8221; on Super User.
+Having the wrench icon was so much better - have referred bringing up the menu quite a <a href="https://superuser.com/search?q=user%3Ame+wrench" target="_blank">few times as</a> "Click on the wrench" on Super User.
 
  [1]: https://i.imgur.com/rkbMh.png

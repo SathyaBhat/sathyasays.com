@@ -9,7 +9,7 @@ categories:
 tags:
 
 ---
-Howdy folks. After my first attempt at blogging, which was &#8220;very successful&#8221;(thanks to me of course, I was too active, you know!) I've decided to start my blogging &#8220;career&#8221; all over again. Hope I will be more motivated than ever to maintain this, thanks to a certain &#8220;jobless&#8221; friend of mine, who kept pestering me about my nonexisting blog. If you're still reading this, wow well and good! Hope to hear some &#8220;interesting&#8221; comments, brickbats and rants from ya all.
+Howdy folks. After my first attempt at blogging, which was "very successful"(thanks to me of course, I was too active, you know!) I've decided to start my blogging "career" all over again. Hope I will be more motivated than ever to maintain this, thanks to a certain "jobless" friend of mine, who kept pestering me about my nonexisting blog. If you're still reading this, wow well and good! Hope to hear some "interesting" comments, brickbats and rants from ya all.
   
 Here's me signing off,
   

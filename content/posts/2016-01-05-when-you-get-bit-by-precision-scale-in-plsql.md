@@ -15,7 +15,7 @@ tags:
 ---
 I got a bug assigned to me where my application was returning an incorrect value. Some background: The function was an age check function which takes in date of birth & start date and returns the age.
 
-In this specific case, the date of birth was 05.01.1951 and start date was 01.01.2016 &#8211; the expected age that was to be returned(after round off to 4) was 64.9892. The application, however was returning 65.  I went through the log, the dates are proper. I went through the source, the round off is indeed to 4 places but still it was returning 65. I ran the bit of code responsible for fetching and calculating outside in couple of editors, including Toad & SQL*Plus, and both cases it was returning 64.9892 &#8211; and now I was flummoxed &#8211; where and why the heck was it rounding off?
+In this specific case, the date of birth was 05.01.1951 and start date was 01.01.2016 - the expected age that was to be returned(after round off to 4) was 64.9892. The application, however was returning 65.  I went through the log, the dates are proper. I went through the source, the round off is indeed to 4 places but still it was returning 65. I ran the bit of code responsible for fetching and calculating outside in couple of editors, including Toad & SQL*Plus, and both cases it was returning 64.9892 - and now I was flummoxed - where and why the heck was it rounding off?
 
 I thought for a bit, asked my colleagues and we were at a loss. All set to ask on Stack Overflow, I suddenly had a revelation and looked at the declaration section. And indeed, it problem was there:
 

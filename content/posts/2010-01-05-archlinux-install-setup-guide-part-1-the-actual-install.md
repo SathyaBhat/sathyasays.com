@@ -50,7 +50,7 @@ tags:
 ---
 Been a while since I posted ;) For some strange reason, recently I got an urge to try out [ArchLinux][1]{#aptureLink_BWSwiwROlt}. After much deliberation finally decided to try out ArchLinux again, [in VirtualBox][2]{#aptureLink_YQu9cIpVYm}. My little install guide I compiled as I was reading through the [Official ArchLinux Install Guide][3]{#aptureLink_OrVThoOrTI} + [Beginner's Guide][4]{#aptureLink_AMQvvRytbx}.
 
-Please note: This is highly customized according to \*my\* requirements and nowhere as thorough /generalized as the official guides. Still, it might help you. Here we go &#8211;
+Please note: This is highly customized according to \*my\* requirements and nowhere as thorough /generalized as the official guides. Still, it might help you. Here we go -
   
 <!--more-->
 
@@ -70,7 +70,7 @@ ArchLinux setup starts
 
 ![uploads.jpg][6]
 
-Arch comes with a fairly comprehensive install guide &#8211; check it at @ https://wiki.archlinux.org/index.php/Official\_Arch\_Linux\_Install\_Guide
+Arch comes with a fairly comprehensive install guide - check it at @ https://wiki.archlinux.org/index.php/Official\_Arch\_Linux\_Install\_Guide
 
 Or if you're stuck without an Internet connection, the install guide is available on the CD, just hit Alt-F6 to spawn a new terminal, and type
 
@@ -94,7 +94,7 @@ We'll start with Option 1- Select Source which allows you to choose CD as source
 
 Next, we move onto Option 2: Set Clock!
 
-Select the region and timezone. We'll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying &#8220;Linux can't set my time!&#8221;
+Select the region and timezone. We'll select Asia/Kolkata and the proceed to set the time. The next option is where most people select wrong and then whine saying "Linux can't set my time!"
 
 Linux expects the Hardware clock ( your BIOS/Real Time Clock (RTC)) to be set in UTC time and applies timezone offsets according to Region, while Windows expects time to be set at localime. Anyways, for now select localtime
 
@@ -106,15 +106,15 @@ Confirm the time and correct it, if it is not correct. For now, the time is corr
 
 Next comes, what is probably the toughest part of most OS installs, hard disk preparation. Most people are used to Windows style partitions of C:\, D:\ drives, while \*nix OS don't follow that architecture. \*nix treats all devices as files, and so your c:\, D:\ drive gets mapped as funky names like /dev/sda1 /dev/sda2 and so on. While it seems confusing at first, in reality, its not that hard.
 
-/ &#8211; refers to &#8220;root&#8221; or the topmost structure in the hierarchy.
+/ - refers to "root" or the topmost structure in the hierarchy.
 
-&#8211; &#8211; dev &#8211; refers to special devices such as hard disks, CD drives, USB devices and what not.
+- - dev - refers to special devices such as hard disks, CD drives, USB devices and what not.
 
-&#8211; &#8211; &#8211; &#8211; /sd &#8211; refers to SCSI device. Earlier the nomenclature was hdx for IDE devices and sdx for SCSI devices, but now SATA devices are designated as sd.
+- - - - /sd - refers to SCSI device. Earlier the nomenclature was hdx for IDE devices and sdx for SCSI devices, but now SATA devices are designated as sd.
 
-&#8211; &#8211; &#8211; &#8211; &#8211; -a,b.. refers to the hard disk connected (a= first hard disk, b=second hard disk and so on)
+- - - - - -a,b.. refers to the hard disk connected (a= first hard disk, b=second hard disk and so on)
 
-&#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8212; &#8211; &#8211; -1,2.. refers to partitions.
+- - - - - - - &#8212; - - -1,2.. refers to partitions.
 
 Combine them, you get, /dev/sda as the first hard disk, /dev/sda1 as first partition of your first hard disk
 
@@ -122,11 +122,11 @@ So lets select Hard disk preparation choice. You get another menu
 
 ![uploadmo.jpg][12]
 
-Option 1 &#8211; Is probably best if you want to dedicate an entire hard disk to Arch ( in my case, since I'm using a VM anyway). In the context of this guide, this isn't the best option
+Option 1 - Is probably best if you want to dedicate an entire hard disk to Arch ( in my case, since I'm using a VM anyway). In the context of this guide, this isn't the best option
 
 Option 3- Puts you in the nitty-gritty of partitioning. Lets not get into here either.
 
-We'll jump into Option 2- Manually Partition Hard Disks. Selecting that will launch cfdisk &#8211; and it should show you available hard disks:
+We'll jump into Option 2- Manually Partition Hard Disks. Selecting that will launch cfdisk - and it should show you available hard disks:
 
 ![uploadt.jpg][13]
 
@@ -150,11 +150,11 @@ Add partition to beginning of the drive
 
 ![uploadjy.jpg][18]
 
-We'll create another partition &#8211; and allocate all remaining space to it
+We'll create another partition - and allocate all remaining space to it
 
 ![uploadu.jpg][19]
 
-Next, mark the type of the partitions &#8211; first is the swap
+Next, mark the type of the partitions - first is the swap
 
 ![uploadq.jpg][20]
 
@@ -190,7 +190,7 @@ Earlier, I'd mentioned that sda1 is chosen for swap, so lets select swap as the 
 
 ![uploadde.jpg][28]
 
-Do the same for other partition, selection ext3 as the type. When asked for the mount point select &#8220;/&#8221;
+Do the same for other partition, selection ext3 as the type. When asked for the mount point select "/"
 
 Now, lets move on to 4th option, select pakages where you get to choose which packages to install.Arch follows the policy of install bare minimum first, whatever you want later, so for now you get only a barebones console package. Do select base-develop if you wish to do further tinkering
 
@@ -208,11 +208,11 @@ I'll start with editing /etc/rc.conf since I want to change my hostname ( name o
 
 Remember: If it doesn't make sense, don't touch it! Hit Ctrl-X and type Y and hit Enter to save changes, else type no.
 
-Before you leave this screen, don't forget to enter a new root password, &#8211; and remember Do NOT forget this password!
+Before you leave this screen, don't forget to enter a new root password, - and remember Do NOT forget this password!
 
 Choose done to return to the main menu.
 
-Now for the last step &#8211; to install bootloader. Just select grub ( or none, if you want your existing bootloader to handle it). Once grub config is generated,
+Now for the last step - to install bootloader. Just select grub ( or none, if you want your existing bootloader to handle it). Once grub config is generated,
 
 nano will open with menu.lst, where you can do any changes, if needed. Hit Ctrl+X and save, if needed
 
@@ -220,7 +220,7 @@ And that's it! Install is completed, choose exit, and type reboot to start your 
 
 On rebooting you'll be prompted to login. Bear in mean there are no users created yet, except for the root user. So login with username as root and password you entered above.
 
-Part II: Creating a new user, setting up GUI &#8211; coming soon ;)
+Part II: Creating a new user, setting up GUI - coming soon ;)
 
  [1]: https://wiki.archlinux.org/index.php/Main_Page
  [2]: ../2008/01/22/virtualization-concepts-and-basics-for-dummies/

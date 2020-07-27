@@ -33,7 +33,7 @@ tags:
 <div>
   <ol>
     <li>
-      Open ccsm (press alt+f2 type &#8220;ccsm&#8221;)
+      Open ccsm (press alt+f2 type "ccsm")
     </li>
     <li>
       Enter General Options
@@ -43,7 +43,7 @@ tags:
     </p>
     
     <li>
-      Go the tab named &#8220;Opacity Settings&#8221; and expand a tree named &#8220;Window opacities&#8221;.
+      Go the tab named "Opacity Settings" and expand a tree named "Window opacities".
     </li>
     <p style="text-align: center;">
       <a href="https://img113.imageshack.us/my.php?image=opacitysettingsgc1.png" target="_blank"><img src="https://img113.imageshack.us/img113/3672/opacitysettingsgc1.th.png" border="0" alt="" /></a>

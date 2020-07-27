@@ -14,7 +14,7 @@ tags:
   - tutorials
 
 ---
-> I did something crazy at some point that created a file called &#8220;-rf&#8221; on my filesystem. Now I can't figure out how to delete it.
+> I did something crazy at some point that created a file called "-rf" on my filesystem. Now I can't figure out how to delete it.
 > 
 > I've tried:
 > 
@@ -27,6 +27,6 @@ rm \-rf</pre>
 
 heh. What're the odds, eh?
 
-via [Removing &#8220;-rf&#8221; file in Unix &#8211; Super User][1].
+via [Removing "-rf" file in Unix - Super User][1].
 
  [1]: https://superuser.com/q/196236/4377

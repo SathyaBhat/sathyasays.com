@@ -33,7 +33,7 @@ sudo mount <device> <mount-point>
 
 Eg: If you wish to mount the Windows C partition to a /windows/C the command will be,sudo mount /dev/hda1 /windows/C
 
-For SATA drives, the &#8220;hdx&#8221; will be replaced by &#8220;sdx&#8221; ie, instead of /dev/hda1
+For SATA drives, the "hdx" will be replaced by "sdx" ie, instead of /dev/hda1
 
 it'll be /dev/sda1
 
@@ -67,7 +67,7 @@ You'll get the file some-file.tar. Next untar it using
 
 tar xvf some-file.tar
 
-3. **rpm/dpkg** &#8211; Install/Upgrade/Remove RPM/Debian Packages
+3. **rpm/dpkg** - Install/Upgrade/Remove RPM/Debian Packages
 
 Usage:
 
@@ -97,7 +97,7 @@ For apt-get: **apt-get install <package-name>**
 
 Again these commands require root privileges, so prefix sudo before each of these commands.
 
-4. **cat** &#8211; Concatenate files and print on the standard output. Useful for viewing short text files, logs without having to open any editors
+4. **cat** - Concatenate files and print on the standard output. Useful for viewing short text files, logs without having to open any editors
 
 Usage:
 
@@ -111,7 +111,7 @@ If the text file is lengthy, pipe it via more to scroll ie
 
 Eg: cat /var/log/syslog |more
 
-5. **dmesg** &#8211; The program helps users to print out their bootup messages. Instead of copying the messages by hand, the user need only:
+5. **dmesg** - The program helps users to print out their bootup messages. Instead of copying the messages by hand, the user need only:
 
 >  **dmesg > boot.message**s
 

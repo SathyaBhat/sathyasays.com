@@ -24,6 +24,6 @@ tags:
 ---
 I had this problem with a wubi install. Ubuntu would highly pester me and drop to command shell (that of grub) without showing the boot options (Why and who knows??). I every time will have to boot by manually entering boot options (really painful).  So I did this.
 
-I entered the boot command of the &#8220;recovery console&#8221; manually by finding it out from grub.cfg through the Live CD. After getting to the repair option I selected the option &#8220;Update GRUB&#8221;. Then the system did something I dont know. Then after returning to the options I selected the option similar to Boot Normally (whatever the exact wording was). Now, that was a miraculous finding. I restarted and boot worked like it should.
+I entered the boot command of the "recovery console" manually by finding it out from grub.cfg through the Live CD. After getting to the repair option I selected the option "Update GRUB". Then the system did something I dont know. Then after returning to the options I selected the option similar to Boot Normally (whatever the exact wording was). Now, that was a miraculous finding. I restarted and boot worked like it should.
 
 P.S-Something or the other helps me huh??

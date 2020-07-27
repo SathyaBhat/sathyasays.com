@@ -33,7 +33,7 @@ They say a picture is worth a thousand words. [This picture][1]{#aptureLink_ZLu
 
 <!--more-->
 
-&#8220;Vish&#8221; [says][2]{#aptureLink_zxC8tVMWB3} &#8220;the description didn't include enough information&#8221;.
+"Vish" [says][2]{#aptureLink_zxC8tVMWB3} "the description didn't include enough information".
 
 > > Thank you for taking the time to report this bug and helping to make Ubuntu better. Unfortunately, we cant fix it because your description didnt include enough information.
 
@@ -51,19 +51,19 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > 
 > Expected Results:
 > 
-> Expecting a cool and awesome looking wallpaper for &#8220;the perfect 10&#8221; because Ubuntu is awesome and therefore the wallpaper should reflect this awesomeness.
+> Expecting a cool and awesome looking wallpaper for "the perfect 10" because Ubuntu is awesome and therefore the wallpaper should reflect this awesomeness.
 > 
 > Actual Results:
 > 
-> &#8211; My eyes ! They're melting !
+> - My eyes ! They're melting !
   
-> &#8211; The 10 is not perfect with this wallpaper
+> - The 10 is not perfect with this wallpaper
   
-> &#8211; MacOS X &#8220;Snow Leopard&#8221; and Windows 7 have better default wallpapers
+> - MacOS X "Snow Leopard" and Windows 7 have better default wallpapers
   
-> &#8211; Does not inspire awe
+> - Does not inspire awe
   
-> &#8211; No one likes it, I haven't found any positive feedback on this wallpaper
+> - No one likes it, I haven't found any positive feedback on this wallpaper
 > 
 > Build Date & Platform:
 > 
@@ -71,9 +71,9 @@ Well, he got a pretty descriptive [bug report][3]{#aptureLink_BN6zPL2Fq3}, cour
 > 
 > Additional Information:
 > 
-> &#8211; Slows down the work of the Ubuntu Manual team
+> - Slows down the work of the Ubuntu Manual team
   
-> &#8211; Was listening to &#8220;Metallica &#8211; The thing that should not be&#8221; while writing this comment
+> - Was listening to "Metallica - The thing that should not be" while writing this comment
 
 via [Bug #625193 is not in Ubuntu: “Official 10.10 wallpaper is unappealing”][5].
 

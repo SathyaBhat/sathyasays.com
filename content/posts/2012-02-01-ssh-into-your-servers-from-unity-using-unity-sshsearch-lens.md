@@ -30,7 +30,7 @@ I love Unity, especially the lens feature. While going through the Ubuntu store,
 </p>
 
 <p style="text-align: left;">
-  Pretty slick. Install it by searching for SSH Search Lens in Ubuntu store or by clicking <a title="Unity Lens SSH Search" href="https://apt.ubuntu.com/p/unity-lens-sshsearch">here</a>. Oh, the notes mention you'll need Oneiric & above &#8211; so keep that in mind.
+  Pretty slick. Install it by searching for SSH Search Lens in Ubuntu store or by clicking <a title="Unity Lens SSH Search" href="https://apt.ubuntu.com/p/unity-lens-sshsearch">here</a>. Oh, the notes mention you'll need Oneiric & above - so keep that in mind.
 </p>
 
 <p style="text-align: left;">

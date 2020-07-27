@@ -22,7 +22,7 @@ Now, I had some extra credits for AWS that were to expire soon and I figured ins
 
 To reduce expenses further, I started looking at Spot prices and it turned out, the spot prices were about 68% cheaper as compared to the on-demand prices. Since we don't really care about what happens when the spot termination happens and the ASG will bring the instance count back up, I went with this option. 
 
-{{< figure src="/images/spot-savings.png" title="Spot savings as compared to On-Demand" >}}
+{{< figure src="https://images.sbhat.me/ss/spot-savings.png" title="Spot savings as compared to On-Demand" >}}
 
 
 The spot pricing trend revealed that the prices had remained stable and just to ensure the spot bids would be fulfilled, I kept the max spot price couple of cents more than the maximum price going then. Initially, the instances were brought up by manually launching them from the AWS Console. Since long I'd been meaning to use [AWS CDK](https://aws.amazon.com/cdk/), this was the perfect opportunity to learn and try to use it. 

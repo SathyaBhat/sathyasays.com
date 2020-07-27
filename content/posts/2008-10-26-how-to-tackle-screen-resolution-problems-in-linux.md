@@ -25,9 +25,9 @@ This happened for me with Gusty install. Just press Ctrl +alt+f2 and you should 
 
 **NVIDIA DRIVERS**
 
-NVIDIA Proprietary Drivers when installed through repositories, can cause problems with the screen resolution. This really test the patience of an individual. So for people who don't know please install &#8220;nvidia-settings&#8221; first from the repositories(mostly, should be available there). There in the &#8216;Display Configuration' you should be having the screen resolution you need. Set it and if you want this resolution everytime you login then, click &#8220;Save to XConfiguration File&#8221; button. You SHOULD be root/ use &#8216;gksu' to do this.
+NVIDIA Proprietary Drivers when installed through repositories, can cause problems with the screen resolution. This really test the patience of an individual. So for people who don't know please install "nvidia-settings" first from the repositories(mostly, should be available there). There in the &#8216;Display Configuration' you should be having the screen resolution you need. Set it and if you want this resolution everytime you login then, click "Save to XConfiguration File" button. You SHOULD be root/ use &#8216;gksu' to do this.
 
-Secondly, the problem could be that you may not be having the desired resolution in the drop-down menu. In that case, click on the &#8220;Advanced&#8221; button and add your desired but compatible resolution there. If it asks that it is unaviable and whether it should do what is possible say &#8220;Apply what is possible&#8221;. I think that should the trick.
+Secondly, the problem could be that you may not be having the desired resolution in the drop-down menu. In that case, click on the "Advanced" button and add your desired but compatible resolution there. If it asks that it is unaviable and whether it should do what is possible say "Apply what is possible". I think that should the trick.
 
 Thirdly, sometimes a bug is there where the set resolution may not become permanent even after saving it to the Xconfig file i.e. /etc/X11/xorg.conf . There is a way to fix this, however. Only by editing &#8216;edid.bin' using hex editor. Thats the best that could be done.
 
@@ -39,7 +39,7 @@ Lets assume your screen resolution keeps changing to 979&#215;768 and you want 1
 
 (ii)Go to: “System -> Administration -> NVIDIA X Server Setting”
 
-(iii) From the left hand list choose: “DFP-0 &#8211; (Nvidia Default Flat Panel)” (or whatever is your default panel)
+(iii) From the left hand list choose: “DFP-0 - (Nvidia Default Flat Panel)” (or whatever is your default panel)
 
 (iv) Click the “Aquire EDID” button.
 
@@ -83,7 +83,7 @@ Mode "1024x768" # vfreq 57.645Hz, hfreq 46.462kHz`
 
 (xvi) Open /etc/X11/xorg.conf as root, in gedit/vim.
 
-(xvii) Then in the &#8220;Screen&#8221; section add the following: `Option "CustomEDID" "DFP-0:/etc/X11/edid.bin"`
+(xvii) Then in the "Screen" section add the following: `Option "CustomEDID" "DFP-0:/etc/X11/edid.bin"`
 
 replace the display device name (DFP-0) with your own that would be mentioned in nvidia-settings
 

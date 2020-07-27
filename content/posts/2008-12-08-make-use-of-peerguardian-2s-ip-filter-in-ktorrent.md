@@ -20,7 +20,7 @@ Launch KTorrent. Click on On Settings -> Configure KTorrent . Click on Plugins a
 
 ![Ktorrent settings][1]
 
-Now Click on Apply. Next on the sidebar, scroll down and click on IP Filter. Click on the checkbox next to &#8220;Use PeerGuardian Filter&#8221;. Next just click on Download/Convert. It might take a minute or two for the list to be loaded and converted to a format KTorrent can understand.
+Now Click on Apply. Next on the sidebar, scroll down and click on IP Filter. Click on the checkbox next to "Use PeerGuardian Filter". Next just click on Download/Convert. It might take a minute or two for the list to be loaded and converted to a format KTorrent can understand.
 
 ![IP-Filter][2]
 

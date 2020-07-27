@@ -14,7 +14,7 @@ tags:
 ---
 In my stash of ebooks, quite a few of them are in chm (compiled HTML) file format. Being HTML files I though they'd open in Mozilla Firefox browser. Unfortunately that didn't work, so I started looking for CHM viewers. I didn't have to look far, a quick search on Google gave me couple of programs.
 
-  1. KChmViewer: Since I'm a KDE user I tried out this application &#8211; and it works fantastic. Really nice, and neat. Download it from <https://www.kchmviewer.net/> or just search for it from your Package Manager. The latest version adds KDE4 support as well, though its still in beta
+  1. KChmViewer: Since I'm a KDE user I tried out this application - and it works fantastic. Really nice, and neat. Download it from <https://www.kchmviewer.net/> or just search for it from your Package Manager. The latest version adds KDE4 support as well, though its still in beta
   
     ![KChmViewer][1]
   2. Gnochm: If you're a Gnome fan, you can try out Gnochm as well. Download Gnochm from [here][2].

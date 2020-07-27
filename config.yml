@@ -7,6 +7,11 @@ hasCJKLanguage: false
 paginate: 10
 enableEmoji: true
 googleAnalytics: "UA-155085050-1"      # UA-XXXXXXXX-X 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 permalinks:
   posts: /:year/:month/:filename/
 
