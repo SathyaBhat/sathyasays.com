@@ -79,6 +79,6 @@ The summary would be like so:
 } 
 ```
 
-Aqua will stop the build if it finds any vulnerabilities of severity &#8220;High&#8221; – however, we can pass  `--continue-on-failure` flag to ignore the High severity issues and continue the build.
+Aqua will stop the build if it finds any vulnerabilities of severity "High" – however, we can pass  `--continue-on-failure` flag to ignore the High severity issues and continue the build.
 
 I think this tool is really good, especially for small developers – with just few lines of Dockerfile instructions, the developer is able add vulnerability scanning of the images – and combined with CI like that of [Gitlab CI/CD Pipelines](https://about.gitlab.com/features/gitlab-ci-cd/), it's a good way of building vulnerability-free container images.

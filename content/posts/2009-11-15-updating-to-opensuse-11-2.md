@@ -31,7 +31,7 @@ Just change the repos to mention 11.2 instead of 11.0/11.1, as shown in the pic:
 
 <!--more-->
 
-[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos-300x155.jpg 300w, https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="https://images.sbhat.me/ss/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://images.sbhat.me/ss/2009/11/opensuse-repos-300x155.jpg 300w, https://images.sbhat.me/ss/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Once that's done, open the terminal, and switch to root
 
@@ -57,4 +57,4 @@ A word of caution: if you're on low bandwidth / low speed connection, it's bette
 
 And yes, if you have any third party repos, that might break so just be weary of that
 
- [1]: https://sathyasays.com/wp-content/uploads/2009/11/opensuse-repos.jpeg
+ [1]: https://images.sbhat.me/ss/2009/11/opensuse-repos.jpeg

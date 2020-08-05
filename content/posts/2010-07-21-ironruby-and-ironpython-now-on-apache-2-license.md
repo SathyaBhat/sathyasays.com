@@ -18,6 +18,6 @@ tags:
 ---
 > If you check the latest versions of IronRuby, IronPython or the Dynamic Language Runtime you will see that Microsoft has now relicensed the code from the Microsoft Permissive License to the Apache 2 License
 
-via [Microsoft Licensing Changes for IronRuby and IronPython &#8211; Miguel de Icaza][1].
+via [Microsoft Licensing Changes for IronRuby and IronPython - Miguel de Icaza][1].
 
  [1]: https://tirania.org/blog/archive/2010/Jul-17-1.html

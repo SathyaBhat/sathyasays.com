@@ -13,7 +13,7 @@ tags:
 ---
 Most of the how-to's and fixes posted here, are generally my experiences and I post them on how I went about fixing it. This particular how-to was mentioned to me by my very good friend, Bharath, who had this annoying problem of the title bars of every window crashing and disappearing when Emerald is chosen as the decorator.
 
-Generally, I'd recommend running `gtk-window-decorator --replace` or `metacity --replace` in terminal &#8211; that generally does reinitialize the window decorators. However for Bharath, this particular solution didn't help and he kept facing the same problem
+Generally, I'd recommend running `gtk-window-decorator --replace` or `metacity --replace` in terminal - that generally does reinitialize the window decorators. However for Bharath, this particular solution didn't help and he kept facing the same problem
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Despite typing the above, the title bars would still keep crashing. After some p
 
   1. Open Gconf-editor
   2. Head to Applications -> Nautilus -> Preferences
-  3. Modify key &#8220;navigation\_windows\_saved_geometry&#8221; to a resolution, that is lesser than the current screen resolution.
+  3. Modify key "navigation\_windows\_saved_geometry" to a resolution, that is lesser than the current screen resolution.
 
 <div>
   Do note that you should ideally do this with none of the Nautilus windows open. Save Gconf editor, and launch Nautilus, the title bars should be back now.

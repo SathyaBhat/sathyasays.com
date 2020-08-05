@@ -15,10 +15,10 @@ I wanted a way to download my Spotify songs for offline listening. Ideally I'd
 
 A while back, I'd used <a href="https://github.com/frosas/spotify-to-mp3" target="_blank">spotify_to_mp3</a> which made use of Grooveshark to download, but Grooveshark shut down, leaving the script defunct. This gave me an idea to build something similar.
 
-With this as the motivation, I built <a href="https://github.com/SathyaBhat/spotify-dl" target="_blank">Spotify-dl</a> to scratch an itch as well as to improve my Python skills. Since Spotify doesn't allow you to download songs directly, I followed the same approach as spotify\_to\_mp3 &#8211; which is
+With this as the motivation, I built <a href="https://github.com/SathyaBhat/spotify-dl" target="_blank">Spotify-dl</a> to scratch an itch as well as to improve my Python skills. Since Spotify doesn't allow you to download songs directly, I followed the same approach as spotify\_to\_mp3 - which is
 
   * Login to your Spotify library
-  * Fetch all your &#8220;My Music&#8221; tracks using <a href="https://developer.spotify.com/web-api/" target="_blank">Spotify Web API</a>
+  * Fetch all your "My Music" tracks using <a href="https://developer.spotify.com/web-api/" target="_blank">Spotify Web API</a>
   * Parse the artist name & track name
   * Search for the artist name & track name against YouTube using <a href="https://developers.google.com/youtube/v3/?hl=en" target="_blank">their Data API</a> and grab their YouTube URLs
   * Pass the YouTube URLs to youtube-dl to download the songs

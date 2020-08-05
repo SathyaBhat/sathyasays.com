@@ -23,8 +23,8 @@ That solution did not allow me to shutdown my PC normally. The shutdown was an a
 <a href="https://ubuntuforums.org/showthread.php?t=1168703" target="_blank">This how-to suggested by Paulis321</a> in Ubuntu Forums has actually worked for me. Thanks to him, that now I am able to boot into ubuntu with acpi switched on. The how-to, however, was bettered by me thus:
 
   1. Turn off ACPI in BIOS. Boot into Ubuntu (preferably, after installation).
-  2. Open _&#8220;/etc/modprobe.d/blacklist.conf&#8221;_ in _gedit_ (or any text editor) with root permissions
-  3. Add line _&#8220;blacklist intel_agp&#8221;_ anywhere on the file. Save file
+  2. Open _"/etc/modprobe.d/blacklist.conf"_ in _gedit_ (or any text editor) with root permissions
+  3. Add line _"blacklist intel_agp"_ anywhere on the file. Save file
   4. Reboot
   5. Turn ACPI back on, in BIOS
   6. Save and Boot

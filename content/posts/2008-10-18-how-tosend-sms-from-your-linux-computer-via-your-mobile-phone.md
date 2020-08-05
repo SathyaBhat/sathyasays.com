@@ -41,7 +41,7 @@ This is a highly recommended app!
 
 Installation: Phone Manager comes with Fedora 10 [don't know about previous versions].
 
-To install in Fedora &#8211; open the terminal and type
+To install in Fedora - open the terminal and type
 
 > `yum -y install gnome-phone-manager`
 

@@ -28,6 +28,6 @@ tags:
 ---
 This one seems to be a really famous problem for most folks in Ubuntu 9.10 Karmic Koala. So I had it too. The problem was on the initrd file. It is a kernel related file needed for booting. So i did a simple thing.
 
-I replaced initrd.img file of my kernel version with &#8220;initrd.lz&#8221; file from the Ubuntu LiveCD and edited my grub.cfg file (equivalent of menu.lst in older Ubuntu releases), to boot using initrd.lz
+I replaced initrd.img file of my kernel version with "initrd.lz" file from the Ubuntu LiveCD and edited my grub.cfg file (equivalent of menu.lst in older Ubuntu releases), to boot using initrd.lz
 
 In other words, wherever there is an entry like initrd.img.2.24-16 or similar just replace it with initrd.lz and in my case I also copied over the vmlinuz file and made necessary entries (just in case). Now, am back in action with Ubuntu. :D

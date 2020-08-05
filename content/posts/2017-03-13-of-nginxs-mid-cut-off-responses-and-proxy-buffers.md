@@ -14,7 +14,7 @@ tags:
   - reverse proxy
 
 ---
-Among the services I look after, the biggest and high-profile &#8211; is the user facing website. The website is your bog-standard typical frontend(powered by Express/Angular) which fetches data via an API which is powered by the backend(built on Rails). Typical flow is that Express receives the request from the browser, makes a request to the backend which is then served using Rails API via nginx which acts as the reverse proxy.
+Among the services I look after, the biggest and high-profile - is the user facing website. The website is your bog-standard typical frontend(powered by Express/Angular) which fetches data via an API which is powered by the backend(built on Rails). Typical flow is that Express receives the request from the browser, makes a request to the backend which is then served using Rails API via nginx which acts as the reverse proxy.
 
 <!--more-->
 

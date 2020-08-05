@@ -12,13 +12,13 @@ tags:
 ---
 I just encountered this problem recently so I thought I would drop a short note about it. Once I was trying to mount ext3 filesystems with read and write support and I, by mistake, did chmod my entire root partition as 775.
 
-In this process, I made a warning message appear everytime I login, saying something like the home directory should be accessible by only its owner and should be set to 644. In addition, it also said that the file &#8220;$HOME/.dmrc&#8221; should be blah blah blah.
+In this process, I made a warning message appear everytime I login, saying something like the home directory should be accessible by only its owner and should be set to 644. In addition, it also said that the file "$HOME/.dmrc" should be blah blah blah.
 
-First, I made my home directory into 644. Then it won't let me login saying it was not able to access my home directory. If I set it to 755 then that damn warning message I mentioned earlier reappears (What do I do?). Then what i doubted was that &#8220;.dmrc&#8221; file.
+First, I made my home directory into 644. Then it won't let me login saying it was not able to access my home directory. If I set it to 755 then that damn warning message I mentioned earlier reappears (What do I do?). Then what i doubted was that ".dmrc" file.
 
 <span style="#888888;"><strong>WHAT TO DO?</strong></span>
 
-I just **set the permission of &#8220;$HOME/.dmrc&#8221; to 644** , **leaving rest to be in775** and **it worked like a charm**. I now am able to login and no warning message appears.
+I just **set the permission of "$HOME/.dmrc" to 644** , **leaving rest to be in775** and **it worked like a charm**. I now am able to login and no warning message appears.
 
 I hope this will help you too.
 

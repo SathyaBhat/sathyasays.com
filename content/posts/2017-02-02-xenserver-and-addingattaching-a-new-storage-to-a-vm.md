@@ -20,7 +20,7 @@ This time I tried a different approach:
   * rather than increasing the space of the attached disk, I created a new disk and attach it to the VM from Xenserver Management Console
   * Since the VM is configured with LVM, I decided to add the new disk as a Physical Volume(PV) and then extend the Logical Volume(LV) & Volume Group(VG)
 
-Creating a new disk and attaching it to the VM from Xenserver management Console is fairly straightforward. First make note of the device to which the new disk is attached to. In this case, it is assumed to be xvdc. I'm also assuming that the volume group mesa-nl-vg exists and /dev/mapper/mesa&#8211;nl&#8211;vg&#8211;root is the logical volume path
+Creating a new disk and attaching it to the VM from Xenserver management Console is fairly straightforward. First make note of the device to which the new disk is attached to. In this case, it is assumed to be xvdc. I'm also assuming that the volume group mesa-nl-vg exists and /dev/mapper/mesa-nl-vg-root is the logical volume path
 
 Here's the steps ahead
 

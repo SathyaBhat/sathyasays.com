@@ -14,7 +14,7 @@ tags:
   - free downloads
 
 ---
-Hackershelf is curated collection of legally free books. Check it <a href="https://hackershelf.com" target="_blank">out</a>. On a related topic of programming books &#8211; check out Stack Overflow's tag wiki on <a href="https://stackoverflow.com/tags/books/info" target="_blank">books</a>.
+Hackershelf is curated collection of legally free books. Check it <a href="https://hackershelf.com" target="_blank">out</a>. On a related topic of programming books - check out Stack Overflow's tag wiki on <a href="https://stackoverflow.com/tags/books/info" target="_blank">books</a>.
 
 Related: <a title="HN Books" href="https://hn-books.com/" target="_blank">HN-Books</a>: a  listing all the books that hackers recommended to each other from the site [HackerNews][1].
 

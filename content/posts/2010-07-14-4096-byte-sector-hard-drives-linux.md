@@ -37,8 +37,8 @@ tags:
 
 via [Linux Not Fully Prepared for 4096-Byte Sector Hard Drives | OS News][1].
 
-If you're going to grab some new hard drives, the above article is worth reading. The article dates to Feb, 2010 &#8211; so I'm not sure if this situation still exists. Further more,
+If you're going to grab some new hard drives, the above article is worth reading. The article dates to Feb, 2010 - so I'm not sure if this situation still exists. Further more,
 
-> These drives are on the market **now**. We've known about this issue for a LONG time, and now it's here, and we haven't fully prepared. Some distros, like Ubuntu, use &#8220;parted&#8221;, which has a very nice &#8220;&#8211;align optimal&#8221; option that will do the right thing. But parted is incomplete, and we must rely on tools like fdisk for everything else. **But anyone manually formatting drives based on popular how-tos that pop up at the top of Google searches is going to cause themselves a major performance hit, because mention of this alignment issue and how to fix it is conspicuously absent**.
+> These drives are on the market **now**. We've known about this issue for a LONG time, and now it's here, and we haven't fully prepared. Some distros, like Ubuntu, use "parted", which has a very nice "-align optimal" option that will do the right thing. But parted is incomplete, and we must rely on tools like fdisk for everything else. **But anyone manually formatting drives based on popular how-tos that pop up at the top of Google searches is going to cause themselves a major performance hit, because mention of this alignment issue and how to fix it is conspicuously absent**.
 
  [1]: https://www.osnews.com/story/22872/Linux_Not_Fully_Prepared_for_4096-Byte_Sector_Hard_Drives

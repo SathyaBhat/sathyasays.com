@@ -26,7 +26,7 @@ However, if you do plan to drop by for the [Dev Chat](https://www.portal.reinven
 
 {{< tweet 1198277028497231872 >}}
 
-{{< figure src="/images/at-reinvent-2019.jpg" title="Catch me at re:Invent 2019" >}}
+{{< figure src="https://images.sbhat.me/ss/at-reinvent-2019.jpg" title="Catch me at re:Invent 2019" >}}
 
 
 Have a good re:Invent and see you then!

@@ -21,7 +21,7 @@ tags:
 > 
 > Then he wrote me:
 
-via [Martin Kool &#8211; Game Developer Gives 7-Year-Old Best Birthday Present Ever][1].
+via [Martin Kool - Game Developer Gives 7-Year-Old Best Birthday Present Ever][1].
 
 Love this.
 

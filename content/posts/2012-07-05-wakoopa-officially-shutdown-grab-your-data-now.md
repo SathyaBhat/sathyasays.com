@@ -14,7 +14,7 @@ tags:
   - wakoopa
 
 ---
-About 2 weeks ago, Wakoopa announced that they will be shutting down their <a title="Wakoopa is dead" href="https://techie-buzz.com/tech-news/wakoopa-service-made-software-social-comes-end.html" target="_blank">social network soon</a> & focusing on &#8220;Corporate Research&#8221;.
+About 2 weeks ago, Wakoopa announced that they will be shutting down their <a title="Wakoopa is dead" href="https://techie-buzz.com/tech-news/wakoopa-service-made-software-social-comes-end.html" target="_blank">social network soon</a> & focusing on "Corporate Research".
 
 Unfortunately that day is here. Just received an email stating that as of today, you can grab an <a href="https://social.wakoopa.com/" target="_blank">export of your data</a>.
 
@@ -29,7 +29,7 @@ This is what they have to say about the export
 > </p>
 > 
 > <p style="margin: 0px 0px 20px; font-size: 16px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">
->   This would mean: the user with ID=12345 used the Windows version Skype (which is an Internet > Messengers & Chat software) for 10 seconds on 31st of May 2012 between 20:00 &#8211; 21:00.
+>   This would mean: the user with ID=12345 used the Windows version Skype (which is an Internet > Messengers & Chat software) for 10 seconds on 31st of May 2012 between 20:00 - 21:00.
 > </p>
 
-Too bad Wakoopa's no longer going to be around. Wakoopa would be the first software I'd install &#8211; even before installing the drivers. There was something analysing the data about what software you use for how long, and which software did I use the most in the background. Now, I'm not really sure what to do with the data. I don't think Rescue Time supports importing Wakoopa data &#8211; it'd be sweet if they did. Maybe see if I can stuff if into <a title="procrastitracker" href="https://procrastitracker.com/" target="_blank">ProcrastiTracker</a>?
+Too bad Wakoopa's no longer going to be around. Wakoopa would be the first software I'd install - even before installing the drivers. There was something analysing the data about what software you use for how long, and which software did I use the most in the background. Now, I'm not really sure what to do with the data. I don't think Rescue Time supports importing Wakoopa data - it'd be sweet if they did. Maybe see if I can stuff if into <a title="procrastitracker" href="https://procrastitracker.com/" target="_blank">ProcrastiTracker</a>?

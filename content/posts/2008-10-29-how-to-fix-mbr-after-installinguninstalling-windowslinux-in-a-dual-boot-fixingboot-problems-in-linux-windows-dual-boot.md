@@ -21,9 +21,9 @@ Many, who do a dual boot with any Linux and Windows will face the problem of Mas
 
 
   
-**For Windows XP:** Boot the installation CD and select repair. Enter your windows installation drive number (shown there) and enter Administrative Password. Now run these two commands there one after the other  &#8212; &#8220;fixmbr&#8221; and &#8220;fixboot&#8221;. Optionally some people also run &#8220;bootcfg /rebuild&#8221;. You're Done.
+**For Windows XP:** Boot the installation CD and select repair. Enter your windows installation drive number (shown there) and enter Administrative Password. Now run these two commands there one after the other  &#8212; "fixmbr" and "fixboot". Optionally some people also run "bootcfg /rebuild". You're Done.
 
-**For Windows Vista:** Boot from the installation CD/DVD and enter &#8220;Repair Windows&#8221; link at the left hand bottom of the dialog. Then go to command prompt . There run &#8220;bootrec /fixmbr&#8221; and &#8220;bootrec /fixboot&#8221; commands one after the other. That does it.
+**For Windows Vista:** Boot from the installation CD/DVD and enter "Repair Windows" link at the left hand bottom of the dialog. Then go to command prompt . There run "bootrec /fixmbr" and "bootrec /fixboot" commands one after the other. That does it.
 
 **FIXING GRUB AFTER INSTALLING WINDOWS**
 

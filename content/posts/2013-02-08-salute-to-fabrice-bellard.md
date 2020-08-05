@@ -8,7 +8,7 @@ categories:
   - Programming
 
 ---
-I probably top the ranks of lazy arses who procrastinate like there's no tomorrow &#8211; and then there's Fabrice Bellard
+I probably top the ranks of lazy arses who procrastinate like there's no tomorrow - and then there's Fabrice Bellard
 
 > Amongst others, he's created/led
 > 

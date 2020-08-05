@@ -22,9 +22,9 @@ Yeah, let me just quote from their blog when they announced their free service:
 
 > If you sign up during this time period, you get unlimited storage, for free. **You get an account that is not a free trial, not free for a limited time, free forever**.
 
-Free forever, eh? Right. This is what annoys the fuck out of me. Why in the world do you promise shit you you can't keep? Why the fuck do you have to sugarcoat and provide false promises? All in the name of &#8220;gaining traction&#8221;.
+Free forever, eh? Right. This is what annoys the fuck out of me. Why in the world do you promise shit you you can't keep? Why the fuck do you have to sugarcoat and provide false promises? All in the name of "gaining traction".
 
-These services are driving me up the wall with their bait and switch tactics. Bait users with their free tactics, gain &#8220;traction&#8221; and then switch over to paid service or sell out to big cos (&#8220;yay, exit!!!!11&#8221;) and then dump users, early adopters and others who promoted their services for free, leaving them in the lurch.
+These services are driving me up the wall with their bait and switch tactics. Bait users with their free tactics, gain "traction" and then switch over to paid service or sell out to big cos ("yay, exit!!!!11") and then dump users, early adopters and others who promoted their services for free, leaving them in the lurch.
 
 STOP. FUCKING. DOING THIS. Argh. I've lost count the number of times and the time I've had to spend in moving shit out of the services.
 
