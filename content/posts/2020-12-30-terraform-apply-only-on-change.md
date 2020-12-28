@@ -1,10 +1,9 @@
 ---
 title: Getting Terraform to apply only when a change exists
-author: Sathya
+author: Sathyajith Bhat
 type: post
-date: 2020-11-30T00:00:00+00:00
+date: 2020-11-28T00:00:00+00:00
 url: /2020/12/30/terraform-apply-only-on-change
-featured_image: https://images.sbhat.me/ss/neon-city/neon-city-box.jpg
 categories:
   - "Tips & How-To's"
 tags:
