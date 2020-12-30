@@ -210,7 +210,7 @@ elif [ $? -eq 2 ]; then
 fi
 ```
 
-Now when you invoke `make plan` - you will get an error:
+Now when you invoke `make plan`
 
 ```bash
 ❯ make plan
@@ -234,7 +234,7 @@ Plan: 1 to add, 0 to change, 0 to destroy.
 make: *** [Makefile:2: plan] Error 2
 ```
 
-You'll notice `make` exits with an error.  The problem is that Make exits with an error whenever it encounters a non-zero exit code - even if it is what you want. In our case, terraform's detailed exit code conflicts with Make's exit code check. One way to handle this is to make use of bash's "double pipes" like so
+`make` exits with an error.  The problem is that Make exits with an error whenever it encounters a non-zero exit code - even if it is what you want. In our case, terraform's detailed exit code conflicts with Make's exit code check. One way to handle this is to make use of bash's "double pipes" like so
 
 ```bash
 cat /this/does/not/exist || echo "This was run"
@@ -254,3 +254,110 @@ Contrast to an example where the first command suceeded, the second command will
 uname || echo "This was run"
 Linux
 ```
+
+We can apply this to our shell script - we will save the exit code whenever Terraform exits with non-zero code (which will happen if Terraform plan fails or has a diff) and use the error codes to run accordingly. The shell script now looks like
+
+```bash
+#!/bin/bash
+set -eo pipefail
+exit_status=0
+terraform init -reconfigure
+terraform validate
+terraform plan -detailed-exitcode || exit_status=$?
+if [ $exit_status -eq 0 ]; then
+    echo "No changes, not applying"
+elif [ $exit_status -eq 1 ]; then
+    echo "Terraform plan failed"
+    exit 1
+elif [ $exit_status -eq 2 ]; then
+    if [[ $ACTION == "APPLY" ]]; then
+        terraform apply -auto-approve
+    fi
+fi
+```
+
+And now when you invoke `make plan` it runs successfuly! 
+
+```bash
+❯ make plan
+ACTION=PLAN ./call_terraform.sh
+
+Initializing the backend...
+
+Initializing provider plugins...
+- Using previously-installed hashicorp/aws v2.70.0
+
+Terraform has been successfully initialized!
+
+[...]
+
+------------------------------------------------------------------------
+
+An execution plan has been generated and is shown below.
+Resource actions are indicated with the following symbols:
+  + create
+Plan: 1 to add, 0 to change, 0 to destroy.
+
+❯ echo $?
+0
+```
+
+For applying the changes, just do a `make apply`. When there's changes to be applied, Terraform runs as expected:
+
+```bash
+❯ make apply
+ACTION=APPLY ./call_terraform.sh
+
+Initializing the backend...
+
+Initializing provider plugins...
+- Using previously-installed hashicorp/aws v2.70.0
+
+Terraform has been successfully initialized!
+
+[...]
+------------------------------------------------------------------------
+
+An execution plan has been generated and is shown below.
+Resource actions are indicated with the following symbols:
+  + create
+
+Terraform will perform the following actions:
+[...]
+Plan: 1 to add, 0 to change, 0 to destroy.
+
+[...]
+
+aws_vpc.test_vpc: Creating...
+aws_vpc.test_vpc: Creation complete after 5s [id=vpc-00d34db33f]
+
+Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
+```
+
+If there's no changes, running `make apply` will not run `terraform apply`
+
+```bash
+❯ make apply
+ACTION=APPLY ./call_terraform.sh
+
+Initializing the backend...
+
+Initializing provider plugins...
+- Using previously-installed hashicorp/aws v2.70.0
+
+Terraform has been successfully initialized!
+
+[...]
+
+Refreshing Terraform state in-memory prior to plan...
+The refreshed state will be used to calculate this plan, but will not be
+persisted to local or remote state storage.
+
+aws_vpc.wg_vpc: Refreshing state... [id=vpc-vpc-00d34db33f]
+
+------------------------------------------------------------------------
+
+No changes. Infrastructure is up-to-date.
+
+[...]
+No changes, not applying
