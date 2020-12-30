@@ -99,6 +99,77 @@ So terraform will return a zero-error code if there's no changes to be applied, 
 ```bash
 #!/bin/bash
 terraform init -reconfigure
+terraform plan -detailed-exitcode
+if [ $? -eq 0 ]; then
+  echo "No changes, not applying"
+elif [ $? -eq 1 ]; then
+  echo "Terraform plan failed"
+  exit 1
+elif [ $? -eq 2 ]; then
+  terraform apply -auto-approve
+fi
+```
+
+So, there you go - with this simple tweak, terraform will run the apply command if there's nothing to be done. But.. We're not done yet. 
+
+### Chaining with Make
+
+[GNU/Make](https://www.gnu.org/software/make/manual/make.html) is a build automation tool which builds executable programs and libraries by reading Makefiles and invoking targets. Make and Makefiles make it easy to invoke arbitrary targets in a clean simple way. This is excellent for pipeline automation - for example, if you need to do a terraform plan for a lot of accounts and environments, instead of having 
+
+```bash
+cd dev/region1
+terraform plan
+cd dev/region2
+terraform plan
+```
+
+... 
+
+and having to call these multiple times you can have a Makefile which says
+
+```Makefile
+plan:
+    cd dev/region1
+    terraform plan
+    cd dev/region2
+    terraform plan
+```
+
+and just invoke `make plan` from your favorite CI/CD tool. I won't get into details of Make, Karan has a nice post on [how to get started with Make and Makefiles](https://mrkaran.dev/posts/makefiles-intro/) that you can read. Coming back, for faster feedback cycle, I wrapped the terraform commands to a shell script called `call_terraform.sh`
+
+```bash
+#!/bin/bash
+terraform init -reconfigure
+terraform validate
+terraform plan -detailed-exitcode
+if [ $? -eq 0 ]; then
+  echo "No changes, not applying"
+elif [ $? -eq 1 ]; then
+  echo "Terraform plan failed"
+  exit 1
+elif [ $? -eq 2 ]; then
+  terraform apply -auto-approve
+fi
+```
+
+created a Makefile
+
+```Makefile
+plan: 
+	./call_terraform.sh
+```
+
+So now everytime I do a `make plan`, I would have a terraform init, validate and plan run instead of having to type them manually. However, this wasn't working completely as I expected, for I noticed when the validate fails, the shell script would still continue on to the next command. I started reading up more about [set built-ins in bash](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html). 
+
+The set built-in allows us to change the values of shell options. In particular, the `-e` command causes an immediate exit if a command or a group of command returns a non-zero. There's another option `-o pipefail` where the return value of the pipeline is set to non-zero if any of the commands in the pipeline fail. This can prevent masking of errors as without this set command, the pipeline's return code is that of the last command and even if an intermediate command fails, it will be set to zero, indicating successful completion of the pipeline. Even though we do not have any piped commands yet, it's a sane default to have in every shell script.
+
+With this, our shell script is now
+
+```bash
+#!/bin/bash
+set -eo pipefail
+terraform init -reconfigure
+terraform validate
 terraform plan
 if [ $? -eq 0 ]; then
   echo "No changes, not applying"
@@ -110,4 +181,76 @@ elif [ $? -eq 2 ]; then
 fi
 ```
 
-So, there you go - with this simple tweak, terraform will run the apply command if there's nothing to be done. 
+Now, invoking the plan target will call the shell script, and that will result in a Terraform plan and apply - and we just want a plan. We can modify the Makefile and shell script to accept a variable called action which will then run apply only if:
+- changes exist
+- the action called apply is invoked.  
+
+So our Makefile will now look like:
+
+```Makefile
+plan: 
+	ACTION=APPLY ./call_terraform.sh
+```
+
+```bash
+#!/bin/bash
+set -eo pipefail
+terraform init -reconfigure
+terraform validate
+terraform plan -detailed-exitcode
+if [ $? -eq 0 ]; then
+    echo "No changes, not applying"
+elif [ $? -eq 1 ]; then
+    echo "Terraform plan failed"
+    exit 1
+elif [ $? -eq 2 ]; then
+    if [[ $ACTION == "APPLY" ]]; then
+        terraform apply -auto-approve
+    fi
+fi
+```
+
+Now when you invoke `make plan` - you will get an error:
+
+```bash
+❯ make plan
+ACTION=PLAN ./call_terraform.sh
+
+Initializing the backend...
+
+Initializing provider plugins...
+- Using previously-installed hashicorp/aws v2.70.0
+
+Terraform has been successfully initialized!
+------------------------------------------------------------------------
+
+An execution plan has been generated and is shown below.
+Resource actions are indicated with the following symbols:
+  + create
+
+Terraform will perform the following actions:
+  [...]
+Plan: 1 to add, 0 to change, 0 to destroy.
+make: *** [Makefile:2: plan] Error 2
+```
+
+You'll notice `make` exits with an error.  The problem is that Make exits with an error whenever it encounters a non-zero exit code - even if it is what you want. In our case, terraform's detailed exit code conflicts with Make's exit code check. One way to handle this is to make use of bash's "double pipes" like so
+
+```bash
+cat /this/does/not/exist || echo "This was run"
+```
+
+The double pipes sort of act as the "else" condition and the command following the pipes will run only if the preceding command exited with a non-zero code.
+
+```bash
+cat /this/does/not/exist || echo "This was run"
+cat: /this/does/not/exist: No such file or directory
+This was run
+```
+
+Contrast to an example where the first command suceeded, the second command will not run:
+
+```bash
+uname || echo "This was run"
+Linux
+```
