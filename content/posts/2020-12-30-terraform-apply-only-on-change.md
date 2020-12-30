@@ -1,5 +1,5 @@
 ---
-title: Getting Terraform to apply only when a change exists
+title: Getting Terraform to apply only when a change exists using Make
 author: Sathyajith Bhat
 type: post
 date: 2020-12-28T00:00:00+00:00
@@ -26,11 +26,11 @@ terraform apply -auto-approve
 
 Simple and straightforward, the script would do a `terraform init`, `terraform plan` and `terraform apply`. This was still in early dev stages and I was running on our dev environment so I didn't have to worry about approvals and what not. Plus the only resources that I was deploying was [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) alerts, so the worst case scenario was that the alerts would be destroyed but they weren't in-place for our alerting anyway.
 
-As more resources and alerts were being added, the plan and subsequent apply, was taking more time. In addition, the `terraform apply` was being run even if there were no changes to be applied and this was adding few minutes to run since since the resources that existed had to be checked for change, during plan and apply phases. I started looking at improving this and the most immediate idea was to not run the `terraform apply` if there were no changes to be done. Since Terraform knows about the possible changes to be applied post running `terraform plan`, I started looking at terraform plan documentation to look for any interesting tit-bits. I saw an option for detailed exit code and thought to myself - this would do! But what are exit codes?
+As more resources and alerts were being added, the plan and subsequent apply, was taking more time. In addition, the `terraform apply` was being run even if there were no changes to be applied and this was adding few minutes to run since since the resources that existed had to be checked for change, during plan and apply phases. I started looking at improving this and the most immediate idea was to not run the `terraform apply` if there were no changes to be applied. Since Terraform knows about the possible changes to be applied post running `terraform plan`, I started looking at terraform plan documentation to look for any something that I could use to implement this. I saw an option for detailed exit code and thought to myself - this would do! But what are exit codes?
 
 ### Exit status and Exit codes
 
-When a command is run in a shell and the command has exited, the shall captures whether or not the command was successful using exit codes. This status is known as the exit status. The implementation varies [across various shells, languages and Operating Systems](https://en.wikipedia.org/wiki/Exit_status), but most Linux shells report a non-zero status for a command that did not work as expected and a zero status for a successful command. The error code can be checked for using the shell variable `$?`. Confused? Consider the below example:
+When a command is run in a shell and the command has exited, the shall captures whether or not the command was successful using exit codes. This status is known as the exit status. The implementation varies [across various shells, languages and Operating Systems](https://en.wikipedia.org/wiki/Exit_status), but most Linux shells report a non-zero status for a command that did not work as expected and a zero status for a successful command execution. The error code can be checked for using the shell variable `$?`. Confused? Consider the below example:
 
 Example 1: 
 ```bash
@@ -58,7 +58,6 @@ In example 1, the `ls` command ran successfully and thus returned an error code 
 
 In example 2, the `ls` command could not find the file/directory and thus not only gave a feedback about the missing file, but the exit code was also set to a non-zero value, i.e. 2. The [manual page](https://man7.org/linux/man-pages/man1/ls.1.html) for `ls` documents the non-zero exit codes used:
 
-
     Exit status:
 
     0      if OK,
@@ -72,7 +71,7 @@ If you've customized your shell prompt to show the exit status and code, you can
 
 ### Conditional apply with Terraform
 
-Now that we understand the exit codes better, let's take a look at what terraform's detailed exit code documentation says:
+Now that we understand the exit codes better, let's take a look at what Terraform's detailed exit code documentation says:
 
 
 ```bash 
@@ -110,11 +109,11 @@ elif [ $? -eq 2 ]; then
 fi
 ```
 
-So, there you go - with this simple tweak, terraform will run the apply command if there's nothing to be done. But.. We're not done yet. 
+So, there you go - with this simple tweak, Terraform will run the apply command if there's nothing to be done. But.. we're not done yet. 
 
 ### Chaining with Make
 
-[GNU/Make](https://www.gnu.org/software/make/manual/make.html) is a build automation tool which builds executable programs and libraries by reading Makefiles and invoking targets. Make and Makefiles make it easy to invoke arbitrary targets in a clean simple way. This is excellent for pipeline automation - for example, if you need to do a terraform plan for a lot of accounts and environments, instead of having 
+[GNU/Make](https://www.gnu.org/software/make/manual/make.html) is a build automation tool which builds executable programs and libraries by reading Makefiles and invoking targets. Make and Makefiles make it easy to invoke arbitrary targets in a clean simple way. This is excellent for pipeline automation - for example, if you need to do a `terraform plan` for a lot of accounts and environments, instead of having 
 
 ```bash
 cd dev/region1
@@ -159,7 +158,7 @@ plan:
 	./call_terraform.sh
 ```
 
-So now everytime I do a `make plan`, I would have a terraform init, validate and plan run instead of having to type them manually. However, this wasn't working completely as I expected, for I noticed when the validate fails, the shell script would still continue on to the next command. I started reading up more about [set built-ins in bash](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html). 
+So now everytime I do a `make plan`, I would have a Terraform init, validate and plan run instead of having to type them manually. However, this wasn't working completely as I expected, for I noticed when the validate fails, the shell script would still continue on to the next command. I started reading up more about [set built-ins in bash](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html). 
 
 The set built-in allows us to change the values of shell options. In particular, the `-e` command causes an immediate exit if a command or a group of command returns a non-zero. There's another option `-o pipefail` where the return value of the pipeline is set to non-zero if any of the commands in the pipeline fail. This can prevent masking of errors as without this set command, the pipeline's return code is that of the last command and even if an intermediate command fails, it will be set to zero, indicating successful completion of the pipeline. Even though we do not have any piped commands yet, it's a sane default to have in every shell script.
 
@@ -361,3 +360,6 @@ No changes. Infrastructure is up-to-date.
 
 [...]
 No changes, not applying
+```
+
+Hope this helped!
