@@ -34,7 +34,7 @@ As more resources and alerts were being added, the plan and subsequent apply, wa
 
 ### Exit status and Exit codes
 
-When a command is run in a shell and the command has exited, the shall captures whether or not the command was successful using exit codes. This status is known as the exit status. The implementation varies [across various shells, languages and Operating Systems](https://en.wikipedia.org/wiki/Exit_status), but most Linux shells report a non-zero status for a command that did not work as expected and a zero status for successful command execution. The exit code can be checked for using the shell variable `$?`. Confused? Consider the below example:
+When a command is run in a shell and the command has exited, the shell captures whether or not the command was successful using exit codes. This status is known as the exit status. The implementation varies [across various shells, languages and Operating Systems](https://en.wikipedia.org/wiki/Exit_status), but most Linux shells report a non-zero status for a command that did not work as expected and a zero status for successful command execution. The exit code can be checked for using the shell variable `$?`. Confused? Consider the below example:
 
 Example 1: 
 ```bash
