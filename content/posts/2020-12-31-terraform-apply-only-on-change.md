@@ -2,8 +2,8 @@
 title: Getting Terraform to apply only when a change exists using Make
 author: Sathyajith Bhat
 type: post
-date: 2020-12-28T00:00:00+00:00
-url: /2020/12/30/terraform-apply-only-on-change
+date: 2020-12-31T00:00:00+00:00
+url: /2020/12/31/terraform-apply-only-on-change
 categories:
   - "Tips & How-To's"
 tags:
