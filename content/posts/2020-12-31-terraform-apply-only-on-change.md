@@ -15,7 +15,7 @@ tags:
 
 ### TL;DR
 
-Applying some Bash knowhow on exit codes, you can cut down the time required for a Terraform apply if no changes are to be done
+Applying some Bash knowhow on exit codes, you can cut down the time required for a Terraform apply if no changes are to be done.
 
 ### The Simple Plan and Apply
 
