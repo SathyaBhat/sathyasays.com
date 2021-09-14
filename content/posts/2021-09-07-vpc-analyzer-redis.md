@@ -1,5 +1,5 @@
 ---
-title: Checking for connectivity of ElastiCache Redis instances across peering connections using VPC Analyzer
+title: Checking for connectivity of ElastiCache Redis instances across peering connections using VPC Reachability Analyzer
 author: Sathyajith Bhat
 type: post
 date: 2021-09-13
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-It's quite common to work in an environment where you have your VPC connected to multiple other VPCs, either via VPC Peering or transit gateway, it's no different for me. I was working on deploying an application on our in-house container platform. This container platform is hosted in another account/VPC, and it had to connect to the Elasticache Redis instances hosted in our VPC/account. I was looking into timeouts connecting to the Redis instance from the application containers, and I figured this would be a good time to test out the [VPC Reachability Analyzer](https://aws.amazon.com/blogs/aws/new-vpc-insights-analyzes-reachability-and-visibility-in-vpcs/).
+It's quite common to work in an environment where you have your VPC connected to multiple other VPCs, either via VPC Peering or Transit Gateway, it's no different for me. I was working on deploying an application on our in-house container platform. This container platform is hosted in another account/VPC, and it had to connect to the ElastiCache Redis instances hosted in our VPC/account. I was looking into timeouts connecting to the Redis instance from the application containers, and I figured this would be a good time to test out the [VPC Reachability Analyzer](https://aws.amazon.com/blogs/aws/new-vpc-insights-analyzes-reachability-and-visibility-in-vpcs/).
 
 The VPC Reachability Analyzer tool is a network diagnostic tool from AWS. You can access it from the VPC Section of AWS Console. Clicking on Reachability Analyzer, you enter the source, destination, optional intermediaries and click on "Analyze Path" for AWS to trace the path between the source and the destination. 
 
@@ -22,14 +22,14 @@ The VPC Reachability Analyzer tool is a network diagnostic tool from AWS. You ca
 
 {{< fancybox "https://images.sbhat.me/ss/reachability-analyzer" "create-analyze-path.png" "Creating a Path Analysis" "VPC Reachability Analyzer" >}}
 
-I wanted to test the connection from the peered connection to the ElastiCache in the private subnet. I noticed the drop-down for destination (and the source ) did not have individual AWS services listed. That threw me off, as I couldn't select Elasticache there, but [Ben Bridts](https://aws.amazon.com/developer/community/heroes/ben-bridts/) pointed out that each of the ElastiCache nodes would have an ENI attached, so providing the ENI as the destination should work. That said, finding the ENI was not the most straightforward option - I had to head to ElastiCache, pick up the URL of a node, do a dig on node DNS to find the IP address, and search for the IP address on the ENI page on the AWS Console (the Elastic Network Interfaces is shown as an EC2 feature, to make you even more confused). I think there might be avenues to simplify this workflow here.
+I wanted to test the connection from the peered connection to the ElastiCache in the private subnet. I noticed the drop-down for destination (and the source ) did not have individual AWS services listed. That threw me off, as I couldn't select ElastiCache there, but [Ben Bridts](https://aws.amazon.com/developer/community/heroes/ben-bridts/) pointed out that each of the ElastiCache nodes would have an ENI attached, so providing the ENI as the destination should work. That said, finding the ENI was not the most straightforward option - I had to head to ElastiCache, pick up the URL of a node, do a dig on node DNS to find the IP address, and search for the IP address on the ENI page on the AWS Console (the Elastic Network Interfaces is shown as an EC2 feature, to make you even more confused). I think there might be avenues to simplify this workflow here.
 
 {{< fancybox "https://images.sbhat.me/ss/reachability-analyzer" "eni-ec2-feature.png" "Finding the Elastic Network Interface (ENI)" "VPC Reachability Analyzer" >}}
 
 
 I created some test paths to check how it works, and the experience was mostly positive. 
 
-For the first test, I created a path analysis with the peering connection as the source and the ENI of the Elasticache Redis as the destination. However, I accidentally selected the wrong peering connection. When the test was completed, it showed a failure, and I was pleasantly surprised by the detailed error message, which outlined why the test failed:
+For the first test, I created a path analysis with the peering connection as the source and the ENI of the ElastiCache Redis as the destination. However, I accidentally selected the wrong peering connection. When the test was completed, it showed a failure, and I was pleasantly surprised by the detailed error message, which outlined why the test failed:
 
 {{< fancybox "https://images.sbhat.me/ss/reachability-analyzer" "failed-no-path-no-vpc-peering.png" "Error message due to lack of peering and no direct path" "VPC Reachability Analyzer" >}}
 
@@ -40,7 +40,7 @@ For the next attempt, I tried to analyze the path between the correct peering co
 
 {{< fancybox "https://images.sbhat.me/ss/reachability-analyzer" "destination-unreachable.png" "Error message due to lack of peering and no direct path" "VPC Reachability Analyzer" >}}
 
-Clicking on the details shows the full details of which route table, which security group is preventing the network communication from happening.
+Clicking on the details shows the full info about which route table, which security group is preventing the network communication from happening.
 
 {{< fancybox "https://images.sbhat.me/ss/reachability-analyzer" "details-of-failure.png" "Error message due to lack of peering and no direct path" "VPC Reachability Analyzer" >}}
 
