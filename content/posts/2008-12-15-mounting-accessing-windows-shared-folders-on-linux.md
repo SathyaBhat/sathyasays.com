@@ -25,4 +25,4 @@ If the share requires authentication just add `-o user=<user-name>` to the above
 
 If you want a graphical tool, you can check out SMB4k<figure id="attachment_609" aria-describedby="caption-attachment-609" style="width: 300px" class="wp-caption alignnone">
 
-<img class="size-medium wp-image-609" title="Smb4k" src="https://images.sbhat.me/ss/2008/12/smb4k-300x187.png" alt="Smb4k"   srcset="https://images.sbhat.me/ss/2008/12/smb4k-300x187.png 300w, https://images.sbhat.me/ss/2008/12/smb4k-1024x640.png 1024w, https://images.sbhat.me/ss/2008/12/smb4k.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-609" class="wp-caption-text">Smb4k</figcaption></figure>
+<img class="size-medium wp-image-609" title="Smb4k" src="https://i.sathyabh.at/ss/2008/12/smb4k-300x187.png" alt="Smb4k"   srcset="https://i.sathyabh.at/ss/2008/12/smb4k-300x187.png 300w, https://i.sathyabh.at/ss/2008/12/smb4k-1024x640.png 1024w, https://i.sathyabh.at/ss/2008/12/smb4k.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-609" class="wp-caption-text">Smb4k</figcaption></figure>

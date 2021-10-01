@@ -19,11 +19,11 @@ tags:
 > Top 10 Totally Amazing Wallpapers Made Using Inkscape
 
 <p style="text-align: center;">
-  <a href="https://www.techdrivein.com/2010/07/top-10-totally-amazing-wallpapers-made.html#more"><img src='https://images.sbhat.me/ss/2010/07/Snooker_by_Maddrum.png' alt='' /></a>
+  <a href="https://www.techdrivein.com/2010/07/top-10-totally-amazing-wallpapers-made.html#more"><img src='https://i.sathyabh.at/ss/2010/07/Snooker_by_Maddrum.png' alt='' /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.techdrivein.com/2010/07/top-10-totally-amazing-wallpapers-made.html#more"><img src='https://images.sbhat.me/ss/2010/07/Ferrari_360_Spyder_by_Simarilius.png' alt='' /></a>
+  <a href="https://www.techdrivein.com/2010/07/top-10-totally-amazing-wallpapers-made.html#more"><img src='https://i.sathyabh.at/ss/2010/07/Ferrari_360_Spyder_by_Simarilius.png' alt='' /></a>
 </p>
 
 Amazing stuff.

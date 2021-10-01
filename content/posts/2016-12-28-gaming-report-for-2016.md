@@ -4,7 +4,7 @@ author: Sathya
 type: post
 date: 2016-12-28T10:59:49+00:00
 url: /2016/12/28/gaming-report-for-2016/
-featured_image: https://images.sbhat.me/ss/2016/12/overwatch-FH3.jpg
+featured_image: https://i.sathyabh.at/ss/2016/12/overwatch-FH3.jpg
 categories:
   - Gaming
 tags:
@@ -16,7 +16,7 @@ tags:
   - steam
 
 ---
-[<img class="aligncenter size-full wp-image-1494" src="https://images.sbhat.me/ss/2016/12/overwatch-FH3.jpg" alt=""   />][1]
+[<img class="aligncenter size-full wp-image-1494" src="https://i.sathyabh.at/ss/2016/12/overwatch-FH3.jpg" alt=""   />][1]
 
 End of the year is here and while other services are busy sending Year in 2016 report, there sparked a mini gaming report in our telegram group and I decided to compile my gaming in 2016 report. At the start of the year I had decided to finish more games this year and I guess I did a pretty decent in accomplishing this. So here's my summary
 
@@ -61,4 +61,4 @@ End of the year is here and while other services are busy sending Year in 2016 r
 
 For the year ahead I hope to play and finish more games. 2017, on wards!
 
- [1]: https://images.sbhat.me/ss/2016/12/overwatch-FH3.jpg
+ [1]: https://i.sathyabh.at/ss/2016/12/overwatch-FH3.jpg
