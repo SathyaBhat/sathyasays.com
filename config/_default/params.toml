@@ -1,7 +1,7 @@
 logoText = "sathyasays.com" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
 logo = false # Logo that appears in the site navigation bar.
-description = "Opinions, thoughts and tutorials on Cloud, DevOps, Linux and Technology"
+description = "Opinions, thoughts and tutorials on Cloud, DevOps, Linux and Technology by Sathyajith Bhat"
 custom_css = ["scss/jquery.fancybox.css"] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = ["js/jquery-3.5.1.min.js", "js/jquery.fancybox.min.js"] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
 useFaviconGenerator = false # https://www.favicon-generator.org/
@@ -14,7 +14,7 @@ notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page typ
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
