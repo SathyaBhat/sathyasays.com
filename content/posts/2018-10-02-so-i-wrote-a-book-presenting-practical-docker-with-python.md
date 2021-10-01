@@ -13,7 +13,7 @@ tags:
 
 ---
 
-{{< figure src="https://images.sbhat.me/ss/2018/10/practical-docker-with-python.jpg" title="With a copy of the cover!" >}}
+{{< figure src="https://i.sathyabh.at/ss/2018/10/practical-docker-with-python.jpg" title="With a copy of the cover!" >}}
 
 So yeah that actually happened! I've always wanted to publish a book and thanks to Apress publishing - that is a reality now. The book is titled "[Practical Docker With Python: Build, Release and Distribute your Python App with Docker](https://u.sbhat.me/practical-docker)" and is targeted at people who are new to Docker and want to containerize their application (with an example Python chat bot). The book starts with a brief introduction to containers and Docker, guides you on how to get started with Docker before diving into deeper topics such as Docker Networks, Volumes and Compose.
 

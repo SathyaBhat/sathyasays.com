@@ -60,7 +60,7 @@ Commit the .drone.yml file and push the changes to the repository. This results 
 Navigating to the Drone UI will show the pipeline stages and result of each pipeline stage. An example screenshot is shown below
 
 
-{{< figure src="https://images.sbhat.me/ss/2019/03/drone-pipeline-UI--840x500.png" title="Drone Pipeline UI" >}}
+{{< figure src="https://i.sathyabh.at/ss/2019/03/drone-pipeline-UI--840x500.png" title="Drone Pipeline UI" >}}
 
 Comparing against the `.drone.yml` file, you can see that Drone created a new pipeline(boringly titled "default" consisting of 5 stages:
 
@@ -71,7 +71,7 @@ Comparing against the `.drone.yml` file, you can see that Drone created a new pi
 
 If the policy check (or any stage) fails, the pipeline ends and does not trigger subsequent stages.
 
-{{< figure src="https://images.sbhat.me/ss/2019/03/drone-failed-policy-evaluation.png" title="Drone Failed Policy Evaluation" >}}
+{{< figure src="https://i.sathyabh.at/ss/2019/03/drone-failed-policy-evaluation.png" title="Drone Failed Policy Evaluation" >}}
 
 
 You can extend the pipeline further, adding steps to retag the Docker Image and push it to <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noopener noreferrer">Amazon Elastic Container Registry (ECR)</a> - and Drone with its <a href="https://plugins.drone.io/drone-plugins/drone-ecr/" target="_blank" rel="noopener noreferrer">ECR plugin</a> makes it very easy to do so.

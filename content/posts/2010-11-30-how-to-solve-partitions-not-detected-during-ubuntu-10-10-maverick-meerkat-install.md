@@ -20,7 +20,7 @@ My hard disk is a 60GB one., partitioned into 10, 25 and 25 GBs. My Disk Managem
 
 <!--more-->
 
-<a rel="attachment wp-att-981" href="https://sathyasays.com/2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/sathyasays/"><img class="alignnone size-full wp-image-981" src="https://images.sbhat.me/ss/2010/11/sathyasays.bmp" alt="" /></a>
+<a rel="attachment wp-att-981" href="https://sathyasays.com/2010/11/30/how-to-solve-partitions-not-detected-during-ubuntu-10-10-maverick-meerkat-install/sathyasays/"><img class="alignnone size-full wp-image-981" src="https://i.sathyabh.at/ss/2010/11/sathyasays.bmp" alt="" /></a>
 
 Did you see that?? There was a 22.97 GB of Free Space which is not there at all! But otherwise I did not find any problem.
 

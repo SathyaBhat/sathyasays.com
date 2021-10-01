@@ -33,8 +33,8 @@ Krusader is built for KDE and can be downloaded from your distribution’s packa
 Source: Peter from [FOSSWire ][6]
 
  [1]: https://krusader.sourceforge.net/
- [2]: https://images.sbhat.me/ss/2007/09/krusaderfirstrun.thumbnail.png
- [3]: https://images.sbhat.me/ss/2007/09/krusaderfirstrun.png "Krusader First Run"
- [4]: https://images.sbhat.me/ss/2007/09/krusadermain.thumbnail.png
- [5]: https://images.sbhat.me/ss/2007/09/krusadermain.png "Krusader Main"
+ [2]: https://i.sathyabh.at/ss/2007/09/krusaderfirstrun.thumbnail.png
+ [3]: https://i.sathyabh.at/ss/2007/09/krusaderfirstrun.png "Krusader First Run"
+ [4]: https://i.sathyabh.at/ss/2007/09/krusadermain.thumbnail.png
+ [5]: https://i.sathyabh.at/ss/2007/09/krusadermain.png "Krusader Main"
  [6]: https://fosswire.com/2007/09/23/krusader-the-alternative-kde-file-browser/
