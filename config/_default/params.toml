@@ -49,7 +49,7 @@ bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimag
 useGravatar = true # we use this option highest priority
 location = "Bucharest, Romania"
 organization = "Adobe"
-link = "https://sbhat.me/"
+link = "https://about.sathyabh.at/"
 
 # sidebar
 enableBio = true # in home page sidebar
