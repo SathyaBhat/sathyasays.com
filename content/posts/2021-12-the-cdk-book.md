@@ -1,6 +1,6 @@
 ---
 title: The CDK Book
-author: Sathyajith Bhatjith Bhat
+author: Sathyajith Bhat
 type: post
 date: 2021-09-13
 url: /2021/09/13/the-cdk-book

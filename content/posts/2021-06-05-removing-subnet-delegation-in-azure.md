@@ -1,6 +1,6 @@
 ---
 title: How to Remove Subnet Delegations associated with an Azure Virtual Network(VNET) Subnet
-author: Sathyajith Bhatjith Bhat
+author: Sathyajith Bhat
 type: post
 date: 2021-06-05
 url: /2021/06/05/delete-azure-vnet-subnet-delegation/

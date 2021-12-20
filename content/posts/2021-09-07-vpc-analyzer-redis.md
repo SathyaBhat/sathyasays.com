@@ -1,6 +1,6 @@
 ---
 title: Checking for connectivity of ElastiCache Redis instances across peering connections using VPC Reachability Analyzer
-author: Sathyajith Bhatjith Bhat
+author: Sathyajith Bhat
 type: post
 date: 2021-09-13
 url: /2021/09/13/vpc-reachability-analyzer-redis
