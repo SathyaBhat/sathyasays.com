@@ -2,7 +2,7 @@
 title: Second Edition of Practical Docker With Python is now available
 author: Sathya
 type: post
-date: 2018-10-02T07:16:52+00:00
+date: 2021-12-20T10:00:00+00:00
 url: /2021-12/16/practical-docker-with-python-second-edition
 description: The second edition of my book - Practical Docker with Python is now available.
 featured_image: https://i.sathyabh.at/ss/practical-docker-with-python-2e.jpg
