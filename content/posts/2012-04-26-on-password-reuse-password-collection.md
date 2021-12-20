@@ -1,6 +1,6 @@
 ---
 title: 'On password reuse & password collection.'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-04-26T08:45:20+00:00
 url: /2012/04/26/on-password-reuse-password-collection/

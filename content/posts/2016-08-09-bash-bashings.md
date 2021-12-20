@@ -1,6 +1,6 @@
 ---
 title: Bash bashings..
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-08-09T18:37:28+00:00
 url: /2016/08/09/bash-bashings/

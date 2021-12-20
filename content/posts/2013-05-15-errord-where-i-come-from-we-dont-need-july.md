@@ -1,6 +1,6 @@
 ---
 title: 'Error’d: Where I Come From, We Don’t Need July'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-05-15T06:25:16+00:00
 url: /2013/05/15/errord-where-i-come-from-we-dont-need-july/

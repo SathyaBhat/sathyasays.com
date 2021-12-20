@@ -1,6 +1,6 @@
 ---
 title: 'My Laptop Chronicles: Installing openSUSE 10.3 on my Dell Inspiron 1520'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-12-02T10:38:58+00:00
 url: /2007/12/02/my-laptop-chronicles-installing-opensuse-103-on-my-dell-inspiron-1520/

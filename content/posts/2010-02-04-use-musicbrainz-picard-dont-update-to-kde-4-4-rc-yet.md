@@ -1,6 +1,6 @@
 ---
 title: Use MusicBrainz Picard ? Don’t update to KDE 4.4 RC (yet)
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-02-04T01:43:33+00:00
 url: /2010/02/04/use-musicbrainz-picard-dont-update-to-kde-4-4-rc-yet/

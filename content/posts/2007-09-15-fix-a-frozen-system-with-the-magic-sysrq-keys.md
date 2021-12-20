@@ -1,6 +1,6 @@
 ---
 title: Fix a Frozen System with the Magic SysRq Keys
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-09-14T19:53:14+00:00
 url: /2007/09/15/fix-a-frozen-system-with-the-magic-sysrq-keys/

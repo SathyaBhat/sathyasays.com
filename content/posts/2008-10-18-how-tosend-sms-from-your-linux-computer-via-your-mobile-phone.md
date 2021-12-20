@@ -1,6 +1,6 @@
 ---
 title: '[How-To]Send SMS from your Linux computer via your Mobile Phone'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-18T07:22:58+00:00
 url: /2008/10/18/how-tosend-sms-from-your-linux-computer-via-your-mobile-phone/

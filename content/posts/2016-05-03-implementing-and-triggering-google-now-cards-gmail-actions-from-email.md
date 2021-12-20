@@ -1,6 +1,6 @@
 ---
 title: 'Implementing and Triggering Google Now Cards & Gmail actions from Email'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-05-03T10:43:47+00:00
 url: /2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/

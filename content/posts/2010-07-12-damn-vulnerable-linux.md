@@ -1,6 +1,6 @@
 ---
 title: Damn Vulnerable Linux
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-12T05:47:35+00:00
 url: /2010/07/12/damn-vulnerable-linux/

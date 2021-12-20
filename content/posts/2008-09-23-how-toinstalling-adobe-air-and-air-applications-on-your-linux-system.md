@@ -1,6 +1,6 @@
 ---
 title: '[How-To]Installing Adobe AIR and AIR Applications on your Linux System'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-22T19:59:36+00:00
 url: /2008/09/23/how-toinstalling-adobe-air-and-air-applications-on-your-linux-system/

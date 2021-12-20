@@ -1,6 +1,6 @@
 ---
 title: 'Amarok 2.2.90 Most Irritating Bug #228014: File metadata not displayed If File Is Not Present In Collection'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-02-22T23:04:44+00:00
 url: /2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/

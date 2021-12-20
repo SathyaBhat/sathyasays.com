@@ -1,6 +1,6 @@
 ---
 title: Am I the only person who gets ln -s the wrong way round every time?
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-12-08T22:25:06+00:00
 url: /2010/12/09/am-i-the-only-person-who-gets-ln-s-the-wrong-way-round-every-time/

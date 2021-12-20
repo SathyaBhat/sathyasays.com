@@ -1,6 +1,6 @@
 ---
 title: IronRuby and IronPython now on Apache 2 License
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-20T20:34:33+00:00
 url: /2010/07/21/ironruby-and-ironpython-now-on-apache-2-license/

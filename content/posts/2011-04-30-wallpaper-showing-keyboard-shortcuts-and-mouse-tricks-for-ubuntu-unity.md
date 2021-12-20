@@ -1,6 +1,6 @@
 ---
 title: Wallpaper Showing Keyboard Shortcuts And Mouse Tricks For Ubuntu Unity
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-04-30T14:59:53+00:00
 url: /2011/04/30/wallpaper-showing-keyboard-shortcuts-and-mouse-tricks-for-ubuntu-unity/

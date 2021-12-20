@@ -1,6 +1,6 @@
 ---
 title: Xenserver and adding/attaching a new storage to a VM
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-02-02T05:59:25+00:00
 url: /2017/02/02/xenserver-and-addingattaching-a-new-storage-to-a-vm/

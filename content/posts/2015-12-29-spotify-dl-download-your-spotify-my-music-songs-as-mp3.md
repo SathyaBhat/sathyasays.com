@@ -1,6 +1,6 @@
 ---
 title: Download your Spotify My Music songs as MP3
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2015-12-29T17:22:56+00:00
 url: /2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/

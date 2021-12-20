@@ -1,6 +1,6 @@
 ---
 title: Second Edition of Practical Docker With Python is now available
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2021-12-20T10:00:00+00:00
 url: /2021/12/20/practical-docker-with-python-second-edition
@@ -15,7 +15,7 @@ tags:
 
 About 3 years ago, I wrote my first book - "[Practical Docker with Python](/2018/10/02/so-i-wrote-a-book-presenting-practical-docker-with-python/)". The book focused on the fundamentals of containerization and getting started with Docker.  A few months back, I received an email from my editor at Apress asking me if I'd be interested in doing a second edition of the book. 
 
-Looking back at the book, it had received good feedback, has been cited in different publications and there was some feedback I had received that I always wished I could update the book with, so this was the best chance. After many months of work, the second edition of Practical Docker With Python is available on [SpringerLink](https://bit.ly/practical-docker-2e), Amazon ([US](https://amzn.to/32dTOyD), [India](https://amzn.to/32dTOyD)), O'Reilly Learning (formerly Safari Books Online) and probably every other online bookstore. 
+Looking back at the book, it had received good feedback, has been cited in different publications and there was some feedback I had received that I always wished I could update the book with, so this was the best chance. After many months of work, the second edition of Practical Docker With Python is available on [SpringerLink](https://bit.ly/practical-docker-2e), Amazon ([US](https://amzn.to/32dTOyD), [India](https://amzn.to/32dTOyD)), [O'Reilly Learning](https://learning.oreilly.com/library/view/practical-docker-with/9781484278154/) (formerly Safari Books Online) and probably every other online bookstore. 
 
 The second edition, much like the first edition, targets people who are new to containerization and want a guided approach to containerizing their application. I start with setting up a Python telegram bot, building and running it as a program, and then continue containerizing the same bot, starting with steps to build the Dockerfile, adding volumes for persisting the data, setting up Docker networks for container networking, and finally multi-container orchestration with Docker Compose. 
 

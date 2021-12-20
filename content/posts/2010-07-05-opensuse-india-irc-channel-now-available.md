@@ -1,6 +1,6 @@
 ---
 title: openSUSE India IRC Channel now available
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-05T04:29:52+00:00
 url: /2010/07/05/opensuse-india-irc-channel-now-available/

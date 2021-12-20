@@ -1,6 +1,6 @@
 ---
 title: A Look At Dolphin
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-14T05:55:29+00:00
 url: /2007/06/14/a-look-at-dolphin/

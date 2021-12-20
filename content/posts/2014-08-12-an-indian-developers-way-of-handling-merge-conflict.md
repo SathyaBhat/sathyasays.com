@@ -1,6 +1,6 @@
 ---
 title: An Indian developer’s way of handling merge conflict
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2014-08-12T06:15:25+00:00
 url: /2014/08/12/an-indian-developers-way-of-handling-merge-conflict/

@@ -1,6 +1,6 @@
 ---
 title: About
-author: sathya
+author: Sathyajith Bhat
 type: page
 aliases: ["about-us","about-me","contact"]
 date: 2008-01-10T17:27:36+00:00

@@ -1,6 +1,6 @@
 ---
 title: If Amarok 2.0 doesn’t add any songs to your playlist or collection…..
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-01-07T01:30:01+00:00
 url: /2009/01/07/if-amarok-20-doesnt-add-any-songs-to-your-playlist-or-collection/

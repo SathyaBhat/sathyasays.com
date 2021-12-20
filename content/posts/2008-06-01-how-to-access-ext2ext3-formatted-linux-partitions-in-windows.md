@@ -1,6 +1,6 @@
 ---
 title: 'How To: Access ext2/ext3 Formatted Linux Partitions in Windows'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-06-01T16:08:19+00:00
 url: /2008/06/01/how-to-access-ext2ext3-formatted-linux-partitions-in-windows/

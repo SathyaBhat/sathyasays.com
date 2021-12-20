@@ -1,6 +1,6 @@
 ---
 title: E3 2018 Round up of trailers/games that I liked
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2018-06-15T15:32:33+00:00
 url: /2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/

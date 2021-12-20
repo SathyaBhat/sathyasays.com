@@ -1,6 +1,6 @@
 ---
 title: Pirates play a gamedev simulator; go bankrupt because of piracy.
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-04-29T14:23:17+00:00
 url: /2013/04/29/pirates-play-a-gamedev-simulator-go-bankrupt-because-of-piracy/

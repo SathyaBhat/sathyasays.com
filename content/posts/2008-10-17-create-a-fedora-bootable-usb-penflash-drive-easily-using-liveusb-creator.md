@@ -1,6 +1,6 @@
 ---
 title: Create a Fedora Bootable USB Pen/Flash Drive Easily using liveusb-creator
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-16T18:56:33+00:00
 url: /2008/10/17/create-a-fedora-bootable-usb-penflash-drive-easily-using-liveusb-creator/

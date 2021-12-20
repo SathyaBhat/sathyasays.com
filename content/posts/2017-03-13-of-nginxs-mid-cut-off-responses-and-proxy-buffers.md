@@ -1,6 +1,6 @@
 ---
 title: Of nginx’s mid cut off responses and proxy buffers
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-03-13T11:50:03+00:00
 url: /2017/03/13/of-nginxs-mid-cut-off-responses-and-proxy-buffers/

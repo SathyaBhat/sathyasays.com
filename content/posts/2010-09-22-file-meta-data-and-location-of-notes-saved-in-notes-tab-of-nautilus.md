@@ -1,6 +1,6 @@
 ---
 title: File meta data and location of notes saved in notes tab of Nautilus
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-09-22T01:49:11+00:00
 url: /2010/09/22/file-meta-data-and-location-of-notes-saved-in-notes-tab-of-nautilus/

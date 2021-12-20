@@ -1,6 +1,6 @@
 ---
 title: Some thoughts on Grand Theft Auto
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-02-03T19:21:32+00:00
 url: /2016/02/04/some-thoughts-on-grand-theft-auto/

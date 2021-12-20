@@ -1,6 +1,6 @@
 ---
 title: Writing an iso file to a CD-R/DVD-R from Linux Terminal
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-03-30T01:00:37+00:00
 url: /2009/03/30/writing-an-iso-file-to-a-cd-rdvd-r-from-linux-terminal/

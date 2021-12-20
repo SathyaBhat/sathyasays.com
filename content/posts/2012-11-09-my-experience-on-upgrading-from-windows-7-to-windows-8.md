@@ -1,6 +1,6 @@
 ---
 title: My Experience on upgrading from Windows 7 to Windows 8
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-11-09T10:24:19+00:00
 url: /2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/

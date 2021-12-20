@@ -1,6 +1,6 @@
 ---
 title: Start torrent downloads from anywhere using Dropbox and Transmission
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-05-28T01:20:08+00:00
 url: /2009/05/28/start-torrent-downloads-from-anywhere-using-dropbox-and-transmission/

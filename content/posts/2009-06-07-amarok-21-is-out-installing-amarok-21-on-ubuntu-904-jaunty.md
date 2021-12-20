@@ -1,6 +1,6 @@
 ---
 title: 'Amarok 2.1 is out & Installing Amarok 2.1 on Ubuntu 9.04 Jaunty'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-06-06T22:07:31+00:00
 url: /2009/06/07/amarok-21-is-out-installing-amarok-21-on-ubuntu-904-jaunty/

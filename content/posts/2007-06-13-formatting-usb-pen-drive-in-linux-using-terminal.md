@@ -1,6 +1,6 @@
 ---
 title: Formatting USB pen drive in Linux using Terminal
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-13T16:38:57+00:00
 url: /2007/06/13/formatting-usb-pen-drive-in-linux-using-terminal/

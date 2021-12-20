@@ -1,6 +1,6 @@
 ---
 title: '[How-To] Fix Nautilus File Manager Title Bar(Window Decorator) disappearing when Emerald is enabled'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-21T18:36:25+00:00
 url: /2008/09/22/how-to-fix-nautilus-file-manager-bar-disappearing-when-emerald-is-enabled/

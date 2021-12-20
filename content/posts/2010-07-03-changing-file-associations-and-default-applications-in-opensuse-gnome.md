@@ -1,6 +1,6 @@
 ---
 title: Changing file associations and default applications in openSUSE / Gnome
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-03T17:27:26+00:00
 url: /2010/07/03/changing-file-associations-and-default-applications-in-opensuse-gnome/

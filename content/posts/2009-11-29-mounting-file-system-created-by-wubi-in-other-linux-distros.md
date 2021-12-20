@@ -1,6 +1,6 @@
 ---
 title: Mounting file system created by Wubi in other Linux distros
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-11-29T09:21:38+00:00
 url: /2009/11/29/mounting-file-system-created-by-wubi-in-other-linux-distros/

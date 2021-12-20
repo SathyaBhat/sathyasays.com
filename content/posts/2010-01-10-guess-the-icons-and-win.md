@@ -1,6 +1,6 @@
 ---
 title: Guess the icons and Win!
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-01-10T15:09:17+00:00
 url: /2010/01/10/guess-the-icons-and-win/

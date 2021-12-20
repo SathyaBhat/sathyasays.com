@@ -1,6 +1,6 @@
 ---
 title: Updating to openSUSE 11.2
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-11-15T08:34:36+00:00
 url: /2009/11/15/updating-to-opensuse-11-2/
