@@ -1,6 +1,6 @@
 ---
 title: 'Mission: Get Bluetooth Stereo Headset Working in Linux. Current Status: EPIC FAIL'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-01-16T09:41:42+00:00
 url: /2010/01/16/mission-get-bluetooth-stereo-headset-working-in-linux-current-status-epic-fail/

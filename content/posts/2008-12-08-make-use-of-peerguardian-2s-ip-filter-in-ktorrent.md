@@ -1,6 +1,6 @@
 ---
 title: Make Use of PeerGuardian 2’s IP Filter in KTorrent
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-08T06:16:31+00:00
 url: /2008/12/08/make-use-of-peerguardian-2s-ip-filter-in-ktorrent/

@@ -1,6 +1,6 @@
 ---
 title: A Look At Ubuntu Gutsy Gibbon
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-12-09T19:50:54+00:00
 url: /2007/12/10/a-look-at-ubuntu-gutsy-gibbon/

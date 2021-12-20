@@ -1,6 +1,6 @@
 ---
 title: Videos of Richard M Stallman’s Lecture in IIT-Bombay
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-09-13T04:57:19+00:00
 url: /2010/09/13/videos-of-richard-m-stallmans-lecture-in-iit-bombay/

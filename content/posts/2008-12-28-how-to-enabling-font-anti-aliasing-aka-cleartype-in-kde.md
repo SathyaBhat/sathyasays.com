@@ -1,6 +1,6 @@
 ---
 title: '[How-To] Enabling Font Anti-Aliasing (aka ClearType) in KDE'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-12-28T08:34:45+00:00
 url: /2008/12/28/how-to-enabling-font-anti-aliasing-aka-cleartype-in-kde/

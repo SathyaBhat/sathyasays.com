@@ -1,6 +1,6 @@
 ---
 title: Saving Gmail Attachments in Android
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-04-24T17:34:11+00:00
 url: /2011/04/24/saving-gmail-attachments-in-android/

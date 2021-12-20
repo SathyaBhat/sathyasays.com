@@ -1,6 +1,6 @@
 ---
 title: A Handy Wallpaper Displaying Most Common Linux Commands
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-10T18:05:51+00:00
 url: /2008/09/10/a-handy-wallpaper-displaying-most-common-linux-commands/

@@ -1,6 +1,6 @@
 ---
 title: Elementary GTK theme
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-21T06:10:12+00:00
 url: /2010/06/21/elementary-gtk-theme/

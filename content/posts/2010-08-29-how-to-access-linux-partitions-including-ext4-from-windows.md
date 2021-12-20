@@ -1,6 +1,6 @@
 ---
 title: 'How To: Access Linux partitions ( including ext4) From Windows'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-08-29T18:57:30+00:00
 url: /2010/08/29/how-to-access-linux-partitions-including-ext4-from-windows/

@@ -1,6 +1,6 @@
 ---
 title: '[How To] Removing Transparency In Games without disabling/switching off Compiz'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-04T07:21:23+00:00
 url: /2008/10/04/how-to-removing-transparency-in-games-without-disablingswitching-off-compiz/

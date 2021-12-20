@@ -1,6 +1,6 @@
 ---
 title: Five tips for a more efficient Linux desktop | Five Tips | TechRepublic.com
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-05T13:00:08+00:00
 url: /2010/07/05/five-tips-for-a-more-efficient-linux-desktop-five-tips-techrepublic-com/

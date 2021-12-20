@@ -1,6 +1,6 @@
 ---
 title: Watermark Photos with digiKam
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-10T10:12:41+00:00
 url: /2010/07/10/watermark-photos-with-digikam/

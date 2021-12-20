@@ -1,6 +1,6 @@
 ---
 title: Mounting .iso and .mds/mdf Files in Linux
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-12-15T05:20:50+00:00
 url: /2007/12/15/mounting-iso-and-mdsmdf-files-in-linux/

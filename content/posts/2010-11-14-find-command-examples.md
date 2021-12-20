@@ -1,6 +1,6 @@
 ---
 title: find command examples
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-11-14T03:37:52+00:00
 url: /2010/11/14/find-command-examples/

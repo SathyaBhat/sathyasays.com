@@ -1,6 +1,6 @@
 ---
 title: Unreal IRC Server files gets replaced with ones containing backdoor
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-06-14T03:55:14+00:00
 url: /2010/06/14/unreal-irc-server-files-gets-replaced-with-ones-containing-backdoor/

@@ -1,6 +1,6 @@
 ---
 title: 'Statutory warning: Decimals in your logrotate config can be bad for your server’s disk space'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-12-12T10:15:58+00:00
 url: /2016/12/12/statutory-warning-decimals-in-your-logrotate-config-can-be-bad-for-your-servers-disk-space/

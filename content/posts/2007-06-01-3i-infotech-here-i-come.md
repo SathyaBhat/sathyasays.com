@@ -1,6 +1,6 @@
 ---
 title: 3i-Infotech, Here I come
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-01T17:02:03+00:00
 url: /2007/06/01/3i-infotech-here-i-come/

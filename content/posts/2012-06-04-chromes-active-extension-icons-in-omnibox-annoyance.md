@@ -1,6 +1,6 @@
 ---
 title: Chrome’s active extension icons in Omnibox annoyance
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-06-04T15:05:45+00:00
 url: /2012/06/04/chromes-active-extension-icons-in-omnibox-annoyance/

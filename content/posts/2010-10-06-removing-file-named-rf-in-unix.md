@@ -1,6 +1,6 @@
 ---
 title: Removing file named -rf in Unix
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-10-05T23:13:28+00:00
 url: /2010/10/06/removing-file-named-rf-in-unix/

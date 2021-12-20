@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Oracle’s ORA-01017 errors
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-02-13T11:44:31+00:00
 url: /2012/02/13/oracle-ora-01017-error/

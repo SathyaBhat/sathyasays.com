@@ -1,6 +1,6 @@
 ---
 title: '[How To]Setup a BSNL DataOne BroadBand connection or a DSL Connection in Linux'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-09T18:47:19+00:00
 url: /2008/10/10/how-tosetup-a-bsnl-dataone-broadband-connection-or-a-dsl-connection-in-linux/

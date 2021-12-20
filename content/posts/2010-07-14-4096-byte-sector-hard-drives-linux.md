@@ -1,6 +1,6 @@
 ---
 title: '4096-Byte Sector Hard Drives & Linux'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-13T23:02:21+00:00
 url: /2010/07/14/4096-byte-sector-hard-drives-linux/

@@ -1,6 +1,6 @@
 ---
 title: Always display the location bar in Nautilus
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-08-30T04:06:10+00:00
 url: /2010/08/30/always-display-the-location-bar-in-nautilus/

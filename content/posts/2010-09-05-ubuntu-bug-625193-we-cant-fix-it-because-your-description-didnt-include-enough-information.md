@@ -1,6 +1,6 @@
 ---
 title: 'Ubuntu Bug #625193 “We can’t fix it because your description didn’t include enough information”'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-09-05T17:02:42+00:00
 url: /2010/09/05/ubuntu-bug-625193-we-cant-fix-it-because-your-description-didnt-include-enough-information/

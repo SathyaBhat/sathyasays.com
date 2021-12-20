@@ -1,6 +1,6 @@
 ---
 title: 'My First Ubiquity Command: Lincr It!'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-20T18:58:16+00:00
 url: /2008/09/21/my-first-ubiquity-command-lincr-it/

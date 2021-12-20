@@ -1,6 +1,6 @@
 ---
 title: '[How-To]Mounting LVM partitions from a command prompt or a Root Shell'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-10-01T11:47:45+00:00
 url: /2008/10/01/how-tomounting-lvm-partitions-from-a-command-prompt-or-a-root-shell/

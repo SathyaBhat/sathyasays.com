@@ -1,6 +1,6 @@
 ---
 title: 'Reviving my dead Windows 8 install with no bootable USB/DVD and Linux Mint & Cr48'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-02-25T16:52:13+00:00
 url: /2013/02/25/reviving-my-dead-windows-8-install-with-no-bootable-usbdvd-and-linux-mint-cr48/

@@ -1,6 +1,6 @@
 ---
 title: 'My Laptop Chronicles: It gets better!'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-11-14T16:17:53+00:00
 url: /2007/11/14/my-laptop-chronicles-it-gets-better/

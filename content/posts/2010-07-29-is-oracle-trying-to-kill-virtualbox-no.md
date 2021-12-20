@@ -1,6 +1,6 @@
 ---
 title: 'Is Oracle trying to kill VirtualBox? >>> No.'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-29T01:53:08+00:00
 url: /2010/07/29/is-oracle-trying-to-kill-virtualbox-no/

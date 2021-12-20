@@ -1,6 +1,6 @@
 ---
 title: Setting up a secure Docker image scanning solution with Anchore and Drone CI
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2019-03-12T06:16:24+00:00
 url: /2019/03/12/setting-up-a-secure-docker-image-scanning-solution-with-anchore-and-drone-ci/

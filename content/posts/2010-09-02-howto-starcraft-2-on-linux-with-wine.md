@@ -1,6 +1,6 @@
 ---
 title: 'HOWTO: Starcraft 2 on Linux with Wine'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-09-02T16:15:07+00:00
 url: /2010/09/02/howto-starcraft-2-on-linux-with-wine/
