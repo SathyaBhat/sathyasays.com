@@ -1,6 +1,6 @@
 ---
 title: Alienware X51 with Ubuntu makes no sense
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-04-06T14:01:16+00:00
 url: /2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/

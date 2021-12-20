@@ -1,6 +1,6 @@
 ---
 title: Getting php mail() function running on Windows 8.1 with WAMP Server and configuring it to use Gmail’s SMTP servers
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2014-02-23T14:52:29+00:00
 url: /2014/02/23/getting-php-mail-function-running-on-windows-8-1-with-wamp-server-and-configuring-it-to-use-gmails-smtp-servers/

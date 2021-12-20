@@ -1,6 +1,6 @@
 ---
 title: GOG Connect – import few of your Steam games into Gog.com library
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-06-02T17:36:59+00:00
 url: /2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library/

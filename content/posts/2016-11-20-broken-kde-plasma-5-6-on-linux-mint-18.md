@@ -1,6 +1,6 @@
 ---
 title: Broken KDE Plasma 5.6 on Linux Mint 18
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-11-20T13:33:09+00:00
 url: /2016/11/20/broken-kde-plasma-5-6-on-linux-mint-18/

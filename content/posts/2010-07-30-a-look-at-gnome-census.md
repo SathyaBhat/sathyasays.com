@@ -1,6 +1,6 @@
 ---
 title: A look at GNOME Census
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-29T21:21:38+00:00
 url: /2010/07/30/a-look-at-gnome-census/

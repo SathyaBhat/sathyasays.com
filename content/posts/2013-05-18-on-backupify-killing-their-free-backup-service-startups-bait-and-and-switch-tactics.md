@@ -1,6 +1,6 @@
 ---
 title: 'On Backupify killing their free backup service & online services’ bait and and switch tactics'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-05-18T06:03:18+00:00
 url: /2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-and-and-switch-tactics/

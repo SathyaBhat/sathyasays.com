@@ -1,6 +1,6 @@
 ---
 title: Chef Zero, Cookbooks and Data Bags locations
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-10-31T13:55:00+00:00
 url: /2016/10/31/chef-zero-cookbooks-and-databag-locations/

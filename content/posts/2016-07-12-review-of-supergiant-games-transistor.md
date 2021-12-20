@@ -1,6 +1,6 @@
 ---
 title: Review of Supergiant Games’ Transistor
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-07-12T08:30:11+00:00
 url: /2016/07/12/review-of-supergiant-games-transistor/

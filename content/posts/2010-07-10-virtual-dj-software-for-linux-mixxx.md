@@ -1,6 +1,6 @@
 ---
 title: 'Virtual DJ Software for Linux: Mixxx'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-09T20:52:55+00:00
 url: /2010/07/10/virtual-dj-software-for-linux-mixxx/

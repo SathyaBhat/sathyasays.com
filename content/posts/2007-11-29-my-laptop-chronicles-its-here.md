@@ -1,6 +1,6 @@
 ---
 title: 'My Laptop Chronicles: It’s here!'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-11-29T08:49:13+00:00
 url: /2007/11/29/my-laptop-chronicles-its-here/

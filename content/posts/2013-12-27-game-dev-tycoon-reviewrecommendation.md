@@ -1,6 +1,6 @@
 ---
 title: Game Dev Tycoon review/recommendation
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-12-27T07:19:02+00:00
 url: /2013/12/27/game-dev-tycoon-reviewrecommendation/

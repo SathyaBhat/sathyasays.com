@@ -1,6 +1,6 @@
 ---
 title: Convert newsletters to RSS feeds with Kill-The-Newsletter
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2018-05-22T04:32:22+00:00
 url: /2018/05/22/convert-newsletters-to-rss-feeds-with-kill-the-newsletter/

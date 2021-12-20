@@ -1,6 +1,6 @@
 ---
 title: At AWS re:Invent 2019
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2019-11-30T06:16:24+00:00
 url: /2019/11/30/at-reinvent/

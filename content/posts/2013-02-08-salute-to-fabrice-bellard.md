@@ -1,6 +1,6 @@
 ---
 title: Salute to Fabrice Bellard
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-02-08T18:25:14+00:00
 url: /2013/02/08/salute-to-fabrice-bellard/

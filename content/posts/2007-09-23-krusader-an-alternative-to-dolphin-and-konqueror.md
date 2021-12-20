@@ -1,6 +1,6 @@
 ---
 title: Krusader – An alternative to Dolphin and Konqueror
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-09-23T13:15:14+00:00
 url: /2007/09/23/krusader-an-alternative-to-dolphin-and-konqueror/

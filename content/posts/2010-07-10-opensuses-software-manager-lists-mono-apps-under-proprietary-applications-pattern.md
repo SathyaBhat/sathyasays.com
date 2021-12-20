@@ -1,6 +1,6 @@
 ---
 title: openSUSE’s software manager lists Mono apps under Proprietary Applications Pattern
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-10T13:29:13+00:00
 url: /2010/07/10/opensuses-software-manager-lists-mono-apps-under-proprietary-applications-pattern/

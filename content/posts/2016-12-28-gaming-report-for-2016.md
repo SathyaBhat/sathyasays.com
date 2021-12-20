@@ -1,6 +1,6 @@
 ---
 title: Gaming Report for 2016
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-12-28T10:59:49+00:00
 url: /2016/12/28/gaming-report-for-2016/

@@ -1,6 +1,6 @@
 ---
 title: openSUSE 11.3 Released – Download Now
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-15T22:04:17+00:00
 url: /2010/07/16/opensuse-11-3-released-–-download-now/

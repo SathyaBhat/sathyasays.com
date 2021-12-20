@@ -1,6 +1,6 @@
 ---
 title: Remove all files but one with rm
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2011-01-02T05:00:10+00:00
 url: /2011/01/02/remove-all-files-but-one-with-rm/

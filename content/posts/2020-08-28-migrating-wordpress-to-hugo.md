@@ -1,6 +1,6 @@
 ---
 title: Migrating my WordPress blogs to Hugo
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2020-08-28T00:00:00+00:00
 url: /2020/08/28/migrating-moving-your-wordpress-blog-to-hugo

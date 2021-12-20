@@ -1,6 +1,6 @@
 ---
 title: Chrome says bye to its Wrench icon
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-08-13T16:17:18+00:00
 url: /2012/08/13/chrome-says-bye-to-its-wrench-icon/

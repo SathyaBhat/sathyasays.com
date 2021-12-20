@@ -1,6 +1,6 @@
 ---
 title: Mounting and Burning .iso, .mdf, .nrg(Nero) files and CD Images in Linux in 1-click
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-11-11T04:30:47+00:00
 url: /2008/11/11/mounting-and-burning-iso-mdf-nrgnero-files-and-cd-images-in-linux-in-1-click/

@@ -1,6 +1,6 @@
 ---
 title: Spotify for Linux
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-12T22:11:17+00:00
 url: /2010/07/13/spotify-for-linux/

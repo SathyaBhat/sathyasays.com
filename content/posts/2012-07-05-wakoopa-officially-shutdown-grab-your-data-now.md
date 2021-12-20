@@ -1,6 +1,6 @@
 ---
 title: Wakoopa officially shutdown – grab your data now
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-07-05T17:19:00+00:00
 url: /2012/07/05/wakoopa-officially-shutdown-grab-your-data-now/

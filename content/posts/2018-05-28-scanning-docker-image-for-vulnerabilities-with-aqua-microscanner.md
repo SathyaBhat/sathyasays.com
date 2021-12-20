@@ -1,6 +1,6 @@
 ---
 title: Scanning Docker Image for Vulnerabilities with Aqua MicroScanner
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2018-05-28T18:10:16+00:00
 url: /2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/

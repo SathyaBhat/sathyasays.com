@@ -1,6 +1,6 @@
 ---
 title: 'Fixing FRM-41336: Populate_List: invalid column type for column 2 error in Oracle Forms'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-07-30T12:25:26+00:00
 url: /2012/07/30/fixing-frm-41336-populate_list-invalid-column-type-for-column-2-error-in-oracle-forms/

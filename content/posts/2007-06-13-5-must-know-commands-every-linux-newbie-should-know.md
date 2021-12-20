@@ -1,6 +1,6 @@
 ---
 title: 5 Commands Every Linux Newbie Must Know
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-13T07:25:38+00:00
 url: /2007/06/13/5-must-know-commands-every-linux-newbie-should-know/

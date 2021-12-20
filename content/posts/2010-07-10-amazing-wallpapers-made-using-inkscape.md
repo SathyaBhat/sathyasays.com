@@ -1,6 +1,6 @@
 ---
 title: Amazing Wallpapers Made Using Inkscape
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-09T22:22:26+00:00
 url: /2010/07/10/amazing-wallpapers-made-using-inkscape/

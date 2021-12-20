@@ -1,6 +1,6 @@
 ---
 title: A Brief Look at the Oculus Rift
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2017-11-05T15:46:02+00:00
 url: /2017/11/05/a-brief-look-at-the-oculus-rift/

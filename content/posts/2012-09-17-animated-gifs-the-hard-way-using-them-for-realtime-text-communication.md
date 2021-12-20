@@ -1,6 +1,6 @@
 ---
 title: 'Animated GIFs the Hard Way & Using Them For Realtime text communication'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-09-17T14:32:30+00:00
 url: /2012/09/17/animated-gifs-the-hard-way-using-them-for-realtime-text-communication/

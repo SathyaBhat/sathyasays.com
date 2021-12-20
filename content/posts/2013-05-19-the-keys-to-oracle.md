@@ -1,6 +1,6 @@
 ---
 title: The keys to Oracle…
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2013-05-19T13:33:24+00:00
 url: /2013/05/19/the-keys-to-oracle/

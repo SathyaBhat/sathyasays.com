@@ -1,6 +1,6 @@
 ---
 title: Get Kannada Language displayed properly in Gentoo and Sabayon
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-02-10T23:41:17+00:00
 url: /2009/02/11/get-kannada-language-displayed-properly-in-gentoo-and-sabayon/

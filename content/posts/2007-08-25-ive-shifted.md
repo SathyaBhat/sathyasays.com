@@ -1,6 +1,6 @@
 ---
 title: I’ve shifted!
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-08-25T10:01:26+00:00
 url: /2007/08/25/ive-shifted/

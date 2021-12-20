@@ -1,6 +1,6 @@
 ---
 title: Making Dolphin the Default File Manager
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-06-18T10:59:02+00:00
 url: /2007/06/18/making-dolphin-the-default-file-manager/

@@ -1,6 +1,6 @@
 ---
 title: A collection of Linus’ speeches
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-01-24T05:58:39+00:00
 url: /2010/01/24/a-collection-of-linus-speeches/

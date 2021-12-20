@@ -1,6 +1,6 @@
 ---
 title: SSH into your servers from Unity using unity-sshsearch-lens
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-02-01T09:30:13+00:00
 url: /2012/02/01/ssh-into-your-servers-from-unity-using-unity-sshsearch-lens/

@@ -1,6 +1,6 @@
 ---
 title: 'File Associations:Changing/Removing/Adding default applications for particular filetypes in openSUSE 11 & KDE 4.1'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2008-09-24T04:30:00+00:00
 url: /2008/09/24/file-associationschangingremovingadding-default-applications-for-particular-filetypes-in-opensuse-11-kde-41/

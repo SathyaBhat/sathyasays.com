@@ -1,6 +1,6 @@
 ---
 title: Some thoughts on the PlayStation 4
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-05-23T17:38:55+00:00
 url: /2016/05/23/some-thoughts-on-the-playstation-4/

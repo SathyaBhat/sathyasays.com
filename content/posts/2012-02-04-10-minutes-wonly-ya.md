@@ -1,6 +1,6 @@
 ---
 title: '10 minute bug fixes & web conference bloopers'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-02-04T12:28:55+00:00
 url: /2012/02/04/10-minutes-wonly-ya/

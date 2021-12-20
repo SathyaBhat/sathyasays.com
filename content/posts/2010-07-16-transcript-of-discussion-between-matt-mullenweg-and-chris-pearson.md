@@ -1,6 +1,6 @@
 ---
 title: 'Transcript of discussion between Matt Mullenweg and Chris Pearson – Summarizing #thesiswp'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-07-15T22:56:40+00:00
 url: /2010/07/16/transcript-of-discussion-between-matt-mullenweg-and-chris-pearson/

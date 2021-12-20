@@ -1,6 +1,6 @@
 ---
 title: On Undertale
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2016-01-22T10:19:52+00:00
 url: /2016/01/22/on-undertale/

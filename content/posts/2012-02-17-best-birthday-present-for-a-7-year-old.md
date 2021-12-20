@@ -1,6 +1,6 @@
 ---
 title: Best Birthday Present For a 7-Year Old
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2012-02-17T10:43:22+00:00
 url: /2012/02/17/best-birthday-present-for-a-7-year-old/

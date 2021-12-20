@@ -1,6 +1,6 @@
 ---
 title: 'My Laptop Chronicles: How Fate has decided that I SHOULD NOT get a lappy ASAP'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2007-11-12T14:19:39+00:00
 url: /2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/

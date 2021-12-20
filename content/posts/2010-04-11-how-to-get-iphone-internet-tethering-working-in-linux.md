@@ -1,6 +1,6 @@
 ---
 title: '[How-To] Get iPhone Internet Tethering Working in Linux'
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2010-04-11T18:02:57+00:00
 url: /2010/04/11/how-to-get-iphone-internet-tethering-working-in-linux/

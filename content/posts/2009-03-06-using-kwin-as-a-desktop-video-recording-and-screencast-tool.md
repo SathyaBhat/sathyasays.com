@@ -1,6 +1,6 @@
 ---
 title: Using KWin as a Desktop Video Recording and Screencast tool
-author: Sathya
+author: Sathyajith Bhat
 type: post
 date: 2009-03-06T01:46:06+00:00
 url: /2009/03/06/using-kwin-as-a-desktop-video-recording-and-screencast-tool/
