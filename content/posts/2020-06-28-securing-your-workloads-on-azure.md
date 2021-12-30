@@ -5,7 +5,7 @@ type: post
 date: 2020-06-28T00:00:00+00:00
 url: /2020/06/28/securing-your-workloads-on-azure/
 categories:
-  - "Tips & How-To's"
+  - Talks
 tags:
   - Security 
   - Azure

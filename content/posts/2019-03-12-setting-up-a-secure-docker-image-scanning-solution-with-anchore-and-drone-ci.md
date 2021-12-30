@@ -5,7 +5,7 @@ type: post
 date: 2019-03-12T06:16:24+00:00
 url: /2019/03/12/setting-up-a-secure-docker-image-scanning-solution-with-anchore-and-drone-ci/
 categories:
-  - "Tips & How-To's"
+  - DevOps
 tags:
   - Anchore
   - container security
