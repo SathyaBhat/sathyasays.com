@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2021-12-30T10:00:00+00:00
 url: /2021/12/20/digitalocean-kubernetes-challenge-gitops-argo-tekton
-description: I attempt to complete teh DigitalOcean Kubernetes Challenge
-featured_image: https://i.sathyabh.at/sb/dok8s/argo.png
+description: I attempt to complete the DigitalOcean Kubernetes Challenge
+featured_image: https://i.sathyabh.at/ss/dok8s/argo.png
 categories:
   - DevOps
 tags:
