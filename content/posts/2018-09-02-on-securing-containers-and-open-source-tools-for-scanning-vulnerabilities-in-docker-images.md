@@ -5,7 +5,7 @@ type: post
 date: 2018-09-02T14:07:23+00:00
 url: /2018/09/02/on-securing-containers-and-open-source-tools-for-scanning-vulnerabilities-in-docker-images/
 categories:
-  - Security
+  - DevOps
 tags:
   - containers
   - Docker

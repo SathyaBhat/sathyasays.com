@@ -20,10 +20,16 @@ weight            = 3
 name              = "Categories"
 identifier        = "categories"
 url               = "/categories/"
-weight            = 4
+weight            = 10
 
 [[main]]
 name              = "Contact"
 identifier        = "contact"
 url               = "/contact/"
-weight            = 5
+weight            = 15
+
+[[main]]
+name              = "Subscribe via RSS"
+identifier        = "subscribe"
+url               = "https://sathyasays.com/index.xml"
+weight            = 20

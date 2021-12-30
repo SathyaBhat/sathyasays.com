@@ -5,7 +5,7 @@ type: post
 date: 2020-04-26T06:16:24+00:00
 url: /2020/04/26/folding-at-home-aws-cdk/
 categories:
-  - "Tips & How-To's"
+  - DevOps
 tags:
   - AWS
   - AWS CDK

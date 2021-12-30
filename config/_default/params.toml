@@ -191,8 +191,8 @@ commento = false
   username = "sathyabhat"
 
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "Looking to learn Docker? buy my book - Practical Docker With Python"
+  link = "https://sathyasays.com/2021/12/20/practical-docker-with-python-second-edition/"
 [[footerLinks]]
   name = ""
   link = ""
