@@ -41,3 +41,10 @@ googleAnalytics         = "UA-155085050-1"
   category = "categories"
   tag = "tags"
   series = "series"
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true

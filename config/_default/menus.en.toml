@@ -29,7 +29,7 @@ url               = "/contact/"
 weight            = 15
 
 [[main]]
-name              = "Suscbribe via RSS"
+name              = "Subscribe via RSS"
 identifier        = "subscribe"
 url               = "https://sathyasays.com/index.xml"
 weight            = 20
