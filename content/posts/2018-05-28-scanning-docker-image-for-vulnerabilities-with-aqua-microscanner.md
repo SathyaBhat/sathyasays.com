@@ -5,15 +5,12 @@ type: post
 date: 2018-05-28T18:10:16+00:00
 url: /2018/05/28/scanning-docker-image-for-vulnerabilities-with-aqua-microscanner/
 categories:
-  - "Tips & How-To's"
+  - DevOps
 tags:
-  - Aqua
-  - Clair
   - containers
-  - Docker
-  - Twistlock
-  - vulnerability
-  - vulnerability scanner
+  - Docker 
+  - security
+
 
 ---
 Containers are slowly becoming the standardized units of deployment. As containers become more popular, they also become the focus targets for attacking the system via vulnerabilities present in the packages within the image. There are quite a few container vulnerability scanning solutions (example: [Clair](https://github.com/coreos/clair), [Twistlock, now Prisma Cloud](https://www.twistlock.com), [Aqua](https://www.aquasec.com) – however most of them are either commercial or require an elaborate setup, which makes it difficult for individual developers to involve them as part of the container build process.

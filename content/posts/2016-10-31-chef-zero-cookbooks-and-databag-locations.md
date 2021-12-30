@@ -5,12 +5,11 @@ type: post
 date: 2016-10-31T13:55:00+00:00
 url: /2016/10/31/chef-zero-cookbooks-and-databag-locations/
 categories:
-  - "Tips & How-To's"
+  - DevOps
 tags:
   - chef
   - chef-zero
   - data bags
-  - DevOps
   - recipes
 
 ---

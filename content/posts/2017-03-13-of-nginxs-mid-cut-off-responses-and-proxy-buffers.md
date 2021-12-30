@@ -5,9 +5,8 @@ type: post
 date: 2017-03-13T11:50:03+00:00
 url: /2017/03/13/of-nginxs-mid-cut-off-responses-and-proxy-buffers/
 categories:
-  - "Tips & How-To's"
-tags:
   - DevOps
+tags:
   - nginx
   - opslyfe
   - proxy buffrers

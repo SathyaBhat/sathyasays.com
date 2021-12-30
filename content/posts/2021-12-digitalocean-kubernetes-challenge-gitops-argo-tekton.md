@@ -12,7 +12,7 @@ tags:
   - Kubernetes
   - Docker
 ---
-I came across DigitalOcean's Kubernetes challenge a few weeks back and found it to be interesting. The [Kubernetes Challenge](https://www.digitalocean.com/community/pages/kubernetes-challenge) is an event to pick up a challenge from the list provided by DigitalOcean and complete them. The challenge involves creating, configuring, and deploying apps to a [DigitalOcean Managed Kubernetes cluster](https://www.digitalocean.com/products/kubernetes/). I've been looking at improving my Kubernetes skills well beyond the "deploy a StatefulSet and you're done" tasks, so I looked at the available challenges. 
+I came across DigitalOcean's Kubernetes challenge a few weeks back and found it to be interesting. The [Kubernetes Challenge](https://www.digitalocean.com/community/pages/kubernetes-challenge) is an event to pick up a challenge from the list provided by DigitalOcean and complete them. The challenge involves creating, configuring, and deploying apps to a [DigitalOcean Managed Kubernetes cluster](https://www.digitalocean.com/products/kubernetes/). I've been looking at improving my Kubernetes skills well beyond the "deploy a StatefulSet and you're done" level, so I looked at the available challenges. 
 
 DigitalOcean did a wonderful job of coming up with a list of challenges aimed at people who're just getting started, all the way to those who are familiar and yet still need something to improve their skills. To make things even better, DigitalOcean also provided some credits ($60 for the beginner challenge, $120 for the advanced and expert challenges) to those who were doing the challenge. Thanks to DigitalOcean for the credits which made doing this challenge without us having to spend anything.
 
@@ -227,5 +227,7 @@ As I completed this. The credits from DigitalOcean should last till the end of t
 * Understand Kaniko deeper
 * Add the full Argo stack
 * (as a stretch goal) Move all the kubectl apply to Terraform code (or maybe even [cdktf](https://learn.hashicorp.com/tutorials/terraform/cdktf)).
+
+Till the credits last, you can access the app that I have deployed over at [https://dok8s.sathyasays.com/2048-game/](https://dok8s.sathyasays.com/2048-game/). 
 
 Subscribe [to the feed](https://sathyasays.com/index.xml) to be notified of new posts!
