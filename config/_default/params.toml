@@ -191,8 +191,8 @@ commento = false
   username = "sathyabhat"
 
 [[footerLinks]]
-  name = "Looking to learn Docker? buy my book - Practical Docker With Python"
+  name = "Looking for a guided approach to learn Docker? Check out my book - Practical Docker With Python"
   link = "https://sathyasays.com/2021/12/20/practical-docker-with-python-second-edition/"
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "Interested in learning about the CDK? Want to build infrastructure using a programming language? The CDK might be a good fit. Check out The CDK Book."
+  link = "https://thecdkbook.com"
