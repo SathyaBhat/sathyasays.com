@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2011-04-24T17:34:11+00:00
 url: /2011/04/24/saving-gmail-attachments-in-android/
-topsy_short_url:
-  - https://u.sbhat.me/hiJe4y
+
 categories:
   - Android
 tags:
@@ -15,7 +14,7 @@ tags:
 ---
 I have no idea why, but for some reason the Gmail app on Android doesn't allow you to save files. How stupid is that? Recently, I needed to send a document from my Google Apps account to my work account.
 
-<!--more-->
+
 
 The e-mail filter at my (<a href="https://u.sbhat.me/ePAVaF" target="_blank">now former</a>) work place mail servers can be a little overzealous and would silently discard incoming mail with attachments coming from outside sources. So I had to
 

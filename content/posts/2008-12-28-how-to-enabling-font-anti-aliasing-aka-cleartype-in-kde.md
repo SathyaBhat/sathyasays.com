@@ -7,7 +7,7 @@ url: /2008/12/28/how-to-enabling-font-anti-aliasing-aka-cleartype-in-kde/
 categories:
   - "Tips & How-To's"
 tags:
-  - tutorials
+  - linux
   - kde
 
 
@@ -16,7 +16,7 @@ While going through some of KDE settings I found this simple way to enable Anti 
 
 For this, just launch KDE settings - this is generally known as Configure Desktop in openSUSE or System Settings in Kubuntu.
 
-<!--more-->
+
 
 <p style="text-align: center">
   <a href="https://i.sathyabh.at/ss/2008/12/desktopsettings.png"><img class="size-medium wp-image-639 aligncenter" title="Desktop Settings" src="https://i.sathyabh.at/ss/2008/12/desktopsettings-300x187.png" alt="Desktop Settings"   srcset="https://i.sathyabh.at/ss/2008/12/desktopsettings-300x187.png 300w, https://i.sathyabh.at/ss/2008/12/desktopsettings-1024x640.png 1024w, https://i.sathyabh.at/ss/2008/12/desktopsettings.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>

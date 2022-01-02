@@ -8,16 +8,13 @@ featured_image: https://i.sathyabh.at/ss/2017/11/IMG_20170917_125022.jpeg
 categories:
   - Gaming
 tags:
-  - games
   - Oculus Rift
-  - Rift
-  - Virtual Reality
   - VR
 
 ---
 VR and me go like chalk and cheese - ever since a kid, I've had motion sickness which limited me from playing most FPS games and my last attempt at VR(at <a href="https://www.gamesexpo.in" target="_blank" rel="noopener">IGX 2016</a>) was a disaster - I barely could withstand 30 seconds of VR. Granted the game selection was bad - for me anyway (Driveclub on PSVR) - still I didn't expect that bad of a reaction.
 
-<!--more-->
+
 
 {{< youtube n4w8VP1v_NY >}}
 

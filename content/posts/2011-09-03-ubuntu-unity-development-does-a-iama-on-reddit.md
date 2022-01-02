@@ -4,13 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2011-09-03T07:32:03+00:00
 url: /2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/
-topsy_short_url:
-  - https://u.sbhat.me/rsYERr
+
 categories:
   - General
 tags:
   - Canonical
-  - Ubuntu
+  - ubuntu
   - Unity
 
 ---

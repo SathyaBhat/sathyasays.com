@@ -4,17 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-09T20:52:55+00:00
 url: /2010/07/10/virtual-dj-software-for-linux-mixxx/
-topsy_short_url:
-  - https://bit.ly/djdjZ5
+
 categories:
   - Linked
 tags:
-  - DJ
-  - DJ software
+  - applications
   - linux
-  - MID
-  - software
-  - Ubuntu
   
 ---
 > Mixxx is described as a complete package for amateur and professional DJs alike, providing everything you need to create and perform live mixes. It can run without connecting turntables and mixers, which makes it a replacement for traditional DJ setup. For professionals, it supports advanced features like comprehensive MIDI controller support, vinyl control, and multi-core CPU support.

@@ -7,34 +7,15 @@ url: /2009/06/07/amarok-21-is-out-installing-amarok-21-on-ubuntu-904-jaunty/
 categories:
   - Reviews
 tags:
-  - Amarok
-  - Amarok 2
-  - Apple
-  - Arch
-  - file
-  - forums
-  - GNOME
-  - Jaunty
-  - KDE
-  - KDE 4.2
-  - kubuntu
-  - Launchpad
+  - application
   - linux
-  - open source
-  - plasma
-  - software
-  - SUSE
-  - synaptic
-  - "tips-and-howto's"
-  - tutorials
-  - Ubuntu
-  - Ubuntu
+
 ---
-I was catching up on some feeds yesterday, and this piece of news caught my eye -[Amarok 2.1 released][1]{#aptureLink_chgCx0N0sk}. Being a long time Amarok fan ( heck Amarok itself was catalyst to make me use my SUSE 10.0 use full) time - I read the article with great interest.
+I was catching up on some feeds yesterday, and this piece of news caught my eye -[Amarok 2.1 released][1]. Being a long time Amarok fan ( heck Amarok itself was catalyst to make me use my SUSE 10.0 use full) time - I read the article with great interest.
 
 Amarok 2 users would know that Amarok 2 series is a shadow of its old Amarok 1.4("Amarok Classic" self) - and quite a few people still prefer Amarok classic to Amarok 2 - primararily because of Amarok's missing support for visualizations, equalizer amongst others. I don't use equalizers - and as for visualization - well don't use that either.
 
-<!--more-->
+
 
 Coming back to the point - Amarok 2.0 release was somewhat like a KDE 4.0 release - more of a framework release, basic building blocks in place, but just about. I terribly missed queuing support, and promptly stopped using Amarok (and on a different note, switched to Gnome - Rhythmbox is sweet!).
 

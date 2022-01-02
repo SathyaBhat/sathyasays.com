@@ -4,15 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2012-06-04T15:05:45+00:00
 url: /2012/06/04/chromes-active-extension-icons-in-omnibox-annoyance/
-topsy_short_url:
-  - https://u.sbhat.me/MbxVid
+
 categories:
   - General
 tags:
-  - browser
-  - Chrome
-  - Chrome extensions
-  - Google Chrome
+  - application
+
 
 ---
 I'm a huge fan of Chrome & pretty much loved whatever changes Chrome team have done to the browser since it's inception. This change, however, is probably the first annoying thing that I've run into.
@@ -21,7 +18,7 @@ Few days ago, after the latest dev channel update, all the extension icons on we
 
 [<img class="alignnone" title="Chrome Extension SHow Button" src="https://i.imgur.com/MBF1a.png" alt="Chrome Extension SHow Button"   />][1]
 
-<!--more-->
+
 
 Why was it set so, I don't know. Even more annoying is that the favicons of all active extensions on a page will now be placed in the Omnibox. As a result? My omnibox looks like this:<figure style="width: 600px" class="wp-caption alignnone">
 

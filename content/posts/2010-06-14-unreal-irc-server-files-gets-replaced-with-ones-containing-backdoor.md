@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2010-06-14T03:55:14+00:00
 url: /2010/06/14/unreal-irc-server-files-gets-replaced-with-ones-containing-backdoor/
-topsy_short_url:
-  - https://bit.ly/do67vH
+
 categories:
   - News
 tags:

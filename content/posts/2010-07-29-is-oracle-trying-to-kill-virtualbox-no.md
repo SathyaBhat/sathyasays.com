@@ -4,27 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-29T01:53:08+00:00
 url: /2010/07/29/is-oracle-trying-to-kill-virtualbox-no/
-topsy_short_url:
-  - https://bit.ly/chbUbO
+
 categories:
-  - General
+  - Linked
 tags:
-  - bin
   - linux
-  - open source
-  - Opera
-  - Operating System
-  - oracle
-  - pen drive
-  - show
-  - software
-  - subs
-  - Sun
-  - USB pen drive
-  - VirtualBox
-  - virtualization
-  - vm
-  - windows
+
 
 ---
 > It seems Oracle is hellbent on destroying whatever good Sun had done to the Open Source Ecosystem. The latest product to get the axe seems to be none other than the Flagship Virtualization program xVM VirtualBox.

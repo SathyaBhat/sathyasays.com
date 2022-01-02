@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-09T22:22:26+00:00
 url: /2010/07/10/amazing-wallpapers-made-using-inkscape/
-topsy_short_url:
-  - https://bit.ly/b5hywq
+
 categories:
   - General
   - Linked

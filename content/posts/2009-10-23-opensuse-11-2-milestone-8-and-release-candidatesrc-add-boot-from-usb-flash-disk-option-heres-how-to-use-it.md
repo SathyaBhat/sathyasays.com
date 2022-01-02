@@ -7,33 +7,22 @@ url: /2009/10/23/opensuse-11-2-milestone-8-and-release-candidatesrc-add-boot-fro
 categories:
   - "Tips & How-To's"
 tags:
-  - commands
-  - DVD
-  - file
-  - flash
-  - flash drive
-  - iso
-  - KDE
+
   - linux
-  - LiveCD
+
   - openSuSE
-  - openSUSE 11
-  - root
-  - SUSE
-  - terminal
-  - "tips-and-howto's"
-  - tutorials
+
   
 ---
-Howdy folks! Been a \*loong\* time since I last posted isn't it? Just been busy with work & travel (won't bore you with the details, just check [my personal blog][1]{#aptureLink_20DGMzo67U}).
+Howdy folks! Been a *loong* time since I last posted isn't it? Just been busy with work & travel (won't bore you with the details, just check [my personal blog][1]).
   
-I've been looking forward to the upcoming openSUSE 11.2 version ( it's no secret that I'm a fan of [openSUSE][2]{#aptureLink_yxkV6H9kot}), but the main problem for me was that I don't like holding onto optical media, and have a 8gig USB flash disk, especially for these things.
+I've been looking forward to the upcoming openSUSE 11.2 version ( it's no secret that I'm a fan of [openSUSE][2]), but the main problem for me was that I don't like holding onto optical media, and have a 8gig USB flash disk, especially for these things.
 
-Unfortunately  openSUSE has been lacking a install/boot from USB flash drive for quite sometime, upto now that is. The last Milestone (M8) and the first release candidate, RC1 includes support for booting from USB flash disks.
+Unfortunately, openSUSE has been lacking a install/boot from USB flash drive for quite sometime, upto now that is. The last Milestone (M8) and the first release candidate, RC1 includes support for booting from USB flash disks.
 
 You will need access to a Linux environment, inorder to accomplish this step.
 
-<!--more-->Once you're in Linux, open the terminal. Insert your USB flash disk. ait for few moments  for the flash disk to be detected. Then, switch to root user by typing
+Once you're in Linux, open the terminal. Insert your USB flash disk. ait for few moments for the flash disk to be detected. Then, switch to root user by typing
 
 
   

@@ -9,13 +9,12 @@ categories:
 tags:
   - commands
   - linux
-  - lvm
-  - tutorials
+
 
 ---
 Today as I booted into my openSUSE box, for reasons unknown to me, my LVM partitions failed to mount. fsck didn't help, and and LVM based container system meant that I couldn't use the standard mount /dev/sdxx style of mounting as well. With my /home and / configured as a LVM, the root (/) partition was active, but the /home partition was not being mounted, as a result, X and KDM wouldn't start, giving a console login. After a bit of digging around the man files, I found thw lvm manfile and started experimenting(remember, no net access too!) and found out how to mount the LVM'd partitions.
 
-<!--more-->
+
 
 The below set of commands require root privileges so switch over root using
   

@@ -4,14 +4,13 @@ author: Sathyajith Bhat
 type: post
 date: 2012-07-05T17:19:00+00:00
 url: /2012/07/05/wakoopa-officially-shutdown-grab-your-data-now/
-topsy_short_url:
-  - https://u.sbhat.me/LWyMAa
+
 categories:
   - General
-  - News
+
 tags:
   - linux
-  - wakoopa
+
 
 ---
 About 2 weeks ago, Wakoopa announced that they will be shutting down their <a title="Wakoopa is dead" href="https://techie-buzz.com/tech-news/wakoopa-service-made-software-social-comes-end.html" target="_blank">social network soon</a> & focusing on "Corporate Research".

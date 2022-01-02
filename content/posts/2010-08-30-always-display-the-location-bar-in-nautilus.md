@@ -4,27 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2010-08-30T04:06:10+00:00
 url: /2010/08/30/always-display-the-location-bar-in-nautilus/
-topsy_short_url:
-  - https://bit.ly/90bWfZ
+
 categories:
   - "Tips & How-To's"
 tags:
-  - apps
-  - commands
-  - distro
-  - dl
-  - File management
-  - gconf
-  - GNOME
-  - linux
-  - Nautilus
-  - open source
-  - show
-  - terminal
-  - tips
-  - "tips-and-howto's"
-  - tutorials
-  - Ubuntu
+  - applications
+
 
 ---
 This is a pretty good tip. The default style irritates me to no end. Check out the full post, there are some great tips, especially if you're new to Nautilus like me.
@@ -35,7 +20,7 @@ This is a pretty good tip. The default style irritates me to no end. Check out t
 > 
 > `gconftool-2 --set /apps/nautilus/preferences/start_with_location_bar --type bool 1`
 
-via [anxiousnut's playground][2]
+via [anxiousnut's playground][2]
 
  [1]: https://zappedpoint.wordpress.com/2010/05/14/change-the-default-view-in-nautilus
  [2]: https://anxiousnut.wordpress.com/2010/08/28/nautilus-unpopular-flabbergasting-snippets/

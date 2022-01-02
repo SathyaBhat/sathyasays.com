@@ -15,7 +15,7 @@ Most of the how-to's and fixes posted here, are generally my experiences and I p
 
 Generally, I'd recommend running `gtk-window-decorator --replace` or `metacity --replace` in terminal - that generally does reinitialize the window decorators. However for Bharath, this particular solution didn't help and he kept facing the same problem
 
-<!--more-->
+
 
 Despite typing the above, the title bars would still keep crashing. After some problem he was able to fix it. This is how he went about it.
 

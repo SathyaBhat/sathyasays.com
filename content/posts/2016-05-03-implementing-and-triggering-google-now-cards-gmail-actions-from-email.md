@@ -4,17 +4,11 @@ author: Sathyajith Bhat
 type: post
 date: 2016-05-03T10:43:47+00:00
 url: /2016/05/03/implementing-and-triggering-google-now-cards-gmail-actions-from-email/
-bfa_virtual_template:
-  - hierarchy
 categories:
   - "Tips & How-To's"
 tags:
-  - Barcamp Bangalore
-  - Gmail Actions
-  - Google Now
-  - json-ld
-  - microdata
-  - structured data
+  - programmming
+
 
 ---
 For every Barcamp event that comes and goes by, I try to think of what new thing I can do to make it a bit better. Off late, I've been using <a href="https://www.google.co.in/inbox/" target="_blank">Inbox by Gmail</a> almost exclusively. I love the product, particularly for the cards that show up that gives you a brief info about the mail(ex: Event reservation details/Flight details etc) without even opening the email.
@@ -23,7 +17,7 @@ I noticed that Meetup does the same. So I thought to myself, why not implement t
 
 The biggest problem when I started looking out was that I didn't even know what they were known as! After bit of searching with various keywords ("triggering Google now cards", "Inbox cards", "Inbox mail preview") I found that the actual term is "[Gmail actions][1]". Gmail actions use markup from <a href="https://schema.org" target="_blank">schema.org</a> for powering these snippets.
 
-<!--more-->
+
 
 The good thing is that a single markup is enough to power the various places the cards summary will be shown:
 

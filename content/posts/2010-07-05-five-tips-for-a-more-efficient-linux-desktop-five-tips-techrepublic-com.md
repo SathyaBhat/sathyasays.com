@@ -6,8 +6,7 @@ date: 2010-07-05T13:00:08+00:00
 url: /2010/07/05/five-tips-for-a-more-efficient-linux-desktop-five-tips-techrepublic-com/
 linked_list_url:
   - https://blogs.techrepublic.com.com/five-tips/?p=189
-topsy_short_url:
-  - https://bit.ly/ccMP3d
+
 categories:
   - Linked
 tags:

@@ -8,19 +8,8 @@ categories:
   - "Tips & How-To's"
 tags:
   - linux
-  - open source
   - openSuSE
-  - openSUSE 11
-  - openSUSE 11.0
-  - opensuse 11.1
-  - root
-  - show
-  - SUSE
-  - terminal
-  - "tips-and-howto's"
-  - tutorials
-  - updating
-  - upgrading
+
 
 ---
 As mentioned openSUSE 11.2 is now available. If you're on previous versions of openSUSE you can do an inplace upgrade to 11.2 by using zypper.
@@ -29,7 +18,7 @@ openSUSE 11.0/openSUSE 11.1
 
 Just change the repos to mention 11.2 instead of 11.0/11.1, as shown in the pic:
 
-<!--more-->
+
 
 [<img class="aligncenter size-medium wp-image-796" title="opensuse repos" src="https://i.sathyabh.at/ss/2009/11/opensuse-repos-300x155.jpg" alt="opensuse repos"   srcset="https://i.sathyabh.at/ss/2009/11/opensuse-repos-300x155.jpg 300w, https://i.sathyabh.at/ss/2009/11/opensuse-repos.jpeg 1001w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 

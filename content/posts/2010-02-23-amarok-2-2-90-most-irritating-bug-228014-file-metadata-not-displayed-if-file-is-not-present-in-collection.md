@@ -4,29 +4,21 @@ author: Sathyajith Bhat
 type: post
 date: 2010-02-22T23:04:44+00:00
 url: /2010/02/23/amarok-2-2-90-most-irritating-bug-228014-file-metadata-not-displayed-if-file-is-not-present-in-collection/
-topsy_short_url:
-  - https://bit.ly/bGIUF2
+
 categories:
   - General
 tags:
   - Amarok
-  - Amarok 2
-  - file
-  - KDE
-  - Meta
-  - metadata
-  - music
-  - open source
-  - RIA
-  - show
-  - updating
+  - application
+  - linux
+
 
 ---
-Well it's no secret that I'm a music fan and love to keep my music organized, and neatly tagged. ( Well, if you didn't - now you do ). I'd posted quite sometime ago on how to keep your music [well tagged and organized][1]{#aptureLink_3xJl5k39gE}, so there's pretty much no way that my files wouldn't be tagged.
+Well it's no secret that I'm a music fan and love to keep my music organized, and neatly tagged. ( Well, if you didn't - now you do ). I'd posted quite sometime ago on how to keep your music [well tagged and organized][1], so there's pretty much no way that my files wouldn't be tagged.
 
 Of course, there exceptions here and there but majority are tagged. So I was rather surpised today when Amarok , during playback wasn't showing any metadata. To verify - I installed id3v2, a CLI tool to view/edit ID3 tags for mp3 files using zypper and - guess what- it showed the meta data correctly.
   
-<!--more-->
+
 
 <p style="text-align: center;">
   <figure style="width: 622px" class="wp-caption aligncenter"><a href="https://imagebin.ca/img/Vd4Ku-B.jpg"><img class=" " title="ID3 tag - gone!" src="https://imagebin.ca/img/Vd4Ku-B.jpg" alt="ID3 tag - gone!"   /></a><figcaption class="wp-caption-text">ID3 tag - gone!</figcaption></figure> 

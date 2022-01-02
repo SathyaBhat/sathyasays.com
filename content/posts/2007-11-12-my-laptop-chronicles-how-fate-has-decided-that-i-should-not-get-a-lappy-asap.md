@@ -5,9 +5,9 @@ type: post
 date: 2007-11-12T14:19:39+00:00
 url: /2007/11/12/my-laptop-chronicles-how-fate-has-decided-that-i-should-not-get-a-lappy-asap/
 categories:
-  - News
+  - General
 tags:
-  - laptops
+  - laptop
 
 ---
 Mega Post ahead: You have been warned!
@@ -28,7 +28,7 @@ n.
 
 The past few days have convinced me that Fate has it that I should NOT get my laptop, as early as possible. Why so? Read what's happened in the past few days and you'll agree.
   
-<!--more-->
+
 
 
   

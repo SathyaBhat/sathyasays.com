@@ -7,7 +7,6 @@ url: /2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/
 categories:
   - Opinions
 tags:
-  - HP envy
   - windows 8
 
 ---
@@ -15,7 +14,7 @@ So after much thought, I upgraded my Windows 7 Ultimate install to Windows 8. I 
 
 And since the RP was working fine, including the GPU drivers which I had to install in Windows 7 compatibility mode, I decided to complete the upgrade. Now my Windows 7 install is a culmination of several years of crap, including lots and lots of software, context menu entries, personalized superbar and to add to the mix, some exotic software  Here's what I had installed/present on Windows 7
 
-<!--more-->
+
 
   * VS 2010 Web Dev edition Express(<a href="https://stackoverflow.com/q/4566908/92837" target="_blank">for nuGet)</a> & VS 2012 Express for Windows Desktop
   * SQL Server 2008

@@ -1,15 +1,14 @@
 ---
 title: '[How-to] Fix “E: Unable to parse package file /var/lib/apt/extended_states (1)”  error in Synaptic or apt-get'
-author: Bharath
 type: post
+author: Sathyajith Bhat
 date: 2009-11-08T11:41:22+00:00
 url: /2009/11/08/how-to-fix-e-unable-to-parse-package-file-varlibaptextended_states-1-error-in-synaptic-or-apt-get/
 categories:
   - "Tips & How-To's"
 tags:
-  - apt-get
-  - sudo
-  - terminal
+  - linux
+  - ubuntu
 
 ---
 This is just a quick tip. If you are getting this error message in Synaptic:

@@ -4,31 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-13T23:02:21+00:00
 url: /2010/07/14/4096-byte-sector-hard-drives-linux/
-topsy_short_url:
-  - https://bit.ly/bx6qkp
+
 categories:
   - General
 tags:
-  - AIR
-  - Arch
-  - distro
-  - dl
-  - fdisk
-  - formatting
-  - git
-  - Google
-  - HAL
-  - hard drives
-  - how-tos
+
   - linux
-  - LV
-  - partition
-  - partitioning
-  - performance
-  - show
-  - Ubuntu
-  - windows
-  - xp
 
 ---
 > Recently, I bought a pair of those new Western Digital Caviar Green drives. These new drives represent a transitional point from 512-byte sectors to 4096-byte sectors. A number of articles have been published recently about this, explaining the benefits and some of the challenges that we'll be facing during this transition. Reportedly, Linux should unaffected by some of the pitfalls of this transition, but my own experimentation has shown that Linux is just as vulnerable to the potential performance impact as Windows XP. Despite this issue being known about for a long time, basic Linux tools for partitioning and formatting drives have not caught up.

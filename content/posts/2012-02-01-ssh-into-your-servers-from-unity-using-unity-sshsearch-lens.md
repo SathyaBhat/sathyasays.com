@@ -4,15 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2012-02-01T09:30:13+00:00
 url: /2012/02/01/ssh-into-your-servers-from-unity-using-unity-sshsearch-lens/
-topsy_short_url:
-  - https://u.sbhat.me/y7zALG
+
 categories:
   - "Tips & How-To's"
 tags:
-  - lens
-  - ssh
-  - Ubuntu
-  - Unity
+  - ubuntu
+
 
 ---
 I love Unity, especially the lens feature. While going through the Ubuntu store, found this neat little lens for initiating an SSH connection.

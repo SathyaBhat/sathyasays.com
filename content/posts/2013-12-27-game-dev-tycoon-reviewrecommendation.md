@@ -8,11 +8,6 @@ evolve_slider_type:
   - no
 categories:
   - Gaming
-  - Reviews
-tags:
-  - game dev tycoon
-  - gaming
-  - review
 
 ---
 Mini review/recommendation I'd written <a href="https://steamcommunity.com/id/sathyabhat/recommended/239820/" target="_blank">about Game Dev Tycoon on Steam</a>:

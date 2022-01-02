@@ -4,50 +4,23 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-15T22:56:40+00:00
 url: /2010/07/16/transcript-of-discussion-between-matt-mullenweg-and-chris-pearson/
-topsy_short_url:
-  - https://bit.ly/aq7SQ3
+
 categories:
   - General
 tags:
-  - basics
-  - comparison
-  - dual
-  - file
-  - find
-  - forums
-  - git
-  - GPL
-  - history
-  - images
-  - iso
-  - license
-  - LTS
-  - open source
-  - PHP
-  - quotes
-  - script
-  - show
-  - software
-  - theme
-  - themes
-  - Thesis
-  - twitter
-  - Unity
-  - web
   - WordPress
-  - WP
-  - xp
+
 
 ---
 Couple of days ago, there was a huge debate (argument ?)  between Matt Mullenweg  - developer of WordPress and Chris Pearson - developer of Thesis premium theme over twitter which then extended to Mixergy.
 
-Crux of the argument is the disagreement amognst the two over the licensing terms. Matt believes that Thesis should adopt [GPL][1]{#aptureLink_Q1kNtLltNY} which as Wikipedia states:
+Crux of the argument is the disagreement amognst the two over the licensing terms. Matt believes that Thesis should adopt [GPL][1] which as Wikipedia states:
 
 > The GPL is an example of a powerful [copyleft][2] license that requires derived works to be available under the same copyleft.
 
 Chris, on the otherhand disagrees with this. The full transcript of their discussion is available on Mixergy, here are some quotes which I found interesting:
 
-<!--more-->
+
 
 > Andrew Warner:  Can you give us just a short version of what the issue is from your side?
 

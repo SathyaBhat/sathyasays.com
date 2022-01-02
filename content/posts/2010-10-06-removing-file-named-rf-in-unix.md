@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2010-10-05T23:13:28+00:00
 url: /2010/10/06/removing-file-named-rf-in-unix/
-topsy_short_url:
-  - https://bit.ly/cq3NaS
+
 categories:
   - "Tips & How-To's"
 tags:

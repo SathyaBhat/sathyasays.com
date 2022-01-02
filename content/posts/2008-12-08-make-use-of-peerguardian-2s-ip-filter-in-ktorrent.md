@@ -14,7 +14,7 @@ tags:
 ---
 PeerGuardian 2, is an awesome IP filtering software. Though its FOSS, it there isn't a Linux port of it yet. But don't worry, if you're using KTorrent, you can make use of PeerGuardian's filters.  Let me show how you can do so.
 
-<!--more-->
+
 
 Launch KTorrent. Click on On Settings -> Configure KTorrent . Click on Plugins and ensure that IP FIlter is checked
 

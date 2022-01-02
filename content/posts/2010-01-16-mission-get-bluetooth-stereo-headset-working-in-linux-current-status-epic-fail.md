@@ -4,36 +4,19 @@ author: Sathyajith Bhat
 type: post
 date: 2010-01-16T09:41:42+00:00
 url: /2010/01/16/mission-get-bluetooth-stereo-headset-working-in-linux-current-status-epic-fail/
-topsy_short_url:
-  - https://bit.ly/4wESPN
+
 categories:
-  - News
+  - "Tips & How-To's"
 tags:
-  - a2dp
-  - ALSA
   - bluetooth
-  - bluez
-  - commands
-  - file
-  - FOSS
-  - iPhone
   - linux
-  - Mplayer
-  - openSuSE
-  - record
-  - script
-  - SUSE
-  - testing
-  - Vista
-  - windows
-  - xp
 
 ---
-I've owned a Sony Ericsson HBH-DS970 for [nearly 2 years now][1]{#aptureLink_GW9kUit5Kx}, and I use it pretty often with my previous phone ( the [Sony Ericsson P1i][2]{#aptureLink_Szc3RZREO3} ), and my current iPhone 3G. I also use it occasionally on my laptop. It has worked fine in Windows XP, Vista & Windows 7. Getting it to work with Linux, however has been an EPIC FAIL. The last time I tried it was probably a year ago, and I just gave up in frustration and continued to use my EP-630 as the earphone.
+I've owned a Sony Ericsson HBH-DS970 for [nearly 2 years now][1] ), and my current iPhone 3G. I also use it occasionally on my laptop. It has worked fine in Windows XP, Vista & Windows 7. Getting it to work with Linux, however has been an EPIC FAIL. The last time I tried it was probably a year ago, and I just gave up in frustration and continued to use my EP-630 as the earphone.
 
-<!--more-->
 
-The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3]{#aptureLink_NSxWrq0F8x} in office - since I don't have any other headset, I got all "enthu" about trying to get this ting working. And now all that enthusiasm has gone, and I'm on the verge of giving up again. So let me point as to what steps I \*have\* tried.
+
+The situation however changed when recently some <span style="text-decoration: line-through;">bloody fucking bastard</span> person [stole my EP-630][3] in office - since I don't have any other headset, I got all "enthu" about trying to get this ting working. And now all that enthusiasm has gone, and I'm on the verge of giving up again. So let me point as to what steps I \*have\* tried.
 
   * [bluetooth-alsa on SourceForge][4]
 

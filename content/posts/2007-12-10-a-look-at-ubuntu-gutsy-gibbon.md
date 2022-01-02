@@ -8,15 +8,13 @@ categories:
   - Reviews
 tags:
   - linux
-  - Ubuntu
+  - ubuntu
 
 
 ---
 Ubuntu Gutsy has been receiving a huge amount of hype and fan fare recently, and I've been following Gutsy closely, from Ubuntu Fridge's 10 Rocking Features in 10 Days to fellow bloggers and Linux users posts on Gutsy. Naturally after their Feisty launch, expectations were high(from my side). Now I'm not Ubuntu's biggest fan(I'm a SuSE fellow, Novell haters, meh!), but I appreciate what Ubuntu has been doing for newbie Linux users in general.
   
 I was patiently waiting for the December issue of [CHIP][1] magazine and picked it up immediately when it hit the stands, ripped apart the packaging and took out the DVD(yup, that's right CHIP this month had a bootable DVD of Ubuntu Gutsy :D ) and started about installing it. Launching into the live environment took a good 2 minutes, uncharacteristic of Ubuntu.
-  
-<!--more-->
 
 
   
