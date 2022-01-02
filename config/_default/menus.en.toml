@@ -13,7 +13,7 @@ weight            = 2
 [[main]]
 name              = "Talks"
 identifier        = "talks"
-url               = "/talks/"
+url               = "talks"
 weight            = 3
 
 [[main]]
