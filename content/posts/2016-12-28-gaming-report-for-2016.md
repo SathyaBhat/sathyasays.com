@@ -9,10 +9,7 @@ categories:
   - Gaming
 tags:
   - games
-  - gaming
-  - pc
   - playstation 4
-  - ps4
   - steam
 
 ---

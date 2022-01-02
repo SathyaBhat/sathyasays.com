@@ -8,7 +8,7 @@ categories:
   - "Tips & How-To's"
 tags:
   - linux
-  - application
+  - applications
 
 ---
 I wasn't aware of this tiny little thing - the filesystem in the file created by a Wubi install can be easily mounted as a loop device.

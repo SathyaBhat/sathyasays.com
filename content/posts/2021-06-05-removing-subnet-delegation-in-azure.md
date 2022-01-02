@@ -9,10 +9,7 @@ categories:
   - DevOps
 tags:
   - Azure
-  - Redis
-  - VNET
-  - subnets
-  - Cloud
+
 
 ---
 

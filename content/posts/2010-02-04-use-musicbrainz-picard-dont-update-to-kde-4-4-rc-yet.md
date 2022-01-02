@@ -9,7 +9,7 @@ categories:
   - News
 tags:
   - linux
-  - application
+  - applications
 
 
 ---

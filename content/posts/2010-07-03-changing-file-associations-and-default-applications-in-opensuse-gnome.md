@@ -8,7 +8,7 @@ url: /2010/07/03/changing-file-associations-and-default-applications-in-opensuse
 categories:
   - "Tips & How-To's"
 tags:
-  - application
+  - applications
   - linux
   - gnome
 

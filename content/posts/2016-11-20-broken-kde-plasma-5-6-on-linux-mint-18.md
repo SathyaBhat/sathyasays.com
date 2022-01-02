@@ -8,8 +8,6 @@ categories:
   - Opinions
 tags:
   - KDE
-  - Mint 18
-  - plasma
 
 ---
 I've been a long time KDE user, loved the KDE 4.0 SC when it first arrived and probably one of the most vocal supporters for it when people were hating it. Since my recent job move, I've been using Linux desktop full-time. Since Linux Mint 18 was the only distro which supported WiFi/Display/Multi-monitor/HDMI out on my Lenovo E41-80(which comes with Skylake chipset), I stuck to it with the Cinnamon desktop.

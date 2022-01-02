@@ -7,7 +7,7 @@ url: /2010/01/10/changing-the-gnome-menu-panel-in-opensuse-gnome-back-to-gnome-d
 categories:
   - "Tips & How-To's"
 tags:
-  - application
+  - applications
   - linux
   - openSuSE
 

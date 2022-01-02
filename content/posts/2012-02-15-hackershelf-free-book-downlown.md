@@ -7,10 +7,8 @@ url: /2012/02/15/hackershelf-free-book-downlown/
 
 categories:
   - Programming
-tags:
-  - books
-  - ebooks
-  - free downloads
+
+
 
 ---
 Hackershelf is curated collection of legally free books. Check it <a href="https://hackershelf.com" target="_blank">out</a>. On a related topic of programming books - check out Stack Overflow's tag wiki on <a href="https://stackoverflow.com/tags/books/info" target="_blank">books</a>.

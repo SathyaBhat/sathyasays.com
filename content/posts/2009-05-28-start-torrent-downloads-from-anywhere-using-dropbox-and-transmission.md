@@ -7,7 +7,7 @@ url: /2009/05/28/start-torrent-downloads-from-anywhere-using-dropbox-and-transmi
 categories:
   - "Tips & How-To's"
 tags:
-  - application
+  - applications
 
 
 ---

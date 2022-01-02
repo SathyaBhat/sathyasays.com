@@ -7,7 +7,7 @@ url: /2012/11/09/my-experience-on-upgrading-from-windows-7-to-windows-8/
 categories:
   - Opinions
 tags:
-  - windows 8
+  - windows
 
 ---
 So after much thought, I upgraded my Windows 7 Ultimate install to Windows 8. I didn't plan to upgrade so soon, I wanted to wait for few more months before doing the upgrade - the main reason for holding back the upgrade was lack of drivers. However with <a href="https://superuser.com" target="_blank">Super User</a>&#8216;s [Windows 8 Challenge][1] around, I could no longer use the RP for posting answers.

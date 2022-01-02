@@ -8,7 +8,7 @@ url: /2012/02/04/10-minutes-wonly-ya/
 categories:
   - Programming
 tags:
-  - webconference
+  - humor
 
 ---
 Came across <a href="https://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">this article</a> via <a href="https://news.ycombinator.com/item?id=3548445" target="_blank">HN</a> and I'm pretty sure most who work for Enterprise companies would've come across this at least once. Incredibly detailed post.

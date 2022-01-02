@@ -7,7 +7,7 @@ url: /2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/
 categories:
   - Gaming
 tags:
-  - e3
+  - games
 ---
 E3 has come and gone by and  most of the year's press conferences were boring (what was EA even smoking?). Having said that, some of these did grab my attention. Below are a list (in no specific order) of gameplay/trailers/things I'm looking for and thought were good. Enjoy
 

@@ -8,7 +8,7 @@ url: /2012/06/04/chromes-active-extension-icons-in-omnibox-annoyance/
 categories:
   - General
 tags:
-  - application
+  - applications
 
 
 ---

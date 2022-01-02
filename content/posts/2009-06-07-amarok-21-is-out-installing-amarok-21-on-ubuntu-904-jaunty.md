@@ -7,7 +7,7 @@ url: /2009/06/07/amarok-21-is-out-installing-amarok-21-on-ubuntu-904-jaunty/
 categories:
   - Reviews
 tags:
-  - application
+  - applications
   - linux
 
 ---

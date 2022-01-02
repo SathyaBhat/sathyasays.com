@@ -8,9 +8,7 @@ categories:
   - News
 tags:
   - linux
-  - web
   - WordPress
-  - xp
 
 ---
 I've shifted!This time, not just physically but on the web as well.First, physically(literally, and I'm using too many rhyming words). As a trainee in [3i-Infotech][1] I've shifted from coastal town of Mangalore to the metro, Chennai, which is again a coastal city, just on the the eastern side of India.

@@ -8,8 +8,8 @@ url: /2012/02/17/best-birthday-present-for-a-7-year-old/
 categories:
   - Gaming
 tags:
-  - edge
-  - level design
+  - games
+
 
 ---
 > He loves [Edge]. The game, the puzzles, the music, the levels, everything. He knows which music belongs to what level, what secret passages can be reached when traversing through the level a certain way and when his gaming time is over he tends to his lego and builds his own Edge levels.

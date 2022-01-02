@@ -4,15 +4,9 @@ author: Sathyajith Bhat
 type: post
 date: 2014-08-12T06:15:25+00:00
 url: /2014/08/12/an-indian-developers-way-of-handling-merge-conflict/
-evolve_full_width:
-  - no
-evolve_slider_type:
-  - no
 categories:
   - Programming
-tags:
-  - stupidity
-  - WTF
+
 
 ---
 So this happened just now with a colleague. He's been working for few months now.

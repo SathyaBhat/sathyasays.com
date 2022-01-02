@@ -8,7 +8,7 @@ url: /2012/07/30/fixing-frm-41336-populate_list-invalid-column-type-for-column-2
 categories:
   - Programming
 tags:
-  - oracle forms
+  - oracle
 
 ---
 I spent the past hour and a half trying to fix this stupid error.

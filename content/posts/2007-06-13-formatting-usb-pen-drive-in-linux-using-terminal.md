@@ -8,25 +8,9 @@ categories:
   - "Tips & How-To's"
 tags:
   - commands
-  - ext3
-  - FAT
-  - FAT32
-  - file
   - filesystem
-  - flash drive
-  - formatting
-  - hard disk
   - linux
-  - pen drive
-  - pendrive
-  - RIA
-  - subs
-  - sudo
-  - terminal
-  - "tips-and-howto's"
-  - tutorials
-  - USB drive
-  - USB pen drive
+
 
 ---
 Insert your USB pen drive. Let it get detected and mounted. Open Terminal. Type The Following commands

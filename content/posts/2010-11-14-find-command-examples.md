@@ -8,7 +8,7 @@ url: /2010/11/14/find-command-examples/
 categories:
   - "Tips & How-To's"
 tags:
-  - application
+  - applications
   - linux
   - ubuntu
 

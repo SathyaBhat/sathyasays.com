@@ -7,7 +7,6 @@ url: /2015/12/29/spotify-dl-download-your-spotify-my-music-songs-as-mp3/
 categories:
   - Programming
 tags:
-  - mp3
   - Spotify
 
 ---

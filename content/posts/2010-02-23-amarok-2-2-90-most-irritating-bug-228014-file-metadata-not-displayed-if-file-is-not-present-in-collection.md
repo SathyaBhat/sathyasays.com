@@ -9,7 +9,7 @@ categories:
   - General
 tags:
   - Amarok
-  - application
+  - applications
   - linux
 
 

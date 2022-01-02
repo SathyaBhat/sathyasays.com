@@ -7,7 +7,7 @@ url: /2013/05/18/on-backupify-killing-their-free-backup-service-startups-bait-an
 categories:
   - Opinions
 tags:
-  - online services
+  - applications
 
 ---
 Long ago <a href="https://blog.backupify.com/2009/12/16/backup-your-online-accounts-for-free/" target="_blank">when Backupify said they were going to offer their service for free</a>, I knew it was too good to be true and weren't going to last long. Fast forward today, they mention they're going to not only kill their free twitter backup service, but also wipe out data of their existing free users.
