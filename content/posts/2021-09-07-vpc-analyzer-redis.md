@@ -11,7 +11,6 @@ categories:
 tags:
   - AWS
   - VPC
-  - Cloud
 
 ---
 

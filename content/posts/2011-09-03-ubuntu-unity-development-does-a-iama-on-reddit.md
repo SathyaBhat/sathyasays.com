@@ -8,9 +8,8 @@ url: /2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/
 categories:
   - General
 tags:
-  - Canonical
   - ubuntu
-  - Unity
+
 
 ---
 > **Q:** What does Linux need to be if its going to be a real contender to Windows? What are you guys doing about that? **A:** It needs support from the major players. Personally I think we need to lure:

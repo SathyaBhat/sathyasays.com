@@ -7,8 +7,7 @@ url: /2013/05/15/errord-where-i-come-from-we-dont-need-july/
 categories:
   - Linked
 tags:
-  - IFTTT
-  - "sathyabhat's blurblog"
+  - humor
 
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #F0F0F0" valign="top" align="left" cellpadding="0" width="100%">

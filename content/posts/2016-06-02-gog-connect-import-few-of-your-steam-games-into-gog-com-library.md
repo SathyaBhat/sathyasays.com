@@ -7,10 +7,8 @@ url: /2016/06/02/gog-connect-import-few-of-your-steam-games-into-gog-com-library
 categories:
   - Gaming
 tags:
-  - gog.com
-  - good old games
+  - games
   - steam
-  - valve
 
 ---
 <a href="https://gog.com" target="_blank">Gog.com</a>(formerly Good Old Games) is part of CD Projekt Group - the publishers of the fantastic Witcher series of games. GOG started off as a firm which (re)distributed classic games without <a href="https://en.wikipedia.org/wiki/Digital_rights_management" target="_blank">DRM</a> and ensuring they run on modern systems.
