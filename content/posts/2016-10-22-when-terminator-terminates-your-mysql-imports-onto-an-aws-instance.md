@@ -5,21 +5,17 @@ type: post
 date: 2016-10-22T17:11:16+00:00
 url: /2016/10/22/when-terminator-terminates-your-mysql-imports-onto-an-aws-instance/
 categories:
-  - Cloud
-tags:
-  - Amazon Web Services
-  - AWS
-  - Database
   - DevOps
-  - linux
-  - MySQL
+tags:
+  - AWS
+
 
 ---
 I have begun to use <a href="https://launchpad.net/terminator" target="_blank">Terminator</a> quite a lot. Terminator's quite handy when you want to connect to multiple servers on a single terminal thanks to its split pane feature. (And yes I know about tmux & screen - I have screen on my servers, don't want to get into the headache that is nested screen panes).
 
 Few days back <a href="https://styletag.com" target="_blank">we</a> were preparing for a big migration & deploy and I was tasked upon to prepare a failover just in case the migration goes wrong. I have an automated daily backup from prod and restore to local server, I decided to restore from the MySQL dump on the local server onto the AWS instance via the automated process. Since database restores can take a bit of time, I started the restore and went over to grab some coffee. Once back, I noticed that the import was done and proceeded with a rake db:migrate and realized that rake was doing a migration going all the way back **from the start**&#8230; that did not look proper.
 
-<!--more-->
+
 
 I connected over to the failover instance and realized only about 60% of the restore was done. First thoughts: oh shit!? Why? How? Are my database backups screwed? Hasn't anyone noticed this? How much did I setback our migration timelines?
 

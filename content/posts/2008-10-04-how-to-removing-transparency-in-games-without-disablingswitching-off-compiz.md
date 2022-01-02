@@ -8,8 +8,6 @@ categories:
   - "Tips & How-To's"
 tags:
   - linux
-  - tutorials
-
 
 ---
 <div>
@@ -21,7 +19,7 @@ tags:
 </div>
 
 <div>
-  <!--more-->
+  
 </div>
 
 <div>

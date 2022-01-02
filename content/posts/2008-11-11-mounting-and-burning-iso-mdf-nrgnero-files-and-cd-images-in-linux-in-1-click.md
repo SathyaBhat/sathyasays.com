@@ -14,11 +14,10 @@ tags:
 ---
 A while ago, I'd written a post on [howto mount CD images][1], such as .iso, .mdf files etc via the command prompt using the mount command. In the post, among the comments, Sumeet had asked if there was a way to do all of this without having to type lengthy commands. Well yes there is! And it can't get simpler than this!
 
-<p style="text-align: center;">
-  <!--more-->Furious ISO Mount Tool is a an amazing little application, taking only about 256KB, and gives you a neat little interface to mount all your iso, mdf(ie, made by Alcohol 120), nrg(created using Nero) images using 1 click!
+  Furious ISO Mount Tool is a an amazing little application, taking only about 256KB, and gives you a neat little interface to mount all your iso, mdf(ie, made by Alcohol 120), nrg(created using Nero) images using 1 click!
   
-  <br /> <a href="https://www.flickr.com/photos/sathyabhat/3019351633/"><img class="aligncenter" src="https://farm4.static.flickr.com/3005/3019351633_6396ab88db_m.jpg" alt="Furious ISO Mount Tool" /></a>
-</p>
+  <a href="https://www.flickr.com/photos/sathyabhat/3019351633/"><img class="aligncenter" src="https://farm4.static.flickr.com/3005/3019351633_6396ab88db_m.jpg" alt="Furious ISO Mount Tool" /></a>
+
 
 As the above pic shows, the interface is simplistic. To mount an image, just hit the browse button, choose the image file, and hit the mount button! The image will be mounted in your home directory. Furious ISO Mount tool can also launch Brasero or Nautilus and burn the image file, and can also calculate the SHA/HD5 hash, to check that the ISO is not corrupted.
   

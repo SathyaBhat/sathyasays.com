@@ -7,8 +7,7 @@ url: /2013/04/29/pirates-play-a-gamedev-simulator-go-bankrupt-because-of-piracy/
 categories:
   - Gaming
 tags:
-  - gaming
-  - piracy
+  - games
 
 ---
 <a href="https://www.greenheartgames.com/2013/04/29/what-happens-when-pirates-play-a-game-development-simulator-and-then-go-bankrupt-because-of-piracy/" target="_blank">What happens when pirates play a game development simulator and then go bankrupt because of piracy? &rarr;</a>

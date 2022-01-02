@@ -9,12 +9,12 @@ categories:
 tags:
   - commands
   - terminal
-  - tutorials
+  - linux
 
 ---
 Ever wondered if there's a quick and easy way to write an iso file to a CD-R/DVD-R ? Don't want to open K3B or Brasero ? Here's a handy way of writing the iso file.
 
-<!--more-->
+
   
 First, switch to root using su
   

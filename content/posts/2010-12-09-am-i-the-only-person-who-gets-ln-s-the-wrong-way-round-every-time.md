@@ -4,13 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2010-12-08T22:25:06+00:00
 url: /2010/12/09/am-i-the-only-person-who-gets-ln-s-the-wrong-way-round-every-time/
-topsy_short_url:
-  - https://u.sbhat.me/gwboX7
+
 categories:
-  - General
+  - "Tips & How-To's"
 tags:
   - commands
-  - "tips-and-howto's"
+  - linux
 
 ---
 > `ln -s d1 d2 # Am I the only person who gets this the wrong way round every fucking time?`

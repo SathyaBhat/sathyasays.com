@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2012-02-13T11:44:31+00:00
 url: /2012/02/13/oracle-ora-01017-error/
-topsy_short_url:
-  - https://u.sbhat.me/wwvC3q
+
 categories:
   - Programming
 tags:
@@ -16,7 +15,7 @@ Was writing this for <a href="https://stackoverflow.com" target="_blank">Stack O
 
 ORA-01017 is the error code shown my Oracle when a login attempt to the database was not successful.
 
-<!--more-->
+
 
 The full text of the error code is:
 

@@ -17,9 +17,6 @@ The about page of PhoneManager states
 
 > Phone Manager is a program created to allow you to control aspects of your mobile phone from your GNOME 2 desktop..
 
-<!--more-->
-
-
   
 The about page does seem ambitious, somewhat like gammu/Wammu but so far only SMS(text messaging) send/receive feature has been implemented, its been done so very nicely!
 

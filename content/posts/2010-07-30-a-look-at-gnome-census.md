@@ -4,19 +4,14 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-29T21:21:38+00:00
 url: /2010/07/30/a-look-at-gnome-census/
-topsy_short_url:
-  - https://bit.ly/aoUw0o
+
 categories:
   - News
 tags:
-  - Arch
-  - Canonical
-  - find
+
   - GNOME
-  - LV
-  - Nokia
-  - Red Hat
-  - Sun
+  - applications
+
 
 ---
 > Here are our key findings:

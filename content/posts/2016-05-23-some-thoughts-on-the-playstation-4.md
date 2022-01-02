@@ -4,15 +4,11 @@ author: Sathyajith Bhat
 type: post
 date: 2016-05-23T17:38:55+00:00
 url: /2016/05/23/some-thoughts-on-the-playstation-4/
-bfa_virtual_template:
-  - hierarchy
 categories:
   - Gaming
 tags:
-  - console
-  - games
   - playstation 4
-  - ps4
+
 
 ---
 Few months ago for our second wedding Anniversary, after much discussions on what to get for each other - we decided to get a PlayStation 4. This was a rather surprising decision considering
@@ -25,7 +21,7 @@ Few months back Subbu lent me his PS Vita loaded with.. pretty much all the Vi
 
 With our Anniversary in sight and us liking the Vita so much, I thought we should get the Vita, but with lack of games and us both wanting to play together, we ended up with the PS4. I waited for a bit till I got a deal on the PS4 - <a href="https://www.amazon.in/Sony-PlayStation-1TB-Console-Ultimate/dp/B019XI6DJG/ref=sr_1_1?s=videogames&ie=UTF8&qid=1461355259&sr=1-1&tag=mewoof-21&keywords=playstation+4" target="_blank">the PlayStation 4 1TB  "Ultimate Player Edition"</a> had price drop of  Rs. 3,000, decided to grab that. Besides the increased storage, the bundle came with 2 games(inFamous Second Son and God of War Remastered back then)
 
-<!--more-->
+
 
 &nbsp;
 

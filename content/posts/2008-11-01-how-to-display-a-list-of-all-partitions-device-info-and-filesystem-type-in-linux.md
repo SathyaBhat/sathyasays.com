@@ -9,11 +9,9 @@ categories:
 tags:
   - commands
   - linux
-  - tutorials
-
 
 ---
-In my previous posts I'd written on <a href="https://sathyasays.com/2008/11/01/how-to-mount-fat32ntfs-partitions-with-read-and-write-support-in-linux-using-command-line/" target="_blank">how to mount your partitions using the mount</a> command. In the post I'd mentioned that you'd have to mention the partition that you want to mount by specifying /dev/device_name as part of the command. The question that would come to your mind is, How do I know which of my partition is on what device? So let me show how to find out which partition is on what device! <!--more--> Like quite a lot of my posts, this involves the Command prompt - my preferred way of doing. Open the Terminal. Switch to root user by typing 
+In my previous posts I'd written on <a href="https://sathyasays.com/2008/11/01/how-to-mount-fat32ntfs-partitions-with-read-and-write-support-in-linux-using-command-line/" target="_blank">how to mount your partitions using the mount</a> command. In the post I'd mentioned that you'd have to mention the partition that you want to mount by specifying /dev/device_name as part of the command. The question that would come to your mind is, How do I know which of my partition is on what device? So let me show how to find out which partition is on what device!  Like quite a lot of my posts, this involves the Command prompt - my preferred way of doing. Open the Terminal. Switch to root user by typing 
 
 `su root`. For those distros whose root accounts are disabled(Like Ubuntu) just prefix sudo. Type `fdisk -l` This is what you'll get
 

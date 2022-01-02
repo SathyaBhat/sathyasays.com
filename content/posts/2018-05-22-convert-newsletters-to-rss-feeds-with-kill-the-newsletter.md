@@ -7,16 +7,13 @@ url: /2018/05/22/convert-newsletters-to-rss-feeds-with-kill-the-newsletter/
 categories:
   - "Tips & How-To's"
 tags:
-  - Atom
-  - feeds
-  - kill-the-newsletter
   - newsletters
   - RSS
 
 ---
 Long time, no write! Newsletters have become all the rage these days and I guess for good reason -  they're curated, come in (usually) once a week and typically offer a respite from the deluge of news that comes in why typical RSS Feeds or via Twitter. Naturally I subscribed to few initially and then the list of newsletters increased - and now I am stuck with a newsletter bomb in my Inbox
 
-<!--more--><figure id="attachment_1593" aria-describedby="caption-attachment-1593" style="width: 346px" class="wp-caption aligncenter">
+<figure id="attachment_1593" aria-describedby="caption-attachment-1593" style="width: 346px" class="wp-caption aligncenter">
 
 <img class="size-full wp-image-1593" src="https://i.sathyabh.at/ss/2018/05/Screen-Shot-2018-05-22-at-9.32.40-AM.png" alt="newsletters, newsletters everywhere"   /><figcaption id="caption-attachment-1593" class="wp-caption-text">newsletters, newsletters everywhere</figcaption></figure> 
 

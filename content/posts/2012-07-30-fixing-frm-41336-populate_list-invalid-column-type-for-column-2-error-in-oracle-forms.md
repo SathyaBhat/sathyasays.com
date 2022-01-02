@@ -4,12 +4,11 @@ author: Sathyajith Bhat
 type: post
 date: 2012-07-30T12:25:26+00:00
 url: /2012/07/30/fixing-frm-41336-populate_list-invalid-column-type-for-column-2-error-in-oracle-forms/
-topsy_short_url:
-  - https://u.sbhat.me/MWqET8
+
 categories:
   - Programming
 tags:
-  - oracle forms
+  - oracle
 
 ---
 I spent the past hour and a half trying to fix this stupid error.
@@ -18,7 +17,7 @@ Here's the situation:
 
 I have a Poplist(aka dropdown list/ list item).  The poplist is populated by a query defined in a Record Group. The query is on the lines of
 
-<!--more-->
+
 
 `select id, name from employees`
 

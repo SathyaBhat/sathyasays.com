@@ -7,23 +7,13 @@ url: /2009/05/28/start-torrent-downloads-from-anywhere-using-dropbox-and-transmi
 categories:
   - "Tips & How-To's"
 tags:
-  - accessible
-  - chm
-  - DropBox
-  - file
-  - how-tos
-  - show
-  - sync
-  - "tips-and-howto's"
-  - torrents
-  - transmission
-  - tutorials
-  - web
+  - applications
+
 
 ---
-I've been using [Dropbox][1] pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface - just upload a file and boom, the file you uploaded gets sync'd across all your computers. This coupled with [Transmission][2]{#aptureLink_qW0FfjT1X1}&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
+I've been using [Dropbox][1] pretty extensively ever since its private beta days and just love its simplicity and ease with which I can keep all my files in sync across multiple computers. Even more awesome is its simple web interface - just upload a file and boom, the file you uploaded gets sync'd across all your computers. This coupled with [Transmission][2]&#8216;s ability  to start downloading torrents automatically when a torrent file is available in a folder means you can start torrent downloads from anywhere, even if your computer is not accessible. Let me show how you can do this.
 
-<!--more-->
+
 
   1. Sign up for Dropbox using this [link][3] (Disclaimer: The link is a referral link, if you signup with the referral code then I get 250MB extra space on my Dropbox.)
   2. Install Dropbox client by following the instructions [here][4].

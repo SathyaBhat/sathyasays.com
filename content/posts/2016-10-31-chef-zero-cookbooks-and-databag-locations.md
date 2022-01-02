@@ -8,14 +8,11 @@ categories:
   - DevOps
 tags:
   - chef
-  - chef-zero
-  - data bags
-  - recipes
 
 ---
 I like chef-zero a lot. There's so much overlap between chef's products: chef-zero, chef-solo, chef-apply - yes, each have their own uses, but I digress. Chef-zero has been relatively pain-free for me - except when I tried to get it running - trying to figure out why it wasn't fetching the cookbooks was so annoying! I went and RTFM couple of times, no dice. Then I decided to not skim read and <a href="https://docs.chef.io/ctl_chef_client.html" target="_blank">read the entire thing</a>.
 
-<!--more-->
+
 
 > **chef-zero** is a very lightweight Chef server that runs in-memory on the local machine. This allows the chef-client to be run against the chef-repo as if it were running against the Chef server. chef-zero was [originally a standalone tool][1]{.reference.external}; it is enabled from within the chef-client by using the **<tt class="docutils literal"><span class="pre">--local-mode</span></tt>** option
 > 

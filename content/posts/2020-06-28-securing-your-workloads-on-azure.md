@@ -9,7 +9,6 @@ categories:
 tags:
   - Security 
   - Azure
-  - Cloud Computing
 
 ---
 

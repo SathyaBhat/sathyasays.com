@@ -7,10 +7,7 @@ url: /2012/08/31/borderlands-2-an-introduction-by-sir-hammerlock/
 categories:
   - Gaming
 tags:
-  - borderlands 2
-  - gearbox
-  - rpg
-
+  - games
 ---
 Totally badass.
 

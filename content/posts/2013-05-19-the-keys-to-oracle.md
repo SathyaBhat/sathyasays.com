@@ -7,8 +7,7 @@ url: /2013/05/19/the-keys-to-oracle/
 categories:
   - Linked
 tags:
-  - IFTTT
-  - "sathyabhat's blurblog"
+  - oracle
 
 ---
 <table style="border: 1px solid #E0E0E0; margin: 0; padding: 0; background-color: #f0f0f0;" width="100%" cellpadding="0" align="left">

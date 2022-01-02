@@ -10,6 +10,7 @@ categories:
   - DevOps
 tags:
   - Kubernetes
+  - Terraform
   - Docker
 ---
 I came across DigitalOcean's Kubernetes challenge a few weeks back and found it to be interesting. The [Kubernetes Challenge](https://www.digitalocean.com/community/pages/kubernetes-challenge) is an event to pick up a challenge from the list provided by DigitalOcean and complete them. The challenge involves creating, configuring, and deploying apps to a [DigitalOcean Managed Kubernetes cluster](https://www.digitalocean.com/products/kubernetes/). I've been looking at improving my Kubernetes skills well beyond the "deploy a StatefulSet and you're done" level, so I looked at the available challenges. 

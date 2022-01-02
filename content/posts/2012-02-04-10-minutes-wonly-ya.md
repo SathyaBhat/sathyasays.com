@@ -4,12 +4,11 @@ author: Sathyajith Bhat
 type: post
 date: 2012-02-04T12:28:55+00:00
 url: /2012/02/04/10-minutes-wonly-ya/
-topsy_short_url:
-  - https://u.sbhat.me/ylMR7K
+
 categories:
   - Programming
 tags:
-  - webconference
+  - humor
 
 ---
 Came across <a href="https://edweissman.com/dear-boss-for-a-programmer-10-minutes-3-hours" target="_blank">this article</a> via <a href="https://news.ycombinator.com/item?id=3548445" target="_blank">HN</a> and I'm pretty sure most who work for Enterprise companies would've come across this at least once. Incredibly detailed post.

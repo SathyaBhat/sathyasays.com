@@ -15,7 +15,7 @@ Consider this situation. You have multiple programs installed for a particular f
 
 For example, you want your images to open in showFoto instead of Gwenview, so how do you go about doing this? Let me show you how to do so!
 
-<!--more-->
+
 
 First, launch KDE settings, by clicking on the K menu and then Configure Desktop.
 

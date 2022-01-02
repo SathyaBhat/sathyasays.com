@@ -17,7 +17,7 @@ Unfortunately CDs get scratched pretty easily, and can turn into a coaster prett
 
 With prices of USB pen drives at rock bottom, they're probably the best way to try out LiveCDs. Generally its not that easy to make a bootable LiveCD using USB pen/flash drives. If you're a Fedora lover then here's a very easy way to create a bootable USB pen drive.
 
-<!--more-->liveusb-creator is software which allows you to create bootable USB drives from Fedora iso. Its got some really features like
+liveusb-creator is software which allows you to create bootable USB drives from Fedora iso. Its got some really features like
 
   * Downloading of the latest Fedora release and previous ones
   * Automatic detection of external drives

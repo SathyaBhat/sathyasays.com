@@ -9,10 +9,7 @@ categories:
   - Gaming
 tags:
   - games
-  - review
   - Reviews
-  - supergiant
-  - transistor
 
 ---
 Transistor is the second game made by <a href="https://www.supergiantgames.com/" target="_blank">Supergiant Games</a> following up on their previous game, Bastion. Bastion didn't hold my attention long enough so I really can't say much about it, except at first glance, Bastion seemed to have great artwork and music.

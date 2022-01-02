@@ -7,15 +7,15 @@ url: /2009/03/06/using-kwin-as-a-desktop-video-recording-and-screencast-tool/
 categories:
   - "Tips & How-To's"
 tags:
-  - kwin
-  - tutorials
+  - applications
+  - linux
 
 ---
 Not many know of this, but as of KDE 4.2, Kwin, the window manager has a nifty little feature - it can grab videos of desktop much like a screencasting tool such as Camtasia. This functionality requires Kwin's composition mode to be enabled (ie, you must be using Kwin's desktop effects).
 
 <span>Below video shows where and how you can enable the video recording feature. Note this video was recorded using <span>KWin</span>.</span>
   
-<!--more-->
+
 
 
   
@@ -27,7 +27,7 @@ Another quirk with this is that KWin saves the video recorded as a .cps file (so
   2. Flip it by 90
   3. Flip it by 90 degree and mirror it
 
-Found these rather tedious, so I chained all three to a single command, and with [Mehul][1]{#aptureLink_KpkrN7QBu9}&#8216;s help made it into a script.
+Found these rather tedious, so I chained all three to a single command, and with [Mehul][1]&#8216;s help made it into a script.
 
 So click on the link below, make the file executable by typing
   

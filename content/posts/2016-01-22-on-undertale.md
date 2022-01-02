@@ -4,13 +4,10 @@ author: Sathyajith Bhat
 type: post
 date: 2016-01-22T10:19:52+00:00
 url: /2016/01/22/on-undertale/
-bfa_virtual_template:
-  - hierarchy
+
 categories:
   - Gaming
 tags:
-  - retro
-  - rpg
   - undertale
 
 ---

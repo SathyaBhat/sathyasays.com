@@ -7,7 +7,6 @@ url: /2012/09/17/animated-gifs-the-hard-way-using-them-for-realtime-text-communi
 categories:
   - Programming
 tags:
-  - animated gif
   - gif
 
 ---

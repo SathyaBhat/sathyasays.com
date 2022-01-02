@@ -10,9 +10,7 @@ featured_image:
 categories: 
   - DevOps
 tags:
-  - AWS
-  - VPC
-  - Cloud
+  - CDK
 
 ---
 

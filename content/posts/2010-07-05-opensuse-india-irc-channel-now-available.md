@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2010-07-05T04:29:52+00:00
 url: /2010/07/05/opensuse-india-irc-channel-now-available/
-topsy_short_url:
-  - https://bit.ly/boLsYX
+
 categories:
   - Linked
 tags:

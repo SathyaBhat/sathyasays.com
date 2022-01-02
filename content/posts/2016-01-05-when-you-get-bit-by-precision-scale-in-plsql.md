@@ -4,13 +4,11 @@ author: Sathyajith Bhat
 type: post
 date: 2016-01-05T06:37:59+00:00
 url: /2016/01/05/when-you-get-bit-by-precision-scale-in-plsql/
-bfa_virtual_template:
-  - hierarchy
+
 categories:
   - Programming
 tags:
   - oracle
-  - pl/sql
 
 ---
 I got a bug assigned to me where my application was returning an incorrect value. Some background: The function was an age check function which takes in date of birth & start date and returns the age.

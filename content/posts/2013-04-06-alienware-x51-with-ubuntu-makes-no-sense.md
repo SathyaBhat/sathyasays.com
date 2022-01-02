@@ -7,10 +7,8 @@ url: /2013/04/06/alienware-x51-with-ubuntu-makes-no-sense/
 categories:
   - Opinions
 tags:
-  - alienware
-  - gaming
+  - games
   - linux
-  - steambox
 
 ---
 This morning in my half-woken state, as I was checking Hacker News, I spotted this piece about Alienware launching the X51 with Ubuntu. I initially thought I was dreaming, and woke up immediately and read the piece, and I was left dumbfounded when I read it again to be sure.

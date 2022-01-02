@@ -15,7 +15,7 @@ tags:
 ---
 Containers are slowly becoming the standardized units of deployment. As containers become more popular, they also become the focus targets for attacking the system via vulnerabilities present in the packages within the image. There are quite a few container vulnerability scanning solutions (example: [Clair](https://github.com/coreos/clair), [Twistlock, now Prisma Cloud](https://www.twistlock.com), [Aqua](https://www.aquasec.com) – however most of them are either commercial or require an elaborate setup, which makes it difficult for individual developers to involve them as part of the container build process.
 
-<!--more-->
+
 
 I found recently that Aqua has introduced a free-to-use tool called [Aqua MicroScanner](https://github.com/aquasecurity/microscanner) for scanning container images for package vulnerabilities. What makes this even more attractive and easy-to-use is that it doesn't need any elaborate or predefined server setups – and all that is needed to use this is:
 

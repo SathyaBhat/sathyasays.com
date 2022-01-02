@@ -8,8 +8,6 @@ categories:
   - DevOps
 tags:
   - chef
-  - configuration management
-  - data bags
 
 ---
 In Chef parlance, <a href="https://docs.chef.io/data_bags.html" target="_blank" rel="noopener noreferrer">databags</a> are global variables saved in JSON format and are stored and accessible on the Chef server. Given that these are indexed and can be searched up along with the fact that they can be encrypted make them ideal candidates to store secrets such as credentials/ssh keys.

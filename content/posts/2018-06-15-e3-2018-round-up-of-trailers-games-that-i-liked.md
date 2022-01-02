@@ -7,13 +7,11 @@ url: /2018/06/15/e3-2018-round-up-of-trailers-games-that-i-liked/
 categories:
   - Gaming
 tags:
-  - e3
-  - e3 2018
-
+  - games
 ---
 E3 has come and gone by and  most of the year's press conferences were boring (what was EA even smoking?). Having said that, some of these did grab my attention. Below are a list (in no specific order) of gameplay/trailers/things I'm looking for and thought were good. Enjoy
 
-<!--more-->
+
 
   * <a href="https://www.youtube.com/watch?v=FnEW6dX_BmU" target="_blank" rel="noopener">Skyrim Very Special Edition</a> - Hilarious and very well done
   * <a href="https://www.youtube.com/watch?v=E9gGPR6wOQo" target="_blank" rel="noopener">The Elder Scrolls Blades</a> - FPS RPG for mobile, play on portrait, landscape, sounds great, PvP, PvE,town building, and coming to phones, PC and VR - and all this for free.

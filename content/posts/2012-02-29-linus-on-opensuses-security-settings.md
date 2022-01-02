@@ -4,8 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2012-02-29T04:39:54+00:00
 url: /2012/02/29/linus-on-opensuses-security-settings/
-topsy_short_url:
-  - https://u.sbhat.me/wasp57
+
 categories:
   - General
 tags:

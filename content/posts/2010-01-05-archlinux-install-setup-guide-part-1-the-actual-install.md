@@ -7,52 +7,15 @@ url: /2010/01/05/archlinux-install-setup-guide-part-1-the-actual-install/
 categories:
   - "Tips & How-To's"
 tags:
-  - '*nix'
-  - AIR
-  - Arch
   - ArchLinux
-  - AWN
-  - bin
-  - BIOS
-  - commands
-  - console
-  - dl
-  - ext3
-  - fdisk
-  - file
-  - filesystem
-  - grub
-  - guide
-  - guides
-  - HAL
-  - hard disk
-  - internet
-  - iso
   - linux
-  - login
-  - menu
-  - open source
-  - operating systems
-  - partition
-  - partitioning
-  - PHP
-  - root
-  - show
-  - terminal
-  - "tips-and-howto's"
-  - tutorials
-  - VirtualBox
-  - vm
-  - warning
-  - windows
-  - xp
 
 ---
-Been a while since I posted ;) For some strange reason, recently I got an urge to try out [ArchLinux][1]{#aptureLink_BWSwiwROlt}. After much deliberation finally decided to try out ArchLinux again, [in VirtualBox][2]{#aptureLink_YQu9cIpVYm}. My little install guide I compiled as I was reading through the [Official ArchLinux Install Guide][3]{#aptureLink_OrVThoOrTI} + [Beginner's Guide][4]{#aptureLink_AMQvvRytbx}.
+For some strange reason, recently I got an urge to try out [ArchLinux][1]. After much deliberation finally decided to try out ArchLinux again, [in VirtualBox][2]. My little install guide I compiled as I was reading through the [Official ArchLinux Install Guide][3] + [Beginner's Guide][4].
 
-Please note: This is highly customized according to \*my\* requirements and nowhere as thorough /generalized as the official guides. Still, it might help you. Here we go -
+Please note: This is highly customized according to *my* requirements and nowhere as thorough /generalized as the official guides. Still, it might help you. Here we go -
   
-<!--more-->
+
 
 Boot off the iso.
 

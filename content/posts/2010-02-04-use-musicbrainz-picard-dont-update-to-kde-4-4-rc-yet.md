@@ -4,29 +4,20 @@ author: Sathyajith Bhat
 type: post
 date: 2010-02-04T01:43:33+00:00
 url: /2010/02/04/use-musicbrainz-picard-dont-update-to-kde-4-4-rc-yet/
-topsy_short_url:
-  - https://bit.ly/bZRn5q
+
 categories:
   - News
 tags:
-  - bin
-  - cover
-  - file
-  - FOSS
-  - KDE
-  - music
-  - MusicBrainz
-  - MusicBrainz Picard
-  - open source
-  - Picard
-  - Qt
+  - linux
+  - applications
+
 
 ---
-I love MusicBrainz Picard. It keeps my [music collection organized, tags and renames them][1]{#aptureLink_0HBhpzYgM6}, and heck even fetches the cover art for (almost) all songs. Picard is just brilliant.
+I love MusicBrainz Picard. It keeps my [music collection organized, tags and renames them][1], and heck even fetches the cover art for (almost) all songs. Picard is just brilliant.
 
 And the icing on the cake - its FOSS & cross platform. And it was working fine - till couple of days ago.
   
-<!--more-->
+
 
 Eager to try out the RC of the upcoming 4.4 release of KDE, I upgraded it. Later on I got a bunch of music files from Ankit, and I set to tag 'em correctly. Double clicked Picard. Bouncy icon starts, and then - nothing. Uh-oh. Rinse, repeat, no change. Wondering what could've happened, I launched Konsole and passed the command And - boom.
 

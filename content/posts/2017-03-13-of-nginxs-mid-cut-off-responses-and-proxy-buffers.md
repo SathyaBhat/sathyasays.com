@@ -8,14 +8,12 @@ categories:
   - DevOps
 tags:
   - nginx
-  - opslyfe
-  - proxy buffrers
-  - reverse proxy
+
 
 ---
 Among the services I look after, the biggest and high-profile - is the user facing website. The website is your bog-standard typical frontend(powered by Express/Angular) which fetches data via an API which is powered by the backend(built on Rails). Typical flow is that Express receives the request from the browser, makes a request to the backend which is then served using Rails API via nginx which acts as the reverse proxy.
 
-<!--more-->
+
 
 Couple of weeks back, the team received a support request that one specific route from an internal webapp(of similar architecture as the user facing website above) was throwing an 500 Internal Server error. Now in our case, a 500 server error is typically a sign that the backend was not able to complete the request successfully. I took a look at the application logs and the responses were all proper, nothing out of the ordinary. The error would come intermittently and since it was not a route that was heavily in use, I opted to have a deferred look at it.
 

@@ -4,14 +4,12 @@ author: Sathyajith Bhat
 type: post
 date: 2011-09-03T07:32:03+00:00
 url: /2011/09/03/ubuntu-unity-development-does-a-iama-on-reddit/
-topsy_short_url:
-  - https://u.sbhat.me/rsYERr
+
 categories:
   - General
 tags:
-  - Canonical
-  - Ubuntu
-  - Unity
+  - ubuntu
+
 
 ---
 > **Q:** What does Linux need to be if its going to be a real contender to Windows? What are you guys doing about that? **A:** It needs support from the major players. Personally I think we need to lure:
