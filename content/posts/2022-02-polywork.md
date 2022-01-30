@@ -8,7 +8,7 @@ description: With Stack Overflow jobs & Developer Story being sunset, Polywork j
 featured_image: https://i.sathyabh.at/ss/polywork/polywork.png
 meta_image: https://i.sathyabh.at/ss/polywork/polywork.png
 categories:
-  - General
+  - Opinions
 tags:
   - Polywork
 ---
