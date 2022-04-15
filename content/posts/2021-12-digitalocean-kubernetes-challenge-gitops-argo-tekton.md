@@ -230,6 +230,4 @@ As I completed this. The credits from DigitalOcean should last till the end of t
 * Add the full Argo stack
 * (as a stretch goal) Move all the kubectl apply to Terraform code (or maybe even [cdktf](https://learn.hashicorp.com/tutorials/terraform/cdktf)).
 
-Till the credits last, you can access the app that I have deployed over at [https://dok8s.sathyasays.com/2048-game/](https://dok8s.sathyasays.com/2048-game/). 
-
 Subscribe [to the feed](https://sathyasays.com/index.xml) to be notified of new posts!
