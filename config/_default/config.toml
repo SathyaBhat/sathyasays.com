@@ -35,7 +35,10 @@ googleAnalytics         = "UA-155085050-1"
     startLevel = 2
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "SearchIndex"]
+  home = ["HTML", "RSS", "SearchIndex"]
+  section = ["HTML", "RSS", "SearchIndex"]
+  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  taxonomy = ["HTML", "RSS", "SearchIndex"]
 
 [taxonomies]
   category = "categories"
