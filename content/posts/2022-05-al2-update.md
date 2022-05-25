@@ -6,8 +6,8 @@ type: post
 date: 2022-05-23
 url: /2022/05/23/amazon-linux-to-amazon-linux-2
 description: I picked up a task to migrate our base image from Amazon Linux to Amazon Linux 2. Here's what I needed to get it to work.
-featured_image: 
-meta_image: 
+featured_image: https://i.sathyabh.at/ss/ami.png
+meta_image: https://i.sathyabh.at/ss/ami.png
 categories:
   - DevOps
 tags:
