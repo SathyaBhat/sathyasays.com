@@ -31,11 +31,6 @@ Observability
 * New Relic
 * Splunk
 
+I am the author of Practical Docker with Python ([first](https://amzn.to/3B9pQaz) & [second edition](https://amzn.to/3B9pQaz)), a co-author of [The CDK Book](https://www.thecdkbook.com/). I work with a lot of different communities  and have been recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/). 
 
-I am the author of Practical Docker with Python ([first](https://amzn.to/3B9pQaz) & [second edition](https://amzn.to/3B9pQaz)), a co-author of [The CDK Book](https://www.thecdkbook.com/). I work with a lot of different communities  and have been recognized as an AWS Community Hero. 
-
-I love organizing and running events (physical as well as virtual) and have been part of org. team of events such as Barcamp Bangalore, AWS Community Day - Bangalore, India, South Asia, and CDK Day. 
-
-In my free time I love playing games on my PC and/or Switch (typically ARPGs/City Builders/Simulators) and occasionally livestream gaming and coding on [Twitch](https://www.twitch.tv/sathyabhat).
-
-![Stack Exchange Flair](https://stackexchange.com/users/flair/33230.png)
+I love organizing and running events (physical as well as virtual) and have been part of organizing committee of events such as Barcamp Bangalore, AWS Community Day - Bangalore, India, South Asia, and CDK Day. In my free time I love playing games on my PC and/or Switch (typically ARPGs/City Builders/Simulators) and occasionally livestream gaming and coding on [Twitch](https://www.twitch.tv/sathyabhat).
