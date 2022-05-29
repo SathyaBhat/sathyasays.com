@@ -25,7 +25,7 @@ Route 53 supports the following routing policies.
 * Geolocation routing ("GBR") - Geolocation routing policy lets us route traffic to different resources based on the geographic location of where the request is originating from.
 * Latency-based routing ("LBR") - Latency-based routing policy lets us route traffic to various resources based on the best latency that was measured.
 
-The routing policy is selected as you create a record in Route 53.
+The routing policy is selected as we create a record in Route 53.
 
 ### Latency-based routing
 
