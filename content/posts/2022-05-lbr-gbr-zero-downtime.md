@@ -20,12 +20,12 @@ tags:
 
 Route 53 supports the following routing policies. 
 
-* Simple routing - This is a standard DNS record with no Route 53 routing. This is what most other DNS services would do.
-* Failover routing - This policy lets us route traffic to an alternate resource when the primary resource is unhealthy.
-* Geolocation routing ("GBR") - This policy lets us route traffic to different resources based on the geographic location of where the request is originating from.
-* Latency-based routing ("LBR") - This policy lets us route traffic to various resources based on the best latency that was measured.
+* Simple routing - Simple routing is a standard DNS record. This is what most other DNS services would do.
+* Failover routing - Failover routing policy lets us route traffic to an alternate resource when the primary resource is unhealthy.
+* Geolocation routing ("GBR") - Geolocation routing policy lets us route traffic to different resources based on the geographic location of where the request is originating from.
+* Latency-based routing ("LBR") - Latency-based routing policy lets us route traffic to various resources based on the best latency that was measured.
 
-These policies are set up when you create a Route 53 record.
+The routing policy is selected as you create a record in Route 53.
 
 ### Latency-based routing
 
@@ -37,9 +37,9 @@ For multi-region capable services that were stateless and did not have backing s
 
 ### Latent issues
 
-For some time now, we'd get sporadic reports about LBR not being entirely accurate and routing being deterministic. One of the teams reached out to us to migrate their existing LBR records to GBR.  
+For some time now, we'd been getting sporadic reports about LBR not working as expected and some requests were being served from a region that is worse off(purely looking at latency). To improve these latencies, one of the teams reached out to us to migrate their existing LBR records to GBR.  
 
-And that's where I come in - this came up during my on-call shift. As part of the on-call process, the on-call engineer on shift also handles support requests that were escalated to us. For a LBR record, for each domain, we create multiple records with each record pointing to a load balancer in a different region. For GBR, a record needs to be created to map each country or continent to a load balancer in the desired target region. So assuming you'd want to route a request from each continent, you'd end up creating 8 records - a record for each continent plus a default record. Since a record is created mapping each continent, you might wonder what is the need for the default record. [Route 53 documentation states](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-geo) that not all IPs would contain geolocation info, and if it receives a DNS request from a location that it cannot identify, Route 53 would return a "no answer". To prevent these errors, a default record is created that maps to our largest region.
+And that's where I come in - this came up during my on-call shift. As part of the on-call process, the on-call engineer on shift also handles support requests that were escalated to us. For a LBR record, for each domain, we create multiple records with each record pointing to a load balancer in a different region. For GBR, a record needs to be created to map each country or continent to a load balancer in the desired target region. So assuming you'd want to route a request from each continent, you'd end up creating 8 records - a record for each continent plus a default record. Since a record is created mapping each continent, you might wonder why do we need a default record. [Route 53 documentation states](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-geo) that not all IPs would contain geolocation info, and if it receives a DNS request from a location that it cannot identify, Route 53 would return a "no answer". To prevent these errors, a default record is created that maps to our largest region.
 
 Now if creating 8 records for a domain was not painful enough, I had to do them for 10 domains, for dev & stage (and later prod) which meant that if I were to do manually via Route 53 console, that's about a 160 records. if you've used the new Route 53 console, you'd know the pain - it gets incredibly slow, especially if you have a lot of records.
 
