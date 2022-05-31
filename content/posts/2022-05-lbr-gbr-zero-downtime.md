@@ -5,13 +5,14 @@ type: post
 date: 2022-05-28
 url: /2022/05/28/route53-latency-geolocation-migration
 description: I had some fun playing with Route 53's routing policies.
-featured_image: 
-meta_image: 
+featured_image: https://i.sathyabh.at/ss/r53.png
+meta_image: https://i.sathyabh.at/ss/r53.png
 categories:
   - DevOps
 tags:
   - Route 53
   - DNS
+  - AWS
 ---
 
 [Amazon Route 53](https://aws.amazon.com/route53/) is a pretty incredible managed Domain Name System(DNS) service. DNS translates domain names to IP addresses and allows for computers to connect to each other. More than just a managed DNS service, Route 53 lets us create records using different routing policies. The routing policy determines how Route 53 responds to a DNS request.
