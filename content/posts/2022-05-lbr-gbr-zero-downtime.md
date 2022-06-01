@@ -23,6 +23,7 @@ Route 53 supports the following routing policies.
 
 * Simple routing - Simple routing is a standard DNS record. This is what most other DNS services would do.
 * Failover routing - Failover routing policy lets us route traffic to an alternate resource when the primary resource is unhealthy.
+* Weighted routing - Weighted routing lets us associate multiple records with a single domain, attach a weight to the records that determine how much portion of the traffic is sent over to these records. 
 * Geolocation routing ("GBR") - Geolocation routing policy lets us route traffic to different resources based on the geographic location of where the request is originating from.
 * Latency-based routing ("LBR") - Latency-based routing policy lets us route traffic to various resources based on the best latency that was measured.
 
