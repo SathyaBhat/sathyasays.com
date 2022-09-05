@@ -5,14 +5,15 @@ type: post
 date: 2022-09-05
 url: /2022/09/05/self-hosting-freshrss-fly-io-free
 description: Here's how you can self-host FreshRSS on Fly.io in under 10 minutes
-featured_image: https://aws1.discourse-cdn.com/business7/uploads/fly1/original/1X/49b670bceec1e465f38edfcb9223f572edcbe900.svg
-meta_image: https://aws1.discourse-cdn.com/business7/uploads/fly1/original/1X/49b670bceec1e465f38edfcb9223f572edcbe900.svg
+featured_image: https://i.sathyabh.at/ss/fly-dot-io-logo.svg
+meta_image: https://i.sathyabh.at/ss/fly-dot-io-logo.svg
 categories:
   - DevOps
 tags:
   - Self-hosting
   - Fly.io
 ---
+### Running FreshRSS on Fly.io
 
 [FreshRSS](https://www.freshrss.org/) is a free, self-hostable RSS feeds aggregator. [Fly.io](https://fly.io/) is a super amazing platform that runs application servers close to end users. 
 
