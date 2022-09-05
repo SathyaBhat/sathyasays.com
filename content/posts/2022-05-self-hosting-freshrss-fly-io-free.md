@@ -28,7 +28,7 @@ Since FreshRSS comes with a Docker image, adapting it to fly.io was as straightf
 * Sign up for [Fly.io](https://fly.io/) or sign-in
 * Install [flyctl](https://fly.io/docs/hands-on/install-flyctl/)
 * Sign into your Fly.io account by typing `flyctl auth login`
-* Create a `fly.toml` file similar to the one in [the repo](/fly.toml). Make sure to update the appname to a unique name.
+* Create a `fly.toml` file similar to the one in [my repo](https://github.com/SathyaBhat/freshrss-on-fly-io). Make sure to update the appname to a unique name.
 * Review the environment variables listed in the `[env]` section and update if required. You can check [FreshRSS' docs](https://github.com/FreshRSS/FreshRSS/blob/edge/Docker/freshrss/example.env) on the environment variables that can be updated 
 * Create a volume for persisting data using the command `fly volumes create freshrss_data --size 1`
     * In this command, we create a volume of size 1GB. This can be increased later, so I selected the lowest possible number, as flyctl expects size in GB and doesn't accept fractional numbers.
@@ -65,7 +65,7 @@ That's it! FreshRSS should be accessible from the URL `<appname>.fly.dev`. You c
 
 * FreshRSS extensions need to be available on `/var/www/FreshRSS/extensions`, however - Fly.io doesn't support having [same mount for mulitple directories](https://community.fly.io/t/mount-multiple-destinations-to-the-same-source-volume/5298), or having [multiple mounts](https://community.fly.io/t/multiple-mounts-in-one-app/4701). 
     * Trying to mount just `/var/www/FreshRSS` caused the microVM to throw kernel panics, mainly because the underlying Docker container expects _something_ there - probably the webserver config and mounting an empty VM causes errors
-    * You could try to play with Fly's internal networking, including [setting up a wireguard tunnel](https://community.fly.io/t/how-to-copy-files-off-a-vm/1651/13), but I didn't try
+    * You could try to play with Fly's internal networking, including [setting up a wireguard tunnel](https://community.fly.io/t/how-to-copy-files-off-a-vm/1651/13), but I didn't try.
     * Another icky way is to build a custom Dockerfile copying the required extensions into the image during the build step.. 
 * I haven't run this for long, will update if I run into issues
 
@@ -74,3 +74,5 @@ That's it! FreshRSS should be accessible from the URL `<appname>.fly.dev`. You c
 Fly.io's CLI-oriented approach makes updates via GitHub actions easy. While I haven't set up for FreshRSS, you can look at [this PR](https://github.com/SathyaBhat/sathyabh.at/pull/37) where I add a GitHub action to deploy my blog, [sathyabh.at](https://sathyabh.at), a static site powered by Hugo to Fly.io. 
 
 Fly.io's [community Discourse](https://community.fly.io/) is quite active if you run into any problems. Hope this gives you a good taste of what Fly.io can offer.
+
+See also: [Github repo](https://github.com/SathyaBhat/freshrss-on-fly-io) of the fly.io config file.
