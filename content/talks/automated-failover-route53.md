@@ -8,4 +8,4 @@ Presented at AWS Community Day 2022 - in this talk, I start with a brief about D
 
 The slides for this talk are available on [Github](https://github.com/sathyabhat/talks-slides) and on my [slides archive page](https://slides.sathyasays.com/). The repo also includes a sample Node.js app running on [AWS App Runner](https://aws.amazon.com/apprunner/) deployed in [two separate regions using CDK](https://github.com/SathyaBhat/talks-slides/tree/main/automated-failover-route53/code). The recording below has a brief on how you can set up the DNS records to route traffic to the closest region and setup health check records so that when application fails in one region, traffic is automatically routed to the other region.
 
-{{< youtube NyxZHZhE0M8?t=4269 >}}
+{{< youtube "NyxZHZhE0M8?t=4269" >}}
