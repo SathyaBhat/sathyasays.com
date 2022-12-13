@@ -46,11 +46,11 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Sathyajith Bhat"
 email = "sathya@sathyasays.com"
-whoami = "Author, AWS Community Hero and DevOps Specialist"
+whoami = "Author, AWS Container Hero and DevOps Specialist"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = true # we use this option highest priority
-location = ""
-organization = ""
+location = "Sydney, Australia"
+organization = "The Trade Desk"
 link = "https://about.sathyabh.at/"
 
 # sidebar
@@ -85,6 +85,9 @@ enableBusuanzi = true # if set true, total page view, total unique visitors show
 busuanziSiteUV = true # unique visitors (total number of visitors)
 busuanziSitePV = true # site total page view count
 busuanziPagePV = true # post view count
+
+# rss
+fullContents = true
 
 # comment
 enableComment = true
