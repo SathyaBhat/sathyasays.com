@@ -63,7 +63,9 @@ Notepad should open a file called `Microsoft.PowerShell_profile.ps1`. Don't be s
 Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
 ```
 
-This will map `Ctrl`+`t` to PSReadeline so that it shows the last few commands that you've used. This also maps `Ctrl`+`r` to show the last few commands you used. Save it, close your editor and open a new PowerShell session. Now you can type what you want to search for, and fzf will search and show the matching commands. In the example below see how fzf shows the commands related to `docker run` passing an environment variable, even though my command is only searching for fraction of it.
+This will map `Ctrl`+`t` to invoke PSReadline. This also maps `Ctrl`+`r` to show the last few commands you used. Save it, close your editor and open a new PowerShell session. 
+
+So, if you want to search for a previous command, press `Ctrl`+`r` and you'll get a prompt and fzf will show the last few commands you had used. Here, you can type what you want to search for, and fzf will search and show the matching commands. In the example below see how fzf shows the commands related to `docker run` passing an environment variable, even though my command is only searching for fraction of it.
 
 !["Example of docker run command passing an environment variable"](https://i.sathyabh.at/ss/fzf-docker-example.png)
 
