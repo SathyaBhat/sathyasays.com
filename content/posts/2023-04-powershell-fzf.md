@@ -51,7 +51,7 @@ Install-Module -Name PSFzf
 
 ### Using 
 
-Now that they are installed, we need to update our PowerShell profile file so that they keybindings are installed and PSFzf is ready to use.
+Now that they are installed, you'll need to update your PowerShell profile file so that the keybindings are installed and PSFzf is ready to use.
 
 From your PowerShell terminal, open an editor with the location of your PowerShell profile file. This is easily done by the below command in a PowerShell session
 
