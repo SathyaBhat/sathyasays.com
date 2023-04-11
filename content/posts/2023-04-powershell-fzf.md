@@ -20,7 +20,7 @@ tags:
 
 Have you ever been in a situation where you're trying to recall some program or command that you entered in your terminal a while back and can't recall the exact command? Wouldn't it be nice if you could do a search in your terminal history loosely based on what you'd typed previously? Enter [fzf](https://github.com/junegunn/fzf), for that's what it does. fzf is a command-line [fuzzy finder](https://en.wikipedia.org/wiki/Approximate_string_matching) (hence 'fzf') that can look at your shell command history, processes, bookmarks and more. 
 
-fzf is a seriously awesome tool and every single of my *nix boxes have it installed. However, I use Windows a fair bit and wanted to see if there's a way to get fzf running for PowerShell. Thanks to [Michael Kelley](https://github.com/kelleyma49/PSFzf) this is possible!
+fzf is a seriously awesome tool and every single of my *nix boxes have it installed. However, I use Windows a fair bit and wanted to see if there's a way to get fzf running for PowerShell. Thanks to [Michael Kelley and PSFzf](https://github.com/kelleyma49/PSFzf) this is possible!
 
 ### PSFzf
 
@@ -30,7 +30,7 @@ PSFzf is a PowerShell module that wraps fzf. This means you can use all the good
 
 You can install PSFzf and fzf via a package manager like [Chocolatey](https://chocolatey.org/) or [Scoop](https://scoop.sh/). I used Scoop to install fzf. Before you proceed, install Scoop using the below command in a PowerShell session as mentioned in [Scoop's website](https://scoop.sh/). 
 
-```ps
+```powershell
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
 irm get.scoop.sh | iex # irm == invoke web request, ie download this file. iex == invoke expression, ie, evaluate the command.
@@ -38,14 +38,14 @@ irm get.scoop.sh | iex # irm == invoke web request, ie download this file. iex =
 
 Install fzf using the below command.
 
-```ps
+```powershell
 
 scoop install fzf
 ```
 
 Now install PSFzf using the below command
 
-```ps
+```powershell
 Install-Module -Name PSFzf
 ```
 
@@ -55,13 +55,13 @@ Now that they are installed, we need to update our PowerShell profile file so th
 
 From your PowerShell terminal, open an editor with the location of your PowerShell profile file. This is easily done by the below command in a PowerShell session
 
-```ps
+```powershell
 notepad $PROFILE
 ```
 
 Notepad should open a file called `Microsoft.PowerShell_profile.ps1`. Don't be surprised if it's empty. Paste the below command 
 
-```ps
+```powershell
 Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
 ```
 
