@@ -31,7 +31,6 @@ PSFzf is a PowerShell module that wraps fzf. This means you can use all the good
 You can install PSFzf and fzf via a package manager like [Chocolatey](https://chocolatey.org/) or [Scoop](https://scoop.sh/). I used Scoop to install fzf. Before you proceed, install Scoop using the below command in a PowerShell session as mentioned in [Scoop's website](https://scoop.sh/). 
 
 ```powershell
-
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
 irm get.scoop.sh | iex # irm == invoke web request, ie download this file. iex == invoke expression, ie, evaluate the command.
 ```
@@ -39,7 +38,6 @@ irm get.scoop.sh | iex # irm == invoke web request, ie download this file. iex =
 Install fzf using the below command.
 
 ```powershell
-
 scoop install fzf
 ```
 
