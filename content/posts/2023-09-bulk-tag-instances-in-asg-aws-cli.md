@@ -33,10 +33,9 @@ Since I wanted to tag instances of a specific ASG, I tried to use jq on to the o
 
 The `aws autoscaling describe-auto-scaling-groups` has an response structure as shown below:
 
+`aws autoscaling describe-auto-scaling-groups`
+
 ```json
-
-aws autoscaling describe-auto-scaling-groups
-
 [
     {
         "AutoScalingGroupName": "name",
@@ -82,9 +81,7 @@ aws autoscaling describe-auto-scaling-groups
 
 To query, the aws-cli uses expressions created using the [JMESPath Syntax](https://jmespath.org/). From the response above, we want to select the instance ids of a specific Auto Scaling Group. In JMESPath query, the question mark `?` is used to filter and select elements. Thus, to filter based on AutoScaling Group name, the JMESPath Expression would be as shown below replacing `asg-name` with the actual name of the Auto Scaling Group.
 
-```jmespath
-
-AutoScalingGroups[?AutoScalingGroupName==`asg-name`]
+`AutoScalingGroups[?AutoScalingGroupName==`asg-name`]`
 
 ```
 
@@ -109,7 +106,6 @@ Applying what I learnt above, I verified that all the instances have been correc
 
 
 ```bash
-
 aws ec2 describe-instances --region ap-southeast-1 --filters "Name=tag:aws:autoscaling:groupName,Values='asg-name'" --query "Reservations[].Instances[].{Instance:InstanceId,Name:Tags[?Key=='Name']|[0].Value}" --output table
 
 -------------------------------------------
@@ -123,5 +119,3 @@ aws ec2 describe-instances --region ap-southeast-1 --filters "Name=tag:aws:autos
 ```
 
 In the above command, the `--filter` option applies server side filtering and fetches the instances that have `tag:aws:autoscaling:groupName` as the tag key and `asg-name` as the tag value. This is then chained with the client-side filter `--query` to display the instance id and the name of the instance by fetching the tag with key `Name`.
-
-
