@@ -79,7 +79,9 @@ The `aws autoscaling describe-auto-scaling-groups` command has a response struct
 
 To query, the AWS CLI uses expressions created using [JMESPath Syntax](https://jmespath.org/). From the response above, we want to select the instance IDs of a specific Auto Scaling Group. In JMESPath query, the question mark `?` is used to filter and select elements. Thus, to filter based on AutoScaling Group name, the JMESPath Expression would be as shown below, replacing `asg-name` with the actual name of the Auto Scaling Group:
 
-`AutoScalingGroups[?AutoScalingGroupName==`asg-name`]`
+```
+AutoScalingGroups[?AutoScalingGroupName==`asg-name`]
+````
 
 ### Filtering Instances Based on Auto Scaling Group
 
@@ -113,4 +115,4 @@ aws ec2 describe-instances --region ap-southeast-1 --filters "Name=tag:aws:autos
 -------------------------------------------
 ```
 
-In the above command, the `--filter` option applies server-side filtering and fetches the instances that have the tag, `tag:aws:autoscaling:groupName`` as the tag key and `asg-name`` as the tag value. This is then chained with the client-side filter `--query` to display the instance ID and the name of the instance by fetching the tag with key Name.
+In the above command, the `--filter` option applies server-side filtering and fetches the instances that have the tag, `tag:aws:autoscaling:groupName` as the tag key and `asg-name` as the tag value. This is then chained with the client-side filter `--query` to display the instance ID and the name of the instance by fetching the tag with key Name.
