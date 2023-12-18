@@ -4,7 +4,7 @@ date: 2023-11-28
 publishDate: 2023-12-18
 ---
 
-Presented at AWS re:Invent 2023 along with the General Manager of [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/), [Sean Meckley](https://www.linkedin.com/in/seanmeckley/). In this talk, Sean gives an overview of what the AWS Global Accelerator is, and how it can improve performance by moving user traffic onto the AWS global network to optimize the network path from users to applications, regardless of where users are located globally. 
+Presented at AWS re:Invent 2023 along with the General Manager of [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/), [Sean Meckley](https://www.linkedin.com/in/seanmeckley/). In this talk, Sean gives an overview of what the AWS Global Accelerator is, and how it can improve performance by moving user traffic onto the AWS global network to optimize the network path from source to destination. 
 
 Additionally, I talk about how we at The Trade Desk serve our users with the AWS Global Accelerator. 
 
