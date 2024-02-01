@@ -11,6 +11,7 @@ categories:
   - Opinions
 tags:
   - Polywork
+draft: true
 ---
 
 I found out recently that Stack Overflow is shutting down Stack Overflow Jobs and the Developer Story. While I don't get why they'd want to do it, the Developer Story was nice.
