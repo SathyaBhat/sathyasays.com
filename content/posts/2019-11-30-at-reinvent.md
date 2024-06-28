@@ -22,9 +22,9 @@ re:Invent is no doubt crazy with [thousands of sessions](https://reinvent.awseve
 
 However, if you do plan to drop by for the [Dev Chat](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=99680&csrftkn=ODOV-XY0F-PLM9-T18O-SZUU-CE6U-SKV8-NP6X) or for [Taco Tuesday with AWS Heroes](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=101954&csrftkn=588O-AALQ-JVA6-9Y8B-AVFV-05JL-HMU1-AEWB), would love to talk to you!
 
-{{< tweet 1200717842427068417 >}}
+{{< tweet user="sathyabhat" id="1200717842427068417" >}}
 
-{{< tweet 1198277028497231872 >}}
+{{< tweet user="sathyabhat" id="1198277028497231872" >}}
 
 {{< figure src="https://i.sathyabh.at/ss/at-reinvent-2019.jpg" title="Catch me at re:Invent 2019" >}}
 

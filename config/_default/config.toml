@@ -1,13 +1,13 @@
 baseurl                 = "https://sathyasays.com"
 title                   = "sathyasays.com - Sathyajith Bhat"
-theme                   = "zzo" # Name of Zzo theme folder in `themes/`.
+theme                   = "blowfish" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = false # Set `true` for Chinese/Japanese/Korean languages.
 
-summaryLength = 70 # The length of a post description on a list page.
-buildFuture = true # if true, we can use future date for talks page
+# summaryLength = 0 # The length of a post description on a list page.
+buildFuture = false # if true, we can use future date for talks page
 
 copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
@@ -17,22 +17,6 @@ rssLimit = 100
 
 enableGitInfo = true # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
 googleAnalytics         = "UA-155085050-1"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = true
-      unsafe = true
-      xHTML = true
-  [markup.highlight]
-    codeFences = true
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
 
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
@@ -44,10 +28,3 @@ googleAnalytics         = "UA-155085050-1"
   category = "categories"
   tag = "tags"
   series = "series"
-
-[outputFormats]
-  [outputFormats.SearchIndex]
-    mediaType = "application/json"
-    baseName = "index"
-    isPlainText = true
-    notAlternative = true

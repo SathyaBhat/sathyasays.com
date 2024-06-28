@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sathyajith Bhat"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "https://sathyabh.at/img/sathya_hubf551a5b2814faf1ff16d2e2b8b69015_35469_288x288_fill_q75_box_smart1.jpg"
+  description = "A powerful, lightweight theme for Hugo."
+
+[author]
+  name = "Sathyajith Bhat"
+  image = "https://sathyabh.at/img/sathya_hubf551a5b2814faf1ff16d2e2b8b69015_35469_288x288_fill_q75_box_smart1.jpg"
+  headline = "Author, AWS Container Hero and DevOps Specialist."
+  bio = "Author, AWS Container Hero and DevOps Specialist."
+  links = [
+    { x-twitter = "https://twitter.com/sathyabhat" },
+    { github = "https://github.com/sathyabhat" },
+  ]
