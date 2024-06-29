@@ -14,11 +14,8 @@ tags:
 
 ---
 > I did something crazy at some point that created a file called "-rf" on my filesystem. Now I can't figure out how to delete it.
-> 
-> I've tried:
-> 
-> <pre>rm "-rf"
-rm \-rf</pre>
+ 
+> I've tried `rm "-rf" rm \-rf`
 > 
 > But these just exit immediately. Arrgh!
 > 

@@ -21,7 +21,9 @@ Finally, after much trawling the Intarwebz, going through many forums & Stack Ov
 
 So this is what my php.ini settings look like:
 
-<pre>[mail function]
+
+```
+[mail function]
 ; For Win32 only.
 ; https://php.net/smtp
 ;SMTP = localhost
@@ -31,19 +33,21 @@ So this is what my php.ini settings look like:
 ; For Win32 only.
 ; https://php.net/sendmail-from
 
-sendmail_from = &lt;the gmail id&gt;
+sendmail_from = <the gmail id>
 
 ;C:\wamp\bin\sendmail
 ; For Unix only. You may supply arguments as well (default: "sendmail -t -i").
 ; https://php.net/sendmail-path
 
-sendmail_path = "C:\wamp\bin\sendmail\sendmail.exe -t"</pre>
+sendmail_path = "C:\wamp\bin\sendmail\sendmail.exe -t"
+```
 
-Yes, all parameters, except for sendmail\_form & sendmail\_path are commented. They are set in sendmail.ini & stunnel.
+Yes, all parameters, except for `sendmail_form` & `sendmail_path` are commented. They are set in sendmail.ini & stunnel.
 
 sendmail.ini:
 
-<pre>smtp_server=localhost
+```bash
+smtp_server=localhost
 smtp_port=25
 
 ; SMTPS (SSL) support
@@ -54,11 +58,13 @@ smtp_port=25
 smtp_ssl=none
 
 auth_username=gmail username
-auth_password=gmail password</pre>
+auth_password=gmail password
+```
 
 stunnel.conf
 
-<pre>; Certificate/key is needed in server mode and optional in client mode
+```bash
+; Certificate/key is needed in server mode and optional in client mode
 cert = stunnel.pem
 socket = l:TCP_NODELAY=1
 socket = r:TCP_NODELAY=1
@@ -71,4 +77,5 @@ connect = 25
 [gmail-smtp]
 client = yes
 accept = 127.0.0.1:25
-connect = smtp.gmail.com:465</pre>
+connect = smtp.gmail.com:465
+```
