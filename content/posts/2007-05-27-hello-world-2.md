@@ -1,7 +1,7 @@
 ---
 title: Howdy!
 author: Sathyajith Bhat
-type: post
+type: archive
 date: 2007-05-27T08:05:29+00:00
 url: /2007/05/27/hello-world-2/
 categories:
