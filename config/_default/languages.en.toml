@@ -1,7 +1,6 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Sathyajith Bhat"
 
 [params]
   displayName = "English"
@@ -9,7 +8,7 @@ title = "Sathyajith Bhat"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "https://i.sathyabh.at/sathyabhat.jpeg"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "Opinions, thoughts and tutorials on Cloud, DevOps, Linux and Technology by Sathyajith Bhat."
 
 [author]
   name = "Sathyajith Bhat"
