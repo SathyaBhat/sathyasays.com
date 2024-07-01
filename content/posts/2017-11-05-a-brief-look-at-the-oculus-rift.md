@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2017-11-05T15:46:02+00:00
 url: /2017/11/05/a-brief-look-at-the-oculus-rift/
-featured_image: https://i.sathyabh.at/ss/2017/11/IMG_20170917_125022.jpeg
+featureimage: https://i.sathyabh.at/ss/2017/11/IMG_20170917_125022.jpeg
 categories:
   - Gaming
 tags:

@@ -2,6 +2,8 @@
 title: Enabling automated multi-region failover and failback using Route 53
 date: 2022-11-11
 publishDate: 2022-11-11
+summary: Presented at AWS Community Day 2022 - I talk about using Route 53 and enabling automated multi-region failover and failback using Route 53.
+featureimage: https://i.sathyabh.at/ss/talks/route53-records.png
 ---
 
 Presented at AWS Community Day 2022 - in this talk, I start with a brief about DNS, Route 53, different record types supported by Route 53 and give a brief on how we can setup our infrastructure and applications for handling automated failovers and failback - and what applications are well suited for such a system.

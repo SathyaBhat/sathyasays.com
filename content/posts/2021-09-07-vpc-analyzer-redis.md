@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2021-09-13
 url: /2021/09/13/vpc-reachability-analyzer-redis
-description: The VPC Reachability Analyzer tool is a network diagnostic tool from AWS. In this post I look at how effective the VPC Reachability Analyzer tool to diagnose a network connectivity issue from a VPC peering connection to a private subnet.
-featured_image: https://i.sathyabh.at/ss/reachability-analyzer/redis.svg
+summary: The VPC Reachability Analyzer tool is a network diagnostic tool from AWS. In this post I look at how effective the VPC Reachability Analyzer tool to diagnose a network connectivity issue from a VPC peering connection to a private subnet.
+featureimage: https://i.sathyabh.at/ss/reachability-analyzer/redis.svg
 meta_image: https://i.sathyabh.at/ss/reachability-analyzer/redis.svg
 categories: 
   - DevOps

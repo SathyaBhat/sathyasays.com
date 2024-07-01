@@ -5,8 +5,8 @@ author: Sathyajith Bhat
 type: post
 date: 2022-05-23
 url: /2022/05/23/amazon-linux-to-amazon-linux-2
-description: I picked up a task to migrate our base image from Amazon Linux to Amazon Linux 2. Here's what I needed to get it to work.
-featured_image: https://i.sathyabh.at/ss/ami.png
+summary: I picked up a task to migrate our base image from Amazon Linux to Amazon Linux 2. Here's what I needed to get it to work.
+featureimage: https://i.sathyabh.at/ss/ami.png
 meta_image: https://i.sathyabh.at/ss/ami.png
 categories:
   - DevOps

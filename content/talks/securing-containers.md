@@ -2,6 +2,7 @@
 title: Securing Containers
 date: 2018-09-10
 publishDate: 2018-09-10
+summary: The talk looks at threat vectors to containers and how they can be mitigated.
 ---
 
 Presented at [AWS Community Day Vietnam 2018](https://www.facebook.com/events/1300164703453269/permalink/1332428353560237/) and at [Container Conference 2018](http://containerconf.in/)

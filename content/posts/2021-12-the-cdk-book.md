@@ -4,9 +4,9 @@ author: Sathyajith Bhat
 type: post
 date: 2021-09-13
 url: /2021/09/13/the-cdk-book
-description: The CDK Book is a Comprehensive Guide to the AWS Cloud Development Kit. In this post, I look at how we started with the book.
+summary: The CDK Book is a Comprehensive Guide to the AWS Cloud Development Kit. In this post, I look at how we started with the book.
 draft: true
-featured_image: 
+featureimage: 
 categories: 
   - DevOps
 tags:

@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2016-07-12T08:30:11+00:00
 url: /2016/07/12/review-of-supergiant-games-transistor/
-featured_image: https://i.sathyabh.at/ss/2016/07/20160711150744_1.jpg
+featureimage: https://i.sathyabh.at/ss/2016/07/20160711150744_1.jpg
 categories:
   - Gaming
 tags:

@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2023-07-18
 url: /2023/07/18/curl-tls-sni-hostname-spoof
-description: I've been using hostname spoofing with curl for a while and I find out why hostname spoofing doesn't work with TLS.
-featured_image: https://i.sathyabh.at/ss/servers-servers.jpg
+summary: I've been using hostname spoofing with curl for a while and I find out why hostname spoofing doesn't work with TLS.
+featureimage: "https://i.sathyabh.at/ss/servers-servers.jpg"
 meta_image: https://i.sathyabh.at/ss/servers-servers.jpg
 categories:
   - DevOps

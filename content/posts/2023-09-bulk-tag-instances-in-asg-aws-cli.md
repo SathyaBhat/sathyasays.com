@@ -5,7 +5,7 @@ type: post
 date: 2023-09-04
 url: /2023/09/04/bulk-tag-instances-in-asg-aws-cli
 summary: I dig into AWS CLI a little bit to explain how we can use JMESPath expressions to apply client-side and server-side filtering and bulk tag instances of an Auto Scaling Group.
-featured_image: https://i.sathyabh.at/ss/aws-cli-tags.jpg
+featureimage: https://i.sathyabh.at/ss/aws-cli-tags.jpg
 meta_image: https://i.sathyabh.at/ss/aws-cli-tags.jpg
 categories:
   - DevOps

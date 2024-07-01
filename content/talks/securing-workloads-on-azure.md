@@ -2,6 +2,7 @@
 title: Securing workloads on Azure
 date: 2020-05-28
 publishDate: 2020-05-28
+summary: This talk looks at some of the guidelines to be followed when improving the security of your workloads.
 ---
 
 With the advent of Cloud Computing, public cloud providers like Azure, it's easy to get started and deploy your apps in no time. Security remains an afterthought and doesn't get looked at till its too late. This talk looks at some of the guidelines to be followed when improving the security of your workloads.
