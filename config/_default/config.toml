@@ -1,5 +1,5 @@
 baseurl                 = "https://sathyasays.com"
-title                   = "sathyasays.com - Sathyajith Bhat"
+title                   = "Sathyajith Bhat on AWS & DevOps"
 theme                   = "blowfish" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
@@ -19,10 +19,10 @@ enableGitInfo = true # When true, the modified date will appear on a summary and
 googleAnalytics         = "G-0F35H0ZPQC"
 
 [outputs]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS", "SearchIndex"]
-  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
+  taxonomyTerm = ["HTML", "RSS", "JSON"]
+  taxonomy = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   category = "categories"
