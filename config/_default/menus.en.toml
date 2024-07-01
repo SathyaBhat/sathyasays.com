@@ -1,35 +1,68 @@
 [[main]]
-name              = "Home"
-identifier        = "home"
-url               = "/"
-weight            = 1
+name              = "Content"
+weight            = 20
 
 [[main]]
-name              = "About"
-identifier        = "about"
-url               = "/about/"
-weight            = 2
+name              = "Home"
+identifier        = "Home"
+parent            = "Content"
+url               = "/"
+weight            = 10
+
+[[main]]
+name              = "Posts"
+identifier        = "posts"
+parent            = "Content"
+url               = "/posts/"
+weight            = 20
 
 [[main]]
 name              = "Talks"
 identifier        = "talks"
+parent            = "Content"
 url               = "/talks/"
-weight            = 3
+weight            = 30
 
 [[main]]
 name              = "Categories"
+weight            = 30
+
+[[main]]
+name              = "Categories"
+parent            = "Categories"
 identifier        = "categories"
 url               = "/categories/"
+weight            = 1
+
+[[main]]
+name              = "Tags"
+parent            = "Categories"
+identifier        = "Tags"
+url               = "/tags/"
+weight            = 2
+
+
+[[main]]
+name              = "About"
+weight            = 30
+
+
+[[main]]
+name              = "About"
+identifier        = "about"
+parent            = "About"
+url               = "/about/"
 weight            = 10
 
 [[main]]
 name              = "Contact"
 identifier        = "contact"
+parent            = "About"
 url               = "/contact/"
-weight            = 15
+weight            = 20
 
 [[main]]
 name              = "Subscribe via RSS"
 identifier        = "subscribe"
 url               = "https://sathyasays.com/index.xml"
-weight            = 20
+weight            = 40

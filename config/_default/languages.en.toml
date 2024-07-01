@@ -8,15 +8,21 @@ title = "Sathyajith Bhat"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "https://sathyabh.at/img/sathya_hubf551a5b2814faf1ff16d2e2b8b69015_35469_288x288_fill_q75_box_smart1.jpg"
+  logo = "https://i.sathyabh.at/sathyabhat.jpeg"
   description = "A powerful, lightweight theme for Hugo."
 
 [author]
   name = "Sathyajith Bhat"
-  image = "https://sathyabh.at/img/sathya_hubf551a5b2814faf1ff16d2e2b8b69015_35469_288x288_fill_q75_box_smart1.jpg"
+  image = "https://i.sathyabh.at/sathyabhat.jpeg"
   headline = "Author, AWS Container Hero and DevOps Specialist."
   bio = "Author, AWS Container Hero and DevOps Specialist."
   links = [
+    { email = "mailto:contact@sathyasays.com" },
     { x-twitter = "https://twitter.com/sathyabhat" },
     { github = "https://github.com/sathyabhat" },
+    { linkedin = "https://linkedin.com/in/sathyabhat" },
+    { mastodon = "https://mastodon.social/@sathyabhat" },
+    { stack-overflow = "https://stackoverflow.com/users/92837/sathyajith-bhat" },
+    { twitch = "https://twitch.tv/sathyabhat" },
+    { youtube = "https://youtube.com/@sathyabhat" }
   ]
