@@ -10,7 +10,7 @@ tags:
   - applications
 
 ---
-Long ago <a href="https://blog.backupify.com/2009/12/16/backup-your-online-accounts-for-free/" target="_blank">when Backupify said they were going to offer their service for free</a>, I knew it was too good to be true and weren't going to last long. Fast forward today, they mention they're going to not only kill their free twitter backup service, but also wipe out data of their existing free users.
+Long ago when Backupify said they were going to offer their service for free, I knew it was too good to be true and weren't going to last long. Fast forward today, they mention they're going to not only kill their free twitter backup service, but also wipe out data of their existing free users.
 
 > Dear Customer,
 > 
@@ -29,6 +29,3 @@ These services are driving me up the wall with their bait and switch tactics. Ba
 STOP. FUCKING. DOING THIS. Argh. I've lost count the number of times and the time I've had to spend in moving shit out of the services.
 
 Don't have a business model? Don't launch. Don't assume giving things for free will work out. It fucking won't. Unless you've bazillions in reserve.
-
- [1]: https://link.backupify.com/trk?t=2&mid=NTcyLVpSRy0wMDE6NDMzODoxODI1Ojc5NTk6MDoyMTY0Ojc6MzE0MDg0OnNhdGh5YUBzYXRoeWFzYXlzLmNvbQ%3D%3D&&&https://backupify.zendesk.com/forums/22087133-Tweetbackup-EOL?mkt_tok=3RkMMJWWfF9wsRons67MZKXonjHpfsX76ugtUaOg38431UFwdcjKPmjr1YEASsZ0aPyQAgobGp5I5FENTbLYRrJnt6UNWg%3D%3D
- [2]: https://link.backupify.com/trk?t=2&mid=NTcyLVpSRy0wMDE6NDMzODoxODI1Ojc5NTk6MDoyMTY0Ojc6MzE0MDg0OnNhdGh5YUBzYXRoeWFzYXlzLmNvbQ%3D%3D&&&https://backupify.zendesk.com/home?mkt_tok=3RkMMJWWfF9wsRons67MZKXonjHpfsX76ugtUaOg38431UFwdcjKPmjr1YEASsZ0aPyQAgobGp5I5FENTbLYRrJnt6UNWg%3D%3D

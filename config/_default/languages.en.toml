@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "https://i.sathyabh.at/sathyabhat.jpeg"
+  description = "Opinions, thoughts and tutorials on Cloud, DevOps, Linux and Technology by Sathyajith Bhat."
+
+[author]
+  name = "Sathyajith Bhat"
+  image = "https://i.sathyabh.at/sathyabhat.jpeg"
+  headline = "Author, AWS Container Hero and DevOps Specialist."
+  bio = "Author, AWS Container Hero and DevOps Specialist."
+  links = [
+    { email = "mailto:contact@sathyasays.com" },
+    { x-twitter = "https://twitter.com/sathyabhat" },
+    { github = "https://github.com/sathyabhat" },
+    { linkedin = "https://linkedin.com/in/sathyabhat" },
+    { mastodon = "https://mastodon.social/@sathyabhat" },
+    { stack-overflow = "https://stackoverflow.com/users/92837/sathyajith-bhat" },
+    { twitch = "https://twitch.tv/sathyabhat" },
+    { youtube = "https://youtube.com/@sathyabhat" }
+  ]

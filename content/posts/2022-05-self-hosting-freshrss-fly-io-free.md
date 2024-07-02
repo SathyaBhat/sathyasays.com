@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2022-09-05
 url: /2022/09/05/self-hosting-freshrss-fly-io-free
-description: Here's how you can self-host FreshRSS on Fly.io in under 10 minutes
-featured_image: https://i.sathyabh.at/ss/fly-dot-io-logo.svg
+summary: Here's how you can self-host FreshRSS on Fly.io in under 10 minutes
+featureimage: https://i.sathyabh.at/ss/fly-dot-io-logo.svg
 meta_image: https://i.sathyabh.at/ss/fly-dot-io-logo.svg
 categories:
   - DevOps

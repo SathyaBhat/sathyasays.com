@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2022-05-28
 url: /2022/05/28/route53-latency-geolocation-migration
-description: I had some fun playing with Route 53's routing policies.
-featured_image: https://i.sathyabh.at/ss/r53.svg
+summary: I had some fun playing with Route 53's routing policies.
+featureimage: https://i.sathyabh.at/ss/r53.svg
 meta_image: https://i.sathyabh.at/ss/r53.svg
 categories:
   - DevOps

@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2023-04-11
 url: /2023/04/11/powershell-fzf-psfzf
-description: Here's how you can get the goodness of fuzzy search in your PowerShell terminal with fzf.
-featured_image: https://i.sathyabh.at/ss/fzf-docker-example.png
+summary: Here's how you can get the goodness of fuzzy search in your PowerShell terminal with fzf.
+featureimage: https://i.sathyabh.at/ss/fzf-docker-example.png
 meta_image: https://i.sathyabh.at/ss/fzf-docker-example.png
 categories:
   - DevOps

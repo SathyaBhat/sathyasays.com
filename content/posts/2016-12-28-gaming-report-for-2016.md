@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2016-12-28T10:59:49+00:00
 url: /2016/12/28/gaming-report-for-2016/
-featured_image: https://i.sathyabh.at/ss/2016/12/overwatch-FH3.jpg
+featureimage: https://i.sathyabh.at/ss/2016/12/overwatch-FH3.jpg
 categories:
   - Gaming
 tags:

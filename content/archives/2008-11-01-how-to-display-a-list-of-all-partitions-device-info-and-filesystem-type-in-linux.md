@@ -15,28 +15,30 @@ In my previous posts I'd written on <a href="https://sathyasays.com/2008/11/01/h
 
 `su root`. For those distros whose root accounts are disabled(Like Ubuntu) just prefix sudo. Type `fdisk -l` This is what you'll get
 
->  `[root@shaman]# fdisk -l`
-> 
-> Disk /dev/sda: 160.0 GB, 160041885696 bytes
+```
+[root@shaman]# fdisk -l`
+
+Disk /dev/sda: 160.0 GB, 160041885696 bytes
   
-> 255 heads, 63 sectors/track, 19457 cylinders
+255 heads, 63 sectors/track, 19457 cylinders
   
-> Units = cylinders of 16065 * 512 = 8225280 bytes
+Units = cylinders of 16065 * 512 = 8225280 bytes
   
-> Disk identifier: 0x0004ed56
-> 
-> Device Boot      Start         End      Blocks   Id  System
+Disk identifier: 0x0004ed56
+
+Device Boot      Start         End      Blocks   Id  System
   
-> /dev/sda1               1          10       80293+  83  Linux
+/dev/sda1               1          10       80293+  83  Linux
   
-> /dev/sda2   *          11       15091   121135645+   7  HPFS/NTFS
+/dev/sda2   *          11       15091   121135645+   7  HPFS/NTFS
   
-> Partition 2 does not end on cylinder boundary.
+Partition 2 does not end on cylinder boundary.
   
-> /dev/sda3           15091       17455    18991317   8e  Linux LVM
+/dev/sda3           15091       17455    18991317   8e  Linux LVM
   
-> /dev/sda4           17456       19456    16073032+   f  W95 Ext'd (LBA)
+/dev/sda4           17456       19456    16073032+   f  W95 Ext'd (LBA)
   
-> /dev/sda5           17456       19456    16073001    7  HPFS/NTFS
+/dev/sda5           17456       19456    16073001    7  HPFS/NTFS
+```
 
 The ones to note are Device, and System, the others can be ignored. Device indicates which device the particular filesystem is available at, and System indicates the filesystem type. In my case, /dev/sda1 is a Linux boot partition. My First Windows/NTFS drive(ie, Drive C) is available on /dev/sda2. /dev/sda3 is my Linux partition[configured as a LVM, will cover LVM on a future article] and my second NTFS partition is on /dev/sda4. So now I know which partition is available where, and I can go ahead with mounting.

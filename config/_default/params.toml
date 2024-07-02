@@ -1,203 +1,119 @@
-logoText = "sathyasays.com - Sathyajith Bhat" # Logo text that appears in the site navigation bar.
-logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
-logo = false # Logo that appears in the site navigation bar.
-description = "Opinions, thoughts and tutorials on Cloud, DevOps, Linux and Technology by Sathyajith Bhat"
-custom_css = ["scss/jquery.fancybox.css"] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
-custom_js = ["js/jquery-3.5.1.min.js", "js/jquery.fancybox.min.js"] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
-useFaviconGenerator = false # https://www.favicon-generator.org/
-languagedir = "ltr" # ltr / rtl
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
 
-themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"] # select options for site color theme
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase"] # not allowed page types in home page. type can be set in front matter or default to folder name.
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"] # not allowed page types in home page sidebar(recent post titles).
-notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page types in archive page
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
-enablePinnedPosts = true # show pinned posts first in the main view
+colorScheme = "noir"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
 
-viewportSize = "wider" # widest, wider, wide, normal, narrow
-enableUiAnimation = true
-hideSingleContentsWhenJSDisabled = false
-minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+enableSearch = true
+enableCodeCopy = true
 
-# header
-homeHeaderType = "text" # text, img, slide, typewriter
+mainSections = ["post", "talks"]
+# robots = ""
 
-# menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+disableImageOptimization = false
+disableTextInHeader = false
 
-# navbar
-enableThemeChange = true # site color theme
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# body
-enableBreadcrumb = true # breadcrumb for list, single page
-enableSearch = true # site search with Fuse
-enableSearchHighlight = true # when true, search keyword will be highlighted
-searchResultPosition = "main"
-searchContent = true # Search title, description and full content
-enableGoToTop = true # scroll to top
-enableWhoami = true # at the end of single page
-summaryShape = "classic" # card, classic, compact
-archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
-archivePaginate = 13 # items per page
-paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
-talksPaginate = 8 # items per page
-talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+# highlightCurrentMenuArea = true
+# smartTOC = true
+# smartTOCHideUnfocusedChildren = true
 
-# whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "Sathyajith Bhat"
-email = "sathya@sathyasays.com"
-whoami = "Author, AWS Container Hero and DevOps Specialist"
-bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
-useGravatar = true # we use this option highest priority
-location = "Sydney, Australia"
-organization = "The Trade Desk"
-link = "https://about.sathyabh.at/"
+[header]
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
-# sidebar
-enableBio = true # in home page sidebar
-enableBioImage = true # in home page sidebar
-enableSidebar = true # Set to false to create the full width of the content.
-enableSidebarTags = true # if you want to use tags.
-enableSidebarSeries = true
-enableSidebarCategories = true
-enableHomeSidebarTitles = true
-enableListSidebarTitles = true
-enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
-hideToc = false # Hide or Show toc
-tocPosition = "outer" # inner, outer
-tocFolding = false
-enableTocSwitch = true # single page table of contents visibility switch
-itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
-sidebarPosition = "right" # bio, profile component layout position
-tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
-enableSidebarPostsByOrder = false # another lists in the sidebar
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
-# footer
-showPoweredBy = true # show footer text: Powered by Hugo and Zzo theme
-showFeedLinks = true # RSS Feed 
-showSocialLinks = true # email, facebook, twitter ...
-enableLangChange = false # show button at bottom left of footer.
+[homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = true
+  layoutBackgroundBlur = false # only used when layout equals background
 
-# service
-googleTagManager = "" # GTM-XXXXXX
-baiduAnalytics = "" # alternative of google analytics
-enableBusuanzi = true # if set true, total page view, total unique visitors show up in the footer.
-busuanziSiteUV = true # unique visitors (total number of visitors)
-busuanziSitePV = true # site total page view count
-busuanziPagePV = true # post view count
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = true
+  showAuthor = true
+  showAuthorBottom = true
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  showAuthorsBadges = true
+  showWordCount = true
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "email", "whatsapp", "telegram"]
+  showZenMode = true
 
-# rss
-fullContents = true
+[list]
+  showHero = true
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showBreadcrumbs = true
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  showCards = true
+  orderByWeight = false
+  groupByYear = true
+  cardView = true
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
 
-# comment
-enableComment = true
-disqus_shortname = "sathyasays" 
-commento = false
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
 
-[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
+[taxonomy]
+  showTermCount = true
+  showHero = true
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
 
-[utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  message = ""      # Optional
-  link = ""         # Optional
-
-[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
-
-# Isso: https://posativ.org/isso/
-[isso]
-  enable = false
-  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
-
-[socialOptions] # if set, social icons will show up.
-  email = "mailto:sathya@sathyasays.com"
-  phone = ""
-  facebook = ""
-  twitter = "https://twitter.com/sathyabhat"
-  github = "https://github.com/sathyabhat"
-  stack-overflow = ""
-  instagram = "https://instagram.com/sathyabhat"
-  google-plus = ""
-  youtube = "https://youtube.com/sathyasjbhat"
-  medium = ""
-  tumblr = ""
-  linkedin = "https://linkedin.com/in/sathyabhat"
-  pinterest = ""
-  stack-exchange = "https://stackexchange.com/users/33230/sathyajith-bhat"
-  telegram = ""
-  steam = "https://steamcommunity.com/id/sathyabhat"
-  weibo = ""
-  douban = ""
-  csdn = ""
-  gitlab = ""
-  mastodon = ""
-  jianshu = ""
-  zhihu = ""
-  signal = ""
-  whatsapp = ""
-  matrix = ""
-  xmpp = ""
-  dev-to = ""
-  gitea = ""
-  google-scholar = ""
-  twitch = "https://twitch.tv/sathyabhat"
-
-[donationOptions]
-  enable = false # if set, the donation button will show up on the single page.
-  alipay = "" # Alipay QR Code image (example path: images/donation/alipay-qrcode.png) and put your file at root/static/images/donation/
-  wechat = "" # Wechat pay QR Code image (example path: same as above)
-  paypal = "" # Paypal URL
-  patreon = "" # Patreon URL
-  bitcoin = "" # example path: images/donation/bitcoin-code-image.png
-
-[copyrightOptions]
-  enableCopyrightLink = false # if set, you can add copyright link
-  copyrightLink = ""
-  copyrightLinkImage = ""
-  copyrightLinkText = ""
-
-# possible share name: "facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "whatsapp", "telegram"
-[[share]]
-  name = "facebook"
-[[share]]
-  name = "twitter"
-  username = "sathyabhat"
-[[share]]
-  name = "linkedin"
-  username = "sathyabhat"
-
-[[footerLinks]]
-  name = "Looking for a guided approach to learn Docker? Check out my book - Practical Docker With Python"
-  link = "https://sathyasays.com/2021/12/20/practical-docker-with-python-second-edition/"
-[[footerLinks]]
-  name = "Interested in learning about the CDK? Want to build infrastructure using a programming language? The CDK might be a good fit. Check out The CDK Book."
-  link = "https://thecdkbook.com"
+[term]
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false

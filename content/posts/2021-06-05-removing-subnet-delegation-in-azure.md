@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2021-06-05
 url: /2021/06/05/delete-azure-vnet-subnet-delegation/
-featured_image: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6a669a37-0ef5-41b3-8ea7-449552243735.png
-description: Removing Subnet delegations for an Azure VNET that might block deployments.
+featureimage: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6a669a37-0ef5-41b3-8ea7-449552243735.png
+summary: Removing Subnet delegations for an Azure VNET that might block deployments.
 meta_image: https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6a669a37-0ef5-41b3-8ea7-449552243735.png
 
 categories: 

@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2021-12-30T10:00:00+00:00
 url: /2021/12/30/digitalocean-kubernetes-challenge-gitops-argo-tekton
-description: I attempt to complete the DigitalOcean Kubernetes Challenge and deploy a GitOps CI/CD solution using Tekton and Argo CD
-featured_image: https://i.sathyabh.at/ss/dok8s/argo.png
+summary: I attempt to complete the DigitalOcean Kubernetes Challenge and deploy a GitOps CI/CD solution using Tekton and Argo CD
+featureimage: https://i.sathyabh.at/ss/dok8s/argo.png
 meta_image: https://i.sathyabh.at/ss/dok8s/argo.png
 categories:
   - DevOps

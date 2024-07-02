@@ -13,7 +13,6 @@ tags:
 ---
 By now, you must've heard of Ubiquity. If not, well read on! 
 
-<link rel="commands" href="https://sathyasays.com/wp-content/lincr.js" name="Lincr It!" />
 Ubiquity is an add-on to Mozilla's extremely popular Firefox browser. Ubiquity allows you to do things - say search for something, get the latest weather updates,  book reviews, so on and so forth, just by typing the commands into the Ubiquity input box - rather than by going over to address bar, typing the URL for each individual site, etc. Now most people fear by the word - "commands" - OHHH! will it be cryptic, confusing? Well, NO! Rather than me explaining, just have a look at video above
 
  
@@ -26,4 +25,4 @@ If you wish to Lincr, just hit Ubiquity shortcut key, and type `lincr (<url to b
 
 So if you find this useful just subscribe to it, and drop a comment here!
 
- [1]: https://lin.cr/
+ [1]: https://web.archive.org/web/20090330162409/http://lin.cr:80/

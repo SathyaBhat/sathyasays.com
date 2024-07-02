@@ -4,8 +4,8 @@ author: Sathyajith Bhat
 type: post
 date: 2022-01-30
 url: /2022/01/30/polywork
-description: With Stack Overflow jobs & Developer Story being sunset, Polywork just might be the site to replace it.
-featured_image: https://i.sathyabh.at/ss/polywork/polywork.png
+summary: With Stack Overflow jobs & Developer Story being sunset, Polywork just might be the site to replace it.
+featureimage: https://i.sathyabh.at/ss/polywork/polywork.png
 meta_image: https://i.sathyabh.at/ss/polywork/polywork.png
 categories:
   - Opinions

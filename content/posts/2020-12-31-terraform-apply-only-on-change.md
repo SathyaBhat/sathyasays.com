@@ -4,7 +4,7 @@ author: Sathyajith Bhat
 type: post
 date: 2020-12-31T00:00:00+00:00
 url: /2020/12/31/terraform-apply-only-on-change
-description: This post explains Terraform's exit codes in detail and how you can use them to skip a terraform apply when no changes are needed.
+summary: This post explains Terraform's exit codes in detail and how you can use them to skip a terraform apply when no changes are needed.
 categories:
   - "Tips & How-To's"
 tags:
