@@ -77,7 +77,7 @@ networks:
 There are a couple of changes I have made from the example Docker compose config files:
 
 * There are no ports published - that is because I use Caddy as the reverse proxy, and Caddy routes the requests to the OwnTrack containers since they're all part of a custom Docker bridge network.
-* ~~~OwnTracks requires that an MQTT broker be present else it just quits. So even though you may not decide to use the MQTT broker endpoint, it has to be running else the Recorder fails to start. On the nice side, Mosquitto barely consumes any resources so it shouldn't be too much of a bother~~~. OwnTracks maintainers [corrected me](https://mastodon.social/@owntracks@fosstodon.org/112779454981041563) and mention that the Recorder does *not* require MQTT; `--port 0` disables the check. 
+* ~~OwnTracks requires that an MQTT broker be present else it just quits. So even though you may not decide to use the MQTT broker endpoint, it has to be running else the Recorder fails to start. On the nice side, Mosquitto barely consumes any resources so it shouldn't be too much of a bother~~. OwnTracks maintainers [corrected me](https://mastodon.social/@owntracks@fosstodon.org/112779454981041563) and mention that the Recorder does *not* require MQTT; `--port 0` disables the check. 
 * I make use of bind mounts to store the data instead of Docker Volumes. 
 * `sanctuary` is the external custom Docker bridge network that is attached to all the containers that are accessible by Caddy.
 * The mqtt broker doesn't have any auth configured, I am fine with this - you'll have to change this according to your needs.
