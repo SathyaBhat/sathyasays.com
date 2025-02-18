@@ -8,14 +8,12 @@ summary: Looking to find an alternative to Google Maps Timeline? OwnTracks is a 
 featureimage: https://i.sathyabh.at/sb/owntracks/owntracks-logo.svg
 categories:
   - Self-Hosting
-tags:
-  - owntracks
-  - google maps
+draft: true
 ---
 
-You may have seen a bunch of nice people posting a list of their “default apps” on their respective blogs. I had meant to do a 2023 edition of this, but never got around it — my posting frequency in general on this blog was quite low in 2024. I’m determined to change that in 2025, so I plan to post a lot more frequently on Nuclear Bits starting today. Here’s my list of default apps that I used in 2024. A detailed wrirteup of the software and apps I use is available on the ‘Stuff I Use‘ page.
+I say this post on [Preshit's blog](https://nuclearbits.com/my-default-apps-2024/) and I've been meaning to do something similar so I figured I'll get on it. Here's a list of apps that I use.
 
-Adblocker — Adguard
+Adblocker — Adguard running on my [NAS](https://sathyabh.at/nas)
 Bookmarks — Raindrop.io
 Browser — Arc
 
