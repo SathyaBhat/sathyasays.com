@@ -23,7 +23,7 @@ The e-mail filter at my work place mail servers can be a little overzealous and 
 
 Imagine my surprise when I couldn't find the option to save the attachment. As a workaround, I had to open the browser, load my Google Apps page, switch to basic HTML view & then proceed to save it. Yeesh. What a pain.  Below tip works well.
 
-> [How To Save Gmail Attachments in Android | Pallab dot Net][1]. Save my Attach [&#8230;] a tiny app that requires zero-configuration, and works beautifully. After you have installed this app, just tap the preview button as usual. A dialogue box will pop up asking you to choose an app to preview the file with. Select Save my Attach from the list, and you will be able to download the attachment.
+> [How To Save Gmail Attachments in Android | Pallab dot Net][1]. Save my Attach [...] a tiny app that requires zero-configuration, and works beautifully. After you have installed this app, just tap the preview button as usual. A dialogue box will pop up asking you to choose an app to preview the file with. Select Save my Attach from the list, and you will be able to download the attachment.
 
 <a title="Save my attach" href="https://u.sbhat.me/gvPypL" target="_blank">Android Market Link to Save My Attach</a>
 

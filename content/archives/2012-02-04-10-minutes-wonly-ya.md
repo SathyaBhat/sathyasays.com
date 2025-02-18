@@ -44,7 +44,7 @@ Talking about web conferences, <a href="https://news.ycombinator.com/item?id=354
 >   * James calls in via a VOIP connection from India, introducing a slight delay. "Hello?" "Hellohello" "Hi James, can-" "Hello" "Hi James, we are-" "Hello, hi yes-" "Hi James-"
 >   * Dave joins from the airport. According to the PA, someone named Janice needs to report to the ticket desk.
 >   * Mike has apparently set his cell phone ringer volume to "over 9000" and has placed it next to his mic.
->   * "Can you see my screen?" "No". "How about now?" -cue pictures of cats- "Yes but I think you have shared the wrong monitor." "How about now?" -cue spreadsheet- "Yes." -cue scrolling that the video broadcast can't keep up with- "Now if you can see here, here and here&#8230;"
+>   * "Can you see my screen?" "No". "How about now?" -cue pictures of cats- "Yes but I think you have shared the wrong monitor." "How about now?" -cue spreadsheet- "Yes." -cue scrolling that the video broadcast can't keep up with- "Now if you can see here, here and here..."
 >   * Mass meetings are the funniest. During one surreal leadership presentation where hundreds of people joined via a web meeting and many more were present in person, someone forgot to lock down presenter rights, and people kept drawing on the slides.
 
 [Tim Stone][1]&#8216;s addition:
