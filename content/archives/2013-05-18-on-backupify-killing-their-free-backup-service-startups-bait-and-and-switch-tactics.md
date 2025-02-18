@@ -1,5 +1,5 @@
 ---
-title: 'On Backupify killing their free backup service & online services’ bait and and switch tactics'
+title: "On Backupify killing their free backup service & online services’ bait and and switch tactics"
 author: Sathyajith Bhat
 type: post
 date: 2013-05-18T06:03:18+00:00
@@ -8,14 +8,14 @@ categories:
   - Opinions
 tags:
   - applications
-
 ---
+
 Long ago when Backupify said they were going to offer their service for free, I knew it was too good to be true and weren't going to last long. Fast forward today, they mention they're going to not only kill their free twitter backup service, but also wipe out data of their existing free users.
 
 > Dear Customer,
-> 
+>
 > We are writing to let you know that we are discontinuing the current TweetBackup service.
-> 
+>
 > Your TweetBackup account will continue to back up for the next 30 days, until June 13th. Access to the service, and your data, will be disabled on June 28th. You will have the full 45 days to export any data. Please visit our Tweetbackup service shutdown [FAQs][1] answers to common questions, or you can also [contact support][2] directly with your questions.
 
 Yeah, let me just quote from their blog when they announced their free service:

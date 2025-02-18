@@ -14,7 +14,7 @@ tags:
 ---
 > It seems Oracle is hellbent on destroying whatever good Sun had done to the Open Source Ecosystem. The latest product to get the axe seems to be none other than the Flagship Virtualization program xVM VirtualBox.
 > 
-> [&#8230;.]
+> [....]
 > 
 > All tests show that VirtualBox 3.2 lacks any semblance of stability, crashing any operating system running on it randomly. VirtualBox 3.1.8, using the binary-only release for Linux, works like a charm. It is also apparent that VirtualBox 3.2.6 is a lot slower and sometimes unresponsive, as compared to version 3.1.8.
 > 
