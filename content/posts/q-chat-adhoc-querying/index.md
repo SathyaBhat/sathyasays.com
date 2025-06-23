@@ -5,7 +5,7 @@ type: post
 date: 2025-06-23
 url: /amazon-q-developer-chat-adhoc-querying/
 summary: Tired of wrangling JSON blobs representing AWS resources? Amazon Q Developer Chat can help!
-featureimage: https://i.sathyabh.at/sb/owntracks/owntracks-logo.svg
+featureimage: https://i.sathyabh.at/ss/amazon-q-logo.svg
 categories:
   - GenAI
 tags:
@@ -16,7 +16,7 @@ tags:
 
 Amazon Q is Amazon's generative AI service. Amazon Q comes in various flavours, all (unfortunately) having the same branding as "Amazon Q". I say unfortunately because all of my experience in trying to use Amazon Q in the AWS Console has been pretty bad.
 
-While Q in AWS Console has been pretty bad, the CLI experience using [Amazon Q Developer](https://github.com/aws/amazon-q-developer-cli) has been pretty good. A few months back, I saw a post from [Nathan Peck](https://www.linkedin.com/in/nathankpeck/) talking about Amazon Q Developer's agentic chat feature. I was skeptical at first but a few queries later, I was covinced. Since then I've been using it pretty regularly and been quite happy with it. I talk about a few of the ways of how I have been using it.
+While Q in AWS Console has been pretty bad, the CLI experience using [Amazon Q Developer](https://github.com/aws/amazon-q-developer-cli) has been pretty good. A few months back, I saw a post from [Nathan Peck](https://www.linkedin.com/in/nathankpeck/) talking about Amazon Q Developer's [agentic chat feature](https://www.linkedin.com/posts/nathankpeck_amazon-q-developer-cli-has-a-powerful-new-activity-7303438958904889344-y0Pl). I was skeptical at first but a few queries later, I was covinced. Since then I've been using it pretty regularly and been quite happy with it. I talk about a few of the ways of how I have been using it.
 
 Amazon Q Developer Chat is a conversational interface that allows you to interact with your AWS resources using natural language. It uses Amazon Q's generative AI capabilities to understand your queries and provide accurate responses.
 
