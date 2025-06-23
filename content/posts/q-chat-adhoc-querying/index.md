@@ -5,7 +5,7 @@ type: post
 date: 2025-06-23
 url: /amazon-q-developer-chat-adhoc-querying/
 summary: Tired of wrangling JSON blobs representing AWS resources? Amazon Q Developer Chat can help!
-featureimage: https://i.sathyabh.at/ss/amazon-q-logo.svg
+featureimage: https://i.sathyabh.at/ss/amazon-q-logo.jpg
 categories:
   - GenAI
 tags:
