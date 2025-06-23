@@ -11,6 +11,7 @@ categories:
 tags:
   - owntracks
   - google maps
+draft: true
 ---
 
 You may have seen a bunch of nice people posting a list of their “default apps” on their respective blogs. I had meant to do a 2023 edition of this, but never got around it — my posting frequency in general on this blog was quite low in 2024. I’m determined to change that in 2025, so I plan to post a lot more frequently on Nuclear Bits starting today. Here’s my list of default apps that I used in 2024. A detailed wrirteup of the software and apps I use is available on the ‘Stuff I Use‘ page.
