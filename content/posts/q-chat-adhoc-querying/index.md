@@ -131,12 +131,12 @@ Total Storage Cost: $11,128.88/month
 • **Storage**: $11,128.88 (91.1%)
 ```
 
-> This is a storage-heavy workload with nearly 117 TB of attached GP3 storage across 20 volumes. The storage costs dominate due to the large volume sizes and high IOPS provisioning (16,000 IOPS per data volume). This appears to be a database server given the MSSQL application tag and multiple data volumes configuration.
+> This is a storage-heavy workload with nearly 117 TB of attached GP3 storage across 20 volumes. The storage costs dominate due to the large volume sizes and high IOPS provisioning (16,000 IOPS per data volume). This appears to be a database server given the application tag and multiple data volumes configuration.
 
 > For more precise pricing estimates, I recommend using the [AWS Pricing Calculator](https://calculator.aws) as prices can vary based on specific configurations and any applicable discounts or reserved instance pricing.
 
 
-Not only did it give me a summary of the costs, it also brokedown the costs by category (specifically asked for in the prompt), it also surfaced details that I did not know (tenancy being dedicated) and gave a good summary of the instance based on its spec and the tags associated with it.
+Not only did it give me a summary of the costs, it also broke down the costs by category (specifically asked for in the prompt), it also surfaced details that I did not know (tenancy being dedicated) and gave a good summary of the instance based on its spec and the tags associated with it.
 
 Here's another case of Q Developer Chat coming to the rescue - I wanted to check if the EBS volume spec on one instance matched that on the other instance. I gave Amazon Q a spin:
 
