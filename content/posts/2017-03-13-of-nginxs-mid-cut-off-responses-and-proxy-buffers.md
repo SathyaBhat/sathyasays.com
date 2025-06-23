@@ -8,12 +8,9 @@ categories:
   - DevOps
 tags:
   - nginx
-
-
 ---
+
 Among the services I look after, the biggest and high-profile - is the user facing website. The website is your bog-standard typical frontend(powered by Express/Angular) which fetches data via an API which is powered by the backend(built on Rails). Typical flow is that Express receives the request from the browser, makes a request to the backend which is then served using Rails API via nginx which acts as the reverse proxy.
-
-
 
 Couple of weeks back, the team received a support request that one specific route from an internal webapp(of similar architecture as the user facing website above) was throwing an 500 Internal Server error. Now in our case, a 500 server error is typically a sign that the backend was not able to complete the request successfully. I took a look at the application logs and the responses were all proper, nothing out of the ordinary. The error would come intermittently and since it was not a route that was heavily in use, I opted to have a deferred look at it.
 
@@ -21,10 +18,10 @@ A few days ago, the same problem manifested again but on a different route(this 
 
 I did some basic analysis:
 
-  * The DB returns the data properly
-  * Rails objects are correctly populated
-  * The API returns the data
-  * Browser console didn't show any errors
+- The DB returns the data properly
+- Rails objects are correctly populated
+- The API returns the data
+- Browser console didn't show any errors
 
 So what was it that was causing the problem? I tried to make the same request with cURL and this time, I noticed that the API's JSON response was truncated and not complete. This was something I didn't notice earlier. Since it's nginx which is doing the last-mile delivery, I checked nginx error logs there were a few of these:
 
@@ -38,9 +35,8 @@ A small fix to increase the buffer size, a deploy via Chef and we're all good ag
 
 Some more reading:
 
-  * <a href="https://stackoverflow.com/questions/10557927/server-response-gets-cut-off-half-way-through" target="_blank" rel="noopener noreferrer">Stack Overflow</a>
-  * <a href="https://forum.nginx.org/read.php?2,223845,223929#msg-223929" target="_blank" rel="noopener noreferrer">Nginx Forums: Is proxy_buffering needed?</a>
-  * <a href="https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_buffering" target="_blank" rel="noopener noreferrer">Nginx Documentation: Proxy Buffering</a>
+- <a href="https://stackoverflow.com/questions/10557927/server-response-gets-cut-off-half-way-through" target="_blank" rel="noopener noreferrer">Stack Overflow</a>
+- <a href="https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_buffering" target="_blank" rel="noopener noreferrer">Nginx Documentation: Proxy Buffering</a>
 
 Moral of the story: know your platform defaults and keep revisiting your configuration settings, especially if they weren't done by you/done long back!
 

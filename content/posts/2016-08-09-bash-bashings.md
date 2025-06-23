@@ -17,7 +17,7 @@ Since <a href="https://sathyabh.at/2016/07/12/in-with-the-new-job/" target="_bla
 
 
 
-This should give an idea. After experimenting with eval, pushd/popd, bash subroutines and some more things, both the Tech Architect and me did a facepalm when we realized&#8230; the script does a cd at start we really didn't need that chaining.
+This should give an idea. After experimenting with eval, pushd/popd, bash subroutines and some more things, both the Tech Architect and me did a facepalm when we realized... the script does a cd at start we really didn't need that chaining.
 
 &nbsp;
 
