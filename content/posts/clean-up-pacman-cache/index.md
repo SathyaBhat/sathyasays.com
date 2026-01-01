@@ -7,7 +7,7 @@ url = "/clean-up-pacman-cache-automatically-on-arch-linux/"
 summary = "Automatically clean up pacman cache on Arch Linux"
 categories = ["Linux", "Arch Linux", "Pacman"]
 tags = ["linux", "arch", "pacman", "pacman-cache", "paccache"]
-featureimage = https://i.sathyabh.at/ss/archlinux-logo.png
+featureimage = "https://i.sathyabh.at/ss/archlinux-logo.png"
 +++
 
 I use Arch, btw. The [pacman](https://pacman.archlinux.page/) [package manager](https://en.wikipedia.org/wiki/Package_manager "wikipedia:Package manager") is one of the major unique features of [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux "Arch Linux"). pacman keeps the system up-to-date by synchronizing package lists with the master server. This model also allows the user to download/install packages with a simple command, complete with all required dependencies.
