@@ -44,3 +44,7 @@ Removing old uninstalled packages...
 
 ==> finished: 23 packages removed (disk space saved: 4.24 MiB)
 ```
+
+If you're not happy with the default configuration, you can edit the conf file located in `/etc/paccache-hook.conf` to change the settings to your liking. This works with a pacman helper like `yay` as well, I haven't tried with `paru` yet.
+
+I hope this helps.
