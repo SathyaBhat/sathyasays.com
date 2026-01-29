@@ -5,7 +5,7 @@ type = "post"
 date = 2026-01-29
 url = "its-always-dns-part-n"
 summary = "Here's how a LAN cable swap broke my Internet connection."
-categories = ["Linux", "Arch Linux", "Pacman"]
+categories = ["Linux"]
 tags = ["linux", "nas", "dns", "networking" ]
 featureimage = "https://i.sathyabh.at/ss/thumb-dns.jpg"
 +++
