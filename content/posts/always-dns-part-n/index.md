@@ -2,7 +2,7 @@
 title = "It's Always DNS Part N - Incorrect LAN Interface Edition"
 author = "Sathyajith Bhat"
 type = "post"
-date = 2025-01-29
+date = 2026-01-29
 url = "its-always-dns-part-n"
 summary = "Here's how a LAN cable swap broke my Internet connection."
 categories = ["Linux", "Arch Linux", "Pacman"]
