@@ -12,7 +12,7 @@ featureimage = "https://i.sathyabh.at/ss/thumb-dns.jpg"
 
 I've been running [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) on my NAS since [about three years now](http://sathyabh.at/nas). It's been running pretty smoothly all this while. Recently, I moved houses and as part of the move, I had to unplug everything and then replug everything back together. After putting everything back together, everything seemed to work okay. Phew, yay! Move complete, no troubles.
 
-One of the rooms was designated as Jo's office space, and that was the room where the [NBN][^1] [NTD][^2] was placed. Jo asked if her desktop could be hardwired via the Ethernet cable, instead of WiFi, and it made sense - I could draw the cable from the router directly to her desktop.
+One of the rooms was designated as Jo's office space, and that was the room where the NBN[^1] NTD[^2] was placed. Jo asked if her desktop could be hardwired via the Ethernet cable, instead of WiFi, and it made sense - I could draw the cable from the router directly to her desktop.
 
 The spare LAN cable that I had was too short to reach her desktop. The LAN cable from the router into my NAS(which was placed right next to the router) is pretty long and would be sufficient to connect directly to her desktop. I swapped the two cables - replaced the LAN cable going into the NAS with the shorter one, while plugging in the longer one into her desktop. Once again, everything seemed to be okay. Things were working fine.
 
@@ -24,5 +24,5 @@ For most of the devices in my home, they are configured with the NAS IP set to t
 
 :-)
 
-[^1]: National Broadband Network
-[^2]: Network Termination Device
+[^1]: [National Broadband Network](https://www.infrastructure.gov.au/media-communications/internet/national-broadband-network) - Australia's national wholesale open-access data network.
+[^2]: [Network Termination Device](https://en.wikipedia.org/wiki/Network_Termination_Device_(NBN)) - A network interface device used to connect access the NBN
