@@ -50,6 +50,8 @@ When: Mon Nov 30 4:30 PM, Caesars Forum (Level 1, Forum 120, Content Hub Blue Th
 
 With the emphasis on agentic engineering, there are a lot of sessions that focus on reliability engineering with AI agents. Here are my recommendations for sessions to attend:
 
+All of these sessions, including every repeat slot, are in a [shared list on the re:Invent planner](https://reinvent-planner.cloud/aws/reinvent/2026/sessions/shared/?shareId=1f5e7038-02fd-40f8-96e2-37465d1c015a). You can also add them to your calendar with the [iCal feed](https://reinvent-planner.cloud/api/list/shared/1f5e7038-02fd-40f8-96e2-37465d1c015a/ical).
+
 ### Workshops
 
 [IND327 | Build a team of agents: From incident diagnosis to safe remediation](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?shortId=IND327)
@@ -173,3 +175,4 @@ When: Thu Dec 3 10:30 AM, Caesars Forum (Forum 120, Light Blue Theater)
 When: Wed Dec 2 1:30 PM, MGM (Chairman's 363, Light Blue Theater)
 > Reactive incident response grows more expensive as environments scale. AWS Well-Architected Agent shifts resilience and security from periodic review to continuous, automated assessment. Its agentic reasoning identifies single points of failure, recovery gaps, and vulnerabilities across 100+ services, ranking findings by workload criticality and business goals. Crucially, each recommendation includes cross-pillar trade-off analysis - showing cost and performance implications — so you improve resilience and security without unintended consequences elsewhere. Walk away able to catch risks before they become incidents.
 
+Shoutout to fellow Hero Raphael Manke for building the _unofficial_ re:invent 2026 session catalog with a search engine and filters. You can find all my recommendations in [this shared list](https://reinvent-planner.cloud/aws/reinvent/2026/sessions/shared/?shareId=1f5e7038-02fd-40f8-96e2-37465d1c015a), or add them to your calendar with the [iCal feed](https://reinvent-planner.cloud/api/list/shared/1f5e7038-02fd-40f8-96e2-37465d1c015a/ical).
