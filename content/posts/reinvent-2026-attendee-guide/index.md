@@ -2,11 +2,11 @@
 title = "The re:Invent 2026 Attendee Guide: Agentic Reliability Engineering"
 author = "Sathyajith Bhat"
 type = "post"
-date = 2026-11-12
+date = 2026-11-23
 url = "/reinvent-2026-attendee-guide-agentic-reliability-engineering/"
 summary = "Here's my suggestions for a few sessions at re:Invent 2026 focusing on Agentic Reliability Engineering"
 categories = ["AWS"]
-tags = ["aws", "reinvent", "agentic", "reliability", "engineering"]
+tags = ["aws", "reinvent", "agentic", "reliability-engineering"]
 +++
 
 [AWS re:Invent 2026 is here](https://aws.amazon.com/events/reinvent/) and runs from Nov 30 to Dec 4. I've been publishing re:Invent attendee guides for years, and this one is no different. Given all the emphasis on _agentic_ engineering, this guide focuses on reliability engineering with emphasis on AI agents to do reliability work: incident response, remediation, disaster recovery, observability, and making agents themselves resilient. Sessions marked with a repeat have more than one slot. While all sessions are already booked, a good chunk of them are reseved for walk-ups, so join the walk-up line if seats show as unavailable.
